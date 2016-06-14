@@ -18,6 +18,7 @@ Status: open = not analyzed / tested
 The line "*** *** stop check ..." only shows up to which file I currently testing / analysis
 have performed. Note: currently I'm on the list sequentially all still with status "open"
 selected entries by (but after this line are quite already generations / analyzes done).
+
 =========================================================================================================================================================
 Filename                                           | status         | SVN subdirectory               | Notes
 ---------------------------------------------------+----------------+--------------------------------+---------------------------------------------------
