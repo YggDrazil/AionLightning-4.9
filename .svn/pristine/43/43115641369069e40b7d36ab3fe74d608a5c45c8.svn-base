@@ -1,0 +1,26 @@
+# einige Konfigurations-Vorgaben, bitte entsprechend eintragen
+#
+# RootPathSvn=<vorgabe>      - Root-Verzeichnis des SVN angeben
+# Beispiel:                    RootPathSvn=C:\AionEmuSvn
+#
+RootPathSvn=
+#
+# RootPathData=<vorgabe>     - Root-Verzeichnis zum Root-Verzeichnis "data" der extrahierten Client-Dateien
+#
+# in diesem Verzeichnis müssten u.a. dann auch die Unterverzeichnisse "npcs", "items", "strings" etc. existieren
+# Beispiel:                    RootPathData=C:\aionExtract\data
+#
+RootPathData=
+#
+# RootPathLevels=<vorgabe>   - Root-Verzeichnis zum Root-Verzeichnis "data" der extrahierten Client-Dateien
+#
+# in diesem Verzeichnis müssten u.a. dann auch die Unterverzeichnisse "npcs", "items", "strings" etc. existieren
+# Beispiel:                    RootPathLevels=C:\aionExtract\levels
+RootPathLevels=
+#
+# PathToPsStrings=<vorgabe>  - Angabe zu dem String-Verzeichnis im PacketSamurai
+#
+# in diesem Verzeichnis sollten dann alle client_string_...xml-Dateien existieren
+#
+# Beispiel:                    PathToPsStrings=C:\AionEmuSvn\trunk\AL-Tools\PacketSamurai_4.9\dist\data\client_strings
+PathToPsStrings=

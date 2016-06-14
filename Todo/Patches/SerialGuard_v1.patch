@@ -1,0 +1,1398 @@
+Index: data/static_data/serial_guard/serial_guard.xml
+===================================================================
+--- data/static_data/serial_guard/serial_guard.xml	(nonexistent)
++++ data/static_data/serial_guard/serial_guard.xml	(working copy)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<serial_guards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="serial_guard.xsd">
++    <guard_rank_restriction id="1" race="ELYOS" rank_num="0" mark_on_map="0" show_title="false"/>
++	<guard_rank_restriction id="2" race="ELYOS" rank_num="1" mark_on_map="3" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="20"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="3" race="ELYOS" rank_num="2" mark_on_map="2" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="40"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="4" race="ELYOS" rank_num="3" mark_on_map="1" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60"/>
++    </guard_rank_restriction>
++
++    <guard_rank_restriction id="5" race="ASMODIANS" rank_num="0" mark_on_map="0" show_title="false"/>
++	<guard_rank_restriction id="6" race="ASMODIANS" rank_num="1" mark_on_map="3" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="20"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="7" race="ASMODIANS" rank_num="2" mark_on_map="2" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="40"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="8" race="ASMODIANS" rank_num="3" mark_on_map="1" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60"/>
++    </guard_rank_restriction>
++
++	<!-- <guard_rank_restriction id="9" race="ELYOS" show_title="1">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="10" race="ASMODIANS" show_title="1">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60"/>
++    </guard_rank_restriction> -->
++</serial_guards>
+\ No newline at end of file
+Index: data/static_data/serial_guard/serial_guard.xsd
+===================================================================
+--- data/static_data/serial_guard/serial_guard.xsd	(nonexistent)
++++ data/static_data/serial_guard/serial_guard.xsd	(working copy)
+@@ -0,0 +1,27 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:jxb="http://java.sun.com/xml/ns/jaxb" jxb:version="2.1">
++	<xs:include schemaLocation="../modifiers.xsd"/>
++	<xs:include schemaLocation="../global_types.xsd"/>
++	<xs:element name="serial_guards">
++		<xs:complexType>
++			<xs:sequence>
++				<xs:element name="guard_rank_restriction" type="GuardRankRestriction" minOccurs="0" maxOccurs="unbounded"/>
++			</xs:sequence>
++		</xs:complexType>
++	</xs:element>
++	<xs:complexType name="GuardRankRestriction">
++		<xs:sequence>
++			<xs:element name="guard_penalty_attr" type="GuardRankPenaltyAttr" minOccurs="0" maxOccurs="unbounded"/>
++		</xs:sequence>
++		<xs:attribute name="id" type="xs:int" use="required"/>
++		<xs:attribute name="race" type="Race" use="required"/>
++        <xs:attribute name="rank_num" type="xs:int" use="required"/>
++        <xs:attribute name="mark_on_map" type="xs:int" use="required"/>
++        <xs:attribute name="show_title" type="xs:boolean" use="required"/>
++	</xs:complexType>
++	<xs:complexType name="GuardRankPenaltyAttr">
++		<xs:attribute name="stat" type="modifiersenum" use="required"/>
++		<xs:attribute name="func" type="StatFunc" use="required"/>
++		<xs:attribute name="value" type="xs:int" use="required"/>
++	</xs:complexType>
++</xs:schema>
+\ No newline at end of file
+Index: data/static_data/serial_guard/serial_guard.xml
+===================================================================
+--- data/static_data/serial_guard/serial_guard.xml	(nonexistent)
++++ data/static_data/serial_guard/serial_guard.xml	(working copy)
+@@ -0,0 +1,31 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<serial_guards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="serial_guard.xsd">
++    <guard_rank_restriction id="1" race="ELYOS" rank_num="0" mark_on_map="0" show_title="false"/>
++	<guard_rank_restriction id="2" race="ELYOS" rank_num="1" mark_on_map="3" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="20"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="3" race="ELYOS" rank_num="2" mark_on_map="2" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="40"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="4" race="ELYOS" rank_num="3" mark_on_map="1" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60"/>
++    </guard_rank_restriction>
++
++    <guard_rank_restriction id="5" race="ASMODIANS" rank_num="0" mark_on_map="0" show_title="false"/>
++	<guard_rank_restriction id="6" race="ASMODIANS" rank_num="1" mark_on_map="3" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="20"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="7" race="ASMODIANS" rank_num="2" mark_on_map="2" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="40"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="8" race="ASMODIANS" rank_num="3" mark_on_map="1" show_title="true">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60"/>
++    </guard_rank_restriction>
++
++	<!-- <guard_rank_restriction id="9" race="ELYOS" show_title="1">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60"/>
++    </guard_rank_restriction>
++	<guard_rank_restriction id="10" race="ASMODIANS" show_title="1">
++        <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60"/>
++    </guard_rank_restriction> -->
++</serial_guards>
+\ No newline at end of file
+Index: data/static_data/serial_guard/serial_guard.xsd
+===================================================================
+--- data/static_data/serial_guard/serial_guard.xsd	(nonexistent)
++++ data/static_data/serial_guard/serial_guard.xsd	(working copy)
+@@ -0,0 +1,27 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:jxb="http://java.sun.com/xml/ns/jaxb" jxb:version="2.1">
++	<xs:include schemaLocation="../modifiers.xsd"/>
++	<xs:include schemaLocation="../global_types.xsd"/>
++	<xs:element name="serial_guards">
++		<xs:complexType>
++			<xs:sequence>
++				<xs:element name="guard_rank_restriction" type="GuardRankRestriction" minOccurs="0" maxOccurs="unbounded"/>
++			</xs:sequence>
++		</xs:complexType>
++	</xs:element>
++	<xs:complexType name="GuardRankRestriction">
++		<xs:sequence>
++			<xs:element name="guard_penalty_attr" type="GuardRankPenaltyAttr" minOccurs="0" maxOccurs="unbounded"/>
++		</xs:sequence>
++		<xs:attribute name="id" type="xs:int" use="required"/>
++		<xs:attribute name="race" type="Race" use="required"/>
++        <xs:attribute name="rank_num" type="xs:int" use="required"/>
++        <xs:attribute name="mark_on_map" type="xs:int" use="required"/>
++        <xs:attribute name="show_title" type="xs:boolean" use="required"/>
++	</xs:complexType>
++	<xs:complexType name="GuardRankPenaltyAttr">
++		<xs:attribute name="stat" type="modifiersenum" use="required"/>
++		<xs:attribute name="func" type="StatFunc" use="required"/>
++		<xs:attribute name="value" type="xs:int" use="required"/>
++	</xs:complexType>
++</xs:schema>
+\ No newline at end of file
+Index: data/static_data/static_data.xml
+===================================================================
+--- data/static_data/static_data.xml	(revision 103)
++++ data/static_data/static_data.xml	(working copy)
+@@ -168,6 +168,7 @@
+     <import file="abyss_race_bonus/abyss_race_bonus.xml"/>
+     <import file="base/base_locations.xml"/>
+     <import file="beritra/beritra_invasion.xml"/>
++    <import file="serial_guard/serial_guard.xml"/>
+     <import file="serial_killer/serial_killer.xml"/>
+     <import file="skills/skill_charge.xml"/>
+     <import file="items/item_purifications.xml"/>
+Index: data/static_data/static_data.xsd
+===================================================================
+--- data/static_data/static_data.xsd	(revision 103)
++++ data/static_data/static_data.xsd	(working copy)
+@@ -80,6 +80,7 @@
+     <xs:include schemaLocation="abyss_race_bonus/abyss_race_bonus.xsd"/>
+     <xs:include schemaLocation="base/base_locations.xsd"/>
+     <xs:include schemaLocation="beritra/beritra_invasion.xsd"/>
++    <xs:include schemaLocation="serial_guard/serial_guard.xsd"/>
+     <xs:include schemaLocation="serial_killer/serial_killer.xsd"/>
+     <xs:include schemaLocation="skills/skill_charge.xsd"/>
+     <xs:include schemaLocation="items/item_purifications.xsd"/>
+@@ -177,6 +178,7 @@
+                 <xs:element ref="abyss_race_bonuses" minOccurs="0"/>
+                 <xs:element ref="base_locations" minOccurs="0"/>
+                 <xs:element ref="beritra_invasion" minOccurs="0"/>
++                <xs:element ref="serial_guards" minOccurs="0"/>
+                 <xs:element ref="serial_killers" minOccurs="0"/>
+                 <xs:element ref="skill_charge" minOccurs="0"/>
+                 <xs:element ref="item_purifications" minOccurs="0"/>
+Index: src/com/aionemu/gameserver/configs/main/CustomConfig.java
+===================================================================
+--- src/com/aionemu/gameserver/configs/main/CustomConfig.java	(revision 103)
++++ src/com/aionemu/gameserver/configs/main/CustomConfig.java	(working copy)
+@@ -288,6 +288,23 @@
+     @Property(key = "gameserver.vortex.duration", defaultValue = "1")
+     public static int VORTEX_DURATION;
+     /**
++     * Serial Guard System
++     */
++    @Property(key = "gameserver.serial.guard.enable", defaultValue="true")
++    public static boolean SERIAL_GUARD_ENABLED;
++    @Property(key = "gameserver.serial.guard.handled.worlds", defaultValue="")
++    public static String SERIAL_GUARD_WORLDS;
++    @Property(key = "gameserver.serial.guard.kills.refresh", defaultValue="5")
++    public static int SERIAL_GUARD_REFRESH;
++    @Property(key = "gameserver.serial.guard.kills.decrease", defaultValue="1")
++    public static int SERIAL_GUARD_DECREASE;
++    @Property(key = "gameserver.serial.guard.level.diff", defaultValue="10")
++    public static int SERIAL_GUARD_LEVEL_DIFF;
++    @Property(key = "gameserver.serial.guard.1st.rank.kills", defaultValue="25")
++    public static int GUARD_1ST_RANK_KILLS;
++    @Property(key = "gameserver.serial.guard.2nd.rank.kills", defaultValue="50")
++    public static int GUARD_2ND_RANK_KILLS;
++    /**
+      * Serial Killer System
+      */
+     @Property(key = "gameserver.serialkiller.enable", defaultValue = "true")
+Index: src/com/aionemu/gameserver/controllers/PlayerController.java
+===================================================================
+--- src/com/aionemu/gameserver/controllers/PlayerController.java	(revision 103)
++++ src/com/aionemu/gameserver/controllers/PlayerController.java	(working copy)
+@@ -95,6 +95,7 @@
+ import com.aionemu.gameserver.services.LegionService;
+ import com.aionemu.gameserver.services.PvpService;
+ import com.aionemu.gameserver.services.QuestService;
++import com.aionemu.gameserver.services.SerialGuardService;
+ import com.aionemu.gameserver.services.SerialKillerService;
+ import com.aionemu.gameserver.services.SkillLearnService;
+ import com.aionemu.gameserver.services.abyss.AbyssService;
+@@ -259,6 +260,7 @@
+ 
+     // TODO [AT] move
+     public void onLeaveWorld() {
++        SerialGuardService.getInstance().onLeaveMap(getOwner());
+         SerialKillerService.getInstance().onLeaveMap(getOwner());
+         InstanceService.onLeaveInstance(getOwner());
+     }
+Index: src/com/aionemu/gameserver/dataholders/DataManager.java
+===================================================================
+--- src/com/aionemu/gameserver/dataholders/DataManager.java	(revision 103)
++++ src/com/aionemu/gameserver/dataholders/DataManager.java	(working copy)
+@@ -110,6 +110,7 @@
+     public static ChallengeData CHALLENGE_DATA;
+     public static TownSpawnsData TOWN_SPAWNS_DATA;
+     public static AbyssRaceBonusData ABYSS_RACE_BONUS_DATA;
++    public static SerialGuardData SERIAL_GUARD_DATA;
+     public static SerialKillerData SERIAL_KILLER_DATA;
+     public static SkillChargeData SKILL_CHARGE_DATA;
+     public static ItemPurificationData ITEM_PURIFICATION_DATA;
+@@ -231,6 +232,7 @@
+         MULTI_RETURN_ITEM_DATA = data.multiReturnItemData;
+         HOTSPOT_TELEPORTER_DATA = data.hotspotTeleporterData;
+         ATREIAN_PASSPORT_DATA = data.atreianPassportData;
++        SERIAL_GUARD_DATA = data.serialGuardData;
+         SERIAL_KILLER_DATA = data.serialKillerData;
+         BASE_DATA = data.baseData;
+     	BERITRA_DATA = data.beritraData;
+Index: src/com/aionemu/gameserver/dataholders/SerialGuardData.java
+===================================================================
+--- src/com/aionemu/gameserver/dataholders/SerialGuardData.java	(nonexistent)
++++ src/com/aionemu/gameserver/dataholders/SerialGuardData.java	(working copy)
+@@ -0,0 +1,62 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.dataholders;
++
++import gnu.trove.map.hash.TIntObjectHashMap;
++
++import java.util.List;
++
++import javax.xml.bind.Unmarshaller;
++import javax.xml.bind.annotation.XmlAccessType;
++import javax.xml.bind.annotation.XmlAccessorType;
++import javax.xml.bind.annotation.XmlElement;
++import javax.xml.bind.annotation.XmlRootElement;
++import javax.xml.bind.annotation.XmlTransient;
++import javax.xml.bind.annotation.XmlType;
++
++import com.aionemu.gameserver.model.templates.serial_guard.GuardRankRestriction;
++
++@XmlAccessorType(value=XmlAccessType.FIELD)
++@XmlType(name = "", propOrder = {"guardRankRestriction"})
++@XmlRootElement(name = "serial_guards")
++public class SerialGuardData {
++
++    @XmlElement(name = "guard_rank_restriction")
++    protected List<GuardRankRestriction> guardRankRestriction;
++    @XmlTransient
++    private TIntObjectHashMap<GuardRankRestriction> templates = new TIntObjectHashMap<GuardRankRestriction>();
++
++    /**
++	 * @param u 
++     * @param parent  
++	 */
++    void afterUnmarshal(Unmarshaller u, Object parent) {
++        for (GuardRankRestriction template : guardRankRestriction) {
++            templates.put(template.getRankNum(), template);
++        }
++        guardRankRestriction.clear();
++        guardRankRestriction = null;
++    }
++
++    public int size() {
++        return templates.size();
++    }
++    
++    public GuardRankRestriction getGuardRankRestriction(int rank) {
++        return (GuardRankRestriction)templates.get(rank);
++    }
++}
+Index: src/com/aionemu/gameserver/dataholders/StaticData.java
+===================================================================
+--- src/com/aionemu/gameserver/dataholders/StaticData.java	(revision 103)
++++ src/com/aionemu/gameserver/dataholders/StaticData.java	(working copy)
+@@ -201,6 +201,8 @@
+     public HotspotTeleporterData hotspotTeleporterData;
+     @XmlElement(name = "login_events")
+     public AtreianPassportData atreianPassportData;
++    @XmlElement(name = "serial_guards")
++    public SerialGuardData serialGuardData;
+     @XmlElement(name = "serial_killers")
+     public SerialKillerData serialKillerData;
+     @XmlElement(name = "base_locations")
+@@ -309,6 +311,7 @@
+         DataManager.log.info("Loaded " + hotspotTeleporterData.size() + " hotspot templates");
+ 		DataManager.log.info("Loaded " + arcadeUpgradeData.size() + " arcade upgrade entries");
+         DataManager.log.info("Loaded " + atreianPassportData.size() + " atreian passports");
++        DataManager.log.info("Loaded " + serialGuardData.size() + " serial guard entries");
+         DataManager.log.info("Loaded " + serialKillerData.size() + " serial killer entries");
+         DataManager.log.info("Loaded " + baseData.size() + " base entries");
+     	DataManager.log.info("Loaded " + beritraData.size() + " beritra invasion entries");
+Index: src/com/aionemu/gameserver/GameServer.java
+===================================================================
+--- src/com/aionemu/gameserver/GameServer.java	(revision 103)
++++ src/com/aionemu/gameserver/GameServer.java	(working copy)
+@@ -229,6 +229,7 @@
+         if(BaseConfig.BASE_ENABLED) {
+             BaseService.getInstance().initBases();
+         }
++        SerialGuardService.getInstance().initSerialGuards();
+         SerialKillerService.getInstance().initSerialKillers();
+         DisputeLandService.getInstance().init();
+         Util.printSection("===========================");
+Index: src/com/aionemu/gameserver/model/gameobjects/player/Player.java
+===================================================================
+--- src/com/aionemu/gameserver/model/gameobjects/player/Player.java	(revision 103)
++++ src/com/aionemu/gameserver/model/gameobjects/player/Player.java	(working copy)
+@@ -92,6 +92,7 @@
+ import com.aionemu.gameserver.questEngine.model.QuestState;
+ import com.aionemu.gameserver.questEngine.model.QuestStatus;
+ import com.aionemu.gameserver.services.HousingService;
++import com.aionemu.gameserver.services.serialguards.SerialGuard;
+ import com.aionemu.gameserver.services.serialkillers.SerialKiller;
+ import com.aionemu.gameserver.skillengine.condition.ChainCondition;
+ import com.aionemu.gameserver.skillengine.effect.AbnormalState;
+@@ -254,6 +255,7 @@
+     private int portAnimation;
+     private boolean isInSprintMode;
+     private List<ActionObserver> rideObservers;
++    private SerialGuard sgList;
+     private SerialKiller skList;
+     byte housingStatus = HousingFlags.BUY_STUDIO_ALLOWED.getId();
+     private int battleReturnMap;
+@@ -317,6 +319,7 @@
+         setGameStats(new PlayerGameStats(this));
+         setLifeStats(new PlayerLifeStats(this));
+         inGameShop = new InGameShop();
++        sgList = new SerialGuard(this);
+         skList = new SerialKiller(this);
+         absStatsHolder = new AbsoluteStatOwner(this, 0);
+     }
+@@ -1564,10 +1567,18 @@
+         return houseObjectCooldownList;
+     }
+ 
++    public SerialGuard getSGInfo() {
++        return sgList;
++    }
++
+     public SerialKiller getSKInfo() {
+         return skList;
+     }
+ 
++    public void setSGInfo(SerialGuard serialGuard) {
++        sgList = serialGuard;
++    }
++
+     public void setSKInfo(SerialKiller serialKiller) {
+         skList = serialKiller;
+     }
+Index: src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankPenaltyAttr.java
+===================================================================
+--- src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankPenaltyAttr.java	(nonexistent)
++++ src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankPenaltyAttr.java	(working copy)
+@@ -0,0 +1,88 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.model.templates.serial_guard;
++
++import com.aionemu.gameserver.model.stats.container.StatEnum;
++import com.aionemu.gameserver.skillengine.change.Func;
++
++import javax.xml.bind.annotation.XmlAccessType;
++import javax.xml.bind.annotation.XmlAccessorType;
++import javax.xml.bind.annotation.XmlAttribute;
++import javax.xml.bind.annotation.XmlType;
++
++@XmlAccessorType(XmlAccessType.FIELD)
++@XmlType(name = "GuardRankPenaltyAttr")
++public class GuardRankPenaltyAttr {
++
++    @XmlAttribute(required = true)
++    protected StatEnum stat;
++    @XmlAttribute(required = true)
++    protected Func func;
++    @XmlAttribute(required = true)
++    protected int value;
++
++    /**
++     * Gets the value of the stat property.
++     *
++     * @return possible object is {@link StatEnum }
++     */
++    public StatEnum getStat() {
++        return stat;
++    }
++
++    /**
++     * Sets the value of the stat property.
++     *
++     * @param value allowed object is {@link StatEnum }
++     */
++    public void setStat(StatEnum value) {
++        this.stat = value;
++    }
++
++    /**
++     * Gets the value of the func property.
++     *
++     * @return possible object is {@link Func }
++     */
++    public Func getFunc() {
++        return func;
++    }
++
++    /**
++     * Sets the value of the func property.
++     *
++     * @param value allowed object is {@link Func }
++     */
++    public void setFunc(Func value) {
++        this.func = value;
++    }
++
++    /**
++     * Gets the value of the value property.
++     */
++    public int getValue() {
++        return value;
++    }
++
++    /**
++     * Sets the value of the value property.
++     */
++    public void setValue(int value) {
++        this.value = value;
++    }
++}
++
+Index: src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankRestriction.java
+===================================================================
+--- src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankRestriction.java	(nonexistent)
++++ src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankRestriction.java	(working copy)
+@@ -0,0 +1,81 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.model.templates.serial_guard;
++
++import java.util.ArrayList;
++import java.util.List;
++
++import javax.xml.bind.annotation.XmlAccessType;
++import javax.xml.bind.annotation.XmlAccessorType;
++import javax.xml.bind.annotation.XmlAttribute;
++import javax.xml.bind.annotation.XmlElement;
++import javax.xml.bind.annotation.XmlType;
++
++import com.aionemu.gameserver.model.Race;
++
++@XmlAccessorType(XmlAccessType.FIELD)
++@XmlType(name = "GuardRankRestriction", propOrder = {"guardpenaltyAttr"})
++public class GuardRankRestriction {
++
++    @XmlElement(name = "guard_penalty_attr")
++    protected List<GuardRankPenaltyAttr> guardPenaltyAttr;
++    @XmlAttribute(name = "id", required = true)
++    protected int id;
++    @XmlAttribute(name = "race", required = true)
++    protected Race race;
++    @XmlAttribute(name = "rank_num", required = true)
++    protected int rankNum;
++    @XmlAttribute(name = "mark_on_map", required = true)
++    protected int markonMap;
++    @XmlAttribute(name = "show_title", required = true)
++    protected boolean showTitle;    
++
++    public void setMarkonMap(int markonMap) {
++        this.markonMap = markonMap;
++    }
++    
++    public boolean isShowTitle() {
++        return showTitle;
++    }
++
++    public void setShowTitle(boolean showTitle) {
++        this.showTitle = showTitle;
++    }
++
++    public List<GuardRankPenaltyAttr> getGuardPenaltyAttr() {
++        if (guardPenaltyAttr == null) {
++            guardPenaltyAttr = new ArrayList<GuardRankPenaltyAttr>();
++        }
++        return this.guardPenaltyAttr;
++    }
++
++    public int getRankNum() {
++        return rankNum;
++    }
++
++    public void setRankNum(int value) {
++        this.rankNum = value;
++    }
++
++    public int getId() {
++    	return id;
++    }
++
++    public Race getRace() {
++    	return race;
++    }
++}
+Index: src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankPenaltyAttr.java
+===================================================================
+--- src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankPenaltyAttr.java	(nonexistent)
++++ src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankPenaltyAttr.java	(working copy)
+@@ -0,0 +1,88 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.model.templates.serial_guard;
++
++import com.aionemu.gameserver.model.stats.container.StatEnum;
++import com.aionemu.gameserver.skillengine.change.Func;
++
++import javax.xml.bind.annotation.XmlAccessType;
++import javax.xml.bind.annotation.XmlAccessorType;
++import javax.xml.bind.annotation.XmlAttribute;
++import javax.xml.bind.annotation.XmlType;
++
++@XmlAccessorType(XmlAccessType.FIELD)
++@XmlType(name = "GuardRankPenaltyAttr")
++public class GuardRankPenaltyAttr {
++
++    @XmlAttribute(required = true)
++    protected StatEnum stat;
++    @XmlAttribute(required = true)
++    protected Func func;
++    @XmlAttribute(required = true)
++    protected int value;
++
++    /**
++     * Gets the value of the stat property.
++     *
++     * @return possible object is {@link StatEnum }
++     */
++    public StatEnum getStat() {
++        return stat;
++    }
++
++    /**
++     * Sets the value of the stat property.
++     *
++     * @param value allowed object is {@link StatEnum }
++     */
++    public void setStat(StatEnum value) {
++        this.stat = value;
++    }
++
++    /**
++     * Gets the value of the func property.
++     *
++     * @return possible object is {@link Func }
++     */
++    public Func getFunc() {
++        return func;
++    }
++
++    /**
++     * Sets the value of the func property.
++     *
++     * @param value allowed object is {@link Func }
++     */
++    public void setFunc(Func value) {
++        this.func = value;
++    }
++
++    /**
++     * Gets the value of the value property.
++     */
++    public int getValue() {
++        return value;
++    }
++
++    /**
++     * Sets the value of the value property.
++     */
++    public void setValue(int value) {
++        this.value = value;
++    }
++}
++
+Index: src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankRestriction.java
+===================================================================
+--- src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankRestriction.java	(nonexistent)
++++ src/com/aionemu/gameserver/model/templates/serial_guard/GuardRankRestriction.java	(working copy)
+@@ -0,0 +1,81 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.model.templates.serial_guard;
++
++import java.util.ArrayList;
++import java.util.List;
++
++import javax.xml.bind.annotation.XmlAccessType;
++import javax.xml.bind.annotation.XmlAccessorType;
++import javax.xml.bind.annotation.XmlAttribute;
++import javax.xml.bind.annotation.XmlElement;
++import javax.xml.bind.annotation.XmlType;
++
++import com.aionemu.gameserver.model.Race;
++
++@XmlAccessorType(XmlAccessType.FIELD)
++@XmlType(name = "GuardRankRestriction", propOrder = {"guardpenaltyAttr"})
++public class GuardRankRestriction {
++
++    @XmlElement(name = "guard_penalty_attr")
++    protected List<GuardRankPenaltyAttr> guardPenaltyAttr;
++    @XmlAttribute(name = "id", required = true)
++    protected int id;
++    @XmlAttribute(name = "race", required = true)
++    protected Race race;
++    @XmlAttribute(name = "rank_num", required = true)
++    protected int rankNum;
++    @XmlAttribute(name = "mark_on_map", required = true)
++    protected int markonMap;
++    @XmlAttribute(name = "show_title", required = true)
++    protected boolean showTitle;    
++
++    public void setMarkonMap(int markonMap) {
++        this.markonMap = markonMap;
++    }
++    
++    public boolean isShowTitle() {
++        return showTitle;
++    }
++
++    public void setShowTitle(boolean showTitle) {
++        this.showTitle = showTitle;
++    }
++
++    public List<GuardRankPenaltyAttr> getGuardPenaltyAttr() {
++        if (guardPenaltyAttr == null) {
++            guardPenaltyAttr = new ArrayList<GuardRankPenaltyAttr>();
++        }
++        return this.guardPenaltyAttr;
++    }
++
++    public int getRankNum() {
++        return rankNum;
++    }
++
++    public void setRankNum(int value) {
++        this.rankNum = value;
++    }
++
++    public int getId() {
++    	return id;
++    }
++
++    public Race getRace() {
++    	return race;
++    }
++}
+Index: src/com/aionemu/gameserver/network/aion/clientpackets/CM_LEVEL_READY.java
+===================================================================
+--- src/com/aionemu/gameserver/network/aion/clientpackets/CM_LEVEL_READY.java	(revision 103)
++++ src/com/aionemu/gameserver/network/aion/clientpackets/CM_LEVEL_READY.java	(working copy)
+@@ -37,6 +37,7 @@
+ import com.aionemu.gameserver.questEngine.model.QuestEnv;
+ import com.aionemu.gameserver.services.BaseService;
+ import com.aionemu.gameserver.services.FastTrackService;
++import com.aionemu.gameserver.services.SerialGuardService;
+ import com.aionemu.gameserver.services.SerialKillerService;
+ import com.aionemu.gameserver.services.SiegeService;
+ import com.aionemu.gameserver.services.TownService;
+@@ -109,6 +110,7 @@
+ 		 BaseService.getInstance().onEnterBaseWorld(activePlayer);
+ 
+ 		 // SM_SERIAL_KILLER
++		 SerialGuardService.getInstance().onEnterMap(activePlayer);
+ 		 SerialKillerService.getInstance().onEnterMap(activePlayer);
+ 
+ 		 // because fortress buff should only be avaible in fortress locations
+Index: src/com/aionemu/gameserver/network/aion/clientpackets/CM_SHOW_MAP.java
+===================================================================
+--- src/com/aionemu/gameserver/network/aion/clientpackets/CM_SHOW_MAP.java	(revision 103)
++++ src/com/aionemu/gameserver/network/aion/clientpackets/CM_SHOW_MAP.java	(working copy)
+@@ -19,6 +19,7 @@
+ import com.aionemu.gameserver.model.gameobjects.player.Player;
+ import com.aionemu.gameserver.network.aion.AionClientPacket;
+ import com.aionemu.gameserver.network.aion.AionConnection.State;
++import com.aionemu.gameserver.services.SerialGuardService;
+ import com.aionemu.gameserver.services.SerialKillerService;
+ 
+ /**
+@@ -44,6 +45,7 @@
+     @Override
+     protected void runImpl() {
+         Player player = getConnection().getActivePlayer();
++        SerialGuardService.getInstance().updateIcons(player); // 4.8
+         SerialKillerService.getInstance().updateIcons(player);
+     }
+ }
+Index: src/com/aionemu/gameserver/network/aion/serverpackets/SM_SERIAL_KILLER.java
+===================================================================
+--- src/com/aionemu/gameserver/network/aion/serverpackets/SM_SERIAL_KILLER.java	(revision 103)
++++ src/com/aionemu/gameserver/network/aion/serverpackets/SM_SERIAL_KILLER.java	(working copy)
+@@ -58,6 +58,7 @@
+                 writeD(0x01); // unk
+                 writeH(players.size());
+                 for (Player player : players) {
++                    writeD(player.getSGInfo().getRank());
+                     writeD(player.getSKInfo().getRank());
+                     writeD(player.getObjectId());
+                     writeD(0x01); // unk
+Index: src/com/aionemu/gameserver/services/player/PlayerEnterWorldService.java
+===================================================================
+--- src/com/aionemu/gameserver/services/player/PlayerEnterWorldService.java	(revision 103)
++++ src/com/aionemu/gameserver/services/player/PlayerEnterWorldService.java	(working copy)
+@@ -370,6 +370,7 @@
+             // SM_WEATHER miss on login (but he 'live' in CM_LEVEL_READY.. need invistigate)
+             client.sendPacket(new SM_GAME_TIME());
+ 
++            SerialGuardService.getInstance().onLogin(player);
+             SerialKillerService.getInstance().onLogin(player);
+ 
+             if (player.isLegionMember()) {
+Index: src/com/aionemu/gameserver/services/player/PlayerLeaveWorldService.java
+===================================================================
+--- src/com/aionemu/gameserver/services/player/PlayerLeaveWorldService.java	(revision 103)
++++ src/com/aionemu/gameserver/services/player/PlayerLeaveWorldService.java	(working copy)
+@@ -52,6 +52,7 @@
+ import com.aionemu.gameserver.services.LegionService;
+ import com.aionemu.gameserver.services.PunishmentService;
+ import com.aionemu.gameserver.services.RepurchaseService;
++import com.aionemu.gameserver.services.SerialGuardService;
+ import com.aionemu.gameserver.services.SerialKillerService;
+ import com.aionemu.gameserver.services.SkillLearnService;
+ import com.aionemu.gameserver.services.StigmaService;
+@@ -120,6 +121,7 @@
+         if (AutoGroupConfig.AUTO_GROUP_ENABLE) {
+             AutoGroupService.getInstance().onPlayerLogOut(player);
+         }
++        SerialGuardService.getInstance().onLogout(player);
+         SerialKillerService.getInstance().onLogout(player);
+         InstanceService.onLogOut(player);
+         KiskService.getInstance().onLogout(player);
+Index: src/com/aionemu/gameserver/services/PvpService.java
+===================================================================
+--- src/com/aionemu/gameserver/services/PvpService.java	(revision 103)
++++ src/com/aionemu/gameserver/services/PvpService.java	(working copy)
+@@ -30,6 +30,8 @@
+ import com.aionemu.gameserver.network.aion.serverpackets.SM_SYSTEM_MESSAGE;
+ import com.aionemu.gameserver.questEngine.QuestEngine;
+ import com.aionemu.gameserver.questEngine.model.QuestEnv;
++import com.aionemu.gameserver.services.SerialGuardService;
++import com.aionemu.gameserver.services.SerialKillerService;
+ import com.aionemu.gameserver.services.abyss.AbyssPointsService;
+ import com.aionemu.gameserver.services.item.ItemService;
+ import com.aionemu.gameserver.skillengine.effect.AbnormalState;
+@@ -197,6 +199,7 @@
+             }
+         }
+ 
++        SerialGuardService.getInstance().updateRank(winner, victim);
+         SerialKillerService.getInstance().updateRank(winner, victim);
+ 
+         //notify Quest engine for winner + his group
+Index: src/com/aionemu/gameserver/services/serialguards/SerialGuard.java
+===================================================================
+--- src/com/aionemu/gameserver/services/serialguards/SerialGuard.java	(nonexistent)
++++ src/com/aionemu/gameserver/services/serialguards/SerialGuard.java	(working copy)
+@@ -0,0 +1,46 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.services.serialguards;
++
++import com.aionemu.gameserver.model.gameobjects.player.Player;
++
++public class SerialGuard {
++
++    private Player owner;
++    private int guardRank;
++    public int victims;
++
++    public SerialGuard(Player owner) {
++        this.owner = owner;
++    }
++
++    public void refreshOwner(Player player) {
++        owner = player;
++    }
++
++    public Player getOwner() {
++        return owner;
++    }
++    
++    public void setRank(int rank) {
++        guardRank = rank;
++    }
++    
++    public int getRank() {
++        return guardRank;
++    }
++}
+Index: src/com/aionemu/gameserver/services/serialguards/SerialGuardDebuff.java
+===================================================================
+--- src/com/aionemu/gameserver/services/serialguards/SerialGuardDebuff.java	(nonexistent)
++++ src/com/aionemu/gameserver/services/serialguards/SerialGuardDebuff.java	(working copy)
+@@ -0,0 +1,69 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.services.serialguards;
++
++import java.util.ArrayList;
++import java.util.List;
++
++import com.aionemu.gameserver.dataholders.DataManager;
++import com.aionemu.gameserver.model.gameobjects.player.Player;
++import com.aionemu.gameserver.model.stats.calc.StatOwner;
++import com.aionemu.gameserver.model.stats.calc.functions.IStatFunction;
++import com.aionemu.gameserver.model.stats.calc.functions.StatAddFunction;
++import com.aionemu.gameserver.model.stats.calc.functions.StatRateFunction;
++import com.aionemu.gameserver.model.templates.serial_guard.GuardRankPenaltyAttr;
++import com.aionemu.gameserver.model.templates.serial_guard.GuardRankRestriction;
++import com.aionemu.gameserver.skillengine.change.Func;
++
++public class SerialGuardDebuff implements StatOwner {
++
++    private List<IStatFunction> functions = new ArrayList<IStatFunction>();
++    private GuardRankRestriction guardRankRestriction;
++
++    public void applyEffect(Player player, int rank) {
++        if (rank == 0) {
++            return;
++        }
++        
++        guardRankRestriction = DataManager.SERIAL_GUARD_DATA.getGuardRankRestriction(rank);
++        
++        if (hasDebuff()) {
++            endEffect(player);
++        }
++        
++        for (GuardRankPenaltyAttr guardRankPenaltyAttr : guardRankRestriction.getGuardPenaltyAttr()) {
++            if (guardRankPenaltyAttr.getFunc().equals(Func.PERCENT)) {
++                functions.add(new StatRateFunction(guardRankPenaltyAttr.getStat(), guardRankPenaltyAttr.getValue(), true));
++                continue;
++            }
++            functions.add(new StatAddFunction(guardRankPenaltyAttr.getStat(), guardRankPenaltyAttr.getValue(), true));
++        }
++        player.getGameStats().addEffect(this, functions);
++    }
++
++    public boolean hasDebuff() {
++        if (!functions.isEmpty()) {
++            return true;
++        }
++        return false;
++    }
++
++    public void endEffect(Player player) {
++        functions.clear();
++        player.getGameStats().endEffect(this);
++    }
++}
+Index: src/com/aionemu/gameserver/services/serialguards/SerialGuard.java
+===================================================================
+--- src/com/aionemu/gameserver/services/serialguards/SerialGuard.java	(nonexistent)
++++ src/com/aionemu/gameserver/services/serialguards/SerialGuard.java	(working copy)
+@@ -0,0 +1,46 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.services.serialguards;
++
++import com.aionemu.gameserver.model.gameobjects.player.Player;
++
++public class SerialGuard {
++
++    private Player owner;
++    private int guardRank;
++    public int victims;
++
++    public SerialGuard(Player owner) {
++        this.owner = owner;
++    }
++
++    public void refreshOwner(Player player) {
++        owner = player;
++    }
++
++    public Player getOwner() {
++        return owner;
++    }
++    
++    public void setRank(int rank) {
++        guardRank = rank;
++    }
++    
++    public int getRank() {
++        return guardRank;
++    }
++}
+Index: src/com/aionemu/gameserver/services/serialguards/SerialGuardDebuff.java
+===================================================================
+--- src/com/aionemu/gameserver/services/serialguards/SerialGuardDebuff.java	(nonexistent)
++++ src/com/aionemu/gameserver/services/serialguards/SerialGuardDebuff.java	(working copy)
+@@ -0,0 +1,69 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.services.serialguards;
++
++import java.util.ArrayList;
++import java.util.List;
++
++import com.aionemu.gameserver.dataholders.DataManager;
++import com.aionemu.gameserver.model.gameobjects.player.Player;
++import com.aionemu.gameserver.model.stats.calc.StatOwner;
++import com.aionemu.gameserver.model.stats.calc.functions.IStatFunction;
++import com.aionemu.gameserver.model.stats.calc.functions.StatAddFunction;
++import com.aionemu.gameserver.model.stats.calc.functions.StatRateFunction;
++import com.aionemu.gameserver.model.templates.serial_guard.GuardRankPenaltyAttr;
++import com.aionemu.gameserver.model.templates.serial_guard.GuardRankRestriction;
++import com.aionemu.gameserver.skillengine.change.Func;
++
++public class SerialGuardDebuff implements StatOwner {
++
++    private List<IStatFunction> functions = new ArrayList<IStatFunction>();
++    private GuardRankRestriction guardRankRestriction;
++
++    public void applyEffect(Player player, int rank) {
++        if (rank == 0) {
++            return;
++        }
++        
++        guardRankRestriction = DataManager.SERIAL_GUARD_DATA.getGuardRankRestriction(rank);
++        
++        if (hasDebuff()) {
++            endEffect(player);
++        }
++        
++        for (GuardRankPenaltyAttr guardRankPenaltyAttr : guardRankRestriction.getGuardPenaltyAttr()) {
++            if (guardRankPenaltyAttr.getFunc().equals(Func.PERCENT)) {
++                functions.add(new StatRateFunction(guardRankPenaltyAttr.getStat(), guardRankPenaltyAttr.getValue(), true));
++                continue;
++            }
++            functions.add(new StatAddFunction(guardRankPenaltyAttr.getStat(), guardRankPenaltyAttr.getValue(), true));
++        }
++        player.getGameStats().addEffect(this, functions);
++    }
++
++    public boolean hasDebuff() {
++        if (!functions.isEmpty()) {
++            return true;
++        }
++        return false;
++    }
++
++    public void endEffect(Player player) {
++        functions.clear();
++        player.getGameStats().endEffect(this);
++    }
++}
+Index: src/com/aionemu/gameserver/services/SerialGuardService.java
+===================================================================
+--- src/com/aionemu/gameserver/services/SerialGuardService.java	(nonexistent)
++++ src/com/aionemu/gameserver/services/SerialGuardService.java	(working copy)
+@@ -0,0 +1,269 @@
++/**
++ * This file is part of Aion-Lightning <aion-lightning.org>.
++ *
++ *  Aion-Lightning is free software: you can redistribute it and/or modify
++ *  it under the terms of the GNU General Public License as published by
++ *  the Free Software Foundation, either version 3 of the License, or
++ *  (at your option) any later version.
++ *
++ *  Aion-Lightning is distributed in the hope that it will be useful,
++ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
++ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
++ *  GNU General Public License for more details. *
++ *  You should have received a copy of the GNU General Public License
++ *  along with Aion-Lightning.
++ *  If not, see <http://www.gnu.org/licenses/>.
++ */
++package com.aionemu.gameserver.services;
++
++import javolution.util.FastList;
++import javolution.util.FastMap;
++
++import org.slf4j.Logger;
++import org.slf4j.LoggerFactory;
++
++import com.aionemu.gameserver.configs.main.CustomConfig;
++import com.aionemu.gameserver.model.Race;
++import com.aionemu.gameserver.model.gameobjects.player.Player;
++import com.aionemu.gameserver.network.aion.serverpackets.SM_SERIAL_KILLER;
++import com.aionemu.gameserver.services.serialguards.SerialGuard;
++import com.aionemu.gameserver.services.serialguards.SerialGuardDebuff;
++import com.aionemu.gameserver.skillengine.SkillEngine;
++import com.aionemu.gameserver.utils.MathUtil;
++import com.aionemu.gameserver.utils.PacketSendUtility;
++import com.aionemu.gameserver.utils.ThreadPoolManager;
++import com.aionemu.gameserver.world.World;
++import com.aionemu.gameserver.world.knownlist.Visitor;
++
++public class SerialGuardService {
++
++    private FastMap<Integer, SerialGuard> serialGuards = new FastMap<Integer, SerialGuard>();
++    private FastMap<Integer, FastMap<Integer, Player>> worldGuards = new FastMap<Integer, FastMap<Integer, Player>>();
++    private static final FastMap<Integer, WorldType> handledWorlds = new FastMap<Integer, WorldType>();
++    private int refresh = CustomConfig.SERIAL_GUARD_REFRESH;
++    private int levelDiff = CustomConfig.SERIAL_GUARD_LEVEL_DIFF;
++    private SerialGuardDebuff debuff;
++    private static final Logger log = LoggerFactory.getLogger(SerialKillerService.class);
++    
++    public static enum WorldType {
++    
++        ASMODIANS,
++        ELYOS,
++        USEALL;
++    }    
++
++    public void initSerialGuards() {
++        if (!CustomConfig.SERIAL_GUARD_ENABLED) {
++            return;
++        }
++        
++        log.info("Init SG...");
++        
++        for (String world : CustomConfig.SERIAL_GUARD_WORLDS.split(",")) {
++            if ("".equals(world)) {
++                break;
++            }
++            int worldId = Integer.parseInt(world);
++            int worldType = Integer.parseInt(String.valueOf(world.charAt(1)));
++            debuff = new SerialGuardDebuff();
++            WorldType type = worldType > 0 ? worldType > 1 ? WorldType.ASMODIANS : WorldType.ELYOS : WorldType.USEALL;
++            handledWorlds.put(worldId, type);
++        }
++        
++        ThreadPoolManager.getInstance().scheduleAtFixedRate(new Runnable(){
++            @Override
++            public void run() {
++                for (SerialGuard info : serialGuards.values()) {
++                    // chk if owner is offline
++                    if (info.victims > 0 && !isEnemyWorld(info.getOwner())) {
++                        info.victims -= CustomConfig.SERIAL_GUARD_DECREASE;
++                        int newRank = getGuardRank(info.victims);
++                    
++                        if (info.getRank() != newRank) {
++                            info.setRank(newRank);
++                            PacketSendUtility.sendPacket(info.getOwner(), new SM_SERIAL_KILLER(true, info.getRank()));
++                        }
++
++                        if (info.victims >= 1) {
++                            info.victims = 0;
++                            serialGuards.remove(info.getOwner().getObjectId());
++                        }
++                    }
++                }
++            }
++        }, refresh * 60000, refresh * 60000); // kills remove timer
++    }
++
++    public FastMap<Integer, Player> getWorldGuards(int worldId) {
++        if (worldGuards.containsKey(worldId)) {
++            return worldGuards.get(worldId);
++        }
++        FastMap<Integer, Player> guards = new FastMap<Integer, Player>();
++        worldGuards.putEntry(worldId, guards);
++        return guards;
++    }
++
++    public void onLogin(Player player) {
++        if (!CustomConfig.SERIAL_GUARD_ENABLED) {
++            return;
++        }
++        
++        if (serialGuards.containsKey(player.getObjectId())) {
++            player.setSGInfo(serialGuards.get(player.getObjectId()));
++            player.getSGInfo().refreshOwner(player);
++        }
++    }
++
++    public void onLogout(Player player) {
++        if (!CustomConfig.SERIAL_GUARD_ENABLED) {
++            return;
++        }
++        onLeaveMap(player);
++    }
++
++    public void onEnterMap(final Player player) {
++        if (!CustomConfig.SERIAL_GUARD_ENABLED) {
++            return;
++        }
++        
++        int worldId = player.getWorldId();
++        SerialGuard info = player.getSGInfo();
++        
++        info.setRank(getGuardRank(info.victims));
++        PacketSendUtility.sendPacket(player, new SM_SERIAL_KILLER(false, info.getRank()));
++        
++        if (!isHandledWorld(worldId)) {
++            return;
++        }
++        
++        if (isEnemyWorld(player)) {
++            int objId = player.getObjectId();
++            final FastMap<Integer, Player> world = getWorldGuards(worldId);
++            
++            if (!world.containsKey(objId)) {
++                world.putEntry(objId, player);
++            }
++            
++            debuff.applyEffect(player, info.getRank());
++            
++            World.getInstance().getWorldMap(worldId).getWorldMapInstanceById(player.getInstanceId()).doOnAllPlayers(new Visitor<Player>(){
++
++                @Override
++                public void visit(Player victim) {
++                    if (!player.getRace().equals(victim.getRace())) {
++                        PacketSendUtility.sendPacket(victim, new SM_SERIAL_KILLER(world.values()));
++                    }
++                }
++            });
++            return;
++        }
++        PacketSendUtility.sendPacket(player, new SM_SERIAL_KILLER(getWorldGuards(worldId).values()));
++    }
++
++    public void onLeaveMap(Player player) {
++        int worldId = player.getWorldId();
++        
++        if (!isHandledWorld(worldId)) {
++            return;
++        }
++        
++        if (isEnemyWorld(player)) {
++            SerialGuard info = player.getSGInfo();
++            FastList<Player> kill = new FastList<Player>();
++            FastMap<Integer, Player> killers = getWorldGuards(worldId);
++            kill.addAll(killers.values());
++            killers.remove(player.getObjectId());
++            if (info.getRank() > 0) {
++                info.setRank(0);
++                debuff.endEffect(player);
++                for (Player victim : World.getInstance().getWorldMap(worldId).getWorldMapInstanceById(player.getInstanceId()).getPlayersInside()) {
++                    if (!player.getRace().equals(victim.getRace())) {
++                        PacketSendUtility.sendPacket(player, new SM_SERIAL_KILLER(kill));
++                    }
++                }
++            }
++        }
++    }
++    
++    public void updateIcons(Player player) {
++        if (!isEnemyWorld(player)) {
++            PacketSendUtility.sendPacket(player, new SM_SERIAL_KILLER(getWorldGuards(player.getWorldId()).values()));
++        }
++    }    
++    
++    public void updateRank(final Player killer, Player victim) {
++        if (isEnemyWorld(killer)) {
++            SerialGuard info = killer.getSGInfo();
++            
++            if (killer.getLevel() >= victim.getLevel() + levelDiff) {
++                int rank = getGuardRank(++info.victims);
++                
++                if (info.getRank() != rank) {
++                    info.setRank(rank);
++                    debuff.applyEffect(killer, rank);
++                    final FastMap<Integer, Player> killers = getWorldGuards(killer.getWorldId());
++                    PacketSendUtility.sendPacket(killer, new SM_SERIAL_KILLER(true, info.getRank()));
++                    World.getInstance().getWorldMap(killer.getWorldId()).getWorldMapInstanceById(killer.getInstanceId()).doOnAllPlayers(new Visitor<Player>(){
++
++                        @Override
++                        public void visit(Player observed) {
++                            if (!killer.getRace().equals(observed.getRace())) {
++                                PacketSendUtility.sendPacket(observed, new SM_SERIAL_KILLER(killers.values()));
++                            }
++                        }
++                    });
++                }
++                
++                if (!serialGuards.containsKey(killer.getObjectId())) {
++                    serialGuards.put(killer.getObjectId(), info);
++                }
++            }
++        }
++    }    
++
++    private int getGuardRank(int kills) {
++        return kills > CustomConfig.GUARD_2ND_RANK_KILLS ? 2 : kills > CustomConfig.GUARD_1ST_RANK_KILLS ? 1 : 0;
++    }
++
++    public void onKillSerialGuard(final Player killer, final Player victim) {
++        if (isEnemyWorld(victim)) {
++            final SerialGuard info = victim.getSGInfo();
++            victim.getPosition().getWorldMapInstance().doOnAllPlayers(new Visitor<Player>() {
++                @Override
++                public void visit(Player player) {
++                    if (killer.getRace().equals(player.getRace()) && MathUtil.isIn3dRange(victim, player, 30)) {
++                        SkillEngine.getInstance().applyEffectDirectly(buffId(killer, info), player, player, 0);
++                    }
++                }
++            });
++        }
++    }
++
++    public boolean isHandledWorld(int worldId) {
++        return handledWorlds.containsKey(worldId);
++    }
++
++    public boolean isEnemyWorld(Player player) {
++        if (handledWorlds.containsKey(player.getWorldId())) {
++            WorldType homeType = player.getRace().equals(Race.ASMODIANS) ? WorldType.ASMODIANS : WorldType.ELYOS;
++            return !handledWorlds.get(player.getWorldId()).equals(homeType);
++        }
++        return false;
++    }
++
++    private int buffId(Player player, SerialGuard info) {
++        if (info.getRank() > 0) {
++            return player.getRace() == Race.ELYOS ? 8610 : 8611;
++        }
++        return 0;
++    }
++
++    public static SerialGuardService getInstance() {
++        return SerialGuardService.SingletonHolder.instance;
++    }
++
++    private static class SingletonHolder {
++    
++        protected static final SerialGuardService instance = new SerialGuardService();
++    }
++}
+Index: src/com/aionemu/gameserver/services/teleport/TeleportService2.java
+===================================================================
+--- src/com/aionemu/gameserver/services/teleport/TeleportService2.java	(revision 103)
++++ src/com/aionemu/gameserver/services/teleport/TeleportService2.java	(working copy)
+@@ -47,6 +47,7 @@
+ import com.aionemu.gameserver.services.DuelService;
+ import com.aionemu.gameserver.services.FastTrackService;
+ import com.aionemu.gameserver.services.PrivateStoreService;
++import com.aionemu.gameserver.services.SerialGuardService;
+ import com.aionemu.gameserver.services.SerialKillerService;
+ import com.aionemu.gameserver.services.instance.InstanceService;
+ import com.aionemu.gameserver.services.item.ItemPacketService.ItemUpdateType;
+@@ -342,6 +343,11 @@
+             player.getKnownList().clear();
+             player.updateKnownlist();
+ 
++            SerialGuardService sgs = SerialGuardService.getInstance();
++            PacketSendUtility.sendPacket(player, new SM_SERIAL_KILLER(false, player.getSGInfo().getRank()));
++            if (sgs.isHandledWorld(player.getWorldId()) && !sgs.isEnemyWorld(player)) {
++                PacketSendUtility.sendPacket(player, new SM_SERIAL_KILLER(sgs.getWorldGuards(player.getWorldId()).values()));
++            }
+             SerialKillerService sks = SerialKillerService.getInstance();
+             PacketSendUtility.sendPacket(player, new SM_SERIAL_KILLER(false, player.getSKInfo().getRank()));
+             if (sks.isHandledWorld(player.getWorldId()) && !sks.isEnemyWorld(player)) {

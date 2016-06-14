@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_drops.xsd">
+    <!-- Inggison Sentinel -->
+	<npc_drop npc_id="209520">
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000010" chance="37.5" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_RARE" race="PC_ALL">
+			<drop item_id="167000560" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000561" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000551" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000555" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000554" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000553" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000552" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000558" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000557" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000556" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000518" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_KINAH" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="50000" max_amount="200000" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_GUARD_REWARD" race="PC_ALL">
+			<drop item_id="186000051" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="186000055" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="186000059" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="186000063" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_GUARD_MEDAL" race="PC_ALL">
+			<drop item_id="186000147" chance="3" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_GUARD_POTION" race="PC_ALL">
+			<drop item_id="162000037" chance="80" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="162000034" chance="80" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Inggison Elite Templar -->
+	<npc_drop npc_id="209534">
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000010" chance="37.5" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_RARE" race="PC_ALL">
+			<drop item_id="167000560" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000561" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000551" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000555" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000554" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000553" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000552" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000558" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000557" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000556" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000518" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_KINAH" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="50000" max_amount="200000" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_GUARD_REWARD" race="PC_ALL">
+			<drop item_id="186000051" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="186000055" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="186000059" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="186000063" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_GUARD_MEDAL" race="PC_ALL">
+			<drop item_id="186000147" chance="3" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_GUARD_POTION" race="PC_ALL">
+			<drop item_id="162000037" chance="80" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="162000034" chance="80" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Inggison Elite Sorcerer -->
+	<npc_drop npc_id="209537">
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000010" chance="37.5" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_RARE" race="PC_ALL">
+			<drop item_id="167000560" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000561" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000551" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000555" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000554" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000553" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000552" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000558" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000557" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000556" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000518" chance="7.5" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_KINAH" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="50000" max_amount="200000" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_GUARD_REWARD" race="PC_ALL">
+			<drop item_id="186000051" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="186000055" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="186000059" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="186000063" chance="10" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_GUARD_MEDAL" race="PC_ALL">
+			<drop item_id="186000147" chance="3" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="NAMED_GUARD_POTION" race="PC_ALL">
+			<drop item_id="162000037" chance="80" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="162000034" chance="80" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+</npc_drops>

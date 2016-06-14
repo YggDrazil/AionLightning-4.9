@@ -1,0 +1,1074 @@
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1832.8752" y="1116.7495" z="335.51215" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1861.302" y="1117.4465" z="335.61685" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1909.5371" y="1116.897" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1815.0095" y="1131.4264" z="323.1904" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.1686" y="1150.0242" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="799049" level="57" name="Temenos" name_id="354549" height="1.6199999" title_id="370212" title="&lt;Wisplight Centurion&gt;" ai="NON_ATTACKABLE" x="1854.4633" y="1127.0002" z="324.1364" heading="0" front="0.315">
+	<stats maxHp="3060481" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1875.7146" y="1125.4069" z="324.13638" heading="30" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257984" level="65" name="Fortress Medic" name_id="321084" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1884.7817" y="1125.486" z="324.173" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1907.6144" y="1130.3596" z="324.01553" heading="54" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1929.763" y="1123.5325" z="324.0094" heading="85" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1927.7622" y="1141.4086" z="332.65912" heading="41" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1937.8943" y="1150.8914" z="321.04175" heading="60" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.5404" y="1156.514" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.0391" y="1163.5297" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1836.238" y="1176.1302" z="332.89328" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1853.3356" y="1161.7222" z="320.84637" heading="114" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1842.2357" y="1152.4541" z="320.84637" heading="1" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1831.0088" y="1155.404" z="320.84637" heading="30" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1886.849" y="1176.3177" z="323.68335" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1867.9215" y="1159.0449" z="334.8134" heading="60" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1882.4539" y="1153.5049" z="321.87415" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1877.2802" y="1153.4739" z="321.87347" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1873.475" y="1176.3708" z="323.68338" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1913.2406" y="1152.0944" z="320.84644" heading="33" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1918.2892" y="1158.8274" z="320.84644" heading="72" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1892.567" y="1158.8148" z="334.81433" heading="0" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1937.9178" y="1160.4308" z="321.02725" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1924.2247" y="1176.0449" z="332.89212" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1853.8499" y="1208.5039" z="320.5" heading="85" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1844.3975" y="1193.6038" z="334.8013" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1830.424" y="1201.8228" z="334.8013" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1872.2723" y="1206.5854" z="335.10025" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1874.8278" y="1211.6656" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1885.331" y="1211.8755" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1858.8083" y="1197.0028" z="334.85583" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1904.2944" y="1212.4082" z="320.93808" heading="71" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1916.093" y="1193.5985" z="334.8324" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1901.848" y="1196.9684" z="334.8602" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1888.1171" y="1206.5415" z="335.14642" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1929.9664" y="1201.8309" z="334.897" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="216034" level="55" name="Naduka Wardrake" name_id="320303" height="3.135" ai="AGGRESSIVE" x="1786.9423" y="1229.1879" z="316.25723" heading="105" front="2.5">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1873.2772" y="1237.6658" z="320.86426" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1889.927" y="1237.9967" z="321.11545" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1813.3135" y="1282.7821" z="314.1582" heading="110" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1799.3815" y="1259.5319" z="313.1546" heading="49" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="216036" level="55" name="Naduka Drakie" name_id="320305" height="1.08" ai="AGGRESSIVE" x="1851.9265" y="1269.0668" z="313.62714" heading="59" front="0.84000003">
+	<stats maxHp="13286" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1843.2803" y="1260.8854" z="313.70538" heading="114" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1913.729" y="1256.3646" z="312.4772" heading="100" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1954.0044" y="1266.0281" z="311.6273" heading="42" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="216034" level="55" name="Naduka Wardrake" name_id="320303" height="3.135" ai="AGGRESSIVE" x="1954.6663" y="1254.4844" z="311.84473" heading="39" front="2.5">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1920.6986" y="1285.3033" z="312.6059" heading="9" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1933.6992" y="1281.833" z="312.9431" heading="105" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1835.542" y="1296.4188" z="313.92627" heading="10" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="216034" level="55" name="Naduka Wardrake" name_id="320303" height="3.135" ai="AGGRESSIVE" x="1814.8909" y="1292.5435" z="314.17075" heading="13" front="2.5">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1861.302" y="1117.4465" z="335.61685" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1909.5371" y="1116.897" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1930.1582" y="1122.6447" z="324.0094" heading="98" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="216034" level="55" name="Naduka Wardrake" name_id="320303" height="3.135" ai="AGGRESSIVE" x="1785.6644" y="1230.3385" z="316.41693" heading="46" front="2.5">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1815.0095" y="1131.4264" z="323.1904" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1832.8752" y="1116.7495" z="335.51215" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832214" level="65" name="Melas" name_id="464709" height="2.5" title_id="463213" title="&lt;Legion Field Material Merchant&gt;" ai="NON_ATTACKABLE" x="1903.3412" y="1100.6472" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1931.0133" y="1116.8525" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832211" level="65" name="Keras" name_id="464706" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1848.4596" y="1100.2228" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832212" level="65" name="Caliodus" name_id="464707" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="1851.95" y="1100.2627" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832210" level="65" name="Sloukas" name_id="464705" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1844.9194" y="1100.2426" z="326.20947" heading="90" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832213" level="65" name="Ailnerk" name_id="464708" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="1855.3397" y="1100.3225" z="326.20953" heading="90" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1871.9028" y="1091.2802" z="326.20953" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832218" level="65" name="Petera" name_id="464713" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="1916.7549" y="1100.7666" z="326.20908" heading="90" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="832217" level="65" name="Keraia" name_id="464712" height="2.2" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="1913.387" y="1100.7268" z="326.20953" heading="90" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="832215" level="65" name="Ailuris" name_id="464710" height="2.5" title_id="463211" title="&lt;Legion Special Crafting Material Contributor&gt;" ai="NON_ATTACKABLE" x="1906.6702" y="1100.687" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257984" level="65" name="Fortress Medic" name_id="321084" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1971.4017" y="1155.5035" z="322.81345" heading="60" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1888.7755" y="1091.1844" z="326.34045" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1839.9877" y="1091.0015" z="326.2059" heading="1" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1917.3013" y="1091.8015" z="326.20862" heading="86" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="799048" level="55" name="Eleusis" name_id="354548" height="2.16" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1936.7529" y="1102.5197" z="326.99124" heading="60" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1850.3394" y="1082.5309" z="326.20947" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1909.7356" y="1082.5842" z="326.20947" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799047" level="55" name="Mallana" name_id="354547" height="1.4399999" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.5435" y="1101.4952" z="327.56497" heading="90" front="0.28">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="832175" level="65" name="Damasanor" name_id="464497" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1817.4" y="1101.6118" z="327.5649" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="799046" level="55" name="Ateleia" name_id="354546" height="1.8899999" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1936.9016" y="1098.7197" z="327.0212" heading="60" front="0.36749998">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1959.0242" y="1116.8793" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1962.5739" y="1125.1703" z="322.81342" heading="99" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="216036" level="55" name="Naduka Drakie" name_id="320305" height="1.08" ai="AGGRESSIVE" x="1855.2513" y="1266.8157" z="313.67133" heading="105" front="0.84000003">
+	<stats maxHp="13286" />
+</npc_template>
+<npc_template npc_id="799050" level="56" name="Lysan" name_id="354550" height="1.6199999" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1936.6815" y="1086.7064" z="327.01843" heading="60" front="0.315">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="258125" level="55" name="DF4_3021_DirectTeleporter_Li" name_id="321834" height="3.0" ai="NEUTRAL" x="1816.0376" y="1095.6343" z="327.5677" heading="0" front="1.728">
+	<stats maxHp="138545" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1809.514" y="1096.1445" z="327.56747" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="799045" level="55" name="Theoria" name_id="354545" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1936.8939" y="1090.1268" z="327.01822" heading="60" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1968.2542" y="1122.7115" z="322.87964" heading="76" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="799062" level="55" name="Lisimakos" name_id="354562" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1817.6536" y="1086.5756" z="327.56494" heading="30" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1808.4562" y="1091.6609" z="327.56726" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1812.5211" y="1086.5907" z="327.56497" heading="30" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="258101" level="1" name="(E): Chaos Rage" name_id="321201" height="2.0" ai="NON_ATTACKABLE" x="1823.7633" y="1064.033" z="326.94418" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1831.499" y="1060.6965" z="326.91245" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.2722" y="1061.4258" z="326.8846" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="216034" level="55" name="Naduka Wardrake" name_id="320303" height="3.135" ai="AGGRESSIVE" x="1784.0591" y="1230.9547" z="316.6176" heading="53" front="2.5">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1909.7356" y="1082.5842" z="326.20947" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1933.2926" y="1130.81" z="324.0094" heading="98" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1918.0951" y="1091.286" z="326.20795" heading="109" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1931.0133" y="1116.8525" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1933.2926" y="1130.81" z="324.0094" heading="27" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1924.2247" y="1176.0449" z="332.89212" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799050" level="56" name="Lysan" name_id="354550" height="1.6199999" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1936.6815" y="1086.7064" z="327.01843" heading="60" front="0.315">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="799046" level="55" name="Ateleia" name_id="354546" height="1.8899999" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1936.9016" y="1098.7197" z="327.0212" heading="60" front="0.36749998">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799048" level="55" name="Eleusis" name_id="354548" height="2.16" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1936.7529" y="1102.5197" z="326.99124" heading="60" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799045" level="55" name="Theoria" name_id="354545" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1936.8939" y="1090.1268" z="327.01822" heading="60" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1937.8943" y="1150.8914" z="321.04175" heading="60" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1937.9178" y="1160.4308" z="321.02725" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1916.093" y="1193.5985" z="334.8324" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1904.0924" y="1211.4576" z="320.96347" heading="86" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1941.6766" y="1068.2001" z="326.92905" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1959.0242" y="1116.8793" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1968.2542" y="1122.7115" z="322.87964" heading="76" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1963.4385" y="1125.5553" z="322.81342" heading="8" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1929.9664" y="1201.8309" z="334.897" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257984" level="65" name="Fortress Medic" name_id="321084" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1971.4017" y="1155.5035" z="322.81345" heading="60" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1888.1171" y="1206.5415" z="335.14642" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1885.331" y="1211.8755" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1872.2723" y="1206.5854" z="335.10025" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1874.8278" y="1211.6656" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1861.302" y="1117.4465" z="335.61685" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799049" level="57" name="Temenos" name_id="354549" height="1.6199999" title_id="370212" title="&lt;Wisplight Centurion&gt;" ai="NON_ATTACKABLE" x="1854.4633" y="1127.0002" z="324.1364" heading="0" front="0.315">
+	<stats maxHp="3060481" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1854.869" y="1162.718" z="320.84637" heading="16" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1871.9028" y="1091.2802" z="326.20953" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1843.6725" y="1154.6001" z="320.84637" heading="28" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1858.8083" y="1197.0028" z="334.85583" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1889.927" y="1237.9967" z="321.11545" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832213" level="65" name="Ailnerk" name_id="464708" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="1855.3397" y="1100.3225" z="326.20953" heading="90" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1849.0361" y="1216.0938" z="320.55267" heading="60" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1844.3975" y="1193.6038" z="334.8013" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832212" level="65" name="Caliodus" name_id="464707" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="1851.95" y="1100.2627" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1836.238" y="1176.1302" z="332.89328" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832211" level="65" name="Keras" name_id="464706" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1848.4596" y="1100.2228" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832210" level="65" name="Sloukas" name_id="464705" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1844.9194" y="1100.2426" z="326.20947" heading="90" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1831.0088" y="1155.404" z="320.84637" heading="30" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1873.2772" y="1237.6658" z="320.86426" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1832.8752" y="1116.7495" z="335.51215" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1861.302" y="1117.4465" z="335.61685" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1871.9028" y="1091.2802" z="326.20953" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799049" level="57" name="Temenos" name_id="354549" height="1.6199999" title_id="370212" title="&lt;Wisplight Centurion&gt;" ai="NON_ATTACKABLE" x="1854.4633" y="1127.0002" z="324.1364" heading="0" front="0.315">
+	<stats maxHp="3060481" />
+</npc_template>
+<npc_template npc_id="832212" level="65" name="Caliodus" name_id="464707" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="1851.95" y="1100.2627" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832213" level="65" name="Ailnerk" name_id="464708" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="1855.3397" y="1100.3225" z="326.20953" heading="90" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1854.869" y="1162.718" z="320.84637" heading="16" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1888.1171" y="1206.5415" z="335.14642" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1850.3394" y="1082.5309" z="326.20947" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="832211" level="65" name="Keras" name_id="464706" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1848.4596" y="1100.2228" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832210" level="65" name="Sloukas" name_id="464705" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1844.9194" y="1100.2426" z="326.20947" heading="90" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1843.6725" y="1154.6001" z="320.84637" heading="28" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1885.331" y="1211.8755" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1840.4609" y="1091.8212" z="326.20627" heading="20" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1872.2723" y="1206.5854" z="335.10025" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1832.8752" y="1116.7495" z="335.51215" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1831.0088" y="1155.404" z="320.84637" heading="30" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1874.8278" y="1211.6656" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1858.8083" y="1197.0028" z="334.85583" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1836.238" y="1176.1302" z="332.89328" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1844.3975" y="1193.6038" z="334.8013" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832175" level="65" name="Damasanor" name_id="464497" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1817.4" y="1101.6118" z="327.5649" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1815.0095" y="1131.4264" z="323.1904" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.1686" y="1150.0242" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.0391" y="1163.5297" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799062" level="55" name="Lisimakos" name_id="354562" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1817.6536" y="1086.5756" z="327.56494" heading="30" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1831.499" y="1060.6965" z="326.91245" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="258125" level="55" name="DF4_3021_DirectTeleporter_Li" name_id="321834" height="3.0" ai="NEUTRAL" x="1816.0376" y="1095.6343" z="327.5677" heading="0" front="1.728">
+	<stats maxHp="138545" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1809.514" y="1096.1445" z="327.56747" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="799047" level="55" name="Mallana" name_id="354547" height="1.4399999" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.5435" y="1101.4952" z="327.56497" heading="90" front="0.28">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.5404" y="1156.514" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1812.5211" y="1086.5907" z="327.56497" heading="30" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="258101" level="1" name="(E): Chaos Rage" name_id="321201" height="2.0" ai="NON_ATTACKABLE" x="1823.7633" y="1064.033" z="326.94418" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1808.4562" y="1091.6609" z="327.56726" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1830.424" y="1201.8228" z="334.8013" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1849.0449" y="1216.0967" z="320.5509" heading="37" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.2722" y="1061.4258" z="326.8846" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832218" level="65" name="Petera" name_id="464713" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="1916.7549" y="1100.7666" z="326.20908" heading="90" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1873.475" y="1176.3708" z="323.68338" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1892.567" y="1158.8148" z="334.81433" heading="0" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1926.2513" y="1094.8881" z="326.24933" heading="14" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1906.366" y="1146.7487" z="320.8464" heading="85" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1906.366" y="1146.7487" z="320.8464" heading="85" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1933.5264" y="1071.8772" z="326.98462" heading="16" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799050" level="56" name="Lysan" name_id="354550" height="1.6199999" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1936.6815" y="1086.7064" z="327.01843" heading="60" front="0.315">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="799046" level="55" name="Ateleia" name_id="354546" height="1.8899999" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1936.9016" y="1098.7197" z="327.0212" heading="60" front="0.36749998">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799048" level="55" name="Eleusis" name_id="354548" height="2.16" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1936.7529" y="1102.5197" z="326.99124" heading="60" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799045" level="55" name="Theoria" name_id="354545" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1936.8939" y="1090.1268" z="327.01822" heading="60" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1877.2802" y="1153.4739" z="321.87347" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1931.0133" y="1116.8525" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1931.718" y="1121.5066" z="324.0094" heading="61" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1867.9215" y="1159.0449" z="334.8134" heading="60" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1882.4539" y="1153.5049" z="321.87415" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1906.3715" y="1146.748" z="320.8464" heading="85" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1855.0658" y="1163.6438" z="320.84637" heading="26" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1892.567" y="1158.8148" z="334.81433" heading="0" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1927.7622" y="1141.4086" z="332.65912" heading="41" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1959.0242" y="1116.8793" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.5404" y="1156.514" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1918.6333" y="1161.2512" z="320.84644" heading="40" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1937.8943" y="1150.8914" z="321.04175" heading="60" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1960.71" y="1124.7728" z="322.81342" heading="66" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1886.849" y="1176.3177" z="323.68335" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1873.475" y="1176.3708" z="323.68338" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1968.2542" y="1122.7115" z="322.87964" heading="76" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.0391" y="1163.5297" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1937.9178" y="1160.4308" z="321.02725" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1836.238" y="1176.1302" z="332.89328" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1924.2247" y="1176.0449" z="332.89212" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257984" level="65" name="Fortress Medic" name_id="321084" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1971.4017" y="1155.5035" z="322.81345" heading="60" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1886.849" y="1176.3177" z="323.68335" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832210" level="65" name="Sloukas" name_id="464705" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1844.9194" y="1100.2426" z="326.20947" heading="90" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1886.849" y="1176.3177" z="323.68335" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1867.9215" y="1159.0449" z="334.8134" heading="60" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1840.7314" y="1093.5292" z="326.2065" heading="35" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1916.093" y="1193.5985" z="334.8324" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1873.475" y="1176.3708" z="323.68338" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1832.8752" y="1116.7495" z="335.51215" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1855.2139" y="1164.5786" z="320.84637" heading="27" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1901.848" y="1196.9684" z="334.8602" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1929.9664" y="1201.8309" z="334.897" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1842.438" y="1147.9194" z="320.84637" heading="100" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1831.499" y="1060.6965" z="326.91245" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799062" level="55" name="Lisimakos" name_id="354562" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1817.6536" y="1086.5756" z="327.56494" heading="30" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="258101" level="1" name="(E): Chaos Rage" name_id="321201" height="2.0" ai="NON_ATTACKABLE" x="1823.7633" y="1064.033" z="326.94418" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="258125" level="55" name="DF4_3021_DirectTeleporter_Li" name_id="321834" height="3.0" ai="NEUTRAL" x="1816.0376" y="1095.6343" z="327.5677" heading="0" front="1.728">
+	<stats maxHp="138545" />
+</npc_template>
+<npc_template npc_id="799047" level="55" name="Mallana" name_id="354547" height="1.4399999" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.5435" y="1101.4952" z="327.56497" heading="90" front="0.28">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="832175" level="65" name="Damasanor" name_id="464497" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1817.4" y="1101.6118" z="327.5649" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1831.0088" y="1155.404" z="320.84637" heading="30" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1812.5211" y="1086.5907" z="327.56497" heading="30" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1809.514" y="1096.1445" z="327.56747" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1808.4562" y="1091.6609" z="327.56726" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1815.0095" y="1131.4264" z="323.1904" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.1686" y="1150.0242" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1836.238" y="1176.1302" z="332.89328" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.2722" y="1061.4258" z="326.8846" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.5404" y="1156.514" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.0391" y="1163.5297" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1858.8083" y="1197.0028" z="334.85583" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1888.1171" y="1206.5415" z="335.14642" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1844.3975" y="1193.6038" z="334.8013" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1872.2723" y="1206.5854" z="335.10025" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1929.9664" y="1201.8309" z="334.897" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1885.331" y="1211.8755" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1840.7314" y="1093.5292" z="326.2065" heading="35" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1842.4235" y="1147.9132" z="320.84637" heading="100" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1832.8752" y="1116.7495" z="335.51215" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1888.1171" y="1206.5415" z="335.14642" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1831.0088" y="1155.404" z="320.84637" heading="30" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="799062" level="55" name="Lisimakos" name_id="354562" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1817.6536" y="1086.5756" z="327.56494" heading="30" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1831.499" y="1060.6965" z="326.91245" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="258125" level="55" name="DF4_3021_DirectTeleporter_Li" name_id="321834" height="3.0" ai="NEUTRAL" x="1816.0376" y="1095.6343" z="327.5677" heading="0" front="1.728">
+	<stats maxHp="138545" />
+</npc_template>
+<npc_template npc_id="799047" level="55" name="Mallana" name_id="354547" height="1.4399999" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.5435" y="1101.4952" z="327.56497" heading="90" front="0.28">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="832175" level="65" name="Damasanor" name_id="464497" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1817.4" y="1101.6118" z="327.5649" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1815.0095" y="1131.4264" z="323.1904" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.1686" y="1150.0242" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1836.238" y="1176.1302" z="332.89328" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1872.2723" y="1206.5854" z="335.10025" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1858.8083" y="1197.0028" z="334.85583" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1812.5211" y="1086.5907" z="327.56497" heading="30" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="258101" level="1" name="(E): Chaos Rage" name_id="321201" height="2.0" ai="NON_ATTACKABLE" x="1823.7633" y="1064.033" z="326.94418" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1809.514" y="1096.1445" z="327.56747" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1808.4562" y="1091.6609" z="327.56726" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.5404" y="1156.514" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.0391" y="1163.5297" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1844.3975" y="1193.6038" z="334.8013" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1885.331" y="1211.8755" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.2722" y="1061.4258" z="326.8846" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1830.424" y="1201.8228" z="334.8013" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1854.6033" y="1209.8369" z="320.5" heading="72" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1874.8278" y="1211.6656" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="256746" level="65" name="Fortress Gun" name_id="348667" height="4.0" ai="NON_ATTACKABLE" x="1888.1171" y="1206.5415" z="335.14642" heading="30" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1874.8278" y="1211.6656" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1937.9178" y="1160.4308" z="321.02725" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1885.331" y="1211.8755" z="320.5" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1916.093" y="1193.5985" z="334.8324" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1907.5288" y="1216.4169" z="320.97818" heading="9" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1933.4052" y="1071.1072" z="326.9829" heading="52" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1929.9664" y="1201.8309" z="334.897" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1959.0242" y="1116.8793" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1960.5625" y="1124.1584" z="322.81342" heading="62" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1873.2772" y="1237.6658" z="320.86426" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1889.927" y="1237.9967" z="321.11545" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1840.9347" y="1262.5984" z="313.7874" heading="110" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1911.8646" y="1259.5879" z="312.46753" heading="79" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="216034" level="55" name="Naduka Wardrake" name_id="320303" height="3.135" ai="AGGRESSIVE" x="1778.029" y="1222.9158" z="316.61462" heading="97" front="2.5">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="216036" level="55" name="Naduka Drakie" name_id="320305" height="1.08" ai="AGGRESSIVE" x="1851.7189" y="1270.799" z="313.625" heading="91" front="0.84000003">
+	<stats maxHp="13286" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1793.5267" y="1250.5726" z="313.7823" heading="28" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1807.6058" y="1275.0208" z="313.75" heading="51" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1833.7318" y="1286.4263" z="314.29257" heading="38" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="832210" level="65" name="Sloukas" name_id="464705" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1844.9194" y="1100.2426" z="326.20947" heading="90" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832175" level="65" name="Damasanor" name_id="464497" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1817.4" y="1101.6118" z="327.5649" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1779.4757" y="1262.3629" z="315.0596" heading="25" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="799047" level="55" name="Mallana" name_id="354547" height="1.4399999" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.5435" y="1101.4952" z="327.56497" heading="90" front="0.28">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1839.9376" y="1094.0447" z="326.29" heading="49" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1937.8943" y="1150.8914" z="321.04175" heading="60" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1805.8163" y="1279.697" z="314.32166" heading="35" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="216034" level="55" name="Naduka Wardrake" name_id="320303" height="3.135" ai="AGGRESSIVE" x="1948.8958" y="1254.391" z="311.94403" heading="18" front="2.5">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1922.8247" y="1287.2131" z="312.24762" heading="94" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1909.5371" y="1116.897" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832211" level="65" name="Keras" name_id="464706" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1848.4596" y="1100.2228" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832212" level="65" name="Caliodus" name_id="464707" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="1851.95" y="1100.2627" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832210" level="65" name="Sloukas" name_id="464705" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1844.9194" y="1100.2426" z="326.20947" heading="90" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832213" level="65" name="Ailnerk" name_id="464708" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="1855.3397" y="1100.3225" z="326.20953" heading="90" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257996" level="65" name="Fortress Mage" name_id="321096" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1930.3855" y="1122.6709" z="324.0094" heading="79" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832175" level="65" name="Damasanor" name_id="464497" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1817.4" y="1101.6118" z="327.5649" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1839.9376" y="1094.0447" z="326.29" heading="49" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1871.9028" y="1091.2802" z="326.20953" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832214" level="65" name="Melas" name_id="464709" height="2.5" title_id="463213" title="&lt;Legion Field Material Merchant&gt;" ai="NON_ATTACKABLE" x="1903.3412" y="1100.6472" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832215" level="65" name="Ailuris" name_id="464710" height="2.5" title_id="463211" title="&lt;Legion Special Crafting Material Contributor&gt;" ai="NON_ATTACKABLE" x="1906.6702" y="1100.687" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1931.0133" y="1116.8525" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="258125" level="55" name="DF4_3021_DirectTeleporter_Li" name_id="321834" height="3.0" ai="NEUTRAL" x="1816.0376" y="1095.6343" z="327.5677" heading="0" front="1.728">
+	<stats maxHp="138545" />
+</npc_template>
+<npc_template npc_id="799047" level="55" name="Mallana" name_id="354547" height="1.4399999" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.5435" y="1101.4952" z="327.56497" heading="90" front="0.28">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1918.8131" y="1097.2756" z="326.20734" heading="16" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1888.7755" y="1091.1844" z="326.34045" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="832218" level="65" name="Petera" name_id="464713" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="1916.7549" y="1100.7666" z="326.20908" heading="90" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="832217" level="65" name="Keraia" name_id="464712" height="2.2" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="1913.387" y="1100.7268" z="326.20953" heading="90" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1850.3394" y="1082.5309" z="326.20947" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1809.514" y="1096.1445" z="327.56747" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1925.8468" y="1090.9425" z="326.2013" heading="16" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1909.7356" y="1082.5842" z="326.20947" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799048" level="55" name="Eleusis" name_id="354548" height="2.16" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1936.7529" y="1102.5197" z="326.99124" heading="60" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799062" level="55" name="Lisimakos" name_id="354562" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1817.6536" y="1086.5756" z="327.56494" heading="30" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="258262" level="55" name="LDF4_Fortress_InvisibleNPC" name_id="321686" height="3.0" ai="NEUTRAL" x="1808.4562" y="1091.6609" z="327.56726" heading="0" front="1.728">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="799046" level="55" name="Ateleia" name_id="354546" height="1.8899999" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1936.9016" y="1098.7197" z="327.0212" heading="60" front="0.36749998">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1959.6003" y="1133.5707" z="322.81342" heading="29" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799045" level="55" name="Theoria" name_id="354545" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1936.8939" y="1090.1268" z="327.01822" heading="60" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1959.0242" y="1116.8793" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257984" level="65" name="Fortress Medic" name_id="321084" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1971.4017" y="1155.5035" z="322.81345" heading="60" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1919.7213" y="1255.0087" z="312.68695" heading="50" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="799050" level="56" name="Lysan" name_id="354550" height="1.6199999" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1936.6815" y="1086.7064" z="327.01843" heading="60" front="0.315">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1968.2542" y="1122.7115" z="322.87964" heading="76" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="216034" level="55" name="Naduka Wardrake" name_id="320303" height="3.135" ai="AGGRESSIVE" x="1949.1648" y="1256.0894" z="311.9272" heading="27" front="2.5">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="216036" level="55" name="Naduka Drakie" name_id="320305" height="1.08" ai="AGGRESSIVE" x="1852.7102" y="1272.3613" z="313.625" heading="34" front="0.84000003">
+	<stats maxHp="13286" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1844.5226" y="1265.8173" z="313.83392" heading="23" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1952.3733" y="1260.7025" z="311.625" heading="113" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="216035" level="54" name="Naduka Drakie" name_id="320304" height="1.08" ai="AGGRESSIVE" x="1928.8281" y="1278.9418" z="312.81616" heading="70" front="0.84000003">
+	<stats maxHp="12657" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1922.2085" y="1288.8185" z="312.13464" heading="37" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="258133" level="65" name="Teleportation Tower" name_id="322245" height="3.0" ai="NON_ATTACKABLE" x="1968.2542" y="1122.7115" z="322.87964" heading="76" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="799046" level="55" name="Ateleia" name_id="354546" height="1.8899999" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1936.9016" y="1098.7197" z="327.0212" heading="60" front="0.36749998">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1820.1686" y="1150.0242" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257987" level="65" name="Fortress Gallowglass" name_id="321087" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1814.5404" y="1156.514" z="322.99417" heading="0" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="216036" level="55" name="Naduka Drakie" name_id="320305" height="1.08" ai="AGGRESSIVE" x="1852.452" y="1277.3579" z="313.59674" heading="31" front="0.84000003">
+	<stats maxHp="13286" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1845.5333" y="1267.2084" z="313.83707" heading="18" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1921.272" y="1290.2606" z="312.1039" heading="41" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1832.8752" y="1116.7495" z="335.51215" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832213" level="65" name="Ailnerk" name_id="464708" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="1855.3397" y="1100.3225" z="326.20953" heading="90" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1888.7755" y="1091.1844" z="326.34045" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257981" level="65" name="Fortress High Magus" name_id="321081" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1815.0095" y="1131.4264" z="323.1904" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832211" level="65" name="Keras" name_id="464706" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1848.4596" y="1100.2228" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832212" level="65" name="Caliodus" name_id="464707" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="1851.95" y="1100.2627" z="326.20953" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832210" level="65" name="Sloukas" name_id="464705" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1844.9194" y="1100.2426" z="326.20947" heading="90" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257975" level="65" name="Fortress Trigger" name_id="321075" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1871.9028" y="1091.2802" z="326.20953" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257993" level="65" name="Fortress Sniper" name_id="321093" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1959.0242" y="1116.8793" z="335.6458" heading="30" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257972" level="65" name="Fortress Warrior" name_id="321072" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1839.073" y="1094.4297" z="326.30087" heading="52" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1925.8337" y="1090.9333" z="326.20132" heading="104" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="799046" level="55" name="Ateleia" name_id="354546" height="1.8899999" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1936.9016" y="1098.7197" z="327.0212" heading="60" front="0.36749998">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257999" level="65" name="Fortress Priest" name_id="321099" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1850.3394" y="1082.5309" z="326.20947" heading="30" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257990" level="65" name="Fortress Assassin" name_id="321090" height="2.7" title_id="314392" title="&lt;Crimson Garrison&gt;" ai="NON_ATTACKABLE" x="1909.7356" y="1082.5842" z="326.20947" heading="30" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832175" level="65" name="Damasanor" name_id="464497" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1817.4" y="1101.6118" z="327.5649" heading="90" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="216033" level="54" name="Naduka Wardrake" name_id="320302" height="3.135" ai="AGGRESSIVE" x="1845.5333" y="1267.2084" z="313.83707" heading="18" front="2.5">
+	<stats maxHp="16775" />
+</npc_template>
+<npc_template npc_id="216036" level="55" name="Naduka Drakie" name_id="320305" height="1.08" ai="AGGRESSIVE" x="1852.4526" y="1277.3574" z="313.5967" heading="31" front="0.84000003">
+	<stats maxHp="13286" />
+</npc_template>
+<npc_template npc_id="216034" level="55" name="Naduka Wardrake" name_id="320303" height="3.135" ai="AGGRESSIVE" x="1949.2548" y="1257.8065" z="311.92157" heading="87" front="2.5">
+	<stats maxHp="17607" />
+</npc_template>

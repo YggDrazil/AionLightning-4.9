@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<spawns xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <spawn_map map_id="301510000">
+        <!-- Wary Alarm -->
+        <spawn npc_id="237186">
+            <spot h="103" x="999.0" y="1104.0" z="69.91826"/>
+            <spot h="91" x="825.17334" y="1208.134" z="94.35429"/>
+            <spot h="91" x="814.17334" y="1224.634" z="94.34737"/>
+        </spawn>
+        <!-- Sturdy Hetgolem 300 points -->
+        <spawn npc_id="237180">
+            <spot h="0" x="945.0" y="1125.0" z="69.98282"/>
+            <spot h="60" x="1023.0" y="1121.0" z="69.90535"/>
+            <spot h="0" x="983.21674" y="1101.0515" z="70.01386"/>
+            <spot h="0" x="991.436" y="1081.3092" z="70.00729"/>
+            <spot h="90" x="919.1829" y="1120.634" z="91.215164"/>
+            <spot h="60" x="0.0" y="0.0" z="0.0"/>
+            <spot h="30" x="970.7261" y="1081.2057" z="70.0512"/>
+            <spot h="60" x="1021.0" y="1075.0" z="69.9307"/>
+            <spot h="26" x="946.0" y="1081.0" z="91.23666"/>
+            <spot h="90" x="902.4068" y="1123.2764" z="91.25828"/>
+            <spot h="0" x="984.0" y="1047.0" z="93.52812"/>
+            <spot h="30" x="954.0" y="1047.0" z="69.98283"/>
+            <spot h="30" x="918.69794" y="1061.4098" z="91.2154"/>
+            <spot h="30" x="902.57715" y="1057.6023" z="91.25828"/>
+            <spot h="60" x="944.487" y="1064.7067" z="93.532646"/>
+            <spot h="60" x="832.92566" y="1094.2896" z="53.687077"/>
+            <spot h="60" x="832.92566" y="1110.7896" z="53.687073"/>
+            <spot h="0" x="807.42566" y="1094.5396" z="53.687065"/>
+            <spot h="0" x="807.17566" y="1111.0396" z="53.68707"/>
+            <spot h="91" x="805.67334" y="1217.884" z="94.34858"/>
+            <spot h="30" x="835.67334" y="1230.634" z="94.34783"/>
+            <spot h="90" x="803.92334" y="1254.384" z="95.936676"/>
+            <spot h="90" x="834.92334" y="1254.134" z="95.936745"/>
+        </spawn>
+        <!-- Argent Manor Treasure Box -->
+        <spawn npc_id="702816">
+            <spot h="30" x="971.81726" y="1141.2733" z="93.52788"/>
+            <spot h="30" x="781.23315" y="1037.8318" z="64.87494"/>
+            <spot h="30" x="781.25055" y="1042.764" z="64.87496"/>
+            <spot h="30" x="768.27405" y="1159.2277" z="93.404175"/>
+        </spawn>
+        <!-- Dextrous Hetgolem -->
+        <spawn npc_id="237188">
+            <spot h="96" x="1019.0" y="1119.0" z="69.90819"/>
+            <spot h="61" x="955.31244" y="1131.1598" z="71.62469"/>
+            <spot h="29" x="1015.9265" y="1082.5782" z="69.9307"/>
+            <spot h="68" x="994.6049" y="1063.4197" z="70.00947"/>
+            <spot h="28" x="953.0" y="1090.0" z="69.95992"/>
+            <spot h="7" x="1004.0" y="1064.25" z="69.9307"/>
+        </spawn>
+        <!-- Mystic Hetgolem 300 points -->
+        <spawn npc_id="237182">
+            <spot h="105" x="951.0" y="1141.0" z="71.0"/>
+            <spot h="90" x="1018.0" y="1138.0" z="71.0"/>
+            <spot h="85" x="949.0" y="1080.0" z="91.2545"/>
+            <spot h="30" x="1013.0" y="1058.0" z="69.9307"/>
+            <spot h="0" x="942.0" y="1063.0" z="69.98283"/>
+            <spot h="0" x="944.0" y="1042.0" z="93.52805"/>
+            <spot h="0" x="976.0" y="1041.0" z="93.52802"/>
+        </spawn>
+        <!-- Solid Hetgolem -->
+        <spawn npc_id="237191">
+            <spot h="60" x="956.0" y="1141.0" z="93.52807"/>
+            <spot h="61" x="947.0" y="1119.0" z="97.0"/>
+            <spot h="0" x="796.69104" y="1062.3081" z="59.5012"/>
+            <spot h="0" x="792.42566" y="1059.5396" z="59.502373"/>
+            <spot h="1" x="803.2793" y="1055.8048" z="57.994194"/>
+            <spot h="30" x="765.67566" y="1040.2896" z="64.8605"/>
+            <spot h="91" x="768.6733" y="1176.884" z="93.36388"/>
+            <spot h="0" x="765.6733" y="1197.134" z="93.36387"/>
+        </spawn>
+        <!-- None -->
+        <spawn npc_id="856538">
+            <spot x="994.44293" y="1160.3265" z="69.133545" h="60"/>
+        </spawn>
+        <!-- Heatseeking Hetgolem -->
+        <spawn npc_id="237192">
+            <spot x="967.25" y="1140.0" z="93.527954" h="60"/>
+            <spot x="778.42566" y="1040.2896" z="64.87112" h="60"/>
+            <spot x="767.6733" y="1164.134" z="93.363884" h="30"/>
+        </spawn>
+        <!-- Manor Usher -->
+        <spawn npc_id="237190">
+            <spot h="119" x="943.0" y="1050.0" z="71.25"/>
+            <spot h="119" x="909.0" y="1091.0" z="91.22899"/>
+            <spot h="60" x="1022.0" y="1063.0" z="69.9307"/>
+        </spawn>
+        <!-- Agile Hetgolem 300 points -->
+        <spawn npc_id="237181">
+            <spot h="30" x="915.0" y="1108.0" z="91.2208"/>
+            <spot h="24" x="918.5" y="1086.5" z="91.25827"/>
+        </spawn>
+        <!-- Hard Hetgolem 400 points -->
+        <spawn npc_id="237199">
+            <spot h="0" x="885.0" y="1106.0" z="91.29405"/>
+        </spawn>
+        <!-- Hard Hetgolem 400 Points -->
+        <spawn npc_id="237200">
+            <spot h="0" x="885.0" y="1073.0" z="91.25828"/>
+        </spawn>
+        <!-- Armored Hetgolem -->
+        <spawn npc_id="237187">
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+        </spawn>
+        <!-- Golem Sculpting Rack Passage -->
+        <spawn npc_id="731658">
+            <spot h="30" x="820.9403" y="1079.5121" z="53.671886"/>
+        </spawn>
+        <!-- Hard Hetgolem 400 points -->
+        <spawn npc_id="237202">
+            <spot h="90" x="808.69885" y="1276.8667" z="95.93695"/>
+        </spawn>
+        <!-- IDElemental_2_E_Teleport_Ctrl_Golem03_P_65_An -->
+        <spawn npc_id="237201">
+            <spot h="90" x="831.7401" y="1277.5634" z="95.93685"/>
+        </spawn>
+
+        <!-- Drained Hetgolem -->
+        <spawn npc_id="856547">
+            <spot x="916.5" y="1126.0" z="91.21442" h="90"/>
+            <spot x="916.25" y="1056.0" z="91.21445" h="30"/>
+            <spot x="803.17566" y="1124.5396" z="53.68707" h="0"/>
+        </spawn>
+        <!-- Perfectly Restored Hetgolem 1000 points -->
+        <spawn npc_id="237196">
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+        </spawn>
+        <!-- Restored Hetgolem -->
+        <spawn npc_id="237197">
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+        </spawn>
+        <!-- Poorly Restored Hetgolem 1000 points -->
+        <spawn npc_id="237198">
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+        </spawn>
+
+        <!-- Portals -->
+        <!-- Alchemical Lab Passage -->
+        <spawn npc_id="731648">
+            <spot x="882.0" y="1091.0" z="91.25827" h="119"/>
+        </spawn>
+        <!-- Experimental Lab Passage -->
+        <spawn npc_id="731649">
+            <spot x="821.17566" y="1140.6368" z="54.0903" h="90"/>
+        </spawn>
+        <!-- Celestial Observation Chamber Passage -->
+        <spawn npc_id="731650">
+            <spot x="820.1718" y="1300.6089" z="94.34702" h="90"/>
+        </spawn>
+        <!-- Alchemical Lab Passage -->
+        <spawn npc_id="731659">
+            <spot x="820.9537" y="1190.8967" z="94.36083" h="30"/>
+        </spawn>
+        <!-- Closed Alchemical Lab Passage
+        <spawn npc_id="731651">
+            <spot x="882.0" y="1091.0" z="94.18538" h="30"/>
+        </spawn> -->
+        <!-- Argent Manor Exit
+        <spawn npc_id="731665">
+            <spot x="818.8859" y="1401.1049" z="194.94592" h="30"/>
+        </spawn> -->
+
+        <!-- BIDElemental_2_E_Door_Ctrl_01 -->
+        <spawn npc_id="856542">
+            <spot h="60" x="0.0" y="0.0" z="0.0"/>
+            <spot h="60" x="0.0" y="0.0" z="0.0"/>
+        </spawn>
+        <!-- BIDElemental_2_E_Door_Ctrl_02 -->
+        <spawn npc_id="856543">
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+        </spawn>
+        <!-- BIDElemental_2_E_Door_Ctrl_03 -->
+        <spawn npc_id="856544">
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+        </spawn>
+        <!-- BIDElemental_2_E_Door_Ctrl_04 -->
+        <spawn npc_id="856545">
+            <spot x="820.4983" y="1419.3639" z="194.97884" h="0"/>
+        </spawn>
+        <!-- BIDElemental_2_E_Door_Ctrl_06 -->
+        <spawn npc_id="856573">
+            <spot h="60" x="0.0" y="0.0" z="0.0"/>
+        </spawn>
+        <!-- BIDElemental_2_E_Door_Ctrl_07 -->
+        <spawn npc_id="856576">
+            <spot x="819.93304" y="1285.5305" z="96.0" static_id="116" h="90"/>
+        </spawn>
+
+        <!-- Transformation Bonfire -->
+        <spawn npc_id="701001">
+            <spot x="801.42566" y="1106.2896" z="53.98618" static_id="67"/>
+        </spawn>
+        <!-- Spirit's Bucket -->
+        <spawn npc_id="701002">
+            <spot x="839.17566" y="1114.2896" z="53.724754" static_id="89"/>
+        </spawn>
+        <!-- Magic Pinwheel -->
+        <spawn npc_id="701003">
+            <spot x="803.42566" y="1091.5396" z="55.05643" static_id="69"/>
+        </spawn>
+        <!-- Magical Soil Mound -->
+        <spawn npc_id="701004">
+            <spot x="838.42566" y="1078.5396" z="54.085964" static_id="109"/>
+        </spawn>
+        <!-- Elemental Iron Prison -->
+        <spawn npc_id="237195">
+            <spot h="90" x="820.67566" y="1119.5396" z="53.671886" static_id="111"/>
+        </spawn>
+
+        <!-- Cursed Book -->
+        <spawn npc_id="702862">
+            <spot x="0.0" y="0.0" z="0.0" static_id="135"/>
+        </spawn>
+
+        <!-- Bosses Spawnpoints -->
+		<!-- Forgotten Zadra_PhyBoss 1500 points
+		<spawn npc_id="237193">
+			<spot x="819.59827" y="1420.4639" z="194.97882" h="61"/>
+		</spawn> -->
+		<!-- Forgotten Zadra_MagBoss 1500 points
+		<spawn npc_id="237194">
+			<spot x="819.56946" y="1420.5078" z="196.40623" h="61"/>
+		</spawn> -->
+        <!-- Eldritch Surkana
+        <spawn npc_id="282208">
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+            <spot h="0" x="0.0" y="0.0" z="0.0"/>
+        </spawn> -->
+    </spawn_map>
+</spawns>

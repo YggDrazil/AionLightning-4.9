@@ -1,0 +1,1230 @@
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="821.46234" y="1822.3267" z="330.375" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="789.02466" y="1831.1678" z="330.125" heading="99" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="775.10504" y="1853.5286" z="345.34424" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="256752" level="65" name="Fortress Gun" name_id="348673" height="4.0" ai="NON_ATTACKABLE" x="811.4093" y="1831.9974" z="345.58536" heading="83" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="256752" level="65" name="Fortress Gun" name_id="348673" height="4.0" ai="NON_ATTACKABLE" x="826.03394" y="1825.4052" z="345.5285" heading="83" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="802.6624" y="1846.8901" z="345.30804" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="811.4853" y="1826.4681" z="330.62964" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="856.3557" y="1826.7473" z="345.2491" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="841.4032" y="1829.4634" z="345.30368" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257372" level="65" name="Fortress Warrior" name_id="320628" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="836.8446" y="1854.2472" z="334.13116" heading="50" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="890.11646" y="1846.2645" z="333.38846" heading="50" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="893.52747" y="1854.743" z="333.2893" heading="50" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="868.8391" y="1839.1086" z="343.40958" heading="28" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="788.19434" y="1878.4385" z="343.30063" heading="8" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.36523" y="1856.0444" z="345.28278" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="826.16895" y="1877.3514" z="345.30045" heading="50" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="824.7574" y="1859.585" z="334.13116" heading="110" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="814.3982" y="1878.5422" z="331.29425" heading="108" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="863.751" y="1858.946" z="331.29422" heading="7" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="837.7434" y="1878.8218" z="332.32126" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="849.0958" y="1866.9996" z="345.26117" heading="113" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="842.98663" y="1876.435" z="332.32144" heading="50" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="881.9489" y="1857.465" z="331.2942" heading="81" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="878.9793" y="1859.8209" z="331.2942" heading="109" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="910.5994" y="1870.577" z="333.6383" heading="117" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="759.7303" y="1910.7687" z="333.26123" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.74524" y="1902.9155" z="331.32822" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257372" level="65" name="Fortress Warrior" name_id="320628" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="784.7717" y="1894.7323" z="331.57916" heading="110" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="801.02045" y="1907.8381" z="343.1069" heading="90" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="806.1295" y="1895.9453" z="331.29428" heading="40" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="833.32806" y="1913.1154" z="334.46564" heading="24" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257381" level="65" name="Fortress High Magus" name_id="320637" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="856.0782" y="1901.3712" z="334.5842" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="847.98065" y="1905.3336" z="334.61288" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="799024" level="57" name="Kerus" name_id="354524" height="1.8" title_id="370218" title="&lt;Sanctum Expedition Centurion&gt;" ai="NON_ATTACKABLE" x="872.795" y="1892.7043" z="334.5842" heading="53" front="0.35">
+	<stats maxHp="3060481" />
+</npc_template>
+<npc_template npc_id="832195" level="65" name="Hitonerk" name_id="464690" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="884.0023" y="1916.4878" z="336.6573" heading="18" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832194" level="65" name="Dubans" name_id="464689" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="887.2159" y="1915.0474" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832192" level="65" name="Nica" name_id="464687" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="893.5597" y="1912.3575" z="336.65732" heading="18" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="871.82324" y="1902.7844" z="346.0646" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832193" level="65" name="Ranuas" name_id="464688" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="890.39215" y="1913.6666" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="898.6019" y="1891.9518" z="345.95987" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832173" level="65" name="Polyzarus" name_id="464495" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="918.2995" y="1899.2058" z="338.01245" heading="20" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257381" level="65" name="Fortress High Magus" name_id="320637" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="902.53156" y="1916.858" z="336.6533" heading="115" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257525" level="55" name="Aryshmarna" name_id="321828" height="2.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.5313" y="1902.377" z="338.01437" heading="56" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="769.6494" y="1927.0394" z="333.26123" heading="74" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.62683" y="1939.6617" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="771.9734" y="1941.4698" z="333.33356" heading="10" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="799004" level="56" name="Keios" name_id="354504" height="1.8" title_id="370214" title="&lt;Hushblade Legionary&gt;" ai="NON_ATTACKABLE" x="807.8176" y="1944.7567" z="337.41592" heading="118" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="804.6955" y="1924.4604" z="334.4572" heading="85" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832200" level="65" name="Melion" name_id="464695" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="828.68567" y="1940.712" z="336.65692" heading="18" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="799011" level="55" name="Delphia" name_id="354511" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="809.09485" y="1949.3114" z="337.4507" heading="111" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="832199" level="65" name="Silian" name_id="464694" height="2.2" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="831.7521" y="1939.2408" z="336.6573" heading="18" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="809.3606" y="1931.3208" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="828.11804" y="1923.151" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832197" level="65" name="Somara" name_id="464692" height="2.5" title_id="463211" title="&lt;Legion Special Crafting Material Contributor&gt;" ai="NON_ATTACKABLE" x="837.62195" y="1936.6046" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="857.62585" y="1937.864" z="336.79074" heading="83" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832196" level="65" name="Mutani" name_id="464691" height="2.5" title_id="463213" title="&lt;Legion Field Material Merchant&gt;" ai="NON_ATTACKABLE" x="840.6795" y="1935.3234" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="872.6316" y="1931.1942" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="896.15" y="1931.2808" z="336.65732" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="828.58765" y="1952.3258" z="336.6528" heading="48" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="821.59564" y="1972.0845" z="337.42786" heading="63" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799012" level="55" name="Zurd" name_id="354512" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="813.6958" y="1958.7205" z="337.46072" heading="111" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799014" level="55" name="Verulie" name_id="354514" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="815.38434" y="1963.2688" z="337.457" heading="111" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="841.82886" y="1954.6183" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799060" level="55" name="Distine" name_id="354560" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="925.481" y="1913.6594" z="338.01254" heading="83" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799013" level="55" name="Phoulion" name_id="354513" height="1.3" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="923.34076" y="1896.6947" z="338.01233" heading="20" front="0.22749999">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.02295" y="1943.8829" z="337.3513" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="216732" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="710.6383" y="1920.9335" z="329.2101" heading="53" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="723.06976" y="1867.8788" z="322.125" heading="87" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="709.7316" y="1890.6848" z="322.31696" heading="45" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215864" level="55" name="Madshelled Ksellid" name_id="320133" height="2.145" ai="AGGRESSIVE" x="702.3591" y="1952.2897" z="331.71368" heading="45" front="1.125">
+	<stats maxHp="23930" />
+</npc_template>
+<npc_template npc_id="700911" level="1" name="Hardened Crater" name_id="371624" height="2.0" ai="NON_ATTACKABLE" x="712.82715" y="1866.3936" z="322.125" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="216732" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="687.368" y="1913.0117" z="329.38574" heading="113" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="725.8715" y="1838.5066" z="322.125" heading="1" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="256752" level="65" name="Fortress Gun" name_id="348673" height="4.0" ai="NON_ATTACKABLE" x="811.4093" y="1831.9974" z="345.58536" heading="83" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="682.9478" y="1886.3246" z="323.8975" heading="108" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="699.28436" y="1850.1304" z="324.22156" heading="71" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="811.4853" y="1826.4681" z="330.62964" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="685.7979" y="1866.2539" z="325.89087" heading="0" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="748.0972" y="1819.792" z="322.125" heading="30" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="821.46234" y="1822.3267" z="330.375" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="256752" level="65" name="Fortress Gun" name_id="348673" height="4.0" ai="NON_ATTACKABLE" x="826.03394" y="1825.4052" z="345.5285" heading="83" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="799024" level="57" name="Kerus" name_id="354524" height="1.8" title_id="370218" title="&lt;Sanctum Expedition Centurion&gt;" ai="NON_ATTACKABLE" x="872.795" y="1892.7043" z="334.5842" heading="53" front="0.35">
+	<stats maxHp="3060481" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="871.82324" y="1902.7844" z="346.0646" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="841.4032" y="1829.4634" z="345.30368" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="864.6388" y="1859.3413" z="331.29422" heading="8" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="872.6316" y="1931.1942" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="797.54236" y="1803.6395" z="330.63016" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="874.7317" y="1866.0232" z="331.2942" heading="13" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="832195" level="65" name="Hitonerk" name_id="464690" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="884.0023" y="1916.4878" z="336.6573" heading="18" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="856.3557" y="1826.7473" z="345.2491" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="868.8391" y="1839.1086" z="343.40958" heading="28" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="881.9489" y="1857.465" z="331.2942" heading="81" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="832194" level="65" name="Dubans" name_id="464689" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="887.2159" y="1915.0474" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="811.0165" y="1797.5182" z="330.32834" heading="83" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832193" level="65" name="Ranuas" name_id="464688" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="890.39215" y="1913.6666" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="700912" level="1" name="Soggy Crater" name_id="371696" height="2.0" ai="NON_ATTACKABLE" x="775.9929" y="1797.2437" z="322.125" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="843.0489" y="1807.5795" z="330.32324" heading="79" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832192" level="65" name="Nica" name_id="464687" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="893.5597" y="1912.3575" z="336.65732" heading="18" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="866.1035" y="1813.1649" z="345.2491" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="890.11646" y="1846.2645" z="333.38846" heading="50" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="893.52747" y="1854.743" z="333.2893" heading="50" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="898.6019" y="1891.9518" z="345.95987" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257381" level="65" name="Fortress High Magus" name_id="320637" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="903.4194" y="1917.2533" z="336.6527" heading="8" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="896.15" y="1931.2808" z="336.65732" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="907.63245" y="1852.016" z="333.442" heading="14" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="911.5252" y="1870.3802" z="333.63824" heading="116" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="799013" level="55" name="Phoulion" name_id="354513" height="1.3" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="923.34076" y="1896.6947" z="338.01233" heading="20" front="0.22749999">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="832173" level="65" name="Polyzarus" name_id="464495" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="918.2995" y="1899.2058" z="338.01245" heading="20" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257525" level="55" name="Aryshmarna" name_id="321828" height="2.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.5313" y="1902.377" z="338.01437" heading="56" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="851.2313" y="1777.1177" z="326.22882" heading="28" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="826.5653" y="1773.1633" z="328.05865" heading="47" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="748.1675" y="1819.7437" z="322.125" heading="30" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="892.181" y="1781.5708" z="326.25" heading="61" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="911.24384" y="1799.3527" z="326.10153" heading="9" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="735.78424" y="1829.5822" z="322.125" heading="106" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="700913" level="1" name="Hot Crater" name_id="371697" height="2.0" ai="NON_ATTACKABLE" x="893.278" y="1774.0514" z="326.25" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="853.71893" y="1746.4235" z="323.85214" heading="6" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="870.04944" y="1751.6893" z="327.17282" heading="45" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="779.9107" y="1749.4028" z="320.10992" heading="85" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="806.0007" y="1736.4156" z="323.65097" heading="44" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="216732" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="827.7537" y="1726.4594" z="322.6751" heading="0" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215864" level="55" name="Madshelled Ksellid" name_id="320133" height="2.145" ai="AGGRESSIVE" x="747.4897" y="1749.246" z="319.88702" heading="58" front="1.125">
+	<stats maxHp="23930" />
+</npc_template>
+<npc_template npc_id="215864" level="55" name="Madshelled Ksellid" name_id="320133" height="2.145" ai="AGGRESSIVE" x="719.3464" y="1810.591" z="324.6722" heading="28" front="1.125">
+	<stats maxHp="23930" />
+</npc_template>
+<npc_template npc_id="215864" level="55" name="Madshelled Ksellid" name_id="320133" height="2.145" ai="AGGRESSIVE" x="719.3464" y="1810.591" z="324.6722" heading="29" front="1.125">
+	<stats maxHp="23930" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="720.5282" y="1868.8328" z="322.125" heading="68" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="759.7303" y="1910.7687" z="333.26123" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="907.63245" y="1852.016" z="333.442" heading="14" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="871.82324" y="1902.7844" z="346.0646" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="805.3015" y="1925.3937" z="334.4572" heading="37" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="828.11804" y="1923.151" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="906.4545" y="1787.1503" z="326.25" heading="84" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="912.451" y="1870.1835" z="333.63818" heading="116" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="898.6019" y="1891.9518" z="345.95987" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="809.3606" y="1931.3208" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832195" level="65" name="Hitonerk" name_id="464690" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="884.0023" y="1916.4878" z="336.6573" heading="18" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832194" level="65" name="Dubans" name_id="464689" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="887.2159" y="1915.0474" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832193" level="65" name="Ranuas" name_id="464688" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="890.39215" y="1913.6666" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832197" level="65" name="Somara" name_id="464692" height="2.5" title_id="463211" title="&lt;Legion Special Crafting Material Contributor&gt;" ai="NON_ATTACKABLE" x="837.62195" y="1936.6046" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832196" level="65" name="Mutani" name_id="464691" height="2.5" title_id="463213" title="&lt;Legion Field Material Merchant&gt;" ai="NON_ATTACKABLE" x="840.6795" y="1935.3234" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832192" level="65" name="Nica" name_id="464687" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="893.5597" y="1912.3575" z="336.65732" heading="18" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832200" level="65" name="Melion" name_id="464695" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="828.68567" y="1940.712" z="336.65692" heading="18" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="832199" level="65" name="Silian" name_id="464694" height="2.2" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="831.7521" y="1939.2408" z="336.6573" heading="18" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="857.62585" y="1937.864" z="336.79074" heading="83" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="872.6316" y="1931.1942" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="775.24243" y="1932.7607" z="333.26123" heading="61" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.62683" y="1939.6617" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799004" level="56" name="Keios" name_id="354504" height="1.8" title_id="370214" title="&lt;Hushblade Legionary&gt;" ai="NON_ATTACKABLE" x="807.8176" y="1944.7567" z="337.41592" heading="118" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="832173" level="65" name="Polyzarus" name_id="464495" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="918.2995" y="1899.2058" z="338.01245" heading="20" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257381" level="65" name="Fortress High Magus" name_id="320637" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="904.38586" y="1917.3549" z="336.65198" heading="2" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="827.70404" y="1951.9866" z="336.65222" heading="67" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="799011" level="55" name="Delphia" name_id="354511" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="809.09485" y="1949.3114" z="337.4507" heading="111" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="799013" level="55" name="Phoulion" name_id="354513" height="1.3" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="923.34076" y="1896.6947" z="338.01233" heading="20" front="0.22749999">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257525" level="55" name="Aryshmarna" name_id="321828" height="2.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.5313" y="1902.377" z="338.01437" heading="56" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="896.15" y="1931.2808" z="336.65732" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="841.82886" y="1954.6183" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799585" level="55" name="Koray" name_id="354390" height="2.16" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="928.83984" y="1903.3363" z="338.01627" heading="53" front="0.42000002">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="799012" level="55" name="Zurd" name_id="354512" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="813.6958" y="1958.7205" z="337.46072" heading="111" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799060" level="55" name="Distine" name_id="354560" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="925.481" y="1913.6594" z="338.01254" heading="83" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="930.3396" y="1906.1426" z="338.01477" heading="53" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="799014" level="55" name="Verulie" name_id="354514" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="815.38434" y="1963.2688" z="337.457" heading="111" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="236328" level="65" name="Inggison Petrahulk" name_id="349834" height="7.0" title_id="335018" title="&lt;Conquest Offering&gt;" ai="AGGRESSIVE" x="938.9219" y="1879.1018" z="343.3525" heading="0" front="5.6">
+	<stats maxHp="117149" />
+</npc_template>
+<npc_template npc_id="856155" level="65" name="None" name_id="350000" height="1.0" ai="NEUTRAL" x="938.9219" y="1879.1018" z="343.3525" heading="0" front="0.5">
+	<stats maxHp="288154736" />
+</npc_template>
+<npc_template npc_id="799005" level="56" name="Ingnie" name_id="354505" height="2.4" title_id="370214" title="&lt;Hushblade Legionary&gt;" ai="NON_ATTACKABLE" x="930.3897" y="1911.3192" z="338.0126" heading="83" front="0.42000002">
+	<stats maxHp="152113" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="935.3934" y="1826.823" z="328.093" heading="39" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="884.1468" y="1772.6495" z="326.25" heading="76" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="906.5156" y="1787.189" z="326.25" heading="84" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="700913" level="1" name="Hot Crater" name_id="371697" height="2.0" ai="NON_ATTACKABLE" x="893.278" y="1774.0514" z="326.25" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="942.60455" y="1809.1105" z="326.25" heading="17" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="700914" level="1" name="Dry Crater" name_id="371698" height="2.0" ai="NON_ATTACKABLE" x="947.9281" y="1814.0986" z="326.25" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="216732" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="960.0611" y="1845.1321" z="328.99237" heading="100" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.02295" y="1943.8829" z="337.3513" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="922.6912" y="1780.1447" z="331.8827" heading="40" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="955.361" y="1827.1454" z="327.89838" heading="49" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="216631" level="53" name="Agent Greenlake" name_id="321965" height="2.808" ai="AGGRESSIVE" x="971.1911" y="1870.2346" z="329.01465" heading="96" front="0.54">
+	<stats maxHp="16209" />
+</npc_template>
+<npc_template npc_id="257501" level="1" name="(E): Chaos Rage" name_id="320757" height="2.0" ai="NON_ATTACKABLE" x="930.1044" y="1939.6058" z="337.35938" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="938.9974" y="1936.2467" z="337.32584" heading="83" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="216732" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="953.6406" y="1789.8759" z="331.9116" heading="0" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="978.50305" y="1837.293" z="327.73535" heading="61" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="990.2834" y="1846.4135" z="326.70105" heading="70" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215867" level="55" name="Crater Waterworm" name_id="320136" height="5.1" ai="AGGRESSIVE" x="988.0116" y="1821.2052" z="329.25" heading="0" front="1.4">
+	<stats maxHp="13286" />
+</npc_template>
+<npc_template npc_id="215864" level="55" name="Madshelled Ksellid" name_id="320133" height="2.145" ai="AGGRESSIVE" x="970.2607" y="1795.4531" z="331.13672" heading="86" front="1.125">
+	<stats maxHp="23930" />
+</npc_template>
+<npc_template npc_id="832199" level="65" name="Silian" name_id="464694" height="2.2" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="831.7521" y="1939.2408" z="336.6573" heading="18" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="256752" level="65" name="Fortress Gun" name_id="348673" height="4.0" ai="NON_ATTACKABLE" x="811.4093" y="1831.9974" z="345.58536" heading="83" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="802.6624" y="1846.8901" z="345.30804" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="811.4853" y="1826.4681" z="330.62964" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="804.6523" y="1898.3086" z="331.29428" heading="36" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832200" level="65" name="Melion" name_id="464695" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="828.68567" y="1940.712" z="336.65692" heading="18" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="841.82886" y="1954.6183" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="801.02045" y="1907.8381" z="343.1069" heading="90" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="809.3606" y="1931.3208" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="826.75885" y="1952.0361" z="336.65146" heading="59" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.74524" y="1902.9155" z="331.32822" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="796.7949" y="1925.8395" z="334.45724" heading="60" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="788.19434" y="1878.4385" z="343.30063" heading="8" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.36523" y="1856.0444" z="345.28278" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257372" level="65" name="Fortress Warrior" name_id="320628" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="784.7717" y="1894.7323" z="331.57916" heading="110" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="799004" level="56" name="Keios" name_id="354504" height="1.8" title_id="370214" title="&lt;Hushblade Legionary&gt;" ai="NON_ATTACKABLE" x="807.8176" y="1944.7567" z="337.41592" heading="118" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="799011" level="55" name="Delphia" name_id="354511" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="809.09485" y="1949.3114" z="337.4507" heading="111" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="799012" level="55" name="Zurd" name_id="354512" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="813.6958" y="1958.7205" z="337.46072" heading="111" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799014" level="55" name="Verulie" name_id="354514" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="815.38434" y="1963.2688" z="337.457" heading="111" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="793.8633" y="1837.4388" z="330.3338" heading="42" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.62683" y="1939.6617" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="822.1405" y="1974.734" z="337.41653" heading="108" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="775.10504" y="1853.5286" z="345.34424" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="774.33514" y="1932.4125" z="333.26123" heading="67" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="759.7303" y="1910.7687" z="333.26123" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="771.9734" y="1941.4698" z="333.33356" heading="10" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="216631" level="53" name="Agent Greenlake" name_id="321965" height="2.808" ai="AGGRESSIVE" x="971.1911" y="1870.2346" z="329.01465" heading="96" front="0.54">
+	<stats maxHp="16209" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="933.43097" y="1828.3287" z="327.52585" heading="49" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="216732" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="960.0611" y="1845.1321" z="328.99237" heading="100" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="974.8393" y="1837.101" z="328.02374" heading="61" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="957.5897" y="1816.725" z="327.75275" heading="97" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="700914" level="1" name="Dry Crater" name_id="371698" height="2.0" ai="NON_ATTACKABLE" x="947.9281" y="1814.0986" z="326.25" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="1002.54083" y="1854.5944" z="328.294" heading="14" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="943.3542" y="1809.8483" z="326.25" heading="51" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="257372" level="65" name="Fortress Warrior" name_id="320628" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="836.8446" y="1854.2472" z="334.13116" heading="50" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="826.16895" y="1877.3514" z="345.30045" heading="50" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832200" level="65" name="Melion" name_id="464695" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="828.68567" y="1940.712" z="336.65692" heading="18" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="826.75885" y="1952.0361" z="336.65146" heading="59" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="816.3828" y="1878.4843" z="331.29425" heading="112" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="814.4841" y="1969.1703" z="337.42828" heading="69" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799012" level="55" name="Zurd" name_id="354512" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="813.6958" y="1958.7205" z="337.46072" heading="111" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799014" level="55" name="Verulie" name_id="354514" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="815.38434" y="1963.2688" z="337.457" heading="111" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799004" level="56" name="Keios" name_id="354504" height="1.8" title_id="370214" title="&lt;Hushblade Legionary&gt;" ai="NON_ATTACKABLE" x="807.8176" y="1944.7567" z="337.41592" heading="118" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="799011" level="55" name="Delphia" name_id="354511" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="809.09485" y="1949.3114" z="337.4507" heading="111" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="809.3606" y="1931.3208" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="837.7434" y="1878.8218" z="332.32126" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="842.98663" y="1876.435" z="332.32144" heading="50" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="893.52747" y="1854.743" z="333.2893" heading="50" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="849.0958" y="1866.9996" z="345.26117" heading="113" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="881.9489" y="1857.465" z="331.2942" heading="81" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="900.22174" y="1851.4154" z="333.442" heading="45" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="826.16895" y="1877.3514" z="345.30045" heading="50" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="801.02045" y="1907.8381" z="343.1069" heading="90" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="797.66" y="1926.2261" z="334.45724" heading="8" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.62683" y="1939.6617" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="816.3828" y="1878.4843" z="331.29425" heading="112" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="856.68494" y="1856.0782" z="331.29422" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.74524" y="1902.9155" z="331.32822" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="803.7223" y="1889.6436" z="331.29428" heading="92" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="773.4109" y="1932.1122" z="333.26123" heading="66" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="771.9734" y="1941.4698" z="333.33356" heading="10" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257372" level="65" name="Fortress Warrior" name_id="320628" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="836.8446" y="1854.2472" z="334.13116" heading="50" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="824.7574" y="1859.585" z="334.13116" heading="110" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257372" level="65" name="Fortress Warrior" name_id="320628" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="784.7717" y="1894.7323" z="331.57916" heading="110" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="788.19434" y="1878.4385" z="343.30063" heading="8" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="759.7303" y="1910.7687" z="333.26123" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="849.0958" y="1866.9996" z="345.26117" heading="113" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.36523" y="1856.0444" z="345.28278" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="824.7574" y="1859.585" z="334.13116" heading="110" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="849.0958" y="1866.9996" z="345.26117" heading="113" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257372" level="65" name="Fortress Warrior" name_id="320628" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="836.8446" y="1854.2472" z="334.13116" heading="50" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257381" level="65" name="Fortress High Magus" name_id="320637" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="905.5934" y="1917.0189" z="336.65094" heading="75" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="775.10504" y="1853.5286" z="345.34424" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="802.6624" y="1846.8901" z="345.30804" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="863.2052" y="1860.3126" z="331.29422" heading="14" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="873.436" y="1863.149" z="331.2942" heading="56" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="898.6019" y="1891.9518" z="345.95987" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="881.9489" y="1857.465" z="331.2942" heading="81" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.02295" y="1943.8829" z="337.3513" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="904.83826" y="1871.1244" z="333.63754" heading="66" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="799060" level="55" name="Distine" name_id="354560" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="925.481" y="1913.6594" z="338.01254" heading="83" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="832173" level="65" name="Polyzarus" name_id="464495" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="918.2995" y="1899.2058" z="338.01245" heading="20" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257525" level="55" name="Aryshmarna" name_id="321828" height="2.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.5313" y="1902.377" z="338.01437" heading="56" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="893.52747" y="1854.743" z="333.2893" heading="50" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="868.8391" y="1839.1086" z="343.40958" heading="28" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799013" level="55" name="Phoulion" name_id="354513" height="1.3" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="923.34076" y="1896.6947" z="338.01233" heading="20" front="0.22749999">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799005" level="56" name="Ingnie" name_id="354505" height="2.4" title_id="370214" title="&lt;Hushblade Legionary&gt;" ai="NON_ATTACKABLE" x="930.3897" y="1911.3192" z="338.0126" heading="83" front="0.42000002">
+	<stats maxHp="152113" />
+</npc_template>
+<npc_template npc_id="799585" level="55" name="Koray" name_id="354390" height="2.16" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="928.83984" y="1903.3363" z="338.01627" heading="53" front="0.42000002">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="930.3396" y="1906.1426" z="338.01477" heading="53" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="257501" level="1" name="(E): Chaos Rage" name_id="320757" height="2.0" ai="NON_ATTACKABLE" x="930.1044" y="1939.6058" z="337.35938" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="841.4032" y="1829.4634" z="345.30368" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="890.11646" y="1846.2645" z="333.38846" heading="50" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="900.21716" y="1851.4231" z="333.442" heading="68" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="938.9974" y="1936.2467" z="337.32584" heading="83" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="256752" level="65" name="Fortress Gun" name_id="348673" height="4.0" ai="NON_ATTACKABLE" x="811.4093" y="1831.9974" z="345.58536" heading="83" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="856.3557" y="1826.7473" z="345.2491" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="775.10504" y="1853.5286" z="345.34424" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="256752" level="65" name="Fortress Gun" name_id="348673" height="4.0" ai="NON_ATTACKABLE" x="826.03394" y="1825.4052" z="345.5285" heading="83" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="792.0489" y="1837.3914" z="330.25214" heading="66" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="811.4853" y="1826.4681" z="330.62964" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="881.9489" y="1857.465" z="331.2942" heading="81" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="841.4032" y="1829.4634" z="345.30368" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="868.8391" y="1839.1086" z="343.40958" heading="28" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="904.83826" y="1871.1244" z="333.63754" heading="66" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="832173" level="65" name="Polyzarus" name_id="464495" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="918.2995" y="1899.2058" z="338.01245" heading="20" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.02295" y="1943.8829" z="337.3513" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="256752" level="65" name="Fortress Gun" name_id="348673" height="4.0" ai="NON_ATTACKABLE" x="826.03394" y="1825.4052" z="345.5285" heading="83" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="811.4853" y="1826.4681" z="330.62964" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="890.11646" y="1846.2645" z="333.38846" heading="50" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="893.52747" y="1854.743" z="333.2893" heading="50" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799060" level="55" name="Distine" name_id="354560" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="925.481" y="1913.6594" z="338.01254" heading="83" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799013" level="55" name="Phoulion" name_id="354513" height="1.3" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="923.34076" y="1896.6947" z="338.01233" heading="20" front="0.22749999">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257525" level="55" name="Aryshmarna" name_id="321828" height="2.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.5313" y="1902.377" z="338.01437" heading="56" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="856.3557" y="1826.7473" z="345.2491" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="900.8128" y="1852.1587" z="333.442" heading="17" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799005" level="56" name="Ingnie" name_id="354505" height="2.4" title_id="370214" title="&lt;Hushblade Legionary&gt;" ai="NON_ATTACKABLE" x="930.3897" y="1911.3192" z="338.0126" heading="83" front="0.42000002">
+	<stats maxHp="152113" />
+</npc_template>
+<npc_template npc_id="799585" level="55" name="Koray" name_id="354390" height="2.16" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="928.83984" y="1903.3363" z="338.01627" heading="53" front="0.42000002">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="930.3396" y="1906.1426" z="338.01477" heading="53" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="257501" level="1" name="(E): Chaos Rage" name_id="320757" height="2.0" ai="NON_ATTACKABLE" x="930.1044" y="1939.6058" z="337.35938" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="938.9974" y="1936.2467" z="337.32584" heading="83" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="236328" level="65" name="Inggison Petrahulk" name_id="349834" height="7.0" title_id="335018" title="&lt;Conquest Offering&gt;" ai="AGGRESSIVE" x="938.9219" y="1879.1018" z="343.3525" heading="0" front="5.6">
+	<stats maxHp="117149" />
+</npc_template>
+<npc_template npc_id="856155" level="65" name="None" name_id="350000" height="1.0" ai="NEUTRAL" x="938.9219" y="1879.1018" z="343.3525" heading="0" front="0.5">
+	<stats maxHp="288154736" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="843.0095" y="1815.3711" z="330.125" heading="65" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="866.1035" y="1813.1649" z="345.2491" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="821.46234" y="1822.3267" z="330.375" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="934.50555" y="1831.9875" z="327.44998" heading="30" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="216631" level="53" name="Agent Greenlake" name_id="321965" height="2.808" ai="AGGRESSIVE" x="971.1911" y="1870.2346" z="329.01465" heading="96" front="0.54">
+	<stats maxHp="16209" />
+</npc_template>
+<npc_template npc_id="216732" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="960.0611" y="1845.1321" z="328.99237" heading="100" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="811.4853" y="1826.4681" z="330.62964" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.36523" y="1856.0444" z="345.28278" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257372" level="65" name="Fortress Warrior" name_id="320628" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="784.7717" y="1894.7323" z="331.57916" heading="110" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="792.0489" y="1837.3914" z="330.25214" heading="66" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="910.59247" y="1797.3245" z="326.25" heading="31" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="799014" level="55" name="Verulie" name_id="354514" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="815.38434" y="1963.2688" z="337.457" heading="111" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="910.59247" y="1797.3245" z="326.25" heading="31" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="775.10504" y="1853.5286" z="345.34424" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.62683" y="1939.6617" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="823.3983" y="1970.3175" z="337.44516" heading="82" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="811.0165" y="1797.5182" z="330.32834" heading="83" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="771.5526" y="1931.666" z="333.26123" heading="61" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="759.7303" y="1910.7687" z="333.26123" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="797.54236" y="1803.6395" z="330.63016" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="828.1314" y="1777.4773" z="329.247" heading="19" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="910.61285" y="1797.327" z="326.25" heading="31" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="859.44855" y="1775.4725" z="326.25" heading="49" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="880.8322" y="1774.4927" z="326.25" heading="80" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="700913" level="1" name="Hot Crater" name_id="371697" height="2.0" ai="NON_ATTACKABLE" x="893.278" y="1774.0514" z="326.25" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="700912" level="1" name="Soggy Crater" name_id="371696" height="2.0" ai="NON_ATTACKABLE" x="775.9929" y="1797.2437" z="322.125" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="752.8507" y="1818.8154" z="322.125" heading="78" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="841.2799" y="1741.0072" z="323.24728" heading="101" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="934.63214" y="1803.5796" z="326.25" heading="39" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="876.33026" y="1741.2279" z="325.75" heading="113" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="941.4535" y="1825.5277" z="326.64557" heading="70" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="928.2606" y="1776.6017" z="331.86774" heading="4" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215733" level="55" name="Sourwind Wraithling" name_id="319755" height="3.924" ai="AGGRESSIVE" x="941.4535" y="1825.5277" z="326.64557" heading="70" front="2.475">
+	<stats maxHp="13606" />
+</npc_template>
+<npc_template npc_id="215866" level="55" name="Steelscale Kselliki" name_id="320135" height="1.43" ai="ATTACKABLE" x="920.33606" y="1758.5616" z="329.9252" heading="64" front="0.75">
+	<stats maxHp="18408" />
+</npc_template>
+<npc_template npc_id="700914" level="1" name="Dry Crater" name_id="371698" height="2.0" ai="NON_ATTACKABLE" x="947.9281" y="1814.0986" z="326.25" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="799013" level="55" name="Phoulion" name_id="354513" height="1.3" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="923.34076" y="1896.6947" z="338.01233" heading="20" front="0.22749999">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="832173" level="65" name="Polyzarus" name_id="464495" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="918.2995" y="1899.2058" z="338.01245" heading="20" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="236328" level="65" name="Inggison Petrahulk" name_id="349834" height="7.0" title_id="335018" title="&lt;Conquest Offering&gt;" ai="AGGRESSIVE" x="938.9219" y="1879.1018" z="343.3525" heading="0" front="5.6">
+	<stats maxHp="117149" />
+</npc_template>
+<npc_template npc_id="856155" level="65" name="None" name_id="350000" height="1.0" ai="NEUTRAL" x="938.9219" y="1879.1018" z="343.3525" heading="0" front="0.5">
+	<stats maxHp="288154736" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.74524" y="1902.9155" z="331.32822" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="828.11804" y="1923.151" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="752.8507" y="1818.8154" z="322.125" heading="2" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="832196" level="65" name="Mutani" name_id="464691" height="2.5" title_id="463213" title="&lt;Legion Field Material Merchant&gt;" ai="NON_ATTACKABLE" x="840.6795" y="1935.3234" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="799013" level="55" name="Phoulion" name_id="354513" height="1.3" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="923.34076" y="1896.6947" z="338.01233" heading="20" front="0.22749999">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="832173" level="65" name="Polyzarus" name_id="464495" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="918.2995" y="1899.2058" z="338.01245" heading="20" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257381" level="65" name="Fortress High Magus" name_id="320637" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="897.6887" y="1918.1154" z="336.65732" heading="104" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="799.5548" y="1927.7736" z="334.45724" heading="25" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832199" level="65" name="Silian" name_id="464694" height="2.2" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="831.7521" y="1939.2408" z="336.6573" heading="18" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="809.3606" y="1931.3208" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832197" level="65" name="Somara" name_id="464692" height="2.5" title_id="463211" title="&lt;Legion Special Crafting Material Contributor&gt;" ai="NON_ATTACKABLE" x="837.62195" y="1936.6046" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="857.62585" y="1937.864" z="336.79074" heading="83" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="872.6316" y="1931.1942" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257525" level="55" name="Aryshmarna" name_id="321828" height="2.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.5313" y="1902.377" z="338.01437" heading="56" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="832200" level="65" name="Melion" name_id="464695" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="828.68567" y="1940.712" z="336.65692" heading="18" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="236328" level="65" name="Inggison Petrahulk" name_id="349834" height="7.0" title_id="335018" title="&lt;Conquest Offering&gt;" ai="AGGRESSIVE" x="938.9219" y="1879.1018" z="343.3525" heading="0" front="5.6">
+	<stats maxHp="117149" />
+</npc_template>
+<npc_template npc_id="856155" level="65" name="None" name_id="350000" height="1.0" ai="NEUTRAL" x="938.9219" y="1879.1018" z="343.3525" heading="0" front="0.5">
+	<stats maxHp="288154736" />
+</npc_template>
+<npc_template npc_id="799585" level="55" name="Koray" name_id="354390" height="2.16" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="928.83984" y="1903.3363" z="338.01627" heading="53" front="0.42000002">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="799004" level="56" name="Keios" name_id="354504" height="1.8" title_id="370214" title="&lt;Hushblade Legionary&gt;" ai="NON_ATTACKABLE" x="807.8176" y="1944.7567" z="337.41592" heading="118" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="896.15" y="1931.2808" z="336.65732" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="752.8507" y="1818.8154" z="322.125" heading="2" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="759.7303" y="1910.7687" z="333.26123" heading="110" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="799060" level="55" name="Distine" name_id="354560" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="925.481" y="1913.6594" z="338.01254" heading="83" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="930.3396" y="1906.1426" z="338.01477" heading="53" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="790.62683" y="1939.6617" z="346.0936" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799011" level="55" name="Delphia" name_id="354511" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="809.09485" y="1949.3114" z="337.4507" heading="111" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="825.0674" y="1952.7892" z="336.64987" heading="56" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="841.82886" y="1954.6183" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="752.8507" y="1818.8154" z="322.125" heading="2" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="257396" level="65" name="Fortress Mage" name_id="320652" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="771.5526" y="1931.666" z="333.26123" heading="61" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799012" level="55" name="Zurd" name_id="354512" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="813.6958" y="1958.7205" z="337.46072" heading="111" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="771.9734" y="1941.4698" z="333.33356" heading="10" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="799014" level="55" name="Verulie" name_id="354514" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="815.38434" y="1963.2688" z="337.457" heading="111" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="734.8864" y="1832.1387" z="322.125" heading="89" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="727.516" y="1864.0111" z="322.125" heading="71" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215864" level="55" name="Madshelled Ksellid" name_id="320133" height="2.145" ai="AGGRESSIVE" x="719.504" y="1804.8398" z="324.844" heading="23" front="1.125">
+	<stats maxHp="23930" />
+</npc_template>
+<npc_template npc_id="215730" level="55" name="Sulfur Petrahulk" name_id="319752" height="7.0" ai="AGGRESSIVE" x="707.5291" y="1846.6456" z="323.93738" heading="88" front="5.6">
+	<stats maxHp="17607" />
+</npc_template>
+<npc_template npc_id="700911" level="1" name="Hardened Crater" name_id="371624" height="2.0" ai="NON_ATTACKABLE" x="712.82715" y="1866.3936" z="322.125" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="715.6036" y="1893.8079" z="322.21558" heading="33" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="771.9734" y="1941.4698" z="333.33356" heading="10" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="902.3358" y="1853.2653" z="333.442" heading="14" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832195" level="65" name="Hitonerk" name_id="464690" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="884.0023" y="1916.4878" z="336.6573" heading="18" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257393" level="65" name="Fortress Sniper" name_id="320649" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="898.6019" y="1891.9518" z="345.95987" heading="83" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257533" level="65" name="Teleportation Tower" name_id="322239" height="3.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="771.9734" y="1941.4698" z="333.33356" heading="10" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="799011" level="55" name="Delphia" name_id="354511" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="809.09485" y="1949.3114" z="337.4507" heading="111" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="857.62585" y="1937.864" z="336.79074" heading="83" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832194" level="65" name="Dubans" name_id="464689" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="887.2159" y="1915.0474" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832192" level="65" name="Nica" name_id="464687" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="893.5597" y="1912.3575" z="336.65732" heading="18" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832193" level="65" name="Ranuas" name_id="464688" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="890.39215" y="1913.6666" z="336.6573" heading="18" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="872.6316" y="1931.1942" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257387" level="65" name="Fortress Gallowglass" name_id="320643" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="824.15314" y="1953.0342" z="336.6491" heading="55" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257384" level="65" name="Fortress Medic" name_id="320640" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="914.3046" y="1870.1608" z="333.63785" heading="2" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257381" level="65" name="Fortress High Magus" name_id="320637" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="898.25995" y="1917.3291" z="336.65674" heading="102" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799012" level="55" name="Zurd" name_id="354512" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="813.6958" y="1958.7205" z="337.46072" heading="111" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257390" level="65" name="Fortress Assassin" name_id="320646" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="841.82886" y="1954.6183" z="336.6573" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799014" level="55" name="Verulie" name_id="354514" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="815.38434" y="1963.2688" z="337.457" heading="111" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="832173" level="65" name="Polyzarus" name_id="464495" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="918.2995" y="1899.2058" z="338.01245" heading="20" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257399" level="65" name="Fortress Priest" name_id="320655" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="896.15" y="1931.2808" z="336.65732" heading="83" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257375" level="65" name="Fortress Trigger" name_id="320631" height="2.7" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="814.6813" y="1971.2239" z="337.4146" heading="53" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799013" level="55" name="Phoulion" name_id="354513" height="1.3" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="923.34076" y="1896.6947" z="338.01233" heading="20" front="0.22749999">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257525" level="55" name="Aryshmarna" name_id="321828" height="2.0" title_id="314390" title="&lt;Altar Garrison&gt;" ai="NON_ATTACKABLE" x="921.5313" y="1902.377" z="338.01437" heading="56" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="799060" level="55" name="Distine" name_id="354560" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="925.481" y="1913.6594" z="338.01254" heading="83" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799585" level="55" name="Koray" name_id="354390" height="2.16" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="928.83984" y="1903.3363" z="338.01627" heading="53" front="0.42000002">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="930.3396" y="1906.1426" z="338.01477" heading="53" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="799005" level="56" name="Ingnie" name_id="354505" height="2.4" title_id="370214" title="&lt;Hushblade Legionary&gt;" ai="NON_ATTACKABLE" x="930.3897" y="1911.3192" z="338.0126" heading="83" front="0.42000002">
+	<stats maxHp="152113" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="724.4691" y="1862.6549" z="322.125" heading="68" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="714.68567" y="1896.2883" z="322.38864" heading="37" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>
+<npc_template npc_id="215734" level="55" name="Sulfur Dragrint" name_id="319756" height="7.9500003" ai="AGGRESSIVE" x="724.20593" y="1861.844" z="322.125" heading="117" front="2.1750002">
+	<stats maxHp="15526" />
+</npc_template>

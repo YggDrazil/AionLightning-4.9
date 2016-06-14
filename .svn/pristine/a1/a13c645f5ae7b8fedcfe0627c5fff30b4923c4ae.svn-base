@@ -1,0 +1,1848 @@
+<npc_template npc_id="278509" level="45" name="Obel" name_id="313509" height="2.0" title_id="315008" title="&lt;Warehouse Keeper&gt;" ai="NON_ATTACKABLE" x="2972.7554" y="859.0395" z="1546.1356" heading="33" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278525" level="45" name="Lavinia" name_id="313529" height="2.0" title_id="315008" title="&lt;Warehouse Keeper&gt;" ai="NON_ATTACKABLE" x="2979.1462" y="859.82007" z="1546.1356" heading="33" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278635" level="45" name="Nerites" name_id="313644" height="2.0" title_id="314313" title="&lt;Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2937.7517" y="883.45404" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278522" level="45" name="Lasendi" name_id="313526" height="2.0" title_id="315015" title="&lt;Manastone Remover&gt;" ai="NON_ATTACKABLE" x="2943.0295" y="875.2391" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278636" level="45" name="Deucalion" name_id="313645" height="2.0" title_id="314314" title="&lt;Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="2934.0117" y="887.47186" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278637" level="45" name="Menoetios" name_id="313646" height="2.0" title_id="314315" title="&lt;Accessory Distributor&gt;" ai="NON_ATTACKABLE" x="2933.1033" y="888.7083" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="804494" level="65" name="Dranitas" name_id="357594" height="1.8" title_id="463648" title="&lt;Stigma Vendor&gt;" ai="NON_ATTACKABLE" x="2937.7383" y="895.509" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="278508" level="45" name="Zeth" name_id="313508" height="2.0" title_id="315007" title="&lt;Potion Supplies&gt;" ai="NON_ATTACKABLE" x="2938.8984" y="879.9779" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279047" level="50" name="Kizelmanon" name_id="319030" height="2.0" title_id="314364" title="&lt;Greater Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2936.7957" y="884.53156" z="1539.1194" heading="16" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="278541" level="53" name="Virgo" name_id="313545" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2967.4937" y="894.22833" z="1546.0931" heading="15" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278641" level="56" name="Protector Hyperion" name_id="313650" height="2.1" ai="NON_ATTACKABLE" x="2967.0" y="884.0" z="1546.092" heading="13" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="279046" level="50" name="Thea" name_id="319029" height="2.0" title_id="314363" title="&lt;Greater Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2946.0178" y="888.1173" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="279048" level="45" name="Teucer" name_id="319031" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2948.3105" y="890.4396" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279043" level="45" name="Nobus" name_id="314040" height="2.0" title_id="314362" title="&lt;Stigma Master&gt;" ai="NON_ATTACKABLE" x="2952.622" y="878.2763" z="1546.1271" heading="43" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278634" level="45" name="Glaucos" name_id="313643" height="2.0" title_id="314312" title="&lt;Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2944.9634" y="887.0978" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279062" level="50" name="Kalix" name_id="314053" height="2.0" title_id="315073" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="2980.6907" y="867.14087" z="1546.1356" heading="63" front="0.35">
+	<stats maxHp="28815" />
+</npc_template>
+<npc_template npc_id="278638" level="45" name="Achelos" name_id="313647" height="2.0" title_id="357695" title="&lt;Silver Combat Administration Officer&gt;" ai="NON_ATTACKABLE" x="2998.165" y="883.093" z="1546.2755" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278540" level="52" name="Grus" name_id="313544" height="2.0" title_id="315050" title="&lt;Priest&gt;" ai="NON_ATTACKABLE" x="3001.4583" y="879.534" z="1546.2755" heading="45" front="0.35">
+	<stats maxHp="17253" />
+</npc_template>
+<npc_template npc_id="278639" level="45" name="Melpomene" name_id="313648" height="2.0" title_id="357696" title="&lt;Silver Magic Administration Officer&gt;" ai="NON_ATTACKABLE" x="3001.9504" y="886.7663" z="1546.2728" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278524" level="45" name="Magnus" name_id="313528" height="2.0" title_id="357694" title="&lt;Gold Magic Administration Officer&gt;" ai="NON_ATTACKABLE" x="3006.1055" y="874.1671" z="1546.2755" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278538" level="53" name="Aries" name_id="313542" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2993.2393" y="889.0931" z="1546.0913" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278537" level="53" name="Nalis" name_id="313541" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2996.2134" y="891.97766" z="1546.0914" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278539" level="52" name="Ara" name_id="313543" height="2.0" title_id="315050" title="&lt;Priest&gt;" ai="NON_ATTACKABLE" x="3005.1907" y="883.13403" z="1546.2693" heading="45" front="0.35">
+	<stats maxHp="17253" />
+</npc_template>
+<npc_template npc_id="700000" level="1" name="Mailbox" name_id="350707" height="2.0" ai="NON_ATTACKABLE" x="2997.9663" y="892.688" z="1546.0914" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="799830" level="50" name="Basileides" name_id="355144" height="1.8" title_id="370285" title="&lt;Radiant Ops Steward&gt;" ai="NON_ATTACKABLE" x="2985.3176" y="884.80615" z="1546.0913" heading="33" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="206314" level="60" name="Varina" name_id="463012" height="2.5" title_id="358180" title="&lt;Cygnea Teleporter&gt;" ai="NON_ATTACKABLE" x="2979.6357" y="882.53503" z="1546.0913" heading="35" front="0.4375">
+	<stats maxHp="23691" />
+</npc_template>
+<npc_template npc_id="278523" level="45" name="Makidna" name_id="313527" height="2.0" title_id="357693" title="&lt;Gold Combat Administration Officer&gt;" ai="NON_ATTACKABLE" x="3009.6682" y="877.9234" z="1546.2439" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278536" level="55" name="Nani" name_id="313540" height="2.0" title_id="315020" title="&lt;Protector of Divinity&gt;" ai="NON_ATTACKABLE" x="3012.4673" y="871.16876" z="1546.2085" heading="45" front="0.35">
+	<stats maxHp="94498" />
+</npc_template>
+<npc_template npc_id="730183" level="1" name="Terrible Dredgion" name_id="371199" height="2.0" ai="NON_ATTACKABLE" x="2943.7996" y="902.7147" z="1540.2388" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="804495" level="65" name="Felix" name_id="357595" height="1.8" title_id="466226" title="&lt;Stigma Researcher&gt;" ai="NON_ATTACKABLE" x="2938.6548" y="896.3008" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="279049" level="45" name="Monitan" name_id="319032" height="2.0" title_id="358109" title="&lt;Magic Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2941.0881" y="898.58734" z="1539.1194" heading="106" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278653" level="55" name="Goimonerk" name_id="313662" height="1.16875" title_id="314421" title="&lt;Coin Collector&gt;" ai="NON_ATTACKABLE" x="2912.1885" y="924.9034" z="1539.6613" heading="30" front="0.595">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="206333" level="55" name="Rais" name_id="463926" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2942.9504" y="900.2321" z="1539.1195" heading="106" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278531" level="53" name="Puella" name_id="313535" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2950.1545" y="906.3184" z="1539.0884" heading="15" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278503" level="58" name="Calon" name_id="313503" height="2.4" title_id="314302" title="&lt;Nezekan's General&gt;" ai="NON_ATTACKABLE" x="2974.1406" y="903.22516" z="1540.0504" heading="41" front="0.42000002">
+	<stats maxHp="3214671" />
+</npc_template>
+<npc_template npc_id="278533" level="53" name="Rentia" name_id="313537" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2967.034" y="907.40356" z="1538.9121" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2973.4065" y="902.34424" z="1540.0504" heading="41" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278530" level="53" name="Akuba" name_id="313534" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.0815" y="900.4296" z="1539.0884" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="730071" level="1" name="Obelisk" name_id="350971" height="2.0" ai="NON_ATTACKABLE" x="2984.767" y="901.65283" z="1546.3339" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278532" level="53" name="Ventus" name_id="313536" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2981.465" y="920.55914" z="1538.9126" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="278502" level="58" name="Sakmis" name_id="313502" height="2.0" title_id="314301" title="&lt;Gray Wind General&gt;" ai="NON_ATTACKABLE" x="2984.4958" y="912.21643" z="1540.0508" heading="41" front="0.35">
+	<stats maxHp="2425615" />
+</npc_template>
+<npc_template npc_id="278642" level="56" name="Protector Galinthias" name_id="313651" height="2.1" ai="NON_ATTACKABLE" x="3005.0" y="917.0" z="1546.092" heading="75" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278640" level="56" name="Protector Uranos" name_id="313649" height="2.1" ai="NON_ATTACKABLE" x="2990.0" y="896.0" z="1546.0913" heading="41" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278529" level="53" name="Akastos" name_id="313533" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2989.348" y="924.41345" z="1539.0887" heading="60" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278501" level="60" name="Michalis" name_id="313501" height="2.2" title_id="315000" title="&lt;Governor of Reshanta&gt;" ai="NON_ATTACKABLE" x="2982.5322" y="904.0564" z="1540.167" heading="41" front="0.385">
+	<stats maxHp="3634559" />
+</npc_template>
+<npc_template npc_id="799831" level="50" name="Valentius" name_id="355145" height="1.8" title_id="370252" title="&lt;Radiant Ops Agent&gt;" ai="NON_ATTACKABLE" x="2987.6377" y="902.4295" z="1545.5642" heading="105" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278504" level="50" name="Moia" name_id="313504" height="1.8" title_id="315003" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="2984.3093" y="898.532" z="1545.4972" heading="105" front="0.35">
+	<stats maxHp="132919" />
+</npc_template>
+<npc_template npc_id="799828" level="50" name="Pompo" name_id="355142" height="1.8" title_id="370286" title="&lt;Radiant Ops Recruiter&gt;" ai="NON_ATTACKABLE" x="3002.4402" y="899.66675" z="1546.0916" heading="55" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278535" level="53" name="Maius" name_id="313539" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2997.0" y="927.0" z="1539.0887" heading="73" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278542" level="53" name="Trian" name_id="313546" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2995.1633" y="918.25684" z="1546.0931" heading="75" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="730128" level="1" name="Expedition to Reshanta" name_id="371042" height="2.0" ai="NON_ATTACKABLE" x="3009.1672" y="902.74316" z="1547.2394" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="279002" level="40" name="Ikarinerk" name_id="313518" height="1.16875" title_id="315066" title="&lt;Trade Broker&gt;" ai="NON_ATTACKABLE" x="3027.9983" y="902.44073" z="1546.121" heading="56" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279001" level="40" name="Nayorinerk" name_id="313517" height="1.16875" title_id="315066" title="&lt;Trade Broker&gt;" ai="NON_ATTACKABLE" x="3029.4453" y="908.9396" z="1546.121" heading="61" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278545" level="53" name="Amos" name_id="313549" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2915.0735" y="931.8329" z="1539.6613" heading="87" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278543" level="53" name="Rupus" name_id="313547" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2930.5815" y="952.63165" z="1538.1674" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278527" level="53" name="Hecabe" name_id="313531" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2957.1082" y="929.1414" z="1538.9121" heading="105" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278526" level="53" name="Evander" name_id="313530" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.9897" y="934.18585" z="1538.9124" heading="105" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278510" level="45" name="Lucius" name_id="313510" height="2.4" title_id="315009" title="&lt;Weapons&gt;" ai="NON_ATTACKABLE" x="3005.0525" y="941.2883" z="1546.1555" heading="105" front="0.42000002">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278528" level="53" name="Eurytion" name_id="313532" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2985.449" y="936.4227" z="1539.0887" heading="75" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278648" level="50" name="Kuponerk" name_id="313657" height="2.0" title_id="314393" title="&lt;Mist Weapon Merchant&gt;" ai="NON_ATTACKABLE" x="3003.8784" y="940.376" z="1546.1555" heading="105" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278521" level="45" name="Tenoeril" name_id="313525" height="2.0" title_id="315014" title="&lt;Food&gt;" ai="NON_ATTACKABLE" x="3005.5928" y="951.92303" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278649" level="50" name="Nonorerk" name_id="313658" height="2.0" title_id="314394" title="&lt;Mist Armor Merchant&gt;" ai="NON_ATTACKABLE" x="3014.0513" y="943.1288" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="205454" level="55" name="Auminos" name_id="355078" height="2.0" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="3010.302" y="948.22955" z="1546.1555" heading="103" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278650" level="50" name="Kukurunerk" name_id="313659" height="2.0" title_id="314395" title="&lt;Mist Shield Merchant&gt;" ai="NON_ATTACKABLE" x="3011.9038" y="933.3404" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278507" level="45" name="Denegos" name_id="313507" height="2.0" title_id="315006" title="&lt;General Goods Merchant&gt;" ai="NON_ATTACKABLE" x="3009.778" y="947.032" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278511" level="45" name="Minon" name_id="313511" height="2.0" title_id="315010" title="&lt;Armor&gt;" ai="NON_ATTACKABLE" x="3014.8933" y="942.0665" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278512" level="45" name="Flavius" name_id="313512" height="2.0" title_id="315011" title="&lt;Shield&gt;" ai="NON_ATTACKABLE" x="3010.857" y="932.4392" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278544" level="53" name="Adellian" name_id="313548" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2942.1418" y="962.9152" z="1538.1681" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278652" level="45" name="Laum" name_id="313661" height="2.0" title_id="314417" title="&lt;Vagabond Armor Craftsman&gt;" ai="NON_ATTACKABLE" x="2937.53" y="980.109" z="1539.6613" heading="90" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278546" level="53" name="Anika" name_id="313550" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2953.5884" y="976.3255" z="1539.6613" heading="62" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="805473" level="65" name="Moltenspike Outpost" name_id="394538" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805446" level="65" name="Coldforge Outpost" name_id="394511" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805464" level="65" name="Stokebellow Outpost" name_id="394529" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805470" level="65" name="Smoldergeist Outpost" name_id="394535" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805461" level="65" name="Flameruin Outpost" name_id="394526" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805440" level="65" name="Rattlefrost Outpost" name_id="394505" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805452" level="65" name="Icehowl Outpost" name_id="394517" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805458" level="65" name="Sootguzzle Outpost" name_id="394523" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805441" level="65" name="Sliversleet Outpost" name_id="394506" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805455" level="65" name="Chillhaunt Outpost" name_id="394520" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="41" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805467" level="65" name="Blazerack Outpost" name_id="394532" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="805448" level="65" name="Shimmerfrost Outpost" name_id="394513" height="2.0" ai="NEUTRAL" x="0.0" y="0.0" z="0.0" heading="0" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="278653" level="55" name="Goimonerk" name_id="313662" height="1.16875" title_id="314421" title="&lt;Coin Collector&gt;" ai="NON_ATTACKABLE" x="2912.1885" y="924.9034" z="1539.6613" heading="30" front="0.595">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278543" level="53" name="Rupus" name_id="313547" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2930.5815" y="952.63165" z="1538.1674" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278544" level="53" name="Adellian" name_id="313548" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2942.1418" y="962.9152" z="1538.1681" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278545" level="53" name="Amos" name_id="313549" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2916.2803" y="940.31964" z="1539.6614" heading="26" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278546" level="53" name="Anika" name_id="313550" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2943.0632" y="973.40076" z="1539.6613" heading="71" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278546" level="53" name="Anika" name_id="313550" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2936.14" y="969.52" z="1538.1676" heading="71" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278652" level="45" name="Laum" name_id="313661" height="2.0" title_id="314417" title="&lt;Vagabond Armor Craftsman&gt;" ai="NON_ATTACKABLE" x="2937.53" y="980.109" z="1539.6613" heading="90" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278558" level="53" name="Darios" name_id="313562" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2861.9214" y="917.5734" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278556" level="53" name="Cymaon" name_id="313560" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2860.5566" y="916.05133" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278557" level="53" name="Dellaron" name_id="313561" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2856.68" y="916.8815" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278555" level="53" name="Clatanan" name_id="313559" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2858.6946" y="916.062" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278558" level="53" name="Darios" name_id="313562" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2861.9214" y="917.5734" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="730142" level="1" name="Teminon Coin Fountain" name_id="371067" height="1.8199999" ai="NON_ATTACKABLE" x="3027.6404" y="958.65125" z="1462.8105" heading="0" front="0.36749998">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="279035" level="40" name="Laichinchinerk" name_id="314026" height="1.16875" title_id="314427" title="&lt;Elyos Designer&gt;" ai="NON_ATTACKABLE" x="2955.8389" y="1012.8661" z="1533.6797" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279036" level="40" name="Muirunerk" name_id="314027" height="1.16875" title_id="314428" title="&lt;Elyos Fine Designer&gt;" ai="NON_ATTACKABLE" x="2955.4207" y="1009.2236" z="1533.6812" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279034" level="40" name="Baoninerk" name_id="314025" height="1.16875" title_id="314336" title="&lt;Tigraki Weaponsmithing Master&gt;" ai="NON_ATTACKABLE" x="2976.997" y="1019.7737" z="1533.6785" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="3063.7322" y="1009.164" z="1513.786" heading="45" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278517" level="56" name="Nereus" name_id="313521" height="2.0" title_id="315029" title="&lt;Gray Wind Centurion&gt;" ai="NON_ATTACKABLE" x="3064.4666" y="1010.1205" z="1513.786" heading="45" front="0.35">
+	<stats maxHp="285984" />
+</npc_template>
+<npc_template npc_id="730142" level="1" name="Teminon Coin Fountain" name_id="371067" height="1.8199999" ai="NON_ATTACKABLE" x="3027.6404" y="958.65125" z="1462.8105" heading="0" front="0.36749998">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="279036" level="40" name="Muirunerk" name_id="314027" height="1.16875" title_id="314428" title="&lt;Elyos Fine Designer&gt;" ai="NON_ATTACKABLE" x="2955.4207" y="1009.2236" z="1533.6812" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279035" level="40" name="Laichinchinerk" name_id="314026" height="1.16875" title_id="314427" title="&lt;Elyos Designer&gt;" ai="NON_ATTACKABLE" x="2955.8389" y="1012.8661" z="1533.6797" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279034" level="40" name="Baoninerk" name_id="314025" height="1.16875" title_id="314336" title="&lt;Tigraki Weaponsmithing Master&gt;" ai="NON_ATTACKABLE" x="2976.997" y="1019.7737" z="1533.6785" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279057" level="53" name="Hippotades" name_id="314046" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2953.5586" y="1022.8863" z="1533.6786" heading="6" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="730075" level="1" name="Heiron Teleport Tower" name_id="350987" height="2.0" ai="NON_ATTACKABLE" x="2970.2957" y="1032.4742" z="1534.0199" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="279057" level="53" name="Hippotades" name_id="314046" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2953.5586" y="1022.8863" z="1533.6786" heading="6" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="278558" level="53" name="Darios" name_id="313562" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2861.9214" y="917.5734" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278556" level="53" name="Cymaon" name_id="313560" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2860.5566" y="916.05133" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278555" level="53" name="Clatanan" name_id="313559" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2858.6946" y="916.062" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278557" level="53" name="Dellaron" name_id="313561" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2856.68" y="916.8815" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="730073" level="1" name="Verteron Teleport Tower" name_id="350985" height="2.0" ai="NON_ATTACKABLE" x="2857.8088" y="932.03015" z="1534.0078" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278554" level="53" name="Claudia" name_id="313558" height="2.0" title_id="315023" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2848.2244" y="916.9525" z="1533.6484" heading="18" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="279035" level="40" name="Laichinchinerk" name_id="314026" height="1.16875" title_id="314427" title="&lt;Elyos Designer&gt;" ai="NON_ATTACKABLE" x="2955.8389" y="1012.8661" z="1533.6797" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279036" level="40" name="Muirunerk" name_id="314027" height="1.16875" title_id="314428" title="&lt;Elyos Fine Designer&gt;" ai="NON_ATTACKABLE" x="2955.4207" y="1009.2236" z="1533.6812" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278646" level="45" name="Philemon" name_id="313655" height="2.0" title_id="314359" title="&lt;Ancient Goblet Administration Officer&gt;" ai="NON_ATTACKABLE" x="2885.6394" y="987.8448" z="1527.9968" heading="30" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278651" level="40" name="Aurunerk" name_id="313660" height="1.16875" title_id="315067" title="&lt;Black Cloud Trader&gt;" ai="NON_ATTACKABLE" x="2890.6553" y="989.0407" z="1527.9968" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278645" level="45" name="Ceres" name_id="313654" height="2.0" title_id="314358" title="&lt;Ancient Seal Administration Officer&gt;" ai="NON_ATTACKABLE" x="2910.9333" y="1009.2087" z="1527.99" heading="58" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279057" level="53" name="Hippotades" name_id="314046" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2953.5586" y="1022.8863" z="1533.6786" heading="6" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="279034" level="40" name="Baoninerk" name_id="314025" height="1.16875" title_id="314336" title="&lt;Tigraki Weaponsmithing Master&gt;" ai="NON_ATTACKABLE" x="2976.997" y="1019.7737" z="1533.6785" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278555" level="53" name="Clatanan" name_id="313559" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2858.6946" y="916.062" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="730073" level="1" name="Verteron Teleport Tower" name_id="350985" height="2.0" ai="NON_ATTACKABLE" x="2857.8088" y="932.03015" z="1534.0078" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278647" level="45" name="Bergila" name_id="313656" height="2.0" title_id="314360" title="&lt;Ancient Crown Administration Officer&gt;" ai="NON_ATTACKABLE" x="2875.7026" y="989.14124" z="1527.9966" heading="30" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278550" level="53" name="Belita" name_id="313554" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2880.4343" y="993.21045" z="1527.9968" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278549" level="53" name="Barono" name_id="313553" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2905.147" y="1015.5157" z="1527.9968" heading="60" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278644" level="45" name="Iacchus" name_id="313653" height="2.0" title_id="314357" title="&lt;Ancient Icon Administration Officer&gt;" ai="NON_ATTACKABLE" x="2912.1663" y="1019.1576" z="1528.0033" heading="58" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278552" level="53" name="Siunatu" name_id="313556" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2958.1238" y="1034.1332" z="1533.6813" heading="3" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="730075" level="1" name="Heiron Teleport Tower" name_id="350987" height="2.0" ai="NON_ATTACKABLE" x="2970.2957" y="1032.4742" z="1534.0199" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278557" level="53" name="Dellaron" name_id="313561" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2856.68" y="916.8815" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="730074" level="1" name="Eltnen Teleport Tower" name_id="350986" height="2.0" ai="NON_ATTACKABLE" x="2885.9976" y="1014.347" z="1528.3396" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="279025" level="40" name="Guuminerk" name_id="314016" height="1.16875" title_id="314307" title="&lt;Tigraki Workshop Merchant&gt;" ai="NON_ATTACKABLE" x="2942.3044" y="1040.0579" z="1533.6816" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279033" level="40" name="Guyarunerk" name_id="314024" height="1.16875" title_id="314426" title="&lt;Elyos Lesser Designer&gt;" ai="NON_ATTACKABLE" x="2945.9058" y="1040.2893" z="1533.6803" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278554" level="53" name="Claudia" name_id="313558" height="2.0" title_id="315023" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2848.2244" y="916.9525" z="1533.6484" heading="18" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="279056" level="53" name="Pelasgus" name_id="314045" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2844.8906" y="948.4781" z="1533.6483" heading="106" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="278564" level="53" name="Pleta" name_id="313568" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2967.0688" y="1044.4204" z="1533.6781" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278565" level="53" name="Grania" name_id="313569" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2971.5508" y="1044.0536" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278566" level="53" name="Teres" name_id="313570" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2976.0754" y="1043.6946" z="1533.6783" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2845.66" y="918.7829" z="1533.6484" heading="13" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278518" level="56" name="Erienne" name_id="313522" height="2.0" title_id="315029" title="&lt;Gray Wind Centurion&gt;" ai="NON_ATTACKABLE" x="2846.2783" y="918.1379" z="1533.6484" heading="13" front="0.35">
+	<stats maxHp="272835" />
+</npc_template>
+<npc_template npc_id="278551" level="53" name="Bonitra" name_id="313555" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2854.4531" y="1001.685" z="1527.9968" heading="57" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278534" level="53" name="Terita" name_id="313538" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2871.819" y="1027.0234" z="1527.9968" heading="44" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278563" level="53" name="Pellatino" name_id="313567" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2973.4617" y="1045.837" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278562" level="53" name="Elsana" name_id="313566" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2970.1648" y="1046.1912" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278553" level="53" name="Caranos" name_id="313557" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2871.731" y="1028.8601" z="1527.9968" heading="104" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278560" level="53" name="Radone" name_id="313564" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2969.2083" y="1048.4207" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278547" level="53" name="Rastin" name_id="313551" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2853.6077" y="1017.0829" z="1527.9968" heading="0" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278548" level="53" name="Arvid" name_id="313552" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2879.88" y="1043.801" z="1527.9966" heading="90" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278559" level="53" name="Chrioz" name_id="313563" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2972.219" y="1051.0922" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278561" level="53" name="Elintos" name_id="313565" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2974.6785" y="1047.9119" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2972.0293" y="1054.875" z="1533.6788" heading="85" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278520" level="56" name="Cesilie" name_id="313524" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2971.0774" y="1054.766" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="328717" />
+</npc_template>
+<npc_template npc_id="278519" level="56" name="Soniksius" name_id="313523" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2973.7786" y="1054.5046" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="361589" />
+</npc_template>
+<npc_template npc_id="278556" level="53" name="Cymaon" name_id="313560" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2860.5566" y="916.05133" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278522" level="45" name="Lasendi" name_id="313526" height="2.0" title_id="315015" title="&lt;Manastone Remover&gt;" ai="NON_ATTACKABLE" x="2943.0295" y="875.2391" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278557" level="53" name="Dellaron" name_id="313561" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2856.68" y="916.8815" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278555" level="53" name="Clatanan" name_id="313559" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2858.6946" y="916.062" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278506" level="50" name="Tellus" name_id="313506" height="1.8" title_id="315004" title="&lt;Teleporter&gt;" ai="NON_ATTACKABLE" x="2861.7727" y="1041.2919" z="1528.2529" heading="105" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="278554" level="53" name="Claudia" name_id="313558" height="2.0" title_id="315023" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2848.2244" y="916.9525" z="1533.6484" heading="18" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="206314" level="60" name="Varina" name_id="463012" height="2.5" title_id="358180" title="&lt;Cygnea Teleporter&gt;" ai="NON_ATTACKABLE" x="2979.6357" y="882.53503" z="1546.0913" heading="35" front="0.4375">
+	<stats maxHp="23691" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2845.66" y="918.7829" z="1533.6484" heading="13" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278518" level="56" name="Erienne" name_id="313522" height="2.0" title_id="315029" title="&lt;Gray Wind Centurion&gt;" ai="NON_ATTACKABLE" x="2846.2783" y="918.1379" z="1533.6484" heading="13" front="0.35">
+	<stats maxHp="272835" />
+</npc_template>
+<npc_template npc_id="799830" level="50" name="Basileides" name_id="355144" height="1.8" title_id="370285" title="&lt;Radiant Ops Steward&gt;" ai="NON_ATTACKABLE" x="2985.3176" y="884.80615" z="1546.0913" heading="33" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278538" level="53" name="Aries" name_id="313542" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2993.2393" y="889.0931" z="1546.0913" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278537" level="53" name="Nalis" name_id="313541" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2996.2134" y="891.97766" z="1546.0914" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="799828" level="50" name="Pompo" name_id="355142" height="1.8" title_id="370286" title="&lt;Radiant Ops Recruiter&gt;" ai="NON_ATTACKABLE" x="3002.4402" y="899.66675" z="1546.0916" heading="55" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="700000" level="1" name="Mailbox" name_id="350707" height="2.0" ai="NON_ATTACKABLE" x="2997.9663" y="892.688" z="1546.0914" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278534" level="53" name="Terita" name_id="313538" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2871.6604" y="1026.9102" z="1527.9968" heading="105" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278533" level="53" name="Rentia" name_id="313537" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2967.034" y="907.40356" z="1538.9121" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="278541" level="53" name="Virgo" name_id="313545" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2967.4937" y="894.22833" z="1546.0931" heading="15" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278641" level="56" name="Protector Hyperion" name_id="313650" height="2.1" ai="NON_ATTACKABLE" x="2967.0" y="884.0" z="1546.092" heading="13" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278509" level="45" name="Obel" name_id="313509" height="2.0" title_id="315008" title="&lt;Warehouse Keeper&gt;" ai="NON_ATTACKABLE" x="2972.7554" y="859.0395" z="1546.1356" heading="33" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278525" level="45" name="Lavinia" name_id="313529" height="2.0" title_id="315008" title="&lt;Warehouse Keeper&gt;" ai="NON_ATTACKABLE" x="2979.1462" y="859.82007" z="1546.1356" heading="33" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278569" level="40" name="Horia" name_id="313573" height="2.0" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2872.9924" y="748.3974" z="1499.8988" heading="85" front="0.35">
+	<stats maxHp="7064" />
+</npc_template>
+<npc_template npc_id="700413" level="1" name="Portal Statue" name_id="371145" height="2.0" ai="NON_ATTACKABLE" x="2884.7393" y="743.44244" z="1504.0764" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="279011" level="40" name="Nagunerk" name_id="313592" height="1.16875" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2948.922" y="761.883" z="1532.7711" heading="85" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278568" level="40" name="Recondita" name_id="313572" height="2.0" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2913.1138" y="737.5057" z="1504.3458" heading="85" front="0.35">
+	<stats maxHp="7064" />
+</npc_template>
+<npc_template npc_id="278567" level="56" name="Erysiphe" name_id="313571" height="2.0" title_id="315059" title="&lt;Supervisor&gt;" ai="NON_ATTACKABLE" x="2949.083" y="753.8517" z="1533.2225" heading="76" front="0.35">
+	<stats maxHp="285984" />
+</npc_template>
+<npc_template npc_id="279012" level="40" name="Jominerk" name_id="313593" height="1.16875" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2956.265" y="758.6795" z="1535.6912" heading="85" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279062" level="50" name="Kalix" name_id="314053" height="2.0" title_id="315073" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="2980.6907" y="867.14087" z="1546.1356" heading="63" front="0.35">
+	<stats maxHp="28815" />
+</npc_template>
+<npc_template npc_id="278571" level="40" name="Halonas" name_id="313575" height="2.0" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2846.4624" y="694.1289" z="1524.1293" heading="85" front="0.35">
+	<stats maxHp="7064" />
+</npc_template>
+<npc_template npc_id="278570" level="40" name="Poma" name_id="313574" height="2.0" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2942.754" y="691.0462" z="1458.8987" heading="85" front="0.35">
+	<stats maxHp="7064" />
+</npc_template>
+<npc_template npc_id="278500" level="45" name="Yuditio" name_id="313500" height="2.0" title_id="315052" title="&lt;Pyrotechnician&gt;" ai="NON_ATTACKABLE" x="2966.0" y="676.0" z="1521.1588" heading="50" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278509" level="45" name="Obel" name_id="313509" height="2.0" title_id="315008" title="&lt;Warehouse Keeper&gt;" ai="NON_ATTACKABLE" x="2972.7554" y="859.0395" z="1546.1356" heading="33" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278525" level="45" name="Lavinia" name_id="313529" height="2.0" title_id="315008" title="&lt;Warehouse Keeper&gt;" ai="NON_ATTACKABLE" x="2979.1462" y="859.82007" z="1546.1356" heading="33" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278522" level="45" name="Lasendi" name_id="313526" height="2.0" title_id="315015" title="&lt;Manastone Remover&gt;" ai="NON_ATTACKABLE" x="2943.0295" y="875.2391" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279062" level="50" name="Kalix" name_id="314053" height="2.0" title_id="315073" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="2980.6907" y="867.14087" z="1546.1356" heading="63" front="0.35">
+	<stats maxHp="28815" />
+</npc_template>
+<npc_template npc_id="278508" level="45" name="Zeth" name_id="313508" height="2.0" title_id="315007" title="&lt;Potion Supplies&gt;" ai="NON_ATTACKABLE" x="2938.8984" y="879.9779" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279043" level="45" name="Nobus" name_id="314040" height="2.0" title_id="314362" title="&lt;Stigma Master&gt;" ai="NON_ATTACKABLE" x="2952.622" y="878.2763" z="1546.1271" heading="43" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278635" level="45" name="Nerites" name_id="313644" height="2.0" title_id="314313" title="&lt;Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2937.7517" y="883.45404" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278636" level="45" name="Deucalion" name_id="313645" height="2.0" title_id="314314" title="&lt;Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="2934.0117" y="887.47186" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278637" level="45" name="Menoetios" name_id="313646" height="2.0" title_id="314315" title="&lt;Accessory Distributor&gt;" ai="NON_ATTACKABLE" x="2933.1033" y="888.7083" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279047" level="50" name="Kizelmanon" name_id="319030" height="2.0" title_id="314364" title="&lt;Greater Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2936.7957" y="884.53156" z="1539.1194" heading="16" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="278641" level="56" name="Protector Hyperion" name_id="313650" height="2.1" ai="NON_ATTACKABLE" x="2967.0" y="884.0" z="1546.092" heading="13" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="279046" level="50" name="Thea" name_id="319029" height="2.0" title_id="314363" title="&lt;Greater Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2946.0178" y="888.1173" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="278634" level="45" name="Glaucos" name_id="313643" height="2.0" title_id="314312" title="&lt;Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2944.9634" y="887.0978" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279048" level="45" name="Teucer" name_id="319031" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2948.3105" y="890.4396" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="206314" level="60" name="Varina" name_id="463012" height="2.5" title_id="358180" title="&lt;Cygnea Teleporter&gt;" ai="NON_ATTACKABLE" x="2979.6357" y="882.53503" z="1546.0913" heading="35" front="0.4375">
+	<stats maxHp="23691" />
+</npc_template>
+<npc_template npc_id="804494" level="65" name="Dranitas" name_id="357594" height="1.8" title_id="463648" title="&lt;Stigma Vendor&gt;" ai="NON_ATTACKABLE" x="2937.7383" y="895.509" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="804495" level="65" name="Felix" name_id="357595" height="1.8" title_id="466226" title="&lt;Stigma Researcher&gt;" ai="NON_ATTACKABLE" x="2938.6548" y="896.3008" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="279049" level="45" name="Monitan" name_id="319032" height="2.0" title_id="358109" title="&lt;Magic Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2941.0881" y="898.58734" z="1539.1194" heading="106" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="206333" level="55" name="Rais" name_id="463926" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2942.9504" y="900.2321" z="1539.1195" heading="106" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="730183" level="1" name="Terrible Dredgion" name_id="371199" height="2.0" ai="NON_ATTACKABLE" x="2943.7996" y="902.7147" z="1540.2388" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278554" level="53" name="Claudia" name_id="313558" height="2.0" title_id="315023" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2848.2244" y="916.9525" z="1533.6484" heading="18" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278558" level="53" name="Darios" name_id="313562" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2861.9214" y="917.5734" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278557" level="53" name="Dellaron" name_id="313561" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2856.68" y="916.8815" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278556" level="53" name="Cymaon" name_id="313560" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2860.5566" y="916.05133" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278555" level="53" name="Clatanan" name_id="313559" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2858.6946" y="916.062" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="277066" level="50" name="Senior Sentry" name_id="320087" height="2.0" title_id="314386" title="&lt;Teminon Special Guard&gt;" ai="NON_ATTACKABLE" x="2774.946" y="835.3326" z="1484.9292" heading="17" front="0.35">
+	<stats maxHp="228925" />
+</npc_template>
+<npc_template npc_id="277066" level="50" name="Senior Sentry" name_id="320087" height="2.0" title_id="314386" title="&lt;Teminon Special Guard&gt;" ai="NON_ATTACKABLE" x="2783.8389" y="854.51306" z="1482.2635" heading="73" front="0.35">
+	<stats maxHp="228925" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2845.66" y="918.7829" z="1533.6484" heading="13" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278518" level="56" name="Erienne" name_id="313522" height="2.0" title_id="315029" title="&lt;Gray Wind Centurion&gt;" ai="NON_ATTACKABLE" x="2846.2783" y="918.1379" z="1533.6484" heading="13" front="0.35">
+	<stats maxHp="272835" />
+</npc_template>
+<npc_template npc_id="277066" level="50" name="Senior Sentry" name_id="320087" height="2.0" title_id="314386" title="&lt;Teminon Special Guard&gt;" ai="NON_ATTACKABLE" x="2766.104" y="832.7159" z="1484.3826" heading="56" front="0.35">
+	<stats maxHp="228925" />
+</npc_template>
+<npc_template npc_id="277066" level="50" name="Senior Sentry" name_id="320087" height="2.0" title_id="314386" title="&lt;Teminon Special Guard&gt;" ai="NON_ATTACKABLE" x="2773.8376" y="847.27344" z="1483.7529" heading="9" front="0.35">
+	<stats maxHp="228925" />
+</npc_template>
+<npc_template npc_id="279045" level="53" name="Maias" name_id="314042" height="2.0" title_id="315054" title="&lt;Centurion&gt;" ai="NON_ATTACKABLE" x="2768.895" y="835.94507" z="1484.449" heading="40" front="0.35">
+	<stats maxHp="66684" />
+</npc_template>
+<npc_template npc_id="279039" level="53" name="Asellus" name_id="314036" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2772.099" y="839.261" z="1484.5559" heading="50" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="277066" level="50" name="Senior Sentry" name_id="320087" height="2.0" title_id="314386" title="&lt;Teminon Special Guard&gt;" ai="NON_ATTACKABLE" x="2762.0388" y="852.29663" z="1481.97" heading="106" front="0.35">
+	<stats maxHp="228925" />
+</npc_template>
+<npc_template npc_id="277066" level="50" name="Senior Sentry" name_id="320087" height="2.0" title_id="314386" title="&lt;Teminon Special Guard&gt;" ai="NON_ATTACKABLE" x="2755.1707" y="842.8615" z="1480.8368" heading="106" front="0.35">
+	<stats maxHp="228925" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2845.66" y="918.7829" z="1533.6484" heading="13" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278518" level="56" name="Erienne" name_id="313522" height="2.0" title_id="315029" title="&lt;Gray Wind Centurion&gt;" ai="NON_ATTACKABLE" x="2846.2783" y="918.1379" z="1533.6484" heading="13" front="0.35">
+	<stats maxHp="272835" />
+</npc_template>
+<npc_template npc_id="278554" level="53" name="Claudia" name_id="313558" height="2.0" title_id="315023" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2848.2244" y="916.9525" z="1533.6484" heading="18" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278557" level="53" name="Dellaron" name_id="313561" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2856.68" y="916.8815" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278556" level="53" name="Cymaon" name_id="313560" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2860.5566" y="916.05133" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278555" level="53" name="Clatanan" name_id="313559" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2858.6946" y="916.062" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278558" level="53" name="Darios" name_id="313562" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2861.9214" y="917.5734" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="279056" level="53" name="Pelasgus" name_id="314045" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2844.8906" y="948.4781" z="1533.6483" heading="106" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="730073" level="1" name="Verteron Teleport Tower" name_id="350985" height="2.0" ai="NON_ATTACKABLE" x="2857.8088" y="932.03015" z="1534.0078" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278647" level="45" name="Bergila" name_id="313656" height="2.0" title_id="314360" title="&lt;Ancient Crown Administration Officer&gt;" ai="NON_ATTACKABLE" x="2875.7026" y="989.14124" z="1527.9966" heading="30" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278551" level="53" name="Bonitra" name_id="313555" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2866.55" y="1000.0175" z="1527.9968" heading="117" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278646" level="45" name="Philemon" name_id="313655" height="2.0" title_id="314359" title="&lt;Ancient Goblet Administration Officer&gt;" ai="NON_ATTACKABLE" x="2885.6394" y="987.8448" z="1527.9968" heading="30" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278547" level="53" name="Rastin" name_id="313551" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2853.6077" y="1017.0829" z="1527.9968" heading="0" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278550" level="53" name="Belita" name_id="313554" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2880.4343" y="993.21045" z="1527.9968" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278651" level="40" name="Aurunerk" name_id="313660" height="1.16875" title_id="315067" title="&lt;Black Cloud Trader&gt;" ai="NON_ATTACKABLE" x="2890.6553" y="989.0407" z="1527.9968" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278653" level="55" name="Goimonerk" name_id="313662" height="1.16875" title_id="314421" title="&lt;Coin Collector&gt;" ai="NON_ATTACKABLE" x="2912.1885" y="924.9034" z="1539.6613" heading="30" front="0.595">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278545" level="53" name="Amos" name_id="313549" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2917.4968" y="943.7773" z="1539.6615" heading="87" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278534" level="53" name="Terita" name_id="313538" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2912.7034" y="981.03375" z="1535.9065" heading="105" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278543" level="53" name="Rupus" name_id="313547" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2930.5815" y="952.63165" z="1538.1674" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278553" level="53" name="Caranos" name_id="313557" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2927.8943" y="967.69226" z="1538.1672" heading="105" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278636" level="45" name="Deucalion" name_id="313645" height="2.0" title_id="314314" title="&lt;Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="2934.0117" y="887.47186" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278637" level="45" name="Menoetios" name_id="313646" height="2.0" title_id="314315" title="&lt;Accessory Distributor&gt;" ai="NON_ATTACKABLE" x="2933.1033" y="888.7083" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278635" level="45" name="Nerites" name_id="313644" height="2.0" title_id="314313" title="&lt;Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2937.7517" y="883.45404" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="804494" level="65" name="Dranitas" name_id="357594" height="1.8" title_id="463648" title="&lt;Stigma Vendor&gt;" ai="NON_ATTACKABLE" x="2937.7383" y="895.509" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="278508" level="45" name="Zeth" name_id="313508" height="2.0" title_id="315007" title="&lt;Potion Supplies&gt;" ai="NON_ATTACKABLE" x="2938.8984" y="879.9779" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279047" level="50" name="Kizelmanon" name_id="319030" height="2.0" title_id="314364" title="&lt;Greater Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2936.7957" y="884.53156" z="1539.1194" heading="16" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="730183" level="1" name="Terrible Dredgion" name_id="371199" height="2.0" ai="NON_ATTACKABLE" x="2943.7996" y="902.7147" z="1540.2388" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="804495" level="65" name="Felix" name_id="357595" height="1.8" title_id="466226" title="&lt;Stigma Researcher&gt;" ai="NON_ATTACKABLE" x="2938.6548" y="896.3008" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="279049" level="45" name="Monitan" name_id="319032" height="2.0" title_id="358109" title="&lt;Magic Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2941.0881" y="898.58734" z="1539.1194" heading="106" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="206333" level="55" name="Rais" name_id="463926" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2942.9504" y="900.2321" z="1539.1195" heading="106" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278544" level="53" name="Adellian" name_id="313548" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2942.1418" y="962.9152" z="1538.1681" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="730074" level="1" name="Eltnen Teleport Tower" name_id="350986" height="2.0" ai="NON_ATTACKABLE" x="2885.9976" y="1014.347" z="1528.3396" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="279046" level="50" name="Thea" name_id="319029" height="2.0" title_id="314363" title="&lt;Greater Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2946.0178" y="888.1173" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="279048" level="45" name="Teucer" name_id="319031" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2948.3105" y="890.4396" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278634" level="45" name="Glaucos" name_id="313643" height="2.0" title_id="314312" title="&lt;Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2944.9634" y="887.0978" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278531" level="53" name="Puella" name_id="313535" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2950.1545" y="906.3184" z="1539.0884" heading="15" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278652" level="45" name="Laum" name_id="313661" height="2.0" title_id="314417" title="&lt;Vagabond Armor Craftsman&gt;" ai="NON_ATTACKABLE" x="2937.53" y="980.109" z="1539.6613" heading="90" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278652" level="45" name="Laum" name_id="313661" height="2.0" title_id="314417" title="&lt;Vagabond Armor Craftsman&gt;" ai="NON_ATTACKABLE" x="2937.53" y="980.109" z="1539.6613" heading="90" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278645" level="45" name="Ceres" name_id="313654" height="2.0" title_id="314358" title="&lt;Ancient Seal Administration Officer&gt;" ai="NON_ATTACKABLE" x="2910.9333" y="1009.2087" z="1527.99" heading="58" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278549" level="53" name="Barono" name_id="313553" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2905.147" y="1015.5157" z="1527.9968" heading="60" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278644" level="45" name="Iacchus" name_id="313653" height="2.0" title_id="314357" title="&lt;Ancient Icon Administration Officer&gt;" ai="NON_ATTACKABLE" x="2912.1663" y="1019.1576" z="1528.0033" heading="58" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278506" level="50" name="Tellus" name_id="313506" height="1.8" title_id="315004" title="&lt;Teleporter&gt;" ai="NON_ATTACKABLE" x="2861.7727" y="1041.2919" z="1528.2529" heading="105" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="278548" level="53" name="Arvid" name_id="313552" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2879.88" y="1043.801" z="1527.9966" heading="90" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278552" level="53" name="Siunatu" name_id="313556" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2884.5537" y="1049.769" z="1527.9965" heading="49" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="279036" level="40" name="Muirunerk" name_id="314027" height="1.16875" title_id="314428" title="&lt;Elyos Fine Designer&gt;" ai="NON_ATTACKABLE" x="2955.4207" y="1009.2236" z="1533.6812" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279035" level="40" name="Laichinchinerk" name_id="314026" height="1.16875" title_id="314427" title="&lt;Elyos Designer&gt;" ai="NON_ATTACKABLE" x="2955.8389" y="1012.8661" z="1533.6797" heading="25" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279057" level="53" name="Hippotades" name_id="314046" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2953.5586" y="1022.8863" z="1533.6786" heading="6" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="279025" level="40" name="Guuminerk" name_id="314016" height="1.16875" title_id="314307" title="&lt;Tigraki Workshop Merchant&gt;" ai="NON_ATTACKABLE" x="2942.3044" y="1040.0579" z="1533.6816" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279033" level="40" name="Guyarunerk" name_id="314024" height="1.16875" title_id="314426" title="&lt;Elyos Lesser Designer&gt;" ai="NON_ATTACKABLE" x="2945.9058" y="1040.2893" z="1533.6803" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278546" level="53" name="Anika" name_id="313550" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.8425" y="976.89795" z="1539.6613" heading="63" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="730075" level="1" name="Heiron Teleport Tower" name_id="350987" height="2.0" ai="NON_ATTACKABLE" x="2970.2957" y="1032.4742" z="1534.0199" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278564" level="53" name="Pleta" name_id="313568" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2967.0688" y="1044.4204" z="1533.6781" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278562" level="53" name="Elsana" name_id="313566" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2970.1648" y="1046.1912" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278560" level="53" name="Radone" name_id="313564" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2969.2083" y="1048.4207" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2972.0293" y="1054.875" z="1533.6788" heading="85" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278563" level="53" name="Pellatino" name_id="313567" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2973.4617" y="1045.837" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278565" level="53" name="Grania" name_id="313569" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2971.5508" y="1044.0536" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278559" level="53" name="Chrioz" name_id="313563" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2972.219" y="1051.0922" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278520" level="56" name="Cesilie" name_id="313524" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2971.0774" y="1054.766" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="328717" />
+</npc_template>
+<npc_template npc_id="278546" level="53" name="Anika" name_id="313550" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2953.5884" y="976.3255" z="1539.6613" heading="62" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278561" level="53" name="Elintos" name_id="313565" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2974.6785" y="1047.9119" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278519" level="56" name="Soniksius" name_id="313523" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2973.7786" y="1054.5046" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="361589" />
+</npc_template>
+<npc_template npc_id="279034" level="40" name="Baoninerk" name_id="314025" height="1.16875" title_id="314336" title="&lt;Tigraki Weaponsmithing Master&gt;" ai="NON_ATTACKABLE" x="2976.997" y="1019.7737" z="1533.6785" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278566" level="53" name="Teres" name_id="313570" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2976.0754" y="1043.6946" z="1533.6783" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278545" level="53" name="Amos" name_id="313549" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2917.1125" y="943.90533" z="1539.6615" heading="26" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278521" level="45" name="Tenoeril" name_id="313525" height="2.0" title_id="315014" title="&lt;Food&gt;" ai="NON_ATTACKABLE" x="3005.5928" y="951.92303" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278526" level="53" name="Evander" name_id="313530" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.9897" y="934.18585" z="1538.9124" heading="105" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278528" level="53" name="Eurytion" name_id="313532" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2985.449" y="936.4227" z="1539.0887" heading="75" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="205454" level="55" name="Auminos" name_id="355078" height="2.0" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="3010.302" y="948.22955" z="1546.1555" heading="103" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278507" level="45" name="Denegos" name_id="313507" height="2.0" title_id="315006" title="&lt;General Goods Merchant&gt;" ai="NON_ATTACKABLE" x="3009.778" y="947.032" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278517" level="56" name="Nereus" name_id="313521" height="2.0" title_id="315029" title="&lt;Gray Wind Centurion&gt;" ai="NON_ATTACKABLE" x="3064.4666" y="1010.1205" z="1513.786" heading="45" front="0.35">
+	<stats maxHp="285984" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="3063.7322" y="1009.164" z="1513.786" heading="45" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278627" level="50" name="Eulos" name_id="313636" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3065.182" y="1011.3768" z="1513.786" heading="41" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278526" level="53" name="Evander" name_id="313530" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.9897" y="934.18585" z="1538.9124" heading="105" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278510" level="45" name="Lucius" name_id="313510" height="2.4" title_id="315009" title="&lt;Weapons&gt;" ai="NON_ATTACKABLE" x="3005.0525" y="941.2883" z="1546.1555" heading="105" front="0.42000002">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278528" level="53" name="Eurytion" name_id="313532" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2985.449" y="936.4227" z="1539.0887" heading="75" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278648" level="50" name="Kuponerk" name_id="313657" height="2.0" title_id="314393" title="&lt;Mist Weapon Merchant&gt;" ai="NON_ATTACKABLE" x="3003.8784" y="940.376" z="1546.1555" heading="105" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278649" level="50" name="Nonorerk" name_id="313658" height="2.0" title_id="314394" title="&lt;Mist Armor Merchant&gt;" ai="NON_ATTACKABLE" x="3014.0513" y="943.1288" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278511" level="45" name="Minon" name_id="313511" height="2.0" title_id="315010" title="&lt;Armor&gt;" ai="NON_ATTACKABLE" x="3014.8933" y="942.0665" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278650" level="50" name="Kukurunerk" name_id="313659" height="2.0" title_id="314395" title="&lt;Mist Shield Merchant&gt;" ai="NON_ATTACKABLE" x="3011.9038" y="933.3404" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278527" level="53" name="Hecabe" name_id="313531" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2957.1082" y="929.1414" z="1538.9121" heading="105" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278512" level="45" name="Flavius" name_id="313512" height="2.0" title_id="315011" title="&lt;Shield&gt;" ai="NON_ATTACKABLE" x="3010.857" y="932.4392" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278535" level="53" name="Maius" name_id="313539" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2997.0" y="927.0" z="1539.0887" heading="73" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="730142" level="1" name="Teminon Coin Fountain" name_id="371067" height="1.8199999" ai="NON_ATTACKABLE" x="3027.6404" y="958.65125" z="1462.8105" heading="0" front="0.36749998">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278628" level="50" name="Sileni" name_id="313637" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3096.87" y="970.7699" z="1513.9066" heading="11" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278633" level="50" name="Larentia" name_id="313642" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3119.9238" y="1014.0674" z="1513.9065" heading="88" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278629" level="50" name="Adrastea" name_id="313638" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3112.2004" y="958.9039" z="1513.9072" heading="26" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278632" level="50" name="Jenirius" name_id="313641" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3138.7214" y="1007.5056" z="1513.9072" heading="81" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278630" level="50" name="Lachesis" name_id="313639" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3130.934" y="959.2533" z="1513.9073" heading="40" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278631" level="50" name="Erdias" name_id="313640" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3148.2522" y="990.80334" z="1513.9073" heading="63" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="730142" level="1" name="Teminon Coin Fountain" name_id="371067" height="1.8199999" ai="NON_ATTACKABLE" x="3027.6404" y="958.65125" z="1462.8105" heading="0" front="0.36749998">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278521" level="45" name="Tenoeril" name_id="313525" height="2.0" title_id="315014" title="&lt;Food&gt;" ai="NON_ATTACKABLE" x="3005.5928" y="951.92303" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278649" level="50" name="Nonorerk" name_id="313658" height="2.0" title_id="314394" title="&lt;Mist Armor Merchant&gt;" ai="NON_ATTACKABLE" x="3014.0513" y="943.1288" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="205454" level="55" name="Auminos" name_id="355078" height="2.0" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="3010.302" y="948.22955" z="1546.1555" heading="103" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278507" level="45" name="Denegos" name_id="313507" height="2.0" title_id="315006" title="&lt;General Goods Merchant&gt;" ai="NON_ATTACKABLE" x="3009.778" y="947.032" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278511" level="45" name="Minon" name_id="313511" height="2.0" title_id="315010" title="&lt;Armor&gt;" ai="NON_ATTACKABLE" x="3014.8933" y="942.0665" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278510" level="45" name="Lucius" name_id="313510" height="2.4" title_id="315009" title="&lt;Weapons&gt;" ai="NON_ATTACKABLE" x="3005.0525" y="941.2883" z="1546.1555" heading="105" front="0.42000002">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279034" level="40" name="Baoninerk" name_id="314025" height="1.16875" title_id="314336" title="&lt;Tigraki Weaponsmithing Master&gt;" ai="NON_ATTACKABLE" x="2976.997" y="1019.7737" z="1533.6785" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278648" level="50" name="Kuponerk" name_id="313657" height="2.0" title_id="314393" title="&lt;Mist Weapon Merchant&gt;" ai="NON_ATTACKABLE" x="3003.8784" y="940.376" z="1546.1555" heading="105" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278650" level="50" name="Kukurunerk" name_id="313659" height="2.0" title_id="314395" title="&lt;Mist Shield Merchant&gt;" ai="NON_ATTACKABLE" x="3011.9038" y="933.3404" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278512" level="45" name="Flavius" name_id="313512" height="2.0" title_id="315011" title="&lt;Shield&gt;" ai="NON_ATTACKABLE" x="3010.857" y="932.4392" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="730075" level="1" name="Heiron Teleport Tower" name_id="350987" height="2.0" ai="NON_ATTACKABLE" x="2970.2957" y="1032.4742" z="1534.0199" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278563" level="53" name="Pellatino" name_id="313567" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2973.4617" y="1045.837" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278565" level="53" name="Grania" name_id="313569" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2971.5508" y="1044.0536" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278561" level="53" name="Elintos" name_id="313565" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2974.6785" y="1047.9119" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278566" level="53" name="Teres" name_id="313570" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2976.0754" y="1043.6946" z="1533.6783" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278546" level="53" name="Anika" name_id="313550" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2967.6643" y="976.6487" z="1539.6613" heading="1" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2972.0293" y="1054.875" z="1533.6788" heading="85" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278562" level="53" name="Elsana" name_id="313566" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2970.1648" y="1046.1912" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278564" level="53" name="Pleta" name_id="313568" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2967.0688" y="1044.4204" z="1533.6781" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278559" level="53" name="Chrioz" name_id="313563" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2972.219" y="1051.0922" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278519" level="56" name="Soniksius" name_id="313523" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2973.7786" y="1054.5046" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="361589" />
+</npc_template>
+<npc_template npc_id="278560" level="53" name="Radone" name_id="313564" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2969.2083" y="1048.4207" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278642" level="56" name="Protector Galinthias" name_id="313651" height="2.1" ai="NON_ATTACKABLE" x="3005.0" y="917.0" z="1546.092" heading="75" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278529" level="53" name="Akastos" name_id="313533" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2989.348" y="924.41345" z="1539.0887" heading="60" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278535" level="53" name="Maius" name_id="313539" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2997.0" y="927.0" z="1539.0887" heading="73" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="279001" level="40" name="Nayorinerk" name_id="313517" height="1.16875" title_id="315066" title="&lt;Trade Broker&gt;" ai="NON_ATTACKABLE" x="3029.4453" y="908.9396" z="1546.121" heading="56" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278528" level="53" name="Eurytion" name_id="313532" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2985.449" y="936.4227" z="1539.0887" heading="75" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="279057" level="53" name="Hippotades" name_id="314046" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2953.5586" y="1022.8863" z="1533.6786" heading="6" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="279035" level="40" name="Laichinchinerk" name_id="314026" height="1.16875" title_id="314427" title="&lt;Elyos Designer&gt;" ai="NON_ATTACKABLE" x="2955.8389" y="1012.8661" z="1533.6797" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279036" level="40" name="Muirunerk" name_id="314027" height="1.16875" title_id="314428" title="&lt;Elyos Fine Designer&gt;" ai="NON_ATTACKABLE" x="2955.4207" y="1009.2236" z="1533.6812" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278520" level="56" name="Cesilie" name_id="313524" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2971.0774" y="1054.766" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="328717" />
+</npc_template>
+<npc_template npc_id="278532" level="53" name="Ventus" name_id="313536" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2981.465" y="920.55914" z="1538.9126" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="278542" level="53" name="Trian" name_id="313546" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2995.1633" y="918.25684" z="1546.0931" heading="75" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="279002" level="40" name="Ikarinerk" name_id="313518" height="1.16875" title_id="315066" title="&lt;Trade Broker&gt;" ai="NON_ATTACKABLE" x="3027.9983" y="902.44073" z="1546.121" heading="56" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="730128" level="1" name="Expedition to Reshanta" name_id="371042" height="2.0" ai="NON_ATTACKABLE" x="3009.1672" y="902.74316" z="1547.2394" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278526" level="53" name="Evander" name_id="313530" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.9897" y="934.18585" z="1538.9124" heading="105" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278502" level="58" name="Sakmis" name_id="313502" height="2.0" title_id="314301" title="&lt;Gray Wind General&gt;" ai="NON_ATTACKABLE" x="2984.4958" y="912.21643" z="1540.0508" heading="41" front="0.35">
+	<stats maxHp="2425615" />
+</npc_template>
+<npc_template npc_id="799828" level="50" name="Pompo" name_id="355142" height="1.8" title_id="370286" title="&lt;Radiant Ops Recruiter&gt;" ai="NON_ATTACKABLE" x="3002.4402" y="899.66675" z="1546.0916" heading="55" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278534" level="53" name="Terita" name_id="313538" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2962.052" y="928.9135" z="1538.9124" heading="104" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278544" level="53" name="Adellian" name_id="313548" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2942.1418" y="962.9152" z="1538.1681" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="700000" level="1" name="Mailbox" name_id="350707" height="2.0" ai="NON_ATTACKABLE" x="2997.9663" y="892.688" z="1546.0914" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="730071" level="1" name="Obelisk" name_id="350971" height="2.0" ai="NON_ATTACKABLE" x="2984.767" y="901.65283" z="1546.3339" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278640" level="56" name="Protector Uranos" name_id="313649" height="2.1" ai="NON_ATTACKABLE" x="2990.0" y="896.0" z="1546.0913" heading="41" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278501" level="60" name="Michalis" name_id="313501" height="2.2" title_id="315000" title="&lt;Governor of Reshanta&gt;" ai="NON_ATTACKABLE" x="2982.5322" y="904.0564" z="1540.167" heading="41" front="0.385">
+	<stats maxHp="3634559" />
+</npc_template>
+<npc_template npc_id="799831" level="50" name="Valentius" name_id="355145" height="1.8" title_id="370252" title="&lt;Radiant Ops Agent&gt;" ai="NON_ATTACKABLE" x="2987.6377" y="902.4295" z="1545.5642" heading="105" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278527" level="53" name="Hecabe" name_id="313531" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2957.1082" y="929.1414" z="1538.9121" heading="105" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278639" level="45" name="Melpomene" name_id="313648" height="2.0" title_id="357696" title="&lt;Silver Magic Administration Officer&gt;" ai="NON_ATTACKABLE" x="3001.9504" y="886.7663" z="1546.2728" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278537" level="53" name="Nalis" name_id="313541" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2996.2134" y="891.97766" z="1546.0914" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278503" level="58" name="Calon" name_id="313503" height="2.4" title_id="314302" title="&lt;Nezekan's General&gt;" ai="NON_ATTACKABLE" x="2974.1406" y="903.22516" z="1540.0504" heading="41" front="0.42000002">
+	<stats maxHp="3214671" />
+</npc_template>
+<npc_template npc_id="278533" level="53" name="Rentia" name_id="313537" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2967.034" y="907.40356" z="1538.9121" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2973.4065" y="902.34424" z="1540.0504" heading="41" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278504" level="50" name="Moia" name_id="313504" height="1.8" title_id="315003" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="2984.3093" y="898.532" z="1545.4972" heading="105" front="0.35">
+	<stats maxHp="132919" />
+</npc_template>
+<npc_template npc_id="278652" level="45" name="Laum" name_id="313661" height="2.0" title_id="314417" title="&lt;Vagabond Armor Craftsman&gt;" ai="NON_ATTACKABLE" x="2937.53" y="980.109" z="1539.6613" heading="90" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278638" level="45" name="Achelos" name_id="313647" height="2.0" title_id="357695" title="&lt;Silver Combat Administration Officer&gt;" ai="NON_ATTACKABLE" x="2998.165" y="883.093" z="1546.2755" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278540" level="52" name="Grus" name_id="313544" height="2.0" title_id="315050" title="&lt;Priest&gt;" ai="NON_ATTACKABLE" x="3001.4583" y="879.534" z="1546.2755" heading="45" front="0.35">
+	<stats maxHp="17253" />
+</npc_template>
+<npc_template npc_id="278538" level="53" name="Aries" name_id="313542" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2993.2393" y="889.0931" z="1546.0913" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278539" level="52" name="Ara" name_id="313543" height="2.0" title_id="315050" title="&lt;Priest&gt;" ai="NON_ATTACKABLE" x="3005.1907" y="883.13403" z="1546.2693" heading="45" front="0.35">
+	<stats maxHp="17253" />
+</npc_template>
+<npc_template npc_id="799830" level="50" name="Basileides" name_id="355144" height="1.8" title_id="370285" title="&lt;Radiant Ops Steward&gt;" ai="NON_ATTACKABLE" x="2985.3176" y="884.80615" z="1546.0913" heading="33" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278523" level="45" name="Makidna" name_id="313527" height="2.0" title_id="357693" title="&lt;Gold Combat Administration Officer&gt;" ai="NON_ATTACKABLE" x="3009.6682" y="877.9234" z="1546.2439" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278541" level="53" name="Virgo" name_id="313545" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2967.4937" y="894.22833" z="1546.0931" heading="15" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278524" level="45" name="Magnus" name_id="313528" height="2.0" title_id="357694" title="&lt;Gold Magic Administration Officer&gt;" ai="NON_ATTACKABLE" x="3006.1055" y="874.1671" z="1546.2755" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="206314" level="60" name="Varina" name_id="463012" height="2.5" title_id="358180" title="&lt;Cygnea Teleporter&gt;" ai="NON_ATTACKABLE" x="2979.6357" y="882.53503" z="1546.0913" heading="35" front="0.4375">
+	<stats maxHp="23691" />
+</npc_template>
+<npc_template npc_id="278536" level="55" name="Nani" name_id="313540" height="2.0" title_id="315020" title="&lt;Protector of Divinity&gt;" ai="NON_ATTACKABLE" x="3012.4673" y="871.16876" z="1546.2085" heading="45" front="0.35">
+	<stats maxHp="94498" />
+</npc_template>
+<npc_template npc_id="278531" level="53" name="Puella" name_id="313535" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2950.1545" y="906.3184" z="1539.0884" heading="15" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278530" level="53" name="Akuba" name_id="313534" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.0815" y="900.4296" z="1539.0884" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278641" level="56" name="Protector Hyperion" name_id="313650" height="2.1" ai="NON_ATTACKABLE" x="2967.0" y="884.0" z="1546.092" heading="13" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278543" level="53" name="Rupus" name_id="313547" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2930.5815" y="952.63165" z="1538.1674" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="279062" level="50" name="Kalix" name_id="314053" height="2.0" title_id="315073" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="2980.6907" y="867.14087" z="1546.1356" heading="63" front="0.35">
+	<stats maxHp="28815" />
+</npc_template>
+<npc_template npc_id="730183" level="1" name="Terrible Dredgion" name_id="371199" height="2.0" ai="NON_ATTACKABLE" x="2943.7996" y="902.7147" z="1540.2388" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="279057" level="53" name="Hippotades" name_id="314046" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2953.5586" y="1022.8863" z="1533.6786" heading="6" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="206333" level="55" name="Rais" name_id="463926" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2942.9504" y="900.2321" z="1539.1195" heading="106" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278563" level="53" name="Pellatino" name_id="313567" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2973.4617" y="1045.837" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278562" level="53" name="Elsana" name_id="313566" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2970.1648" y="1046.1912" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278564" level="53" name="Pleta" name_id="313568" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2967.0688" y="1044.4204" z="1533.6781" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278565" level="53" name="Grania" name_id="313569" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2971.5508" y="1044.0536" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278561" level="53" name="Elintos" name_id="313565" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2974.6785" y="1047.9119" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278566" level="53" name="Teres" name_id="313570" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2976.0754" y="1043.6946" z="1533.6783" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="279048" level="45" name="Teucer" name_id="319031" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2948.3105" y="890.4396" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279049" level="45" name="Monitan" name_id="319032" height="2.0" title_id="358109" title="&lt;Magic Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2941.0881" y="898.58734" z="1539.1194" heading="106" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278545" level="53" name="Amos" name_id="313549" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2917.1125" y="943.90533" z="1539.6615" heading="26" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2972.0293" y="1054.875" z="1533.6788" heading="85" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278559" level="53" name="Chrioz" name_id="313563" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2972.219" y="1051.0922" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278519" level="56" name="Soniksius" name_id="313523" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2973.7786" y="1054.5046" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="361589" />
+</npc_template>
+<npc_template npc_id="278520" level="56" name="Cesilie" name_id="313524" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2971.0774" y="1054.766" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="328717" />
+</npc_template>
+<npc_template npc_id="278560" level="53" name="Radone" name_id="313564" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2969.2083" y="1048.4207" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="804494" level="65" name="Dranitas" name_id="357594" height="1.8" title_id="463648" title="&lt;Stigma Vendor&gt;" ai="NON_ATTACKABLE" x="2937.7383" y="895.509" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="279046" level="50" name="Thea" name_id="319029" height="2.0" title_id="314363" title="&lt;Greater Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2946.0178" y="888.1173" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="804495" level="65" name="Felix" name_id="357595" height="1.8" title_id="466226" title="&lt;Stigma Researcher&gt;" ai="NON_ATTACKABLE" x="2938.6548" y="896.3008" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="279025" level="40" name="Guuminerk" name_id="314016" height="1.16875" title_id="314307" title="&lt;Tigraki Workshop Merchant&gt;" ai="NON_ATTACKABLE" x="2942.3044" y="1040.0579" z="1533.6816" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279033" level="40" name="Guyarunerk" name_id="314024" height="1.16875" title_id="314426" title="&lt;Elyos Lesser Designer&gt;" ai="NON_ATTACKABLE" x="2945.9058" y="1040.2893" z="1533.6803" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278634" level="45" name="Glaucos" name_id="313643" height="2.0" title_id="314312" title="&lt;Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2944.9634" y="887.0978" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278653" level="55" name="Goimonerk" name_id="313662" height="1.16875" title_id="314421" title="&lt;Coin Collector&gt;" ai="NON_ATTACKABLE" x="2912.1885" y="924.9034" z="1539.6613" heading="30" front="0.595">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278645" level="45" name="Ceres" name_id="313654" height="2.0" title_id="314358" title="&lt;Ancient Seal Administration Officer&gt;" ai="NON_ATTACKABLE" x="2910.9333" y="1009.2087" z="1527.99" heading="58" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278644" level="45" name="Iacchus" name_id="313653" height="2.0" title_id="314357" title="&lt;Ancient Icon Administration Officer&gt;" ai="NON_ATTACKABLE" x="2912.1663" y="1019.1576" z="1528.0033" heading="58" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278549" level="53" name="Barono" name_id="313553" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2905.147" y="1015.5157" z="1527.9968" heading="60" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278552" level="53" name="Siunatu" name_id="313556" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2916.551" y="1027.3491" z="1529.4441" heading="3" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278651" level="40" name="Aurunerk" name_id="313660" height="1.16875" title_id="315067" title="&lt;Black Cloud Trader&gt;" ai="NON_ATTACKABLE" x="2890.6553" y="989.0407" z="1527.9968" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278553" level="53" name="Caranos" name_id="313557" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2891.435" y="1006.22485" z="1527.9971" heading="44" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278646" level="45" name="Philemon" name_id="313655" height="2.0" title_id="314359" title="&lt;Ancient Goblet Administration Officer&gt;" ai="NON_ATTACKABLE" x="2885.6394" y="987.8448" z="1527.9968" heading="30" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278550" level="53" name="Belita" name_id="313554" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2880.4343" y="993.21045" z="1527.9968" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="730074" level="1" name="Eltnen Teleport Tower" name_id="350986" height="2.0" ai="NON_ATTACKABLE" x="2885.9976" y="1014.347" z="1528.3396" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278647" level="45" name="Bergila" name_id="313656" height="2.0" title_id="314360" title="&lt;Ancient Crown Administration Officer&gt;" ai="NON_ATTACKABLE" x="2875.7026" y="989.14124" z="1527.9966" heading="30" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278548" level="53" name="Arvid" name_id="313552" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2879.88" y="1043.801" z="1527.9966" heading="90" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278551" level="53" name="Bonitra" name_id="313555" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2865.1423" y="979.37915" z="1531.3395" heading="28" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278506" level="50" name="Tellus" name_id="313506" height="1.8" title_id="315004" title="&lt;Teleporter&gt;" ai="NON_ATTACKABLE" x="2861.7727" y="1041.2919" z="1528.2529" heading="105" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="278653" level="55" name="Goimonerk" name_id="313662" height="1.16875" title_id="314421" title="&lt;Coin Collector&gt;" ai="NON_ATTACKABLE" x="2912.1885" y="924.9034" z="1539.6613" heading="30" front="0.595">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278547" level="53" name="Rastin" name_id="313551" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2853.6077" y="1017.0829" z="1527.9968" heading="0" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278532" level="53" name="Ventus" name_id="313536" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2981.465" y="920.55914" z="1538.9126" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="279056" level="53" name="Pelasgus" name_id="314045" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2844.8906" y="948.4781" z="1533.6483" heading="106" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="730073" level="1" name="Verteron Teleport Tower" name_id="350985" height="2.0" ai="NON_ATTACKABLE" x="2857.8088" y="932.03015" z="1534.0078" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278558" level="53" name="Darios" name_id="313562" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2861.9214" y="917.5734" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278557" level="53" name="Dellaron" name_id="313561" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2856.68" y="916.8815" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278556" level="53" name="Cymaon" name_id="313560" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2860.5566" y="916.05133" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278555" level="53" name="Clatanan" name_id="313559" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2858.6946" y="916.062" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2845.66" y="918.7829" z="1533.6484" heading="13" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278518" level="56" name="Erienne" name_id="313522" height="2.0" title_id="315029" title="&lt;Gray Wind Centurion&gt;" ai="NON_ATTACKABLE" x="2846.2783" y="918.1379" z="1533.6484" heading="13" front="0.35">
+	<stats maxHp="272835" />
+</npc_template>
+<npc_template npc_id="278554" level="53" name="Claudia" name_id="313558" height="2.0" title_id="315023" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2848.2244" y="916.9525" z="1533.6484" heading="18" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="730183" level="1" name="Terrible Dredgion" name_id="371199" height="2.0" ai="NON_ATTACKABLE" x="2943.7996" y="902.7147" z="1540.2388" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="206333" level="55" name="Rais" name_id="463926" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2942.9504" y="900.2321" z="1539.1195" heading="106" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278531" level="53" name="Puella" name_id="313535" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2950.1545" y="906.3184" z="1539.0884" heading="15" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278528" level="53" name="Eurytion" name_id="313532" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2985.449" y="936.4227" z="1539.0887" heading="75" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="804494" level="65" name="Dranitas" name_id="357594" height="1.8" title_id="463648" title="&lt;Stigma Vendor&gt;" ai="NON_ATTACKABLE" x="2937.7383" y="895.509" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="804495" level="65" name="Felix" name_id="357595" height="1.8" title_id="466226" title="&lt;Stigma Researcher&gt;" ai="NON_ATTACKABLE" x="2938.6548" y="896.3008" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="279049" level="45" name="Monitan" name_id="319032" height="2.0" title_id="358109" title="&lt;Magic Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2941.0881" y="898.58734" z="1539.1194" heading="106" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278532" level="53" name="Ventus" name_id="313536" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2981.465" y="920.55914" z="1538.9126" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="278636" level="45" name="Deucalion" name_id="313645" height="2.0" title_id="314314" title="&lt;Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="2934.0117" y="887.47186" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278637" level="45" name="Menoetios" name_id="313646" height="2.0" title_id="314315" title="&lt;Accessory Distributor&gt;" ai="NON_ATTACKABLE" x="2933.1033" y="888.7083" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279046" level="50" name="Thea" name_id="319029" height="2.0" title_id="314363" title="&lt;Greater Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2946.0178" y="888.1173" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="279048" level="45" name="Teucer" name_id="319031" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2948.3105" y="890.4396" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278503" level="58" name="Calon" name_id="313503" height="2.4" title_id="314302" title="&lt;Nezekan's General&gt;" ai="NON_ATTACKABLE" x="2974.1406" y="903.22516" z="1540.0504" heading="41" front="0.42000002">
+	<stats maxHp="3214671" />
+</npc_template>
+<npc_template npc_id="278533" level="53" name="Rentia" name_id="313537" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2967.034" y="907.40356" z="1538.9121" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2973.4065" y="902.34424" z="1540.0504" heading="41" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278530" level="53" name="Akuba" name_id="313534" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.0815" y="900.4296" z="1539.0884" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278502" level="58" name="Sakmis" name_id="313502" height="2.0" title_id="314301" title="&lt;Gray Wind General&gt;" ai="NON_ATTACKABLE" x="2984.4958" y="912.21643" z="1540.0508" heading="41" front="0.35">
+	<stats maxHp="2425615" />
+</npc_template>
+<npc_template npc_id="278529" level="53" name="Akastos" name_id="313533" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2989.348" y="924.41345" z="1539.0887" heading="60" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278535" level="53" name="Maius" name_id="313539" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2997.0" y="927.0" z="1539.0887" heading="73" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278648" level="50" name="Kuponerk" name_id="313657" height="2.0" title_id="314393" title="&lt;Mist Weapon Merchant&gt;" ai="NON_ATTACKABLE" x="3003.8784" y="940.376" z="1546.1555" heading="105" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278521" level="45" name="Tenoeril" name_id="313525" height="2.0" title_id="315014" title="&lt;Food&gt;" ai="NON_ATTACKABLE" x="3005.5928" y="951.92303" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278635" level="45" name="Nerites" name_id="313644" height="2.0" title_id="314313" title="&lt;Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2937.7517" y="883.45404" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279047" level="50" name="Kizelmanon" name_id="319030" height="2.0" title_id="314364" title="&lt;Greater Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2936.7957" y="884.53156" z="1539.1194" heading="16" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="278634" level="45" name="Glaucos" name_id="313643" height="2.0" title_id="314312" title="&lt;Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2944.9634" y="887.0978" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278510" level="45" name="Lucius" name_id="313510" height="2.4" title_id="315009" title="&lt;Weapons&gt;" ai="NON_ATTACKABLE" x="3005.0525" y="941.2883" z="1546.1555" heading="105" front="0.42000002">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="205454" level="55" name="Auminos" name_id="355078" height="2.0" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="3010.302" y="948.22955" z="1546.1555" heading="103" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278507" level="45" name="Denegos" name_id="313507" height="2.0" title_id="315006" title="&lt;General Goods Merchant&gt;" ai="NON_ATTACKABLE" x="3009.778" y="947.032" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278508" level="45" name="Zeth" name_id="313508" height="2.0" title_id="315007" title="&lt;Potion Supplies&gt;" ai="NON_ATTACKABLE" x="2938.8984" y="879.9779" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278541" level="53" name="Virgo" name_id="313545" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2967.4937" y="894.22833" z="1546.0931" heading="15" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="279043" level="45" name="Nobus" name_id="314040" height="2.0" title_id="314362" title="&lt;Stigma Master&gt;" ai="NON_ATTACKABLE" x="2952.622" y="878.2763" z="1546.1271" heading="43" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="730071" level="1" name="Obelisk" name_id="350971" height="2.0" ai="NON_ATTACKABLE" x="2984.767" y="901.65283" z="1546.3339" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278501" level="60" name="Michalis" name_id="313501" height="2.2" title_id="315000" title="&lt;Governor of Reshanta&gt;" ai="NON_ATTACKABLE" x="2982.5322" y="904.0564" z="1540.167" heading="41" front="0.385">
+	<stats maxHp="3634559" />
+</npc_template>
+<npc_template npc_id="799831" level="50" name="Valentius" name_id="355145" height="1.8" title_id="370252" title="&lt;Radiant Ops Agent&gt;" ai="NON_ATTACKABLE" x="2987.6377" y="902.4295" z="1545.5642" heading="105" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278504" level="50" name="Moia" name_id="313504" height="1.8" title_id="315003" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="2984.3093" y="898.532" z="1545.4972" heading="105" front="0.35">
+	<stats maxHp="132919" />
+</npc_template>
+<npc_template npc_id="278542" level="53" name="Trian" name_id="313546" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2995.1633" y="918.25684" z="1546.0931" heading="75" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278649" level="50" name="Nonorerk" name_id="313658" height="2.0" title_id="314394" title="&lt;Mist Armor Merchant&gt;" ai="NON_ATTACKABLE" x="3014.0513" y="943.1288" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278650" level="50" name="Kukurunerk" name_id="313659" height="2.0" title_id="314395" title="&lt;Mist Shield Merchant&gt;" ai="NON_ATTACKABLE" x="3011.9038" y="933.3404" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278511" level="45" name="Minon" name_id="313511" height="2.0" title_id="315010" title="&lt;Armor&gt;" ai="NON_ATTACKABLE" x="3014.8933" y="942.0665" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278512" level="45" name="Flavius" name_id="313512" height="2.0" title_id="315011" title="&lt;Shield&gt;" ai="NON_ATTACKABLE" x="3010.857" y="932.4392" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278522" level="45" name="Lasendi" name_id="313526" height="2.0" title_id="315015" title="&lt;Manastone Remover&gt;" ai="NON_ATTACKABLE" x="2943.0295" y="875.2391" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278641" level="56" name="Protector Hyperion" name_id="313650" height="2.1" ai="NON_ATTACKABLE" x="2967.0" y="884.0" z="1546.092" heading="13" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278642" level="56" name="Protector Galinthias" name_id="313651" height="2.1" ai="NON_ATTACKABLE" x="3005.0" y="917.0" z="1546.092" heading="75" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278640" level="56" name="Protector Uranos" name_id="313649" height="2.1" ai="NON_ATTACKABLE" x="2990.0" y="896.0" z="1546.0913" heading="41" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278538" level="53" name="Aries" name_id="313542" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2993.2393" y="889.0931" z="1546.0913" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278537" level="53" name="Nalis" name_id="313541" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2996.2134" y="891.97766" z="1546.0914" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="700000" level="1" name="Mailbox" name_id="350707" height="2.0" ai="NON_ATTACKABLE" x="2997.9663" y="892.688" z="1546.0914" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="799830" level="50" name="Basileides" name_id="355144" height="1.8" title_id="370285" title="&lt;Radiant Ops Steward&gt;" ai="NON_ATTACKABLE" x="2985.3176" y="884.80615" z="1546.0913" heading="33" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="206314" level="60" name="Varina" name_id="463012" height="2.5" title_id="358180" title="&lt;Cygnea Teleporter&gt;" ai="NON_ATTACKABLE" x="2979.6357" y="882.53503" z="1546.0913" heading="35" front="0.4375">
+	<stats maxHp="23691" />
+</npc_template>
+<npc_template npc_id="799828" level="50" name="Pompo" name_id="355142" height="1.8" title_id="370286" title="&lt;Radiant Ops Recruiter&gt;" ai="NON_ATTACKABLE" x="3002.4402" y="899.66675" z="1546.0916" heading="55" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="730128" level="1" name="Expedition to Reshanta" name_id="371042" height="2.0" ai="NON_ATTACKABLE" x="3009.1672" y="902.74316" z="1547.2394" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278563" level="53" name="Pellatino" name_id="313567" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2973.4617" y="1045.837" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278560" level="53" name="Radone" name_id="313564" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2969.2083" y="1048.4207" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278638" level="45" name="Achelos" name_id="313647" height="2.0" title_id="357695" title="&lt;Silver Combat Administration Officer&gt;" ai="NON_ATTACKABLE" x="2998.165" y="883.093" z="1546.2755" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278639" level="45" name="Melpomene" name_id="313648" height="2.0" title_id="357696" title="&lt;Silver Magic Administration Officer&gt;" ai="NON_ATTACKABLE" x="3001.9504" y="886.7663" z="1546.2728" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278559" level="53" name="Chrioz" name_id="313563" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2972.219" y="1051.0922" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278561" level="53" name="Elintos" name_id="313565" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2974.6785" y="1047.9119" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278539" level="52" name="Ara" name_id="313543" height="2.0" title_id="315050" title="&lt;Priest&gt;" ai="NON_ATTACKABLE" x="3005.1907" y="883.13403" z="1546.2693" heading="45" front="0.35">
+	<stats maxHp="17253" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2972.0293" y="1054.875" z="1533.6788" heading="85" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278519" level="56" name="Soniksius" name_id="313523" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2973.7786" y="1054.5046" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="361589" />
+</npc_template>
+<npc_template npc_id="278520" level="56" name="Cesilie" name_id="313524" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2971.0774" y="1054.766" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="328717" />
+</npc_template>
+<npc_template npc_id="279001" level="40" name="Nayorinerk" name_id="313517" height="1.16875" title_id="315066" title="&lt;Trade Broker&gt;" ai="NON_ATTACKABLE" x="3029.4453" y="908.9396" z="1546.121" heading="56" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278539" level="52" name="Ara" name_id="313543" height="2.0" title_id="315050" title="&lt;Priest&gt;" ai="NON_ATTACKABLE" x="3005.1907" y="883.13403" z="1546.2693" heading="45" front="0.35">
+	<stats maxHp="17253" />
+</npc_template>
+<npc_template npc_id="279002" level="40" name="Ikarinerk" name_id="313518" height="1.16875" title_id="315066" title="&lt;Trade Broker&gt;" ai="NON_ATTACKABLE" x="3027.9983" y="902.44073" z="1546.121" heading="56" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278540" level="52" name="Grus" name_id="313544" height="2.0" title_id="315050" title="&lt;Priest&gt;" ai="NON_ATTACKABLE" x="3001.4583" y="879.534" z="1546.2755" heading="45" front="0.35">
+	<stats maxHp="17253" />
+</npc_template>
+<npc_template npc_id="278523" level="45" name="Makidna" name_id="313527" height="2.0" title_id="357693" title="&lt;Gold Combat Administration Officer&gt;" ai="NON_ATTACKABLE" x="3009.6682" y="877.9234" z="1546.2439" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278524" level="45" name="Magnus" name_id="313528" height="2.0" title_id="357694" title="&lt;Gold Magic Administration Officer&gt;" ai="NON_ATTACKABLE" x="3006.1055" y="874.1671" z="1546.2755" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="730142" level="1" name="Teminon Coin Fountain" name_id="371067" height="1.8199999" ai="NON_ATTACKABLE" x="3027.6404" y="958.65125" z="1462.8105" heading="0" front="0.36749998">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278627" level="50" name="Eulos" name_id="313636" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3065.182" y="1011.3768" z="1513.786" heading="41" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278517" level="56" name="Nereus" name_id="313521" height="2.0" title_id="315029" title="&lt;Gray Wind Centurion&gt;" ai="NON_ATTACKABLE" x="3064.4666" y="1010.1205" z="1513.786" heading="45" front="0.35">
+	<stats maxHp="285984" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="3063.7322" y="1009.164" z="1513.786" heading="45" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278536" level="55" name="Nani" name_id="313540" height="2.0" title_id="315020" title="&lt;Protector of Divinity&gt;" ai="NON_ATTACKABLE" x="3012.4673" y="871.16876" z="1546.2085" heading="45" front="0.35">
+	<stats maxHp="94498" />
+</npc_template>
+<npc_template npc_id="278628" level="50" name="Sileni" name_id="313637" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3096.87" y="970.7699" z="1513.9066" heading="11" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278629" level="50" name="Adrastea" name_id="313638" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3112.2004" y="958.9039" z="1513.9072" heading="26" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278630" level="50" name="Lachesis" name_id="313639" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3130.934" y="959.2533" z="1513.9073" heading="40" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278546" level="53" name="Anika" name_id="313550" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2957.9768" y="976.087" z="1539.6613" heading="1" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278633" level="50" name="Larentia" name_id="313642" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3119.9238" y="1014.0674" z="1513.9065" heading="88" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278631" level="50" name="Erdias" name_id="313640" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3148.2522" y="990.80334" z="1513.9073" heading="63" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="278632" level="50" name="Jenirius" name_id="313641" height="2.0" title_id="315064" title="&lt;Abyss Training Instructor&gt;" ai="NON_ATTACKABLE" x="3138.7214" y="1007.5056" z="1513.9072" heading="81" front="0.35">
+	<stats maxHp="14535" />
+</npc_template>
+<npc_template npc_id="279011" level="40" name="Nagunerk" name_id="313592" height="1.16875" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2948.922" y="761.883" z="1532.7711" heading="85" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278567" level="56" name="Erysiphe" name_id="313571" height="2.0" title_id="315059" title="&lt;Supervisor&gt;" ai="NON_ATTACKABLE" x="2949.083" y="753.8517" z="1533.2225" heading="76" front="0.35">
+	<stats maxHp="285984" />
+</npc_template>
+<npc_template npc_id="279012" level="40" name="Jominerk" name_id="313593" height="1.16875" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2956.265" y="758.6795" z="1535.6912" heading="85" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278500" level="45" name="Yuditio" name_id="313500" height="2.0" title_id="315052" title="&lt;Pyrotechnician&gt;" ai="NON_ATTACKABLE" x="2966.0" y="676.0" z="1521.1588" heading="50" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278568" level="40" name="Recondita" name_id="313572" height="2.0" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2913.1138" y="737.5057" z="1504.3458" heading="85" front="0.35">
+	<stats maxHp="7064" />
+</npc_template>
+<npc_template npc_id="279012" level="40" name="Jominerk" name_id="313593" height="1.16875" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2956.265" y="758.6795" z="1535.6912" heading="85" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278570" level="40" name="Poma" name_id="313574" height="2.0" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2942.754" y="691.0462" z="1458.8987" heading="85" front="0.35">
+	<stats maxHp="7064" />
+</npc_template>
+<npc_template npc_id="278568" level="40" name="Recondita" name_id="313572" height="2.0" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2913.1138" y="737.5057" z="1504.3458" heading="85" front="0.35">
+	<stats maxHp="7064" />
+</npc_template>
+<npc_template npc_id="279011" level="40" name="Nagunerk" name_id="313592" height="1.16875" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2948.922" y="761.883" z="1532.7711" heading="85" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="700413" level="1" name="Portal Statue" name_id="371145" height="2.0" ai="NON_ATTACKABLE" x="2884.7393" y="743.44244" z="1504.0764" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278571" level="40" name="Halonas" name_id="313575" height="2.0" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2846.4624" y="694.1289" z="1524.1293" heading="85" front="0.35">
+	<stats maxHp="7064" />
+</npc_template>
+<npc_template npc_id="278569" level="40" name="Horia" name_id="313573" height="2.0" title_id="315058" title="&lt;Construction Worker&gt;" ai="NON_ATTACKABLE" x="2872.9924" y="748.3974" z="1499.8988" heading="85" front="0.35">
+	<stats maxHp="7064" />
+</npc_template>
+<npc_template npc_id="278635" level="45" name="Nerites" name_id="313644" height="2.0" title_id="314313" title="&lt;Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2937.7517" y="883.45404" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278522" level="45" name="Lasendi" name_id="313526" height="2.0" title_id="315015" title="&lt;Manastone Remover&gt;" ai="NON_ATTACKABLE" x="2943.0295" y="875.2391" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278636" level="45" name="Deucalion" name_id="313645" height="2.0" title_id="314314" title="&lt;Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="2934.0117" y="887.47186" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278637" level="45" name="Menoetios" name_id="313646" height="2.0" title_id="314315" title="&lt;Accessory Distributor&gt;" ai="NON_ATTACKABLE" x="2933.1033" y="888.7083" z="1539.1194" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278508" level="45" name="Zeth" name_id="313508" height="2.0" title_id="315007" title="&lt;Potion Supplies&gt;" ai="NON_ATTACKABLE" x="2938.8984" y="879.9779" z="1546.1271" heading="15" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279047" level="50" name="Kizelmanon" name_id="319030" height="2.0" title_id="314364" title="&lt;Greater Armor Distributor&gt;" ai="NON_ATTACKABLE" x="2936.7957" y="884.53156" z="1539.1194" heading="16" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="278509" level="45" name="Obel" name_id="313509" height="2.0" title_id="315008" title="&lt;Warehouse Keeper&gt;" ai="NON_ATTACKABLE" x="2972.7554" y="859.0395" z="1546.1356" heading="33" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="804494" level="65" name="Dranitas" name_id="357594" height="1.8" title_id="463648" title="&lt;Stigma Vendor&gt;" ai="NON_ATTACKABLE" x="2937.7383" y="895.509" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="279046" level="50" name="Thea" name_id="319029" height="2.0" title_id="314363" title="&lt;Greater Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2946.0178" y="888.1173" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="279048" level="45" name="Teucer" name_id="319031" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2948.3105" y="890.4396" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279043" level="45" name="Nobus" name_id="314040" height="2.0" title_id="314362" title="&lt;Stigma Master&gt;" ai="NON_ATTACKABLE" x="2952.622" y="878.2763" z="1546.1271" heading="43" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278634" level="45" name="Glaucos" name_id="313643" height="2.0" title_id="314312" title="&lt;Weapon Distributor&gt;" ai="NON_ATTACKABLE" x="2944.9634" y="887.0978" z="1539.1195" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="804495" level="65" name="Felix" name_id="357595" height="1.8" title_id="466226" title="&lt;Stigma Researcher&gt;" ai="NON_ATTACKABLE" x="2938.6548" y="896.3008" z="1539.1194" heading="105" front="0.35">
+	<stats maxHp="26116" />
+</npc_template>
+<npc_template npc_id="279049" level="45" name="Monitan" name_id="319032" height="2.0" title_id="358109" title="&lt;Magic Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2941.0881" y="898.58734" z="1539.1194" heading="106" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="206333" level="55" name="Rais" name_id="463926" height="2.0" title_id="358108" title="&lt;Combat Stigma Quartermaster&gt;" ai="NON_ATTACKABLE" x="2942.9504" y="900.2321" z="1539.1195" heading="106" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278525" level="45" name="Lavinia" name_id="313529" height="2.0" title_id="315008" title="&lt;Warehouse Keeper&gt;" ai="NON_ATTACKABLE" x="2979.1462" y="859.82007" z="1546.1356" heading="33" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278641" level="56" name="Protector Hyperion" name_id="313650" height="2.1" ai="NON_ATTACKABLE" x="2967.0" y="884.0" z="1546.092" heading="13" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278554" level="53" name="Claudia" name_id="313558" height="2.0" title_id="315023" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2848.2244" y="916.9525" z="1533.6484" heading="18" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278558" level="53" name="Darios" name_id="313562" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2861.9214" y="917.5734" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278557" level="53" name="Dellaron" name_id="313561" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2856.68" y="916.8815" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278556" level="53" name="Cymaon" name_id="313560" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2860.5566" y="916.05133" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278555" level="53" name="Clatanan" name_id="313559" height="2.0" title_id="315024" title="&lt;Quartermaster&gt;" ai="NON_ATTACKABLE" x="2858.6946" y="916.062" z="1533.6486" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="730183" level="1" name="Terrible Dredgion" name_id="371199" height="2.0" ai="NON_ATTACKABLE" x="2943.7996" y="902.7147" z="1540.2388" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278541" level="53" name="Virgo" name_id="313545" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2967.4937" y="894.22833" z="1546.0931" heading="15" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="279062" level="50" name="Kalix" name_id="314053" height="2.0" title_id="315073" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="2980.6907" y="867.14087" z="1546.1356" heading="63" front="0.35">
+	<stats maxHp="28815" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2845.66" y="918.7829" z="1533.6484" heading="13" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278518" level="56" name="Erienne" name_id="313522" height="2.0" title_id="315029" title="&lt;Gray Wind Centurion&gt;" ai="NON_ATTACKABLE" x="2846.2783" y="918.1379" z="1533.6484" heading="13" front="0.35">
+	<stats maxHp="272835" />
+</npc_template>
+<npc_template npc_id="278653" level="55" name="Goimonerk" name_id="313662" height="1.16875" title_id="314421" title="&lt;Coin Collector&gt;" ai="NON_ATTACKABLE" x="2912.1885" y="924.9034" z="1539.6613" heading="30" front="0.595">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278531" level="53" name="Puella" name_id="313535" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2950.1545" y="906.3184" z="1539.0884" heading="15" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278530" level="53" name="Akuba" name_id="313534" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.0815" y="900.4296" z="1539.0884" heading="30" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="730073" level="1" name="Verteron Teleport Tower" name_id="350985" height="2.0" ai="NON_ATTACKABLE" x="2857.8088" y="932.03015" z="1534.0078" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="206314" level="60" name="Varina" name_id="463012" height="2.5" title_id="358180" title="&lt;Cygnea Teleporter&gt;" ai="NON_ATTACKABLE" x="2979.6357" y="882.53503" z="1546.0913" heading="35" front="0.4375">
+	<stats maxHp="23691" />
+</npc_template>
+<npc_template npc_id="278533" level="53" name="Rentia" name_id="313537" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2967.034" y="907.40356" z="1538.9121" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="278503" level="58" name="Calon" name_id="313503" height="2.4" title_id="314302" title="&lt;Nezekan's General&gt;" ai="NON_ATTACKABLE" x="2974.1406" y="903.22516" z="1540.0504" heading="41" front="0.42000002">
+	<stats maxHp="3214671" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2973.4065" y="902.34424" z="1540.0504" heading="41" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="799830" level="50" name="Basileides" name_id="355144" height="1.8" title_id="370285" title="&lt;Radiant Ops Steward&gt;" ai="NON_ATTACKABLE" x="2985.3176" y="884.80615" z="1546.0913" heading="33" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="279056" level="53" name="Pelasgus" name_id="314045" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2844.8906" y="948.4781" z="1533.6483" heading="106" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="278545" level="53" name="Amos" name_id="313549" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2922.775" y="954.9166" z="1539.0939" heading="78" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278543" level="53" name="Rupus" name_id="313547" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2930.5815" y="952.63165" z="1538.1674" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278527" level="53" name="Hecabe" name_id="313531" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2957.1082" y="929.1414" z="1538.9121" heading="105" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="730071" level="1" name="Obelisk" name_id="350971" height="2.0" ai="NON_ATTACKABLE" x="2984.767" y="901.65283" z="1546.3339" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278501" level="60" name="Michalis" name_id="313501" height="2.2" title_id="315000" title="&lt;Governor of Reshanta&gt;" ai="NON_ATTACKABLE" x="2982.5322" y="904.0564" z="1540.167" heading="41" front="0.385">
+	<stats maxHp="3634559" />
+</npc_template>
+<npc_template npc_id="278504" level="50" name="Moia" name_id="313504" height="1.8" title_id="315003" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="2984.3093" y="898.532" z="1545.4972" heading="105" front="0.35">
+	<stats maxHp="132919" />
+</npc_template>
+<npc_template npc_id="278526" level="53" name="Evander" name_id="313530" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2962.9897" y="934.18585" z="1538.9124" heading="105" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278532" level="53" name="Ventus" name_id="313536" height="2.0" title_id="315056" title="&lt;Information Officer&gt;" ai="NON_ATTACKABLE" x="2981.465" y="920.55914" z="1538.9126" heading="41" front="0.35">
+	<stats maxHp="120572" />
+</npc_template>
+<npc_template npc_id="278502" level="58" name="Sakmis" name_id="313502" height="2.0" title_id="314301" title="&lt;Gray Wind General&gt;" ai="NON_ATTACKABLE" x="2984.4958" y="912.21643" z="1540.0508" heading="41" front="0.35">
+	<stats maxHp="2425615" />
+</npc_template>
+<npc_template npc_id="799831" level="50" name="Valentius" name_id="355145" height="1.8" title_id="370252" title="&lt;Radiant Ops Agent&gt;" ai="NON_ATTACKABLE" x="2987.6377" y="902.4295" z="1545.5642" heading="105" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278553" level="53" name="Caranos" name_id="313557" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2927.8943" y="967.69226" z="1538.1672" heading="105" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278544" level="53" name="Adellian" name_id="313548" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2942.1418" y="962.9152" z="1538.1681" heading="45" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278640" level="56" name="Protector Uranos" name_id="313649" height="2.1" ai="NON_ATTACKABLE" x="2990.0" y="896.0" z="1546.0913" heading="41" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278546" level="53" name="Anika" name_id="313550" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2939.5212" y="971.4139" z="1539.0343" heading="71" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278551" level="53" name="Bonitra" name_id="313555" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2864.6028" y="979.37915" z="1531.3529" heading="89" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278647" level="45" name="Bergila" name_id="313656" height="2.0" title_id="314360" title="&lt;Ancient Crown Administration Officer&gt;" ai="NON_ATTACKABLE" x="2875.7026" y="989.14124" z="1527.9966" heading="30" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278646" level="45" name="Philemon" name_id="313655" height="2.0" title_id="314359" title="&lt;Ancient Goblet Administration Officer&gt;" ai="NON_ATTACKABLE" x="2885.6394" y="987.8448" z="1527.9968" heading="30" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278651" level="40" name="Aurunerk" name_id="313660" height="1.16875" title_id="315067" title="&lt;Black Cloud Trader&gt;" ai="NON_ATTACKABLE" x="2890.6553" y="989.0407" z="1527.9968" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278652" level="45" name="Laum" name_id="313661" height="2.0" title_id="314417" title="&lt;Vagabond Armor Craftsman&gt;" ai="NON_ATTACKABLE" x="2937.53" y="980.109" z="1539.6613" heading="90" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278550" level="53" name="Belita" name_id="313554" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2880.4343" y="993.21045" z="1527.9968" heading="30" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278528" level="53" name="Eurytion" name_id="313532" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2985.449" y="936.4227" z="1539.0887" heading="75" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278529" level="53" name="Akastos" name_id="313533" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2989.348" y="924.41345" z="1539.0887" heading="60" front="0.35">
+	<stats maxHp="92795" />
+</npc_template>
+<npc_template npc_id="278534" level="53" name="Terita" name_id="313538" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2878.9539" y="1006.975" z="1527.9968" heading="53" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278645" level="45" name="Ceres" name_id="313654" height="2.0" title_id="314358" title="&lt;Ancient Seal Administration Officer&gt;" ai="NON_ATTACKABLE" x="2910.9333" y="1009.2087" z="1527.99" heading="58" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="730074" level="1" name="Eltnen Teleport Tower" name_id="350986" height="2.0" ai="NON_ATTACKABLE" x="2885.9976" y="1014.347" z="1528.3396" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278640" level="56" name="Protector Uranos" name_id="313649" height="2.1" ai="NON_ATTACKABLE" x="2990.0" y="896.0" z="1546.0913" heading="41" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278542" level="53" name="Trian" name_id="313546" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2995.1633" y="918.25684" z="1546.0931" heading="75" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278549" level="53" name="Barono" name_id="313553" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2905.147" y="1015.5157" z="1527.9968" heading="60" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278644" level="45" name="Iacchus" name_id="313653" height="2.0" title_id="314357" title="&lt;Ancient Icon Administration Officer&gt;" ai="NON_ATTACKABLE" x="2912.1663" y="1019.1576" z="1528.0033" heading="58" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278535" level="53" name="Maius" name_id="313539" height="2.0" title_id="315022" title="&lt;Abyss Messenger&gt;" ai="NON_ATTACKABLE" x="2997.0" y="927.0" z="1539.0887" heading="73" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278547" level="53" name="Rastin" name_id="313551" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2853.6077" y="1017.0829" z="1527.9968" heading="0" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="279035" level="40" name="Laichinchinerk" name_id="314026" height="1.16875" title_id="314427" title="&lt;Elyos Designer&gt;" ai="NON_ATTACKABLE" x="2955.8389" y="1012.8661" z="1533.6797" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279036" level="40" name="Muirunerk" name_id="314027" height="1.16875" title_id="314428" title="&lt;Elyos Fine Designer&gt;" ai="NON_ATTACKABLE" x="2955.4207" y="1009.2236" z="1533.6812" heading="60" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278538" level="53" name="Aries" name_id="313542" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2993.2393" y="889.0931" z="1546.0913" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278642" level="56" name="Protector Galinthias" name_id="313651" height="2.1" ai="NON_ATTACKABLE" x="3005.0" y="917.0" z="1546.092" heading="75" front="0.36749998">
+	<stats maxHp="2158754" />
+</npc_template>
+<npc_template npc_id="278510" level="45" name="Lucius" name_id="313510" height="2.4" title_id="315009" title="&lt;Weapons&gt;" ai="NON_ATTACKABLE" x="3005.0525" y="941.2883" z="1546.1555" heading="105" front="0.42000002">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278648" level="50" name="Kuponerk" name_id="313657" height="2.0" title_id="314393" title="&lt;Mist Weapon Merchant&gt;" ai="NON_ATTACKABLE" x="3003.8784" y="940.376" z="1546.1555" heading="105" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278521" level="45" name="Tenoeril" name_id="313525" height="2.0" title_id="315014" title="&lt;Food&gt;" ai="NON_ATTACKABLE" x="3005.5928" y="951.92303" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="279057" level="53" name="Hippotades" name_id="314046" height="2.0" title_id="314361" title="&lt;Special Administration Officer&gt;" ai="NON_ATTACKABLE" x="2953.5586" y="1022.8863" z="1533.6786" heading="6" front="0.35">
+	<stats maxHp="114831" />
+</npc_template>
+<npc_template npc_id="278537" level="53" name="Nalis" name_id="313541" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2996.2134" y="891.97766" z="1546.0914" heading="45" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="205454" level="55" name="Auminos" name_id="355078" height="2.0" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="3010.302" y="948.22955" z="1546.1555" heading="103" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="278650" level="50" name="Kukurunerk" name_id="313659" height="2.0" title_id="314395" title="&lt;Mist Shield Merchant&gt;" ai="NON_ATTACKABLE" x="3011.9038" y="933.3404" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278507" level="45" name="Denegos" name_id="313507" height="2.0" title_id="315006" title="&lt;General Goods Merchant&gt;" ai="NON_ATTACKABLE" x="3009.778" y="947.032" z="1539.0829" heading="75" front="0.35">
+	<stats maxHp="8877" />
+</npc_template>
+<npc_template npc_id="278512" level="45" name="Flavius" name_id="313512" height="2.0" title_id="315011" title="&lt;Shield&gt;" ai="NON_ATTACKABLE" x="3010.857" y="932.4392" z="1546.1555" heading="45" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="279034" level="40" name="Baoninerk" name_id="314025" height="1.16875" title_id="314336" title="&lt;Tigraki Weaponsmithing Master&gt;" ai="NON_ATTACKABLE" x="2976.997" y="1019.7737" z="1533.6785" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279025" level="40" name="Guuminerk" name_id="314016" height="1.16875" title_id="314307" title="&lt;Tigraki Workshop Merchant&gt;" ai="NON_ATTACKABLE" x="2942.3044" y="1040.0579" z="1533.6816" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="279033" level="40" name="Guyarunerk" name_id="314024" height="1.16875" title_id="314426" title="&lt;Elyos Lesser Designer&gt;" ai="NON_ATTACKABLE" x="2945.9058" y="1040.2893" z="1533.6803" heading="30" front="0.595">
+	<stats maxHp="9419" />
+</npc_template>
+<npc_template npc_id="278649" level="50" name="Nonorerk" name_id="313658" height="2.0" title_id="314394" title="&lt;Mist Armor Merchant&gt;" ai="NON_ATTACKABLE" x="3014.0513" y="943.1288" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="14614" />
+</npc_template>
+<npc_template npc_id="278511" level="45" name="Minon" name_id="313511" height="2.0" title_id="315010" title="&lt;Armor&gt;" ai="NON_ATTACKABLE" x="3014.8933" y="942.0665" z="1546.1555" heading="76" front="0.35">
+	<stats maxHp="12428" />
+</npc_template>
+<npc_template npc_id="278548" level="53" name="Arvid" name_id="313552" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2879.88" y="1043.801" z="1527.9966" heading="90" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="730075" level="1" name="Heiron Teleport Tower" name_id="350987" height="2.0" ai="NON_ATTACKABLE" x="2970.2957" y="1032.4742" z="1534.0199" heading="0" front="0.35">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="278552" level="53" name="Siunatu" name_id="313556" height="2.0" title_id="315055" title="&lt;Teminon Legionary&gt;" ai="NON_ATTACKABLE" x="2880.9805" y="1048.5166" z="1527.9963" heading="67" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278563" level="53" name="Pellatino" name_id="313567" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2973.4617" y="1045.837" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="70018" />
+</npc_template>
+<npc_template npc_id="278562" level="53" name="Elsana" name_id="313566" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2970.1648" y="1046.1912" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="73393" />
+</npc_template>
+<npc_template npc_id="278564" level="53" name="Pleta" name_id="313568" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2967.0688" y="1044.4204" z="1533.6781" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278565" level="53" name="Grania" name_id="313569" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2971.5508" y="1044.0536" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278560" level="53" name="Radone" name_id="313564" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2969.2083" y="1048.4207" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278566" level="53" name="Teres" name_id="313570" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2976.0754" y="1043.6946" z="1533.6783" heading="26" front="0.35">
+	<stats maxHp="84359" />
+</npc_template>
+<npc_template npc_id="278506" level="50" name="Tellus" name_id="313506" height="1.8" title_id="315004" title="&lt;Teleporter&gt;" ai="NON_ATTACKABLE" x="2861.7727" y="1041.2919" z="1528.2529" heading="105" front="0.35">
+	<stats maxHp="15262" />
+</npc_template>
+<npc_template npc_id="203355" level="56" name="Tamed Griffon" name_id="351166" height="1.4399999" ai="NON_ATTACKABLE" x="2972.0293" y="1054.875" z="1533.6788" heading="85" front="1.236">
+	<stats maxHp="112686" />
+</npc_template>
+<npc_template npc_id="278559" level="53" name="Chrioz" name_id="313563" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2972.219" y="1051.0922" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="159795" />
+</npc_template>
+<npc_template npc_id="278561" level="53" name="Elintos" name_id="313565" height="2.0" title_id="315057" title="&lt;Nezekan's Shield Legionary&gt;" ai="NON_ATTACKABLE" x="2974.6785" y="1047.9119" z="1533.6785" heading="26" front="0.35">
+	<stats maxHp="145268" />
+</npc_template>
+<npc_template npc_id="278519" level="56" name="Soniksius" name_id="313523" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2973.7786" y="1054.5046" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="361589" />
+</npc_template>
+<npc_template npc_id="278520" level="56" name="Cesilie" name_id="313524" height="2.0" title_id="315027" title="&lt;Nezekan's Shield Centurion&gt;" ai="NON_ATTACKABLE" x="2971.0774" y="1054.766" z="1533.6788" heading="85" front="0.35">
+	<stats maxHp="328717" />
+</npc_template>

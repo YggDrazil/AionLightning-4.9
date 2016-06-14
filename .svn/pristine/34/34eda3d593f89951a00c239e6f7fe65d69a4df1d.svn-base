@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_drops.xsd">
+    <!-- Guard Post Generator (Object Normal lvl:3) -->
+	<npc_drop npc_id="230413">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="6.93" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="24.75" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Northern Approach Post Generator (Object Normal lvl:3) -->
+	<npc_drop npc_id="230414">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="6.93" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="24.75" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Southern Approach Post Generator (Object Normal lvl:3) -->
+	<npc_drop npc_id="230415">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="6.93" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="24.75" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Guard Post Magus (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231023">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="10.395" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="37.125" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Guard Post Scout (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231025">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="10.395" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="37.125" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Guard Post Combatant (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231027">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="10.395" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="37.125" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- North Post Medic (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231031">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.198" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="18.563" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- North Post Combatant (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231032">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="10.395" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="37.125" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- South Post Combatant (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231036">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="10.395" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="37.125" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- South Post Drummer (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231040">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="10.395" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="37.125" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- South Post Medic (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231041">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="10.395" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="37.125" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- South Post Medic (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231042">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="10.395" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="37.125" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Defend Post Scout (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231045">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.198" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="18.563" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Defend Post Combatant (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231047">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.198" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="18.563" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Defend Post Drummer (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231049">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.198" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="18.563" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- The Vera Siege Ballista (Boss Hero lvl:65) -->
+	<npc_drop npc_id="231050">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.198" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="18.563" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Vera Defender Mage (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231053">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="20.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="74.25" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Vera Defender Drummer (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231054">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="20.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="74.25" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Beritran Supply Box (Object Normal lvl:3) -->
+	<npc_drop npc_id="231058">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="6.93" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="24.75" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Vera Defender Medic (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231182">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="20.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="74.25" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Vera Defender Calvalry (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231183">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="20.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="74.25" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Beritran Reserve Combatant (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231188">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.198" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="18.563" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Barricade Sentinel (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231192">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="11.137" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.198" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="18.563" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Beritran Recon Raider (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="231194">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="6.93" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="24.75" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Beritran Reserve Assassin (Monsters Elite lvl:65) -->
+	<npc_drop npc_id="233319">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="22.275" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="10.395" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="37.125" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Mobile Turret Elyos (Object Normal lvl:3) -->
+	<npc_drop npc_id="701646">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="20.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="74.25" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Mobile Turret Asmodians (Object Normal lvl:3) -->
+	<npc_drop npc_id="701647">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="44.55" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="20.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="74.25" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+</npc_drops>

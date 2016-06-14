@@ -1,0 +1,137 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.10586}\viewkind4\uc1 
+\pard\sl240\slmult1\qc\b\f0\fs36\lang7 Hinweise zu der Generierung der\par
+item_templates.xml\b0\fs22\par
+
+\pard\sl240\slmult1\par
+\par
+
+\pard\sl240\slmult1\qc\b\fs28 Vorwort\b0\fs22\par
+
+\pard\sl240\slmult1\par
+
+\pard\sl240\slmult1\qj Vorab der Hinweis, dass ich mich sehr stark auf die aktuelle Client-Version 4.8 und die hierzu in der Emu enthaltene Datei item_templates.xml konzentriert habe. In meinem letzten Abgleich der Testergebnisse waren alle Abweichungen (siehe auch Liste unten) durchaus nachvollziehbar und scheinen zun\'e4chst einmal korrekt zu sein. Der von Falke im Forum angesprochene Java-Parser basierte auf Version 4.6, sodass ich also auch viele Informationen der Generierung durch st\'e4ndige Abgleiche der Ausgabe und der Client-Vorgaben zusammensuchen musste, ich hoffe, dass dies einigermassen gelungen ist. Mir war es sehr wichtig, dass die Generierung ohne eine bestehende Datei aus dem SVN auskommt, weil nur so auch in Zukunft die Generierung f\'fcr neue Items relativ zuverl\'e4ssig funktionieren sollte / kann.\par
+ \par
+
+\pard\sl240\slmult1\qc\b\fs28 Vorarbeiten (Schritte 1 und 2)\b0\fs22\par
+
+\pard\sl240\slmult1\qj\par
+F\'fcr die Generierung dieser Datei sind etliche Pr\'fcfungen von unterschiedlichen Konstellationen in den Client-Dateien erforderlich. Hierzu werden beim 1. Aufruf des Scripts alle notwendigen Informationen aus dem Client, sowie teilweise aus dem SVN, gescannt und als automatisch generierte PHP-Includes (auto_inc...names.php) f\'fcr die sp\'e4tere Verwendung gespeichert. Dar\'fcber hinaus werden die Client-Dateien f\'fcr die Items ebenfalls einmalig gelesen und dann als csv-Datei gespeichert, sodass also in den Folgeaufrufen nur noch diese csv-Datei geladen werden muss. Will man also diese gesamten Vorarbeiten (z.B. bei einem Client-Wechsel auf 4.9) erneut durchf\'fchren lassen, so m\'fcssen die bestehenden Dateien gel\'f6scht werden.\par
+\par
+
+\pard\sl240\slmult1\qc\b\fs28 Generierung\b0\fs22\par
+
+\pard\sl240\slmult1\qj\par
+F\'fcr die Generierung k\'f6nnen auf der Startseite 2 Parameter gesetzt werden:\par
+\par
+- Sortierung der Items und\par
+- Abgleichdateien erzeugen.\par
+\par
+Generell sollte die Sortierung aufsteigend nach der ItemId erfolgen, weil man so die Items bei einer Suche leichter finden kann. Wenn man allerdings einen Abgleich machen will, dann sollte die Sortierung in der Reihenfolge der SVN-Items erfolgen, wobei neue Items dann ans Ende angeh\'e4ngt werden.\par
+\par
+
+\pard\sl240\slmult1\qc\b\fs28 TEST: Abgleich-Datei\b0\fs22\par
+
+\pard\sl240\slmult1\qj\par
+Aktuell ist im Script noch eine Hilfsfunktion (makeCompareFiles) vorhanden, die es m\'f6glich macht, einen bestimmten XML-Block als Ausgabe zu definieren. Als Standard sind vorgegeben:\par
+\par
+$changeValues = false;\tab\tab\tab siehe makeCompareFiles\par
+$do<blockname>= true;                \tab siehe makeCompareFiles\par
+\par
+Somit werden die beiden Dateien komplett ausgegeben, wobei allerdings die Tabulatoren im SVN durch 4 Leerstellen ersetzt werden. Um eine detailliertere Suche der Abweichungen zu erm\'f6glichen, k\'f6nnen nun schrittweise einzelne Bl\'f6cke auf true (Rest auf false) gesetzt werden, wodurch sich der Umfang der abzugleichenden Daten reduziert und es so m\'f6glich ist, gezielt nach bestimmten Angaben zu suchen. \par
+\par
+Beim normalen Generieren werden diese Abgleichdateien nur dann direkt automatisch erzeugt, wenn dies auf der Startseite markiert wurde.\par
+\par
+\'dcber das Menue kann aber mit der Schaltfl\'e4che das Erzeugen dieser Dateien unabh\'e4ngig vom Schalter aufgerufen werden (hierbei m\'fcssen die Block-Steuerungen korrekt gesetzt sein!).\par
+\par
+In den beiden Abgleichdateien wird vor jedem Item-Block (unabh\'e4ngig von der Block-Auswahl) ein XML-Kommentar mit der ItemId ausgegeben, damit die Zuordnung gew\'e4hrleistet ist und auch ggfs. fehlende Zeilen der Generierung erkannt werden k\'f6nnen. Sofern der Block $doItemTemplates auf true gesetzt wurde, wird nur diese eine Zeile ausgegeben, also nicht der ganze Block. Somit fehlt dann auch das </item_template > in der Abgleichdatei.\par
+\par
+
+\pard\sl240\slmult1\qc\b\fs28 Client-Syntax-Korrekturen\b0\fs22\par
+
+\pard\sl240\slmult1\qj\par
+Bei den \'dcberpr\'fcfungen im Client 4.8 sind mir einige Schreibfehler von GF aufgefallen, die das Script automatisch korrigiert. F\'fcr jede Korrektur wird ein entsprechender Hinweis mit ItemId ausgegeben, sodass die jeweilige Anpassung nachvollzogen werden kann.\par
+\par
+
+\pard\sl240\slmult1\qc\b\fs28 Abweichungen im Client 4.8\b0\fs22\par
+
+\pard\sl240\slmult1\qj\par
+Leider konnte ich bei einigen Festlegungen / Ermittlungen, verglichen mit der aktuellen SVN-Datei, keine konsistente Vergabe von einigen Attributen (speziell die Bonus-Attribute) erkennen,  was unter Umst\'e4nden zu einigen Abweichungen beim Vergleich der einzelnen Abschnitte f\'fchren kann.\par
+\par
+Beispiel:\par
+\par
+Offensichtlich wurden die Angaben zu den Attributen "SILENCE_ARP / SILENCEARP" bzw. "SLEEP_ARP / SLEEPARP" im SVN manchmal vertauscht. Diese beiden Angaben wurden ohne nachvollziehbaren Grund mal mit "SLEEP_RESISTANCE_PENETRATION" und mal mit "SILENCE_RESISTANCE_PENETRATION" belegt. Im Parser wird hier konstant das jeweilige Pendant vergeben.\par
+\par
+Aufgrund einiger Ver\'e4nderungen in der Client-Version 4.8 (siehe Stigmen) habe ich teilweise Infos weggelassen, die nicht mehr sinnvoll erscheinen und auch in der Regel nicht mehr ermittelt werden k\'f6nnen, weil sie im Client nicht mehr definiert sind (Beispiel: alte Stigmen haben keine Skill-Angabe, allerdings den Preis, falls der f\'fcr den Verkauf ben\'f6tigt wird).\par
+\par
+
+\pard\sl240\slmult1\qc\b\fs28 m\'f6gliche Probleme bei den Skills\b0\fs22\par
+
+\pard\sl240\slmult1\qj\par
+Um einige Informationen, die im SVN vorgegeben sind, ebenfalls zu erzeugen, habe ich auch Infos verwertet, die m.E. eigentlich nicht korrekt sein k\'f6nnen. So werden zum Beispiel in dem Block <actions> teilweise skillid's erzeugt, die aus der Client-Datei skill_shortcut_replace.xml stammen (aktuell im SVN), aber mit identischen IDs zu anderen Skills in der Client-Datei client_skills.xml vorhanden sind. Dadurch werden / sind vermutlich bei einigen Aktionen fehlerhafte Skills zugeordnet. \par
+\par
+\par
+
+\pard\sl240\slmult1\qc\b\fs28 Bekannte Abweichungen\b0\fs22\par
+
+\pard\sl240\slmult1\qj\par
+Mangels bisheriger Hinweise konnten einige Dinge nicht dem SVN entsprechend umgesetzt werden. Hierdurch kommt es zu Abweichungen in folgenden Angaben:\par
+\par
+\ul\b Abschnitt: <item_template>\ulnone\b0\par
+Reihenfolge der Felder\tab\tab da nirgends festgelegt ist, in welcher Reihenfolge die einzelnen\par
+\tab\tab\tab\tab Bezeichner-Felder ausgegeben werden sollen, kann es hier zu\par
+\tab\tab\tab\tab kleineren Abweichungen kommen, da sie auch aktuell im SVN \tab\tab\tab\tab\tab keiner besonderen Folge unterliegen. Die aktuelle Reihenfolge \tab\tab\tab\tab\tab verursacht aber die wenigsten Abweichungen. Wichtig ist in \tab\tab\tab\tab\tab einem solchen Fall allerdings, dass die Bezeichner vorhanden \tab\tab\tab\tab\tab und korrekt sind!\par
+\par
+...desc=...\tab\tab\tab trotz verschiedener Ermittlungen dieser ID konnten einige IDs \par
+\tab\tab\tab\tab nicht ermittelt werden und wurden daher auf "0" gesetzt. Das \tab\tab\tab\tab\tab Script protokolliert diese Items. In den Client-Files konnten \tab\tab\tab\tab\tab diese Namen ebenfalls nicht ermittelt werden (evtl. Fehler von \tab\tab\tab\tab\tab GF).\par
+\par
+...mask=...\tab\tab\tab hier kommt es bei einigen Angaben zu Abweichungen, da ich \tab\tab\tab\tab\tab auch auf "true" abfrage. Dies scheint aktuell im SVN nicht \tab\tab\tab\tab\tab unterschieden zu werden. Beispiel: die Client-Angabe \par
+\tab\tab\tab\tab <can_deposit_to_character_warehouse>false</can...\par
+\tab\tab\tab\tab f\'fchrt nicht zu einer Erh\'f6hung der mask-Angabe um 64!\par
+\par
+...bonus_apply=...\tab\tab gem. Client nachvollziehbar\par
+\par
+...category=...\tab\tab\tab evtl. weitere Abgrenzungen benennen\par
+\par
+..authorize_name=...\tab\tab wird aktuell konsequent ausgegeben, wenn im Client definiert\par
+\par
+...weapon_/armor_type...\tab hier erzeugt das Script konsequenter die Zuordnungen,\par
+\tab\tab\tab\tab evtl. weitere Abgrenzungen benennen\par
+\par
+...restrict=...\tab\tab\tab hier gibt es einige nachvollziehbare (SVN) Abweichungen\par
+\par
+\ul\b Abschnitt: <modifiers>\ulnone\b0\par
+<charge value="x">\tab\tab aus dem Client konnten im Vergleich mit den Angaben keine f\'fcr\par
+\tab\tab\tab\tab die Berechnung allgemein g\'fcltigen Hinweise abgeleitet werden. \tab\tab\tab\tab In vielen F\'e4llen stimmt der Wert, leider kommt es aber in \tab\tab\tab\tab\tab etlichen Angaben auch zu Abweichungen.\par
+\par
+<add.../<rate...\tab\tab\tab sofern im Client der Wert "0" oder sogar gar kein Wert \tab\tab\tab\tab\tab\tab angegeben wurde, habe ich diese Angabe ignoriert\par
+\par
+\ul\b Abschnitt: <actions>\ulnone\b0\par
+...minutes=...\tab\tab\tab Offensichtlich wurden im Client einige Zeitangaben um jeweils  \tab\tab\tab\tab\tab 1 erh\'f6ht, was zu entsprechenden Abweichungen f\'fchrt!\par
+\par
+<decompose select=...\tab\tab Es konnte nicht \'fcbergreifend festgestellt werden, welche Client-\par
+\tab\tab\tab\tab Information hier f\'fcr das Setzen auf TRUE herangezogen werden\par
+\tab\tab\tab\tab sollte. Etliche Versuche ergaben leider keine immer korrekten\par
+\tab\tab\tab\tab Ergebnisse (momentan wird disassembly_type genutzt).\par
+\par
+\par
+\ul\b Abschnitt: <uselimits...\ulnone\b0\par
+... ownership_world\tab\tab hier sind einige Abweichungen bei den IDs, die aber gem. Client \tab  \tab\tab\tab\tab durchaus korrekt sind. Einige IDs fehlen, da diese Welten im \tab\tab\tab\tab\tab Client 4.8 nicht mehr existieren.\par
+\par
+
+\pard\sl240\slmult1\qc\b\fs28 Letzter Test und Freigabe\b0\fs22\par
+
+\pard\sl240\slmult1\qj\par
+Die Generierung der item_templates.xml hat einiges an Zeit eingenommen. Den letzten abschliessenden Test mit der Client-Version 4.8 habe ich am 06.03.2016 durchgef\'fchrt. Daher konnte die Freigabe der 1. Version ins SVN am 06.03.2016 erfolgen.\par
+\par
+
+\pard\sl240\slmult1\qc\b\fs28 Fehler-Reports im Forum\b0\fs22\par
+
+\pard\sl240\slmult1\qj\par
+Wenn ihr einen "echten" Fehler findet, also nicht nur eine Abweichung zur aktuellen SVN-Datei, dann reportet diesen bitte im entsprechenden Foren-Beitrag (phpTools). Wie bereits zuvor erw\'e4hnt, sind teilweise die Abweichungen aufgrund der Client-Dateien durchaus korrekt, was also dann keinen "echten" Fehler darstellt. Auch ist es unter Umst\'e4nden sinnvoll, einmal andere Items im Client zu suchen, die eine korrekte Ausgabe besitzen und ann\'e4hernd identisch definiert sind (das filtert meist die bereits oben genannten Inkonsistenzen heraus).\par
+\par
+\par
+\par
+\par
+}
+ 

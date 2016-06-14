@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+       Quest Ophidan Bridge 4.3
+            [BEGIN] SUMMARY
+				16979 [XML] Engulfed Bridge
+            [END] SUMMARY	
+    -->
+	
+    <!--Report-->
+    <report_to id="16979" start_npc_ids="802025" end_npc_ids="801762"/>
+    <!--Monster-->
+</quest_scripts>

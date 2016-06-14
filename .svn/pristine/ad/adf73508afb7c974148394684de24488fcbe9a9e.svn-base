@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_drops.xsd">
+    <!-- Crusader -->
+	<npc_drop npc_id="211624">
+		<drop_group use_category="true" name="MANA_POTION" race="PC_ALL">
+			<drop item_id="162000008" chance="3.2" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="KINAH_LOWER_MAPS" race="PC_ALL">
+			<drop item_id="182400001" chance="40" min_amount="50" max_amount="750" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000259" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000258" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000263" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000261" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000260" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000267" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000265" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000264" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000528" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000527" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.6" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="FLUX_COMMON" race="PC_ALL">
+			<drop item_id="152011093" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="152011092" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="152011022" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="152011042" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="152011002" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000005" chance="20" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="MANA_ELIXIR" race="PC_ALL">
+			<drop item_id="162000058" chance="0.8" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="LIFE_ELIXIR" race="PC_ALL">
+			<drop item_id="162000053" chance="0.8" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="LIFE_POTION" race="PC_ALL">
+			<drop item_id="162000003" chance="3.2" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_RARE" race="PC_ALL">
+			<drop item_id="167000535" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000536" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000427" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000424" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000425" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000418" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000419" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000423" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000420" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000421" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Draconute Vaegir -->
+	<npc_drop npc_id="211625">
+		<drop_group use_category="true" name="MANA_POTION" race="PC_ALL">
+			<drop item_id="162000008" chance="3.2" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="KINAH_LOWER_MAPS" race="PC_ALL">
+			<drop item_id="182400001" chance="40" min_amount="50" max_amount="750" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000259" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000258" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000263" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000261" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000260" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000267" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000265" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000264" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000528" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000527" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.6" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="FLUX_COMMON" race="PC_ALL">
+			<drop item_id="152011093" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="152011092" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="152011022" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="152011042" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="152011002" chance="6.4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000005" chance="20" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="MANA_ELIXIR" race="PC_ALL">
+			<drop item_id="162000058" chance="0.8" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="LIFE_ELIXIR" race="PC_ALL">
+			<drop item_id="162000053" chance="0.8" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="LIFE_POTION" race="PC_ALL">
+			<drop item_id="162000003" chance="3.2" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_RARE" race="PC_ALL">
+			<drop item_id="167000535" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000536" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000427" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000424" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000425" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000418" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000419" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000423" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000420" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000421" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Abyss Gate Guardian Stone -->
+	<npc_drop npc_id="700142">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="6.93" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="24.75" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Abyss Gate -->
+	<npc_drop npc_id="700143">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="6.93" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="24.75" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+    <!-- Dimension Exit -->
+	<npc_drop npc_id="700186">
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000229" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000228" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000231" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000227" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000226" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000233" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000232" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000235" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000525" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000526" chance="14.85" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="6.93" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group use_category="true" name="POWER_SHARDS" race="PC_ALL">
+			<drop item_id="169000003" chance="24.75" min_amount="1" max_amount="5" no_reduce="false" eachmember="false" />
+		</drop_group>
+	</npc_drop>
+</npc_drops>

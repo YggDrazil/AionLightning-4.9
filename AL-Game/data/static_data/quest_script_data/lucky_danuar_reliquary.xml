@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quest_scripts>
+    <!--
+            [BEGIN] SUMMARY
+                    80587 [SCRIPT] Find the Journal (Elyos)
+                    80588 [XML] Enter with Luck (Elyos)
+                    80589 [SCRIPT] A Vicarious Memento (Elyos)
+                    80592 [TODO] The Lost Journal (Asmodians)
+                    80593 [XML] Into the Reliquary (Asmodians)
+                    80594 [TODO] Memento Mauling (Asmodians)
+            [END] SUMMARY
+    -->
+    <!-- REPORTING QUESTS -->
+	<report_to_many id="80593" start_npc_ids="832268" end_npc_ids="832268">
+        <npc_infos var="0" npc_id="832268" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<report_to_many id="80588" start_npc_ids="832268" end_npc_ids="832268">
+        <npc_infos var="0" npc_id="832268" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+    <!-- COLLECTING QUESTS -->
+    <!-- HUNTING QUESTS -->
+    <!-- ITEM ORDERS QUESTS -->
+</quest_scripts>

@@ -1,0 +1,2444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decomposable_selectitems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <!-- Modor's Eternal Weapons Chest -->
+    <decomposable_selectitem item_id="188052389">
+		<items player_class="GLADIATOR">
+			<item id="100001551" count="1"/> <!-- Modor's Sword -->
+			<item id="100201354" count="1"/> <!-- Modor's Dagger -->
+			<item id="100101186" count="1"/> <!-- Modor's Warhammer -->
+			<item id="115001592" count="1"/> <!-- Modor's Shield -->
+			<item id="100901206" count="1"/> <!-- Modor's Greatsword -->
+			<item id="101701236" count="1"/> <!-- Modor's Bow -->
+			<item id="101301134" count="1"/> <!-- Modor's Polearm -->
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052391">
+		<items player_class="TEMPLAR">
+			<item id="100001551" count="1"/> <!-- Modor's Sword -->
+			<item id="100101186" count="1"/> <!-- Modor's Warhammer -->
+			<item id="115001592" count="1"/> <!-- Modor's Shield -->
+			<item id="100901206" count="1"/> <!-- Modor's Greatsword -->
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052395">
+		<items player_class="ASSASSIN">
+			<item id="100001551" count="1"/> <!-- Modor's Sword --> 
+			<item id="100201354" count="1"/> <!-- Modor's Dagger --> 
+			<item id="101701236" count="1"/> <!-- Modor's Bow --> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052395">
+		<items player_class="RANGER">
+			<item id="100001551" count="1"/> <!-- Modor's Sword --> 
+			<item id="100201354" count="1"/> <!-- Modor's Dagger --> 
+			<item id="101701236" count="1"/> <!-- Modor's Bow --> 
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188052399">
+        <items player_class="SORCERER">
+            <item id="100501186" count="1"/> <!-- Modor's Orb -->
+            <item id="100601275" count="1"/> <!-- Modor's Spellbook -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052399">
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501186" count="1"/> <!-- Modor's Orb -->
+            <item id="100601275" count="1"/> <!-- Modor's Spellbook -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052403">
+        <items player_class="CLERIC">
+            <item id="100101185" count="1"/> <!-- Modor's Mace -->
+            <item id="100101186" count="1"/> <!-- Modor's Warhammer -->
+            <item id="115001592" count="1"/> <!-- Modor's Shield -->
+            <item id="115001593" count="1"/> <!-- Modor's Scale Shield -->
+            <item id="101501216" count="1"/> <!-- Modor's Staff -->
+            <item id="101501231" count="1"/> <!-- Modor's Cane -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052403">
+        <items player_class="CHANTER">
+            <item id="100101185" count="1"/> <!-- Modor's Mace -->
+            <item id="100101186" count="1"/> <!-- Modor's Warhammer -->
+            <item id="115001592" count="1"/> <!-- Modor's Shield -->
+            <item id="115001593" count="1"/> <!-- Modor's Scale Shield -->
+            <item id="101501216" count="1"/> <!-- Modor's Staff -->
+            <item id="101501231" count="1"/> <!-- Modor's Cane -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052409">
+        <items player_class="GUNNER">
+            <item id="101801017" count="1"/> <!-- Modor's Pistol -->
+            <item id="101900980" count="1"/> <!-- Modor's Aethercannon -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052413">
+        <items player_class="BARD">
+            <item id="102001043" count="1"/> <!-- Modor's Harp -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052757">
+        <items player_class="RIDER">
+            <item id="101801017" count="1"/> <!-- Modor's Pistol -->
+		    <item id="102100819" count="1"/> <!-- Modor's Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Modor's Mythical Weapons Chest -->
+    <decomposable_selectitem item_id="188052390">
+        <items player_class="GLADIATOR">
+            <item id="100001552" count="1"/> <!-- Lunatic Modor's Sword -->
+            <item id="100201355" count="1"/> <!-- Lunatic Modor's Dagger -->
+            <item id="100101188" count="1"/> <!-- Lunatic Modor's Warhammer -->
+            <item id="115001594" count="1"/> <!-- Lunatic Modor's Shield -->
+            <item id="100901207" count="1"/> <!-- Lunatic Modor's Greatsword -->
+            <item id="101701237" count="1"/> <!-- Lunatic Modor's Bow -->
+            <item id="101301135" count="1"/> <!-- Lunatic Modor's Polearm -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052392">
+        <items player_class="TEMPLAR">
+            <item id="100001552" count="1"/> <!-- Lunatic Modor's Sword -->
+            <item id="100101188" count="1"/> <!-- Lunatic Modor's Warhammer -->
+            <item id="115001594" count="1"/> <!-- Lunatic Modor's Shield -->
+            <item id="100901207" count="1"/> <!-- Lunatic Modor's Greatsword -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052396">
+        <items player_class="RANGER">
+            <item id="100001552" count="1"/> <!-- Lunatic Modor's Sword -->
+            <item id="100201355" count="1"/> <!-- Lunatic Modor's Dagger -->
+            <item id="101701237" count="1"/> <!-- Lunatic Modor's Bow -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052396">
+        <items player_class="ASSASSIN">
+            <item id="100001552" count="1"/> <!-- Lunatic Modor's Sword -->
+            <item id="100201355" count="1"/> <!-- Lunatic Modor's Dagger -->
+            <item id="101701237" count="1"/> <!-- Lunatic Modor's Bow -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052400">
+        <items player_class="SORCERER">
+            <item id="100501187" count="1"/> <!-- Lunatic Modor's Orb -->
+            <item id="100601276" count="1"/> <!-- Lunatic Modor's Spellbook -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052400">
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501187" count="1"/> <!-- Lunatic Modor's Orb -->
+            <item id="100601276" count="1"/> <!-- Lunatic Modor's Spellbook -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052404">
+        <items player_class="CLERIC">
+            <item id="100101187" count="1"/> <!-- Lunatic Modor's Mace -->
+            <item id="100101188" count="1"/> <!-- Lunatic Modor's Warhammer -->
+            <item id="115001594" count="1"/> <!-- Lunatic Modor's Shield -->
+            <item id="115001595" count="1"/> <!-- Lunatic Modor's Scale Shield -->
+            <item id="101501217" count="1"/> <!-- Lunatic Modor's Staff -->
+            <item id="101501232" count="1"/> <!-- Lunatic Modor's Cane -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052404">
+        <items player_class="CHANTER">
+            <item id="100101187" count="1"/> <!-- Lunatic Modor's Mace -->
+            <item id="100101188" count="1"/> <!-- Lunatic Modor's Warhammer -->
+            <item id="115001594" count="1"/> <!-- Lunatic Modor's Shield -->
+            <item id="115001595" count="1"/> <!-- Lunatic Modor's Scale Shield -->
+            <item id="101501217" count="1"/> <!-- Lunatic Modor's Staff -->
+            <item id="101501232" count="1"/> <!-- Lunatic Modor's Cane -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052410">
+        <items player_class="GUNNER">
+            <item id="101801018" count="1"/> <!-- Lunatic Modor's Pistol -->
+            <item id="101900981" count="1"/> <!-- Lunatic Modor's Aethercannon -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052414">
+        <items player_class="BARD">
+            <item id="102001044" count="1"/> <!-- Lunatic Modor's Harp -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052758">
+        <items player_class="RIDER">
+            <item id="101801018" count="1"/> <!-- Lunatic Modor's Pistol -->
+            <item id="102100820" count="1"/> <!-- Lunatic Modor's Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- [Event] Modor's Mythic Weapon Box -->
+    <decomposable_selectitem item_id="188053187">
+        <items player_class="GLADIATOR">
+            <item id="100001552" count="1"/> <!-- Lunatic Modor's Sword -->
+            <item id="100201355" count="1"/> <!-- Lunatic Modor's Dagger -->
+            <item id="100101188" count="1"/> <!-- Lunatic Modor's Warhammer -->
+            <item id="115001594" count="1"/> <!-- Lunatic Modor's Shield -->
+            <item id="100901207" count="1"/> <!-- Lunatic Modor's Greatsword -->
+            <item id="101701237" count="1"/> <!-- Lunatic Modor's Bow -->
+            <item id="101301135" count="1"/> <!-- Lunatic Modor's Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="100001552" count="1"/> <!-- Lunatic Modor's Sword -->
+            <item id="100101188" count="1"/> <!-- Lunatic Modor's Warhammer -->
+            <item id="115001594" count="1"/> <!-- Lunatic Modor's Shield -->
+            <item id="100901207" count="1"/> <!-- Lunatic Modor's Greatsword -->
+        </items>
+        <items player_class="RANGER">
+            <item id="100001552" count="1"/> <!-- Lunatic Modor's Sword -->
+            <item id="100201355" count="1"/> <!-- Lunatic Modor's Dagger -->
+            <item id="101701237" count="1"/> <!-- Lunatic Modor's Bow -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="100001552" count="1"/> <!-- Lunatic Modor's Sword -->
+            <item id="100201355" count="1"/> <!-- Lunatic Modor's Dagger -->
+            <item id="101701237" count="1"/> <!-- Lunatic Modor's Bow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="100501187" count="1"/> <!-- Lunatic Modor's Orb -->
+            <item id="100601276" count="1"/> <!-- Lunatic Modor's Spellbook -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501187" count="1"/> <!-- Lunatic Modor's Orb -->
+            <item id="100601276" count="1"/> <!-- Lunatic Modor's Spellbook -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="100101187" count="1"/> <!-- Lunatic Modor's Mace -->
+            <item id="100101188" count="1"/> <!-- Lunatic Modor's Warhammer -->
+            <item id="115001594" count="1"/> <!-- Lunatic Modor's Shield -->
+            <item id="115001595" count="1"/> <!-- Lunatic Modor's Scale Shield -->
+            <item id="101501217" count="1"/> <!-- Lunatic Modor's Staff -->
+            <item id="101501232" count="1"/> <!-- Lunatic Modor's Cane -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="100101187" count="1"/> <!-- Lunatic Modor's Mace -->
+            <item id="100101188" count="1"/> <!-- Lunatic Modor's Warhammer -->
+            <item id="115001594" count="1"/> <!-- Lunatic Modor's Shield -->
+            <item id="115001595" count="1"/> <!-- Lunatic Modor's Scale Shield -->
+            <item id="101501217" count="1"/> <!-- Lunatic Modor's Staff -->
+            <item id="101501232" count="1"/> <!-- Lunatic Modor's Cane -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="101801018" count="1"/> <!-- Lunatic Modor's Pistol -->
+            <item id="101900981" count="1"/> <!-- Lunatic Modor's Aethercannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="102001044" count="1"/> <!-- Lunatic Modor's Harp -->
+        </items>
+        <items player_class="RIDER">
+            <item id="101801018" count="1"/> <!-- Lunatic Modor's Pistol -->
+            <item id="102100820" count="1"/> <!-- Lunatic Modor's Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Bootleg Modor's Weapon Box -->
+    <decomposable_selectitem item_id="188053880">
+        <items player_class="GLADIATOR">
+            <item id="100001817" count="1"/> <!-- Bootleg Lunatic Modor's Sword -->
+            <item id="100201577" count="1"/> <!-- Bootleg Lunatic Modor's Dagger -->
+            <item id="100101404" count="1"/> <!-- Bootleg Lunatic Modor's Warhammer -->
+            <item id="115001846" count="1"/> <!-- Bootleg Lunatic Modor's Shield -->
+            <item id="100901439" count="1"/> <!-- Bootleg Lunatic Modor's Greatsword -->
+            <item id="101701422" count="1"/> <!-- Bootleg Lunatic Modor's Bow -->
+            <item id="101301328" count="1"/> <!-- Bootleg Lunatic Modor's Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="100001817" count="1"/> <!-- Bootleg Lunatic Modor's Sword -->
+            <item id="100101404" count="1"/> <!-- Bootleg Lunatic Modor's Warhammer -->
+            <item id="115001846" count="1"/> <!-- Bootleg Lunatic Modor's Shield -->
+            <item id="100901439" count="1"/> <!-- Bootleg Lunatic Modor's Greatsword -->
+        </items>
+        <items player_class="RANGER">
+            <item id="100001817" count="1"/> <!-- Bootleg Lunatic Modor's Sword -->
+            <item id="100201577" count="1"/> <!-- Bootleg Lunatic Modor's Dagger -->
+            <item id="101701422" count="1"/> <!-- Bootleg Lunatic Modor's Bow -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="100001817" count="1"/> <!-- Bootleg Lunatic Modor's Sword -->
+            <item id="100201577" count="1"/> <!-- Bootleg Lunatic Modor's Dagger -->
+            <item id="101701422" count="1"/> <!-- Bootleg Lunatic Modor's Bow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="100501367" count="1"/> <!-- Bootleg Lunatic Modor's Orb -->
+            <item id="100601484" count="1"/> <!-- Bootleg Lunatic Modor's Spellbook -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501367" count="1"/> <!-- Bootleg Lunatic Modor's Orb -->
+            <item id="100601484" count="1"/> <!-- Bootleg Lunatic Modor's Spellbook -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="100101403" count="1"/> <!-- Bootleg Lunatic Modor's Mace -->
+            <item id="100101404" count="1"/> <!-- Bootleg Lunatic Modor's Warhammer -->
+            <item id="115001846" count="1"/> <!-- Bootleg Lunatic Modor's Shield -->
+            <item id="115001847" count="1"/> <!-- Bootleg Lunatic Modor's Scale Shield -->
+            <item id="101501420" count="1"/> <!-- Bootleg Lunatic Modor's Staff -->
+            <item id="101501421" count="1"/> <!-- Bootleg Lunatic Modor's Cane -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="100101403" count="1"/> <!-- Bootleg Lunatic Modor's Mace -->
+            <item id="100101404" count="1"/> <!-- Bootleg Lunatic Modor's Warhammer -->
+            <item id="115001846" count="1"/> <!-- Bootleg Lunatic Modor's Shield -->
+            <item id="115001847" count="1"/> <!-- Bootleg Lunatic Modor's Scale Shield -->
+            <item id="101501420" count="1"/> <!-- Bootleg Lunatic Modor's Staff -->
+            <item id="101501421" count="1"/> <!-- Bootleg Lunatic Modor's Cane -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="101801277" count="1"/> <!-- Bootleg Lunatic Modor's Pistol -->
+            <item id="101901183" count="1"/> <!-- Bootleg Lunatic Modor's Aethercannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="102001304" count="1"/> <!-- Bootleg Lunatic Modor's Harp -->
+        </items>
+        <items player_class="RIDER">
+            <item id="101801277" count="1"/> <!-- Bootleg Lunatic Modor's Pistol -->
+            <item id="102101121" count="1"/> <!-- Bootleg Lunatic Modor's Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Bootleg Mythical Armour Chest -->
+    <decomposable_selectitem item_id="188053881">
+        <items player_class="GLADIATOR">
+            <item id="110601688" count="1"/> <!-- Bootleg Lunatic Modor's Gladiator Breastplate -->
+            <item id="111601651" count="1"/> <!-- Bootleg Lunatic Modor's Gladiator Gauntlets -->
+            <item id="112601633" count="1"/> <!-- Bootleg Lunatic Modor's Gladiator Shoulderplates -->
+            <item id="113601634" count="1"/> <!-- Bootleg Lunatic Modor's Gladiator Greaves -->
+            <item id="114601641" count="1"/> <!-- Bootleg Lunatic Modor's Gladiator Sabatons -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="110601687" count="1"/> <!-- Bootleg Lunatic Modor's Templar Breastplate -->
+            <item id="111601650" count="1"/> <!-- Bootleg Lunatic Modor's Templar Gauntlets -->
+            <item id="112601632" count="1"/> <!-- Bootleg Lunatic Modor's Templar Shoulderplates -->
+            <item id="113601633" count="1"/> <!-- Bootleg Lunatic Modor's Templar Greaves -->
+            <item id="114601640" count="1"/> <!-- Bootleg Lunatic Modor's Templar Sabatons -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="110301896" count="1"/> <!-- Bootleg Lunatic Modor's Jerkin -->
+            <item id="111301834" count="1"/> <!-- Bootleg Lunatic Modor's Vambrace -->
+            <item id="112301773" count="1"/> <!-- Bootleg Lunatic Modor's Shoulderguards -->
+            <item id="113301865" count="1"/> <!-- Bootleg Lunatic Modor's Breeches -->
+            <item id="114301902" count="1"/> <!-- Bootleg Lunatic Modor's Boots -->
+        </items>
+        <items player_class="RANGER">
+            <item id="110301896" count="1"/> <!-- Bootleg Lunatic Modor's Jerkin -->
+            <item id="111301834" count="1"/> <!-- Bootleg Lunatic Modor's Vambrace -->
+            <item id="112301773" count="1"/> <!-- Bootleg Lunatic Modor's Shoulderguards -->
+            <item id="113301865" count="1"/> <!-- Bootleg Lunatic Modor's Breeches -->
+            <item id="114301902" count="1"/> <!-- Bootleg Lunatic Modor's Boots -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="110101903" count="1"/> <!-- Bootleg Lunatic Modor's Tunic -->
+            <item id="111101718" count="1"/> <!-- Bootleg Lunatic Modor's Gloves -->
+            <item id="112101667" count="1"/> <!-- Bootleg Lunatic Modor's Pauldrons -->
+            <item id="113101729" count="1"/> <!-- Bootleg Lunatic Modor's Leggings -->
+            <item id="114101763" count="1"/> <!-- Bootleg Lunatic Modor's Shoes -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="110101903" count="1"/> <!-- Bootleg Lunatic Modor's Tunic -->
+            <item id="111101718" count="1"/> <!-- Bootleg Lunatic Modor's Gloves -->
+            <item id="112101667" count="1"/> <!-- Bootleg Lunatic Modor's Pauldrons -->
+            <item id="113101729" count="1"/> <!-- Bootleg Lunatic Modor's Leggings -->
+            <item id="114101763" count="1"/> <!-- Bootleg Lunatic Modor's Shoes -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="110551230" count="1"/> <!-- Bootleg Lunatic Modor's Cleric Hauberk -->
+            <item id="111501789" count="1"/> <!-- Bootleg Lunatic Modor's Cleric Handguards -->
+            <item id="112501728" count="1"/> <!-- Bootleg Lunatic Modor's Cleric Spaulders -->
+            <item id="113501807" count="1"/> <!-- Bootleg Lunatic Modor's Cleric Chausses -->
+            <item id="114501817" count="1"/> <!-- Bootleg Lunatic Modor's Cleric Brogans -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="110551229" count="1"/> <!-- Bootleg Lunatic Modor's Chanter Hauberk -->
+            <item id="111501788" count="1"/> <!-- Bootleg Lunatic Modor's Chanter Handguards -->
+            <item id="112501727" count="1"/> <!-- Bootleg Lunatic Modor's Chanter Spaulders -->
+            <item id="113501806" count="1"/> <!-- Bootleg Lunatic Modor's Chanter Chausses -->
+            <item id="114501816" count="1"/> <!-- Bootleg Lunatic Modor's Chanter Brogans -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="110301897" count="1"/> <!-- Bootleg Lunatic Modor's Gunslinger Magic Jerkin -->
+            <item id="111301835" count="1"/> <!-- Bootleg Lunatic Modor's Gunslinger Magic Vambrace -->
+            <item id="112301774" count="1"/> <!-- Bootleg Lunatic Modor's Gunslinger Magic Shoulderguards -->
+            <item id="113301866" count="1"/> <!-- Bootleg Lunatic Modor's Gunslinger Magic Breeches -->
+            <item id="114301903" count="1"/> <!-- Bootleg Lunatic Modor's Gunslinger Magic Boots -->
+        </items>
+        <items player_class="BARD">
+            <item id="110101904" count="1"/> <!-- Bootleg Lunatic Modor's Songweaver Tunic -->
+            <item id="111101719" count="1"/> <!-- Bootleg Lunatic Modor's Songweaver Gloves -->
+            <item id="112101668" count="1"/> <!-- Bootleg Lunatic Modor's Songweaver Pauldrons -->
+            <item id="113101730" count="1"/> <!-- Bootleg Lunatic Modor's Songweaver Leggings -->
+            <item id="114101764" count="1"/> <!-- Bootleg Lunatic Modor's Songweaver Shoes -->
+        </items>
+        <items player_class="RIDER">
+            <item id="110551231" count="1"/> <!-- Bootleg Lunatic Modor's Aethertech Magic Hauberk -->
+            <item id="111501790" count="1"/> <!-- Bootleg Lunatic Modor's Aethertech Magic Handguards -->
+            <item id="112501729" count="1"/> <!-- Bootleg Lunatic Modor's Aethertech Magic Spaulders -->
+            <item id="113501808" count="1"/> <!-- Bootleg Lunatic Modor's Aethertech Magic Chausses -->
+            <item id="114501818" count="1"/> <!-- Bootleg Lunatic Modor's Aethertech Magic Brogans -->
+        </items>
+    </decomposable_selectitem>
+    <!-- [Event] Bootleg Modor's Weapon Box -->
+    <decomposable_selectitem item_id="188053892">
+        <items player_class="GLADIATOR">
+            <item id="100001820" count="1"/> <!-- Bootleg Lunatic Modor's Sword -->
+            <item id="100201580" count="1"/> <!-- Bootleg Lunatic Modor's Dagger -->
+            <item id="100101408" count="1"/> <!-- Bootleg Lunatic Modor's Warhammer -->
+            <item id="115001852" count="1"/> <!-- Bootleg Lunatic Modor's Shield -->
+            <item id="100901442" count="1"/> <!-- Bootleg Lunatic Modor's Greatsword -->
+            <item id="101701425" count="1"/> <!-- Bootleg Lunatic Modor's Bow -->
+            <item id="101301331" count="1"/> <!-- Bootleg Lunatic Modor's Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="100001820" count="1"/> <!-- Bootleg Lunatic Modor's Sword -->
+            <item id="100101408" count="1"/> <!-- Bootleg Lunatic Modor's Warhammer -->
+            <item id="115001852" count="1"/> <!-- Bootleg Lunatic Modor's Shield -->
+            <item id="100901442" count="1"/> <!-- Bootleg Lunatic Modor's Greatsword -->
+        </items>
+        <items player_class="RANGER">
+            <item id="100001820" count="1"/> <!-- Bootleg Lunatic Modor's Sword -->
+            <item id="100201580" count="1"/> <!-- Bootleg Lunatic Modor's Dagger -->
+            <item id="101701425" count="1"/> <!-- Bootleg Lunatic Modor's Bow -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="100001820" count="1"/> <!-- Bootleg Lunatic Modor's Sword -->
+            <item id="100201580" count="1"/> <!-- Bootleg Lunatic Modor's Dagger -->
+            <item id="101701425" count="1"/> <!-- Bootleg Lunatic Modor's Bow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="100501370" count="1"/> <!-- Bootleg Lunatic Modor's Orb -->
+            <item id="100601487" count="1"/> <!-- Bootleg Lunatic Modor's Spellbook -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501370" count="1"/> <!-- Bootleg Lunatic Modor's Orb -->
+            <item id="100601487" count="1"/> <!-- Bootleg Lunatic Modor's Spellbook -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="100101407" count="1"/> <!-- Bootleg Lunatic Modor's Mace -->
+            <item id="100101408" count="1"/> <!-- Bootleg Lunatic Modor's Warhammer -->
+            <item id="115001852" count="1"/> <!-- Bootleg Lunatic Modor's Shield -->
+            <item id="115001853" count="1"/> <!-- Bootleg Lunatic Modor's Scale Shield -->
+            <item id="101501424" count="1"/> <!-- Bootleg Lunatic Modor's Staff -->
+            <item id="101501425" count="1"/> <!-- Bootleg Lunatic Modor's Cane -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="100101407" count="1"/> <!-- Bootleg Lunatic Modor's Mace -->
+            <item id="100101408" count="1"/> <!-- Bootleg Lunatic Modor's Warhammer -->
+            <item id="115001852" count="1"/> <!-- Bootleg Lunatic Modor's Shield -->
+            <item id="115001853" count="1"/> <!-- Bootleg Lunatic Modor's Scale Shield -->
+            <item id="101501424" count="1"/> <!-- Bootleg Lunatic Modor's Staff -->
+            <item id="101501425" count="1"/> <!-- Bootleg Lunatic Modor's Cane -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="101801280" count="1"/> <!-- Bootleg Lunatic Modor's Pistol -->
+            <item id="101901186" count="1"/> <!-- Bootleg Lunatic Modor's Aethercannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="102001307" count="1"/> <!-- Bootleg Lunatic Modor's Harp -->
+        </items>
+        <items player_class="RIDER">
+            <item id="101801280" count="1"/> <!-- Bootleg Lunatic Modor's Pistol -->
+            <item id="102101124" count="1"/> <!-- Bootleg Lunatic Modor's Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Modor's Eternal Armour Chest -->
+    <decomposable_selectitem item_id="188052393">
+        <items player_class="GLADIATOR">
+            <item id="110601475" count="1"/> <!-- Modor's Gladiator Breastplate -->
+            <item id="111601438" count="1"/> <!-- Modor's Gladiator Gauntlets -->
+            <item id="112601419" count="1"/> <!-- Modor's Gladiator Shoulderplates -->
+            <item id="113601421" count="1"/> <!-- Modor's Gladiator Greaves -->
+            <item id="114601426" count="1"/> <!-- Modor's Gladiator Sabatons -->
+            <item id="125003649" count="1"/> <!-- Modor's Gladiator Helm -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052393">
+        <items player_class="TEMPLAR">
+            <item id="110601442" count="1"/> <!-- Modor's Templar Breastplate -->
+            <item id="111601404" count="1"/> <!-- Modor's Templar Gauntlets -->
+            <item id="112601386" count="1"/> <!-- Modor's Templar Shoulderplates -->
+            <item id="113601388" count="1"/> <!-- Modor's Templar Greaves -->
+            <item id="114601392" count="1"/> <!-- Modor's Templar Sabatons -->
+            <item id="125003502" count="1"/> <!-- Modor's Templar Helm -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052397">
+        <items player_class="ASSASSIN">
+            <item id="110301506" count="1"/> <!-- Modor's Jerkin -->
+            <item id="111301446" count="1"/> <!-- Modor's Vambrace -->
+            <item id="112301390" count="1"/> <!-- Modor's Shoulderguards -->
+            <item id="113301470" count="1"/> <!-- Modor's Breeches -->
+            <item id="114301507" count="1"/> <!-- Modor's Boots -->
+            <item id="125003508" count="1"/> <!-- Modor's Hat -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052397">
+        <items player_class="RANGER">
+            <item id="110301506" count="1"/> <!-- Modor's Jerkin -->
+            <item id="111301446" count="1"/> <!-- Modor's Vambrace -->
+            <item id="112301390" count="1"/> <!-- Modor's Shoulderguards -->
+            <item id="113301470" count="1"/> <!-- Modor's Breeches -->
+            <item id="114301507" count="1"/> <!-- Modor's Boots -->
+            <item id="125003508" count="1"/> <!-- Modor's Hat -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052401">
+        <items player_class="SORCERER">
+            <item id="110101616" count="1"/> <!-- Modor's Tunic -->
+            <item id="111101457" count="1"/> <!-- Modor's Gloves -->
+            <item id="112101411" count="1"/> <!-- Modor's Pauldrons -->
+            <item id="113101467" count="1"/> <!-- Modor's Leggings -->
+            <item id="114101504" count="1"/> <!-- Modor's Shoes -->
+            <item id="125003512" count="1"/> <!-- Modor's Headband -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052401">
+        <items player_class="SPIRIT_MASTER">
+            <item id="110101616" count="1"/> <!-- Modor's Tunic -->
+            <item id="111101457" count="1"/> <!-- Modor's Gloves -->
+            <item id="112101411" count="1"/> <!-- Modor's Pauldrons -->
+            <item id="113101467" count="1"/> <!-- Modor's Leggings -->
+            <item id="114101504" count="1"/> <!-- Modor's Shoes -->
+            <item id="125003512" count="1"/> <!-- Modor's Headband -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052405">
+        <items player_class="CLERIC">
+            <item id="110501463" count="1"/> <!-- Modor's Cleric Chain Armor -->
+            <item id="111501420" count="1"/> <!-- Modor's Cleric Handguards -->
+            <item id="112501362" count="1"/> <!-- Modor's Cleric Spaulders -->
+            <item id="113501436" count="1"/> <!-- Modor's Cleric Chain Leg Armor -->
+            <item id="114501445" count="1"/> <!-- Modor's Cleric Chain Boots -->
+            <item id="125003505" count="1"/> <!-- Modor's Cleric Chain Hood -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052407">
+        <items player_class="CHANTER">
+            <item id="110501462" count="1"/> <!-- Modor's Chanter Chain Armor -->
+            <item id="111501419" count="1"/> <!-- Modor's Chanter Handguards -->
+            <item id="112501361" count="1"/> <!-- Modor's Chanter Spaulders -->
+            <item id="113501435" count="1"/> <!-- Modor's Chanter Chain Leg Armor -->
+            <item id="114501444" count="1"/> <!-- Modor's Chanter Chain Boots -->
+            <item id="125003504" count="1"/> <!-- Modor's Chanter Chain Hood -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052411">
+        <items player_class="GUNNER">
+            <item id="110301507" count="1"/> <!-- Modor's Gunslinger Magic Jerkin -->
+            <item id="111301447" count="1"/> <!-- Modor's Gunslinger Magic Vambrace -->
+            <item id="112301391" count="1"/> <!-- Modor's Gunslinger Magic Shoulderguards -->
+            <item id="113301471" count="1"/> <!-- Modor's Gunslinger Magic Breeches-->
+            <item id="114301508" count="1"/> <!-- Modor's Gunslinger Magic Boots -->
+            <item id="125003509" count="1"/> <!-- Modor's Gunslinger Hat -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052415">
+        <items player_class="BARD">
+            <item id="110101617" count="1"/> <!-- Modor's Songweaver Tunic -->
+            <item id="111101458" count="1"/> <!-- Modor's Songweaver Gloves -->
+            <item id="112101412" count="1"/> <!-- Modor's Songweaver Pauldrons -->
+            <item id="113101468" count="1"/> <!-- Modor's Songweaver Leggings -->
+            <item id="114101505" count="1"/> <!-- Modor's Songweaver Shoes -->
+            <item id="125003513" count="1"/> <!-- Modor's Songweaver Headband -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052759">
+        <items player_class="RIDER">
+            <item id="110550939" count="1"/> <!-- Modor's Aethertech Magic Hauberk -->
+            <item id="111501497" count="1"/> <!-- Modor's Aethertech Magic Handguards -->
+            <item id="112501439" count="1"/> <!-- Modor's Aethertech Magic Spaulders -->
+            <item id="113501515" count="1"/> <!-- Modor's Aethertech Magic Chausses -->
+            <item id="114501524" count="1"/> <!-- Modor's Aethertech Magic Brogans -->
+            <item id="125003790" count="1"/> <!-- Modor's Aethertech Magic Helm -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Modor's Mythical Armour Chest -->
+    <decomposable_selectitem item_id="188052394">
+        <items player_class="GLADIATOR">
+            <item id="110601476" count="1"/> <!-- Lunatic Modor's Gladiator Breastplate -->
+            <item id="111601439" count="1"/> <!-- Lunatic Modor's Gladiator Gauntlets -->
+            <item id="112601420" count="1"/> <!-- Lunatic Modor's Gladiator Shoulderplates -->
+            <item id="113601422" count="1"/> <!-- Lunatic Modor's Gladiator Greaves -->
+            <item id="114601427" count="1"/> <!-- Lunatic Modor's Gladiator Sabatons -->
+            <item id="125003650" count="1"/> <!-- Lunatic Modor's Gladiator Helm -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052394">
+        <items player_class="TEMPLAR">
+            <item id="110601443" count="1"/> <!-- Lunatic Modor's Templar Breastplate -->
+            <item id="111601405" count="1"/> <!-- Lunatic Modor's Templar Gauntlets -->
+            <item id="112601387" count="1"/> <!-- Lunatic Modor's Templar Shoulderplates -->
+            <item id="113601389" count="1"/> <!-- Lunatic Modor's Templar Greaves -->
+            <item id="114601393" count="1"/> <!-- Lunatic Modor's Templar Sabatons -->
+            <item id="125003503" count="1"/> <!-- Lunatic Modor's Templar Helm -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052398">
+        <items player_class="ASSASSIN">
+            <item id="110301508" count="1"/> <!-- Lunatic Modor's Jerkin -->
+            <item id="111301448" count="1"/> <!-- Lunatic Modor's Vambrace -->
+            <item id="112301392" count="1"/> <!-- Lunatic Modor's Shoulderguards -->
+            <item id="113301472" count="1"/> <!-- Lunatic Modor's Breeches -->
+            <item id="114301509" count="1"/> <!-- Lunatic Modor's Boots -->
+            <item id="125003510" count="1"/> <!-- Lunatic Modor's Hat -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052398">
+        <items player_class="RANGER">
+            <item id="110301508" count="1"/> <!-- Lunatic Modor's Jerkin -->
+            <item id="111301448" count="1"/> <!-- Lunatic Modor's Vambrace -->
+            <item id="112301392" count="1"/> <!-- Lunatic Modor's Shoulderguards -->
+            <item id="113301472" count="1"/> <!-- Lunatic Modor's Breeches -->
+            <item id="114301509" count="1"/> <!-- Lunatic Modor's Boots -->
+            <item id="125003510" count="1"/> <!-- Lunatic Modor's Hat -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052402">
+        <items player_class="SORCERER">
+            <item id="110101618" count="1"/> <!-- Lunatic Modor's Tunic -->
+            <item id="111101459" count="1"/> <!-- Lunatic Modor's Gloves -->
+            <item id="112101413" count="1"/> <!-- Lunatic Modor's Pauldrons -->
+            <item id="113101469" count="1"/> <!-- Lunatic Modor's Leggings -->
+            <item id="114101506" count="1"/> <!-- Lunatic Modor's Shoes -->
+            <item id="125003514" count="1"/> <!-- Lunatic Modor's Headband -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052402">
+        <items player_class="SPIRIT_MASTER">
+            <item id="110101618" count="1"/> <!-- Lunatic Modor's Tunic -->
+            <item id="111101459" count="1"/> <!-- Lunatic Modor's Gloves -->
+            <item id="112101413" count="1"/> <!-- Lunatic Modor's Pauldrons -->
+            <item id="113101469" count="1"/> <!-- Lunatic Modor's Leggings -->
+            <item id="114101506" count="1"/> <!-- Lunatic Modor's Shoes -->
+            <item id="125003514" count="1"/> <!-- Lunatic Modor's Headband -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052406">
+        <items player_class="CLERIC">
+            <item id="110501465" count="1"/> <!-- Lunatic Modor's Cleric Hauberk -->
+            <item id="111501422" count="1"/> <!-- Lunatic Modor's Cleric Handguards -->
+            <item id="112501364" count="1"/> <!-- Lunatic Modor's Cleric Spaulders -->
+            <item id="113501438" count="1"/> <!-- Lunatic Modor's Cleric Chausses -->
+            <item id="114501447" count="1"/> <!-- Lunatic Modor's Cleric Brogans -->
+            <item id="125003507" count="1"/> <!-- Lunatic Modor's Cleric Chain Hood -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052408">
+        <items player_class="CHANTER">
+            <item id="110501464" count="1"/> <!-- Lunatic Modor's Chanter Hauberk -->
+            <item id="111501421" count="1"/> <!-- Lunatic Modor's Chanter Handguards -->
+            <item id="112501363" count="1"/> <!-- Lunatic Modor's Chanter Spaulders -->
+            <item id="113501437" count="1"/> <!-- Lunatic Modor's Chanter Chausses -->
+            <item id="114501446" count="1"/> <!-- Lunatic Modor's Chanter Brogans -->
+            <item id="125003506" count="1"/> <!-- Lunatic Modor's Chanter Chain Hood -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052412">
+        <items player_class="GUNNER">
+            <item id="110301509" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Jerkin -->
+            <item id="111301449" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Vambrace -->
+            <item id="112301393" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Shoulderguards -->
+            <item id="113301473" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Breeches -->
+            <item id="114301510" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Boots -->
+            <item id="125003511" count="1"/> <!-- Lunatic Modor's Gunslinger Hat -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052416">
+        <items player_class="BARD">
+            <item id="110101619" count="1"/> <!-- Lunatic Modor's Songweaver Tunic -->
+            <item id="111101460" count="1"/> <!-- Lunatic Modor's Songweaver Gloves -->
+            <item id="112101414" count="1"/> <!-- Lunatic Modor's Songweaver Pauldrons -->
+            <item id="113101470" count="1"/> <!-- Lunatic Modor's Songweaver Leggings -->
+            <item id="114101507" count="1"/> <!-- Lunatic Modor's Songweaver Shoes -->
+            <item id="125003515" count="1"/> <!-- Lunatic Modor's Songweaver Headband -->
+        </items>
+    </decomposable_selectitem>
+    <decomposable_selectitem item_id="188052760">
+        <items player_class="RIDER">
+            <item id="110550940" count="1"/> <!-- Lunatic Modor's Aethertech Magic Hauberk -->
+            <item id="111501498" count="1"/> <!-- Lunatic Modor's Aethertech Magic Handguards -->
+            <item id="112501440" count="1"/> <!-- Lunatic Modor's Aethertech Magic Spaulders -->
+            <item id="113501516" count="1"/> <!-- Lunatic Modor's Aethertech Magic Chausses -->
+            <item id="114501525" count="1"/> <!-- Lunatic Modor's Aethertech Magic Brogans -->
+            <item id="125003791" count="1"/> <!-- Lunatic Modor's Aethertech Magic Helm -->
+        </items>
+    </decomposable_selectitem>
+    <!-- [Event] Modor's Mythic Armor Box -->
+    <decomposable_selectitem item_id="188053188">
+        <items player_class="GLADIATOR">
+            <item id="110601476" count="1"/> <!-- Lunatic Modor's Gladiator Breastplate -->
+            <item id="111601439" count="1"/> <!-- Lunatic Modor's Gladiator Gauntlets -->
+            <item id="112601420" count="1"/> <!-- Lunatic Modor's Gladiator Shoulderplates -->
+            <item id="113601422" count="1"/> <!-- Lunatic Modor's Gladiator Greaves -->
+            <item id="114601427" count="1"/> <!-- Lunatic Modor's Gladiator Sabatons -->
+            <item id="125003650" count="1"/> <!-- Lunatic Modor's Gladiator Helm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="110601443" count="1"/> <!-- Lunatic Modor's Templar Breastplate -->
+            <item id="111601405" count="1"/> <!-- Lunatic Modor's Templar Gauntlets -->
+            <item id="112601387" count="1"/> <!-- Lunatic Modor's Templar Shoulderplates -->
+            <item id="113601389" count="1"/> <!-- Lunatic Modor's Templar Greaves -->
+            <item id="114601393" count="1"/> <!-- Lunatic Modor's Templar Sabatons -->
+            <item id="125003503" count="1"/> <!-- Lunatic Modor's Templar Helm -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="110301508" count="1"/> <!-- Lunatic Modor's Jerkin -->
+            <item id="111301448" count="1"/> <!-- Lunatic Modor's Vambrace -->
+            <item id="112301392" count="1"/> <!-- Lunatic Modor's Shoulderguards -->
+            <item id="113301472" count="1"/> <!-- Lunatic Modor's Breeches -->
+            <item id="114301509" count="1"/> <!-- Lunatic Modor's Boots -->
+            <item id="125003510" count="1"/> <!-- Lunatic Modor's Hat -->
+        </items>
+        <items player_class="RANGER">
+            <item id="110301508" count="1"/> <!-- Lunatic Modor's Jerkin -->
+            <item id="111301448" count="1"/> <!-- Lunatic Modor's Vambrace -->
+            <item id="112301392" count="1"/> <!-- Lunatic Modor's Shoulderguards -->
+            <item id="113301472" count="1"/> <!-- Lunatic Modor's Breeches -->
+            <item id="114301509" count="1"/> <!-- Lunatic Modor's Boots -->
+            <item id="125003510" count="1"/> <!-- Lunatic Modor's Hat -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="110101618" count="1"/> <!-- Lunatic Modor's Tunic -->
+            <item id="111101459" count="1"/> <!-- Lunatic Modor's Gloves -->
+            <item id="112101413" count="1"/> <!-- Lunatic Modor's Pauldrons -->
+            <item id="113101469" count="1"/> <!-- Lunatic Modor's Leggings -->
+            <item id="114101506" count="1"/> <!-- Lunatic Modor's Shoes -->
+            <item id="125003514" count="1"/> <!-- Lunatic Modor's Headband -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="110101618" count="1"/> <!-- Lunatic Modor's Tunic -->
+            <item id="111101459" count="1"/> <!-- Lunatic Modor's Gloves -->
+            <item id="112101413" count="1"/> <!-- Lunatic Modor's Pauldrons -->
+            <item id="113101469" count="1"/> <!-- Lunatic Modor's Leggings -->
+            <item id="114101506" count="1"/> <!-- Lunatic Modor's Shoes -->
+            <item id="125003514" count="1"/> <!-- Lunatic Modor's Headband -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="110501464" count="1"/> <!-- Lunatic Modor's Chanter Hauberk -->
+            <item id="111501421" count="1"/> <!-- Lunatic Modor's Chanter Handguards -->
+            <item id="112501363" count="1"/> <!-- Lunatic Modor's Chanter Spaulders -->
+            <item id="113501437" count="1"/> <!-- Lunatic Modor's Chanter Chausses -->
+            <item id="114501446" count="1"/> <!-- Lunatic Modor's Chanter Brogans -->
+            <item id="125003506" count="1"/> <!-- Lunatic Modor's Chanter Chain Hood -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="110501465" count="1"/> <!-- Lunatic Modor's Cleric Hauberk -->
+            <item id="111501422" count="1"/> <!-- Lunatic Modor's Cleric Handguards -->
+            <item id="112501364" count="1"/> <!-- Lunatic Modor's Cleric Spaulders -->
+            <item id="113501438" count="1"/> <!-- Lunatic Modor's Cleric Chausses -->
+            <item id="114501447" count="1"/> <!-- Lunatic Modor's Cleric Brogans -->
+            <item id="125003507" count="1"/> <!-- Lunatic Modor's Cleric Chain Hood -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="110301509" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Jerkin -->
+            <item id="111301449" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Vambrace -->
+            <item id="112301393" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Shoulderguards -->
+            <item id="113301473" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Breeches -->
+            <item id="114301510" count="1"/> <!-- Lunatic Modor's Gunslinger Magic Boots -->
+            <item id="125003511" count="1"/> <!-- Lunatic Modor's Gunslinger Hat -->
+        </items>
+        <items player_class="BARD">
+            <item id="110101619" count="1"/> <!-- Lunatic Modor's Songweaver Tunic -->
+            <item id="111101460" count="1"/> <!-- Lunatic Modor's Songweaver Gloves -->
+            <item id="112101414" count="1"/> <!-- Lunatic Modor's Songweaver Pauldrons -->
+            <item id="113101470" count="1"/> <!-- Lunatic Modor's Songweaver Leggings -->
+            <item id="114101507" count="1"/> <!-- Lunatic Modor's Songweaver Shoes -->
+            <item id="125003515" count="1"/> <!-- Lunatic Modor's Songweaver Headband -->
+        </items>
+        <items player_class="RIDER">
+            <item id="110550940" count="1"/> <!-- Lunatic Modor's Aethertech Magic Hauberk -->
+            <item id="111501498" count="1"/> <!-- Lunatic Modor's Aethertech Magic Handguards -->
+            <item id="112501440" count="1"/> <!-- Lunatic Modor's Aethertech Magic Spaulders -->
+            <item id="113501516" count="1"/> <!-- Lunatic Modor's Aethertech Magic Chausses -->
+            <item id="114501525" count="1"/> <!-- Lunatic Modor's Aethertech Magic Brogans -->
+            <item id="125003791" count="1"/> <!-- Lunatic Modor's Aethertech Magic Helm -->
+        </items>
+    </decomposable_selectitem>
+    <!--  Danuar Reliquary Expedition's Weapon Box -->
+    <decomposable_selectitem item_id="188052438">
+        <items player_class="GLADIATOR">
+            <item id="100001553" count="1"/> <!-- Danuar Reliquary Expedition's Sword -->
+            <item id="100201356" count="1"/> <!-- Danuar Reliquary Expedition's Dagger -->
+            <item id="100101190" count="1"/> <!-- Danuar Reliquary Expedition's Warhammer -->
+            <item id="115001596" count="1"/> <!-- Danuar Reliquary Expedition's Shield -->
+            <item id="100901208" count="1"/> <!-- Danuar Reliquary Expedition's Greatsword -->
+            <item id="101701238" count="1"/> <!-- Danuar Reliquary Expedition's Bow -->
+            <item id="101301136" count="1"/> <!-- Danuar Reliquary Expedition's Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="100001553" count="1"/> <!-- Danuar Reliquary Expedition's Sword -->
+            <item id="100101190" count="1"/> <!-- Danuar Reliquary Expedition's Warhammer -->
+            <item id="115001596" count="1"/> <!-- Danuar Reliquary Expedition's Shield -->
+            <item id="100901208" count="1"/> <!-- Danuar Reliquary Expedition's Greatsword -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="100001553" count="1"/> <!-- Danuar Reliquary Expedition's Sword -->
+            <item id="100201356" count="1"/> <!-- Danuar Reliquary Expedition's Dagger -->
+            <item id="101701238" count="1"/> <!-- Danuar Reliquary Expedition's Bow -->
+        </items>
+        <items player_class="RANGER">
+            <item id="100001553" count="1"/> <!-- Danuar Reliquary Expedition's Sword -->
+            <item id="100201356" count="1"/> <!-- Danuar Reliquary Expedition's Dagger -->
+            <item id="101701238" count="1"/> <!-- Danuar Reliquary Expedition's Bow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="100501188" count="1"/> <!-- Danuar Reliquary Expedition's Orb -->
+            <item id="100601277" count="1"/> <!-- Danuar Reliquary Expedition's Spellbook -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501188" count="1"/> <!-- Danuar Reliquary Expedition's Orb -->
+            <item id="100601277" count="1"/> <!-- Danuar Reliquary Expedition's Spellbook -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="100101189" count="1"/> <!-- Danuar Reliquary Expedition's Mace -->
+            <item id="100101190" count="1"/> <!-- Danuar Reliquary Expedition's Warhammer -->
+            <item id="115001596" count="1"/> <!-- Danuar Reliquary Expedition's Shield -->
+            <item id="115001597" count="1"/> <!-- Danuar Reliquary Expedition's Scale Shield -->
+            <item id="101501218" count="1"/> <!-- Danuar Reliquary Expedition's Staff -->
+            <item id="101501233" count="1"/> <!-- Danuar Reliquary Expedition's Cane -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="100101189" count="1"/> <!-- Danuar Reliquary Expedition's Mace -->
+            <item id="100101190" count="1"/> <!-- Danuar Reliquary Expedition's Warhammer -->
+            <item id="115001596" count="1"/> <!-- Danuar Reliquary Expedition's Shield -->
+            <item id="115001597" count="1"/> <!-- Danuar Reliquary Expedition's Scale Shield -->
+            <item id="101501218" count="1"/> <!-- Danuar Reliquary Expedition's Staff -->
+            <item id="101501233" count="1"/> <!-- Danuar Reliquary Expedition's Cane -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="101801019" count="1"/> <!-- Danuar Reliquary Expedition's Pistol -->
+            <item id="101900982" count="1"/> <!-- Danuar Reliquary Expedition's Aethercannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="102001045" count="1"/> <!-- Danuar Reliquary Expedition's Harp -->
+        </items>
+        <items player_class="RIDER">
+            <item id="101801019" count="1"/> <!-- Danuar Reliquary Expedition's Pistol -->
+            <item id="102100821" count="1"/> <!-- Danuar Reliquary Expedition's Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Infinity Shard Equipment Box -->
+    <decomposable_selectitem item_id="188052756">
+        <items player_class="GLADIATOR">
+            <item id="110601450" count="1"/> <!-- Infinity Shard's Breastplate -->
+            <item id="113601396" count="1"/> <!-- Infinity Shard's Greaves -->
+            <item id="111601412" count="1"/> <!-- Infinity Shard's Gauntlets -->
+            <item id="112601394" count="1"/> <!-- Infinity Shard's Shoulderplates -->
+            <item id="114601400" count="1"/> <!-- Infinity Shard's Sabatons -->
+            <item id="125003516" count="1"/> <!-- Infinity Shard's Helm -->
+            <item id="100001558" count="1"/> <!-- Infinity Shard's Sword -->
+            <item id="100201359" count="1"/> <!-- Infinity Shard's Dagger -->
+            <item id="100101194" count="1"/> <!-- Infinity Shard's Mace -->
+            <item id="115001598" count="1"/> <!-- Infinity Shard's Shield -->
+            <item id="100901210" count="1"/> <!-- Infinity Shard's Greatsword -->
+            <item id="101701242" count="1"/> <!-- Infinity Shard's Bow -->
+            <item id="101301139" count="1"/> <!-- Infinity Shard's Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="110601450" count="1"/> <!-- Infinity Shard's Breastplate -->
+            <item id="113601396" count="1"/> <!-- Infinity Shard's Greaves -->
+            <item id="111601412" count="1"/> <!-- Infinity Shard's Gauntlets -->
+            <item id="112601394" count="1"/> <!-- Infinity Shard's Shoulderplates -->
+            <item id="114601400" count="1"/> <!-- Infinity Shard's Sabatons -->
+            <item id="125003516" count="1"/> <!-- Infinity Shard's Helm -->
+            <item id="100001558" count="1"/> <!-- Infinity Shard's Sword -->
+            <item id="100101194" count="1"/> <!-- Infinity Shard's Mace -->
+            <item id="115001598" count="1"/> <!-- Infinity Shard's Shield -->
+            <item id="100901210" count="1"/> <!-- Infinity Shard's Greatsword -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="110301519" count="1"/> <!-- Infinity Shard's Jerkin -->
+            <item id="113301483" count="1"/> <!-- Infinity Shard's Breeches -->
+            <item id="111301459" count="1"/> <!-- Infinity Shard's Vambrace -->
+            <item id="112301403" count="1"/> <!-- Infinity Shard's Shoulderguards -->
+            <item id="114301520" count="1"/> <!-- Infinity Shard's Boots -->
+            <item id="125003517" count="1"/> <!-- Infinity Shard's Hat -->
+            <item id="100001558" count="1"/> <!-- Infinity Shard's Sword -->
+            <item id="100201359" count="1"/> <!-- Infinity Shard's Dagger -->
+            <item id="101701242" count="1"/> <!-- Infinity Shard's Bow -->
+        </items>
+        <items player_class="RANGER">
+            <item id="110301519" count="1"/> <!-- Infinity Shard's Jerkin -->
+            <item id="113301483" count="1"/> <!-- Infinity Shard's Breeches -->
+            <item id="111301459" count="1"/> <!-- Infinity Shard's Vambrace -->
+            <item id="112301403" count="1"/> <!-- Infinity Shard's Shoulderguards -->
+            <item id="114301520" count="1"/> <!-- Infinity Shard's Boots -->
+            <item id="125003517" count="1"/> <!-- Infinity Shard's Hat -->
+            <item id="100201359" count="1"/> <!-- Infinity Shard's Dagger -->
+            <item id="100001558" count="1"/> <!-- Infinity Shard's Sword -->
+            <item id="101701242" count="1"/> <!-- Infinity Shard's Bow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="110101629" count="1"/> <!-- Infinity Shard's Tunic -->
+            <item id="113101480" count="1"/> <!-- Infinity Shard's Leggings -->
+            <item id="111101470" count="1"/> <!-- Infinity Shard's Gloves -->
+            <item id="112101424" count="1"/> <!-- Infinity Shard's Pauldrons -->
+            <item id="114101517" count="1"/> <!-- Infinity Shard's Shoes -->
+            <item id="125003519" count="1"/> <!-- Infinity Shard's Headband -->
+            <item id="100501192" count="1"/> <!-- Infinity Shard's Orb -->
+            <item id="100601281" count="1"/> <!-- Infinity Shard's Spellbook -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="110101629" count="1"/> <!-- Infinity Shard's Tunic -->
+            <item id="113101480" count="1"/> <!-- Infinity Shard's Leggings -->
+            <item id="111101470" count="1"/> <!-- Infinity Shard's Gloves -->
+            <item id="112101424" count="1"/> <!-- Infinity Shard's Pauldrons -->
+            <item id="114101517" count="1"/> <!-- Infinity Shard's Shoes -->
+            <item id="125003519" count="1"/> <!-- Infinity Shard's Headband -->
+            <item id="100501192" count="1"/> <!-- Infinity Shard's Orb -->
+            <item id="100601281" count="1"/> <!-- Infinity Shard's Spellbook -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="110501502" count="1"/> <!-- Infinity Shard's Magic Hauberk -->
+            <item id="113501475" count="1"/> <!-- Infinity Shard's Magic Chausses -->
+            <item id="111501429" count="1"/> <!-- Infinity Shard's Handguards -->
+            <item id="112501371" count="1"/> <!-- Infinity Shard's Spaulders -->
+            <item id="114501482" count="1"/> <!-- Infinity Shard's Magic Brogans -->
+            <item id="125003651" count="1"/> <!-- Infinity Shard's Chain Hood -->
+            <item id="100101194" count="1"/> <!-- Infinity Shard's Mace -->
+            <item id="115001598" count="1"/> <!-- Infinity Shard's Shield -->
+            <item id="115001599" count="1"/> <!-- Infinity Shard's Scale Shield -->
+            <item id="101501222" count="1"/> <!-- Infinity Shard's Staff -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="110501472" count="1"/> <!-- Infinity Shard's Hauberk -->
+            <item id="113501445" count="1"/> <!-- Infinity Shard's Chausses -->
+            <item id="111501457" count="1"/> <!-- Infinity Shard's Magic Handguards -->
+            <item id="112501399" count="1"/> <!-- Infinity Shard's Spaulders -->
+            <item id="114501454" count="1"/> <!-- Infinity Shard's Brogans -->
+            <item id="125003518" count="1"/> <!-- Infinity Shard's Chain Hood -->
+            <item id="100101194" count="1"/> <!-- Infinity Shard's Mace -->
+            <item id="115001598" count="1"/> <!-- Infinity Shard's Shield -->
+            <item id="115001599" count="1"/> <!-- Infinity Shard's Scale Shield -->
+            <item id="101501222" count="1"/> <!-- Infinity Shard's Staff -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="110301620" count="1"/> <!-- Infinity Shard's Magic Jerkin -->
+            <item id="113301586" count="1"/> <!-- Infinity Shard's Magic Breeches -->
+            <item id="111301558" count="1"/> <!-- Infinity Shard's Magic Vambrace -->
+            <item id="112301499" count="1"/> <!-- Infinity Shard's Magic Shoulderguards -->
+            <item id="114301624" count="1"/> <!-- Infinity Shard's Magic Boots -->
+            <item id="101801022" count="1"/> <!-- Infinity Shard's Pistol -->
+            <item id="101900984" count="1"/> <!-- Infinity Shard's Aethercannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="110101629" count="1"/> <!-- Infinity Shard's Tunic -->
+            <item id="113101480" count="1"/> <!-- Infinity Shard's Leggings -->
+            <item id="111101470" count="1"/> <!-- Infinity Shard's Gloves -->
+            <item id="112101424" count="1"/> <!-- Infinity Shard's Pauldrons -->
+            <item id="114101517" count="1"/> <!-- Infinity Shard's Shoes -->
+            <item id="125003519" count="1"/> <!-- Infinity Shard's Headband -->
+            <item id="102001049" count="1"/> <!-- Infinity Shard's Harp -->
+        </items>
+        <items player_class="RIDER">
+            <item id="110550938" count="1"/> <!-- Infinity Shard's Magic Hauberk -->
+            <item id="113501514" count="1"/> <!-- Infinity Shard's Magic Chausses -->
+            <item id="111501496" count="1"/> <!-- Infinity Shard's Magic Handguards -->
+            <item id="112501438" count="1"/> <!-- Infinity Shard's Magic Spaulders -->
+            <item id="114501523" count="1"/> <!-- Infinity Shard's Magic Brogans -->
+            <item id="125003789" count="1"/> <!-- Infinity Shard's Magic Helm -->
+            <item id="101801022" count="1"/> <!-- Infinity Shard's Pistol -->
+            <item id="102100824" count="1"/> <!-- Infinity Shard's Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Infinity Shard Equipment Box -->
+    <decomposable_selectitem item_id="188052471">
+        <items player_class="GLADIATOR">
+            <item id="110601450" count="1"/> <!-- Infinity Shard's Breastplate -->
+            <item id="113601396" count="1"/> <!-- Infinity Shard's Greaves -->
+            <item id="111601412" count="1"/> <!-- Infinity Shard's Gauntlets -->
+            <item id="112601394" count="1"/> <!-- Infinity Shard's Shoulderplates -->
+            <item id="114601400" count="1"/> <!-- Infinity Shard's Sabatons -->
+            <item id="125003516" count="1"/> <!-- Infinity Shard's Helm -->
+            <item id="100001558" count="1"/> <!-- Infinity Shard's Sword -->
+            <item id="100201359" count="1"/> <!-- Infinity Shard's Dagger -->
+            <item id="100101194" count="1"/> <!-- Infinity Shard's Mace -->
+            <item id="115001598" count="1"/> <!-- Infinity Shard's Shield -->
+            <item id="100901210" count="1"/> <!-- Infinity Shard's Greatsword -->
+            <item id="101701242" count="1"/> <!-- Infinity Shard's Bow -->
+            <item id="101301139" count="1"/> <!-- Infinity Shard's Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="110601450" count="1"/> <!-- Infinity Shard's Breastplate -->
+            <item id="113601396" count="1"/> <!-- Infinity Shard's Greaves -->
+            <item id="111601412" count="1"/> <!-- Infinity Shard's Gauntlets -->
+            <item id="112601394" count="1"/> <!-- Infinity Shard's Shoulderplates -->
+            <item id="114601400" count="1"/> <!-- Infinity Shard's Sabatons -->
+            <item id="125003516" count="1"/> <!-- Infinity Shard's Helm -->
+            <item id="100001558" count="1"/> <!-- Infinity Shard's Sword -->
+            <item id="100101194" count="1"/> <!-- Infinity Shard's Mace -->
+            <item id="115001598" count="1"/> <!-- Infinity Shard's Shield -->
+            <item id="100901210" count="1"/> <!-- Infinity Shard's Greatsword -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Infinity Shard Equipment Box -->
+    <decomposable_selectitem item_id="188052472">
+        <items player_class="ASSASSIN">
+            <item id="110301519" count="1"/> <!-- Infinity Shard's Jerkin -->
+            <item id="113301483" count="1"/> <!-- Infinity Shard's Breeches -->
+            <item id="111301459" count="1"/> <!-- Infinity Shard's Vambrace -->
+            <item id="112301403" count="1"/> <!-- Infinity Shard's Shoulderguards -->
+            <item id="114301520" count="1"/> <!-- Infinity Shard's Boots -->
+            <item id="125003517" count="1"/> <!-- Infinity Shard's Hat -->
+            <item id="100001558" count="1"/> <!-- Infinity Shard's Sword -->
+            <item id="100201359" count="1"/> <!-- Infinity Shard's Dagger -->
+            <item id="101701242" count="1"/> <!-- Infinity Shard's Bow -->
+        </items>
+        <items player_class="RANGER">
+            <item id="110301519" count="1"/> <!-- Infinity Shard's Jerkin -->
+            <item id="113301483" count="1"/> <!-- Infinity Shard's Breeches -->
+            <item id="111301459" count="1"/> <!-- Infinity Shard's Vambrace -->
+            <item id="112301403" count="1"/> <!-- Infinity Shard's Shoulderguards -->
+            <item id="114301520" count="1"/> <!-- Infinity Shard's Boots -->
+            <item id="125003517" count="1"/> <!-- Infinity Shard's Hat -->
+            <item id="100001558" count="1"/> <!-- Infinity Shard's Sword -->
+            <item id="100201359" count="1"/> <!-- Infinity Shard's Dagger -->
+            <item id="101701242" count="1"/> <!-- Infinity Shard's Bow -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Infinity Shard Equipment Box -->
+    <decomposable_selectitem item_id="188052473">
+        <items player_class="SORCERER">
+            <item id="110101629" count="1"/> <!-- Infinity Shard's Tunic -->
+            <item id="113101480" count="1"/> <!-- Infinity Shard's Leggings -->
+            <item id="111101470" count="1"/> <!-- Infinity Shard's Gloves -->
+            <item id="112101424" count="1"/> <!-- Infinity Shard's Pauldrons -->
+            <item id="114101517" count="1"/> <!-- Infinity Shard's Shoes -->
+            <item id="125003519" count="1"/> <!-- Infinity Shard's Headband -->
+            <item id="100501192" count="1"/> <!-- Infinity Shard's Orb -->
+            <item id="100601281" count="1"/> <!-- Infinity Shard's Spellbook -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="110101629" count="1"/> <!-- Infinity Shard's Tunic -->
+            <item id="113101480" count="1"/> <!-- Infinity Shard's Leggings -->
+            <item id="111101470" count="1"/> <!-- Infinity Shard's Gloves -->
+            <item id="112101424" count="1"/> <!-- Infinity Shard's Pauldrons -->
+            <item id="114101517" count="1"/> <!-- Infinity Shard's Shoes -->
+            <item id="125003519" count="1"/> <!-- Infinity Shard's Headband -->
+            <item id="100501192" count="1"/> <!-- Infinity Shard's Orb -->
+            <item id="100601281" count="1"/> <!-- Infinity Shard's Spellbook -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Infinity Shard Equipment Box -->
+    <decomposable_selectitem item_id="188052474">
+        <items player_class="CHANTER">
+            <item id="110501502" count="1"/> <!-- Infinity Shard's Magic Hauberk -->
+            <item id="113501475" count="1"/> <!-- Infinity Shard's Magic Chausses -->
+            <item id="111501429" count="1"/> <!-- Infinity Shard's Handguards -->
+            <item id="112501371" count="1"/> <!-- Infinity Shard's Spaulders -->
+            <item id="114501482" count="1"/> <!-- Infinity Shard's Magic Brogans -->
+            <item id="125003651" count="1"/> <!-- Infinity Shard's Chain Hood -->
+            <item id="100101194" count="1"/> <!-- Infinity Shard's Mace -->
+            <item id="115001598" count="1"/> <!-- Infinity Shard's Shield -->
+            <item id="115001599" count="1"/> <!-- Infinity Shard's Scale Shield -->
+            <item id="101501222" count="1"/> <!-- Infinity Shard's Staff -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="110501472" count="1"/> <!-- Infinity Shard's Hauberk -->
+            <item id="113501445" count="1"/> <!-- Infinity Shard's Chausses -->
+            <item id="111501457" count="1"/> <!-- Infinity Shard's Magic Handguards -->
+            <item id="112501399" count="1"/> <!-- Infinity Shard's Spaulders -->
+            <item id="114501454" count="1"/> <!-- Infinity Shard's Brogans -->
+            <item id="125003518" count="1"/> <!-- Infinity Shard's Chain Hood -->
+            <item id="100101194" count="1"/> <!-- Infinity Shard's Mace -->
+            <item id="115001598" count="1"/> <!-- Infinity Shard's Shield -->
+            <item id="115001599" count="1"/> <!-- Infinity Shard's Scale Shield -->
+            <item id="101501222" count="1"/> <!-- Infinity Shard's Staff -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Infinity Shard Equipment Box -->
+    <decomposable_selectitem item_id="188052475">
+        <items player_class="BARD">
+            <item id="110101629" count="1"/> <!-- Infinity Shard's Tunic -->
+            <item id="113101480" count="1"/> <!-- Infinity Shard's Leggings -->
+            <item id="111101470" count="1"/> <!-- Infinity Shard's Gloves -->
+            <item id="112101424" count="1"/> <!-- Infinity Shard's Pauldrons -->
+            <item id="114101517" count="1"/> <!-- Infinity Shard's Shoes -->
+            <item id="125003519" count="1"/> <!-- Infinity Shard's Headband -->
+            <item id="102001049" count="1"/> <!-- Infinity Shard's Harp -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Infinity Shard Equipment Box -->
+    <decomposable_selectitem item_id="188052476">
+        <items player_class="GUNNER">
+            <item id="110301620" count="1"/> <!-- Infinity Shard's Magic Jerkin -->
+            <item id="113301586" count="1"/> <!-- Infinity Shard's Magic Breeches -->
+            <item id="111301558" count="1"/> <!-- Infinity Shard's Magic Vambrace -->
+            <item id="112301499" count="1"/> <!-- Infinity Shard's Magic Shoulderguards -->
+            <item id="114301624" count="1"/> <!-- Infinity Shard's Magic Boots -->
+            <item id="101801022" count="1"/> <!-- Infinity Shard's Pistol -->
+            <item id="101900984" count="1"/> <!-- Infinity Shard's Aethercannon -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Infinity Shard Equipment Box -->
+    <decomposable_selectitem item_id="188052477">
+        <items player_class="RIDER">
+            <item id="110550938" count="1"/> <!-- Infinity Shard's Magic Hauberk -->
+            <item id="113501514" count="1"/> <!-- Infinity Shard's Magic Chausses -->
+            <item id="111501496" count="1"/> <!-- Infinity Shard's Magic Handguards -->
+            <item id="112501438" count="1"/> <!-- Infinity Shard's Magic Spaulders -->
+            <item id="114501523" count="1"/> <!-- Infinity Shard's Magic Brogans -->
+            <item id="125003789" count="1"/> <!-- Infinity Shard's Magic Helm -->
+            <item id="101801022" count="1"/> <!-- Infinity Shard's Pistol -->
+            <item id="102100824" count="1"/> <!-- Infinity Shard's Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+	<!-- Judge's Fabled Weapon Chest (Fire Temple) -->
+    <decomposable_selectitem item_id="188052826">
+        <items player_class="GLADIATOR">
+            <item id="101300194" count="1"/> <!-- Kromede's Spear -->
+            <item id="100900197" count="1"/> <!-- Kromede's Greatsword -->
+            <item id="100200298" count="1"/> <!-- Kromede's Dagger -->
+            <item id="100000275" count="1"/> <!-- Kromede's Sword -->
+            <item id="100100191" count="1"/> <!-- Kromede's Warhammer -->
+            <item id="101700216" count="1"/> <!-- Kromede's Longbow -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="100900197" count="1"/> <!-- Kromede's Greatsword -->
+            <item id="100000275" count="1"/> <!-- Kromede's Sword -->
+            <item id="100100191" count="1"/> <!-- Kromede's Warhammer -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="100200298" count="1"/> <!-- Kromede's Dagger -->
+            <item id="100000275" count="1"/> <!-- Kromede's Sword -->
+            <item id="101700216" count="1"/> <!-- Kromede's Longbow -->
+        </items>
+        <items player_class="RANGER">
+            <item id="100200298" count="1"/> <!-- Kromede's Dagger -->
+            <item id="100000275" count="1"/> <!-- Kromede's Sword -->
+            <item id="101700216" count="1"/> <!-- Kromede's Longbow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="100600219" count="1"/> <!-- Kromede's Tome -->
+            <item id="100500204" count="1"/> <!-- Kromede's Jewel -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="100600219" count="1"/> <!-- Kromede's Tome -->
+            <item id="100500204" count="1"/> <!-- Kromede's Jewel -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="100100191" count="1"/> <!-- Kromede's Warhammer -->
+            <item id="101500205" count="1"/> <!-- Kromede's Staff -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="100100191" count="1"/> <!-- Kromede's Warhammer -->
+            <item id="101500205" count="1"/> <!-- Kromede's Staff -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="101800872" count="1"/> <!-- Kromede's Aether Revolver -->
+            <item id="101900290" count="1"/> <!-- Kromede's Aether Cannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="102000301" count="1"/> <!-- Kromede's Stringed Instrument -->
+        </items>
+        <items player_class="RIDER">
+            <item id="102100761" count="1"/> <!-- Kromede's Aether Key -->
+            <item id="101800872" count="1"/> <!-- Kromede's Aether Revolver -->
+        </items>
+    </decomposable_selectitem>    
+    <!-- Eternal Dynatum Weapons Chest -->
+    <decomposable_selectitem item_id="188052828">
+        <items player_class="GLADIATOR">
+            <item id="100001626" count="1"/> <!-- Aegis Sword -->
+            <item id="100201426" count="1"/> <!-- Aegis Dagger -->
+            <item id="115001670" count="1"/> <!-- Aegis Shield -->
+            <item id="100901264" count="1"/> <!-- Aegis Greatsword -->
+            <item id="101701289" count="1"/> <!-- Aegis Bow -->
+            <item id="101301186" count="1"/> <!-- Aegis Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="100001626" count="1"/> <!-- Aegis Sword -->
+            <item id="100101251" count="1"/> <!-- Aegis Mace -->
+            <item id="115001670" count="1"/> <!-- Aegis Shield -->
+            <item id="100901264" count="1"/> <!-- Aegis Greatsword -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="100001626" count="1"/> <!-- Aegis Sword -->
+            <item id="100201426" count="1"/> <!-- Aegis Dagger -->
+            <item id="101701289" count="1"/> <!-- Aegis Bow -->
+        </items>
+        <items player_class="RANGER">
+            <item id="100001626" count="1"/> <!-- Aegis Sword -->
+            <item id="100201426" count="1"/> <!-- Aegis Dagger -->
+            <item id="101701289" count="1"/> <!-- Aegis Bow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="100501243" count="1"/> <!-- Aegis Orb -->
+            <item id="100601343" count="1"/> <!-- Aegis Spellbook -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501243" count="1"/> <!-- Aegis Orb -->
+            <item id="100601343" count="1"/> <!-- Aegis Spellbook -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="100101251" count="1"/> <!-- Aegis Mace -->
+            <item id="115001670" count="1"/> <!-- Aegis Shield -->
+            <item id="101501274" count="1"/> <!-- Aegis Staff -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="100101251" count="1"/> <!-- Aegis Mace -->
+            <item id="115001670" count="1"/> <!-- Aegis Shield -->
+            <item id="101501274" count="1"/> <!-- Aegis Staff -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="101801140" count="1"/> <!-- Aegis Pistol -->
+            <item id="101901050" count="1"/> <!-- Aegis Aethercannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="102001166" count="1"/> <!-- Aegis Harp -->
+        </items>
+        <items player_class="RIDER">
+            <item id="101801140" count="1"/> <!-- Aegis Pistol -->
+            <item id="102100922" count="1"/> <!-- Aegis Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Mythical Dynatum Weapons Chest -->
+    <decomposable_selectitem item_id="188052830">
+        <items player_class="GLADIATOR">
+            <item id="100001627" count="1"/> <!-- Brazen Aegis Sword -->
+            <item id="100201427" count="1"/> <!-- Brazen Aegis Dagger -->
+            <item id="100101252" count="1"/> <!-- Brazen Aegis Mace -->
+            <item id="115001671" count="1"/> <!-- Brazen Aegis Shield -->
+            <item id="100901265" count="1"/> <!-- Brazen Aegis Greatsword -->
+            <item id="101701290" count="1"/> <!-- Brazen Aegis Bow -->
+            <item id="101301187" count="1"/> <!-- Brazen Aegis Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="100001627" count="1"/> <!-- Brazen Aegis Sword -->
+            <item id="100101252" count="1"/> <!-- Brazen Aegis Mace -->
+            <item id="115001671" count="1"/> <!-- Brazen Aegis Shield -->
+            <item id="100901265" count="1"/> <!-- Brazen Aegis Greatsword -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="100001627" count="1"/> <!-- Brazen Aegis Sword -->
+            <item id="100201427" count="1"/> <!-- Brazen Aegis Dagger -->
+            <item id="101701290" count="1"/> <!-- Brazen Aegis Bow -->
+        </items>
+        <items player_class="RANGER">
+            <item id="100001627" count="1"/> <!-- Brazen Aegis Sword -->
+            <item id="100201427" count="1"/> <!-- Brazen Aegis Dagger -->
+            <item id="101701290" count="1"/> <!-- Brazen Aegis Bow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="100501244" count="1"/> <!-- Brazen Aegis Orb -->
+            <item id="100601344" count="1"/> <!-- Brazen Aegis Spellbook -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501244" count="1"/> <!-- Brazen Aegis Orb -->
+            <item id="100601344" count="1"/> <!-- Brazen Aegis Spellbook -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="100101252" count="1"/> <!-- Brazen Aegis Mace -->
+            <item id="115001671" count="1"/> <!-- Brazen Aegis Shield -->
+            <item id="101501275" count="1"/> <!-- Brazen Aegis Staff -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="100101252" count="1"/> <!-- Brazen Aegis Mace -->
+            <item id="115001671" count="1"/> <!-- Brazen Aegis Shield -->
+            <item id="101501275" count="1"/> <!-- Brazen Aegis Staff -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="101801141" count="1"/> <!-- Brazen Aegis Pistol -->
+            <item id="101901051" count="1"/> <!-- Brazen Aegis Aethercannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="102001167" count="1"/> <!-- Brazen Aegis Harp -->
+        </items>
+        <items player_class="RIDER">
+            <item id="101801141" count="1"/> <!-- Brazen Aegis Pistol -->
+            <item id="102100923" count="1"/> <!-- Brazen Aegis Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Eternal Dynatum Armour Chest -->
+    <decomposable_selectitem item_id="188052829">
+        <items player_class="GLADIATOR">
+            <item id="110601518" count="1"/> <!-- Bulwark Breastplate -->
+            <item id="111601481" count="1"/> <!-- Bulwark Gauntlets -->
+            <item id="112601462" count="1"/> <!-- Bulwark Shoulderplates -->
+            <item id="113601464" count="1"/> <!-- Bulwark Greaves -->
+            <item id="114601471" count="1"/> <!-- Bulwark Sabatons -->
+            <item id="125003873" count="1"/> <!-- Bulwark Helm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="110601516" count="1"/> <!-- Aegis Breastplate -->
+            <item id="111601479" count="1"/> <!-- Aegis Gauntlets -->
+            <item id="112601460" count="1"/> <!-- Aegis Shoulderplates -->
+            <item id="113601462" count="1"/> <!-- Aegis Greaves -->
+            <item id="114601469" count="1"/> <!-- Aegis Sabatons -->
+            <item id="125003871" count="1"/> <!-- Aegis Helm -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="110301712" count="1"/> <!-- Aegis Jerkin -->
+            <item id="111301650" count="1"/> <!-- Aegis Vambrace -->
+            <item id="112301589" count="1"/> <!-- Aegis Shoulderguards -->
+            <item id="113301681" count="1"/> <!-- Aegis Breeches -->
+            <item id="114301718" count="1"/> <!-- Aegis Boots -->
+            <item id="125003875" count="1"/> <!-- Aegis Hat -->
+        </items>
+        <items player_class="RANGER">
+            <item id="110301712" count="1"/> <!-- Aegis Jerkin -->
+            <item id="111301650" count="1"/> <!-- Aegis Vambrace -->
+            <item id="112301589" count="1"/> <!-- Aegis Shoulderguards -->
+            <item id="113301681" count="1"/> <!-- Aegis Breeches -->
+            <item id="114301718" count="1"/> <!-- Aegis Boots -->
+            <item id="125003875" count="1"/> <!-- Aegis Hat -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="110101709" count="1"/> <!-- Aegis Tunic -->
+            <item id="111101539" count="1"/> <!-- Aegis Gloves -->
+            <item id="112101491" count="1"/> <!-- Aegis Pauldrons -->
+            <item id="113101553" count="1"/> <!-- Aegis Leggings -->
+            <item id="114101587" count="1"/> <!-- Aegis Shoes -->
+            <item id="125003883" count="1"/> <!-- Aegis Bandana -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="110101709" count="1"/> <!-- Aegis Tunic -->
+            <item id="111101539" count="1"/> <!-- Aegis Gloves -->
+            <item id="112101491" count="1"/> <!-- Aegis Pauldrons -->
+            <item id="113101553" count="1"/> <!-- Aegis Leggings -->
+            <item id="114101587" count="1"/> <!-- Aegis Shoes -->
+            <item id="125003883" count="1"/> <!-- Aegis Bandana -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="110551053" count="1"/> <!-- Aegis Hauberk -->
+            <item id="111501610" count="1"/> <!-- Aegis Handguards -->
+            <item id="112501551" count="1"/> <!-- Aegis Spaulders -->
+            <item id="113501630" count="1"/> <!-- Aegis Chausses -->
+            <item id="114501639" count="1"/> <!-- Aegis Brogans -->
+            <item id="125003879" count="1"/> <!-- Aegis Chain Helm -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="110551053" count="1"/> <!-- Aegis Hauberk -->
+            <item id="111501610" count="1"/> <!-- Aegis Handguards -->
+            <item id="112501551" count="1"/> <!-- Aegis Spaulders -->
+            <item id="113501630" count="1"/> <!-- Aegis Chausses -->
+            <item id="114501639" count="1"/> <!-- Aegis Brogans -->
+            <item id="125003879" count="1"/> <!-- Aegis Chain Helm -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="110301714" count="1"/> <!-- Bulwark Jerkin -->
+            <item id="111301652" count="1"/> <!-- Bulwark Vambrace -->
+            <item id="112301591" count="1"/> <!-- Bulwark Shoulderguards -->
+            <item id="113301683" count="1"/> <!-- Bulwark Breeches -->
+            <item id="114301720" count="1"/> <!-- Bulwark Boots -->
+            <item id="125003877" count="1"/> <!-- Bulwark Hat -->
+        </items>
+        <items player_class="BARD">
+            <item id="110101711" count="1"/> <!-- Bulwark Tunic -->
+            <item id="111101541" count="1"/> <!-- Bulwark Gloves -->
+            <item id="112101493" count="1"/> <!-- Bulwark Pauldrons -->
+            <item id="113101555" count="1"/> <!-- Bulwark Leggings -->
+            <item id="114101589" count="1"/> <!-- Bulwark Shoes -->
+            <item id="125003885" count="1"/> <!-- Bulwark Bandana -->
+        </items>
+        <items player_class="RIDER">
+            <item id="110551055" count="1"/> <!-- Bulwark Hauberk -->
+            <item id="111501612" count="1"/> <!-- Bulwark Handguards -->
+            <item id="112501553" count="1"/> <!-- Bulwark Spaulders -->
+            <item id="113501632" count="1"/> <!-- Bulwark Chausses -->
+            <item id="114501641" count="1"/> <!-- Bulwark Brogans -->
+            <item id="125003881" count="1"/> <!-- Bulwark Chain Helm -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Mythic Dynatum Armour Chest -->
+    <decomposable_selectitem item_id="188052831">
+        <items player_class="GLADIATOR">
+            <item id="110601519" count="1"/> <!-- Brazen Bulwark Breastplate -->
+            <item id="111601482" count="1"/> <!-- Brazen Bulwark Gauntlets -->
+            <item id="112601463" count="1"/> <!-- Brazen Bulwark Shoulderplates -->
+            <item id="113601465" count="1"/> <!-- Brazen Bulwark Greaves -->
+            <item id="114601472" count="1"/> <!-- Brazen Bulwark Sabatons -->
+            <item id="125003874" count="1"/> <!-- Brazen Bulwark Helm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="110601517" count="1"/> <!-- Brazen Aegis Breastplate -->
+            <item id="111601480" count="1"/> <!-- Brazen Aegis Gauntlets -->
+            <item id="112601461" count="1"/> <!-- Brazen Aegis Shoulderplates -->
+            <item id="113601463" count="1"/> <!-- Brazen Aegis Greaves -->
+            <item id="114601470" count="1"/> <!-- Brazen Aegis Sabatons -->
+            <item id="125003872" count="1"/> <!-- Brazen Aegis Helm -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="110301713" count="1"/> <!-- Brazen Aegis Jerkin -->
+            <item id="111301651" count="1"/> <!-- Brazen Aegis Vambrace -->
+            <item id="112301590" count="1"/> <!-- Brazen Aegis Shoulderguards -->
+            <item id="113301682" count="1"/> <!-- Brazen Aegis Breeches -->
+            <item id="114301719" count="1"/> <!-- Brazen Aegis Boots -->
+            <item id="125003876" count="1"/> <!-- Brazen Aegis Hat -->
+        </items>
+        <items player_class="RANGER">
+            <item id="110301713" count="1"/> <!-- Brazen Aegis Jerkin -->
+            <item id="111301651" count="1"/> <!-- Brazen Aegis Vambrace -->
+            <item id="112301590" count="1"/> <!-- Brazen Aegis Shoulderguards -->
+            <item id="113301682" count="1"/> <!-- Brazen Aegis Breeches -->
+            <item id="114301719" count="1"/> <!-- Brazen Aegis Boots -->
+            <item id="125003876" count="1"/> <!-- Brazen Aegis Hat -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="110101710" count="1"/> <!-- Brazen Aegis Tunic -->
+            <item id="111101540" count="1"/> <!-- Brazen Aegis Gloves -->
+            <item id="112101492" count="1"/> <!-- Brazen Aegis Pauldrons -->
+            <item id="113101554" count="1"/> <!-- Brazen Aegis Leggings -->
+            <item id="114101588" count="1"/> <!-- Brazen Aegis Shoes -->
+            <item id="125003884" count="1"/> <!-- Brazen Aegis Bandana -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="110101710" count="1"/> <!-- Brazen Aegis Tunic -->
+            <item id="111101540" count="1"/> <!-- Brazen Aegis Gloves -->
+            <item id="112101492" count="1"/> <!-- Brazen Aegis Pauldrons -->
+            <item id="113101554" count="1"/> <!-- Brazen Aegis Leggings -->
+            <item id="114101588" count="1"/> <!-- Brazen Aegis Shoes -->
+            <item id="125003884" count="1"/> <!-- Brazen Aegis Bandana -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="110551054" count="1"/> <!-- Brazen Aegis Hauberk -->
+            <item id="111501611" count="1"/> <!-- Brazen Aegis Handguards -->
+            <item id="112501552" count="1"/> <!-- Brazen Aegis Spaulders -->
+            <item id="113501631" count="1"/> <!-- Brazen Aegis Chausses -->
+            <item id="114501640" count="1"/> <!-- Brazen Aegis Brogans -->
+            <item id="125003880" count="1"/> <!-- Brazen Aegis Chain Helm -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="110551054" count="1"/> <!-- Brazen Aegis Hauberk -->
+            <item id="111501611" count="1"/> <!-- Brazen Aegis Handguards -->
+            <item id="112501552" count="1"/> <!-- Brazen Aegis Spaulders -->
+            <item id="113501631" count="1"/> <!-- Brazen Aegis Chausses -->
+            <item id="114501640" count="1"/> <!-- Brazen Aegis Brogans -->
+            <item id="125003880" count="1"/> <!-- Brazen Aegis Chain Helm -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="110301715" count="1"/> <!-- Brazen Bulwark Jerkin -->
+            <item id="111301653" count="1"/> <!-- Brazen Bulwark Vambrace -->
+            <item id="112301592" count="1"/> <!-- Brazen Bulwark Shoulderguards -->
+            <item id="113301684" count="1"/> <!-- Brazen Bulwark Breeches -->
+            <item id="114301721" count="1"/> <!-- Brazen Bulwark Boots -->
+            <item id="125003878" count="1"/> <!-- Brazen Bulwark Hat -->
+        </items>
+        <items player_class="BARD">
+            <item id="110101712" count="1"/> <!-- Brazen Bulwark Tunic -->
+            <item id="111101542" count="1"/> <!-- Brazen Bulwark Gloves -->
+            <item id="112101494" count="1"/> <!-- Brazen Bulwark Pauldrons -->
+            <item id="113101556" count="1"/> <!-- Brazen Bulwark Leggings -->
+            <item id="114101590" count="1"/> <!-- Brazen Bulwark Shoes -->
+            <item id="125003886" count="1"/> <!-- Brazen Bulwark Bandana -->
+        </items>
+        <items player_class="RIDER">
+            <item id="110551056" count="1"/> <!-- Brazen Bulwark Hauberk -->
+            <item id="111501613" count="1"/> <!-- Brazen Bulwark Handguards -->
+            <item id="112501554" count="1"/> <!-- Brazen Bulwark Spaulders -->
+            <item id="113501633" count="1"/> <!-- Brazen Bulwark Chausses -->
+            <item id="114501642" count="1"/> <!-- Brazen Bulwark Brogans -->
+            <item id="125003882" count="1"/> <!-- Brazen Bulwark Chain Helm -->
+        </items>
+    </decomposable_selectitem>
+	<!-- Anuhart's Fabled Pants Box (Dark Poeta) -->
+	<decomposable_selectitem item_id="188053276">
+		<items player_class="ALL">
+			<item id="113100876" count="1"/> <!-- Anuhart Sorcerer's Leggins -->
+			<item id="113100877" count="1"/> <!-- Anuhart Spiritmaster's Leggins -->
+			<item id="113101405" count="1"/> <!-- Anuhart Songweaver's Leggins -->
+			<item id="113300893" count="1"/> <!-- Anuhart Assassin's Breeches -->
+			<item id="113300894" count="1"/> <!-- Anuhart Ranger's Breeches -->
+			<item id="113301404" count="1"/> <!-- Anuhart Gunslinger's Breeches -->
+			<item id="113301554" count="1"/> <!-- Anuhart Gunslinger's Magic Breeches -->
+			<item id="113500859" count="1"/> <!-- Anuhart Cleric's Chausses -->
+			<item id="113500860" count="1"/> <!-- Anuhart Chanter's Chausses -->
+			<item id="113501586" count="1"/> <!-- Anuhart Aethertech's Magic Chausses -->
+			<item id="113600834" count="1"/> <!-- Anuhart Gladiator's Greaves -->
+			<item id="113600835" count="1"/> <!-- Anuhart Templar's Greaves -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Anuhart's Fabled Shoes Box (Dark Poeta) -->
+	<decomposable_selectitem item_id="188053277">
+		<items player_class="ALL">
+			<item id="114100901" count="1"/> <!-- Anuhart Sorcerer's Shoes -->
+			<item id="114100902" count="1"/> <!-- Anuhart Spiritmaster's Shoes -->
+			<item id="114101436" count="1"/> <!-- Anuhart Songweaver's Shoes -->
+			<item id="114300926" count="1"/> <!-- Anuhart Assassin's Boots -->
+			<item id="114300927" count="1"/> <!-- Anuhart Ranger's Boots -->
+			<item id="114301442" count="1"/> <!-- Anuhart Gunslinger's Boots -->
+			<item id="114301592" count="1"/> <!-- Anuhart Gunslinger's Magic Boots -->
+			<item id="114500869" count="1"/> <!-- Anuhart Cleric's Brogans -->
+			<item id="114500870" count="1"/> <!-- Anuhart Chanter's Brogans -->
+			<item id="114501595" count="1"/> <!-- Anuhart Aethertech's Magic Brogans -->
+			<item id="114600828" count="1"/> <!-- Anuhart Gladiator's Sabatons -->
+			<item id="114600829" count="1"/> <!-- Anuhart Templar's Sabatons -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Anuhart's Fabled Gloves Box (Dark Poeta) -->
+	<decomposable_selectitem item_id="188053278">
+		<items player_class="ALL">
+			<item id="111100866" count="1"/> <!-- Anuhart Sorcerer's Gloves -->
+			<item id="111100867" count="1"/> <!-- Anuhart Spiritmaster's Gloves -->
+			<item id="111101389" count="1"/> <!-- Anuhart Songweaver's Gloves -->
+			<item id="111300867" count="1"/> <!-- Anuhart Assassin's Vambrace -->
+			<item id="111300868" count="1"/> <!-- Anuhart Ranger's Vambrace -->
+			<item id="111301381" count="1"/> <!-- Anuhart Gunslinger's Vambrace -->
+			<item id="111301526" count="1"/> <!-- Anuhart Gunslinger's Magic Vambrace -->
+			<item id="111500857" count="1"/> <!-- Anuhart Cleric's Handguards -->
+			<item id="111500858" count="1"/> <!-- Anuhart Chanter's Handguards -->
+			<item id="111501568" count="1"/> <!-- Anuhart Aethertech's Magic Handguards -->
+			<item id="111600845" count="1"/> <!-- Anuhart Gladiator's Gauntlets -->
+			<item id="111600845" count="1"/> <!-- Anuhart Templar's Gauntlets -->
+		</items>
+	</decomposable_selectitem>
+<!-- Anuhart's Fabled Chest Box (Dark Poeta) -->	
+	<decomposable_selectitem item_id="188053279">
+		<items player_class="ALL">
+			<item id="110100972" count="1"/> <!-- Anuhart Sorcerer's Tunic -->
+			<item id="110100973" count="1"/> <!-- Anuhart Spiritmaster's Tunic -->
+			<item id="110101543" count="1"/> <!-- Anuhart Songweaver's Tunic -->
+			<item id="110300917" count="1"/> <!-- Anuhart Assassin's Jerkin -->
+			<item id="110300918" count="1"/> <!-- Anuhart Ranger's Jerkin -->
+			<item id="110301439" count="1"/> <!-- Anuhart Gunslinger's Jerkin -->
+			<item id="110301588" count="1"/> <!-- Anuhart Gunslinger's Magic Jerkin -->
+			<item id="110500885" count="1"/> <!-- Anuhart Cleric's Hauberk -->
+			<item id="110500886" count="1"/> <!-- Anuhart Chanter's Hauberk -->
+			<item id="110551010" count="1"/> <!-- Anuhart Aethertech's Magic Hauberk -->
+			<item id="110600869" count="1"/> <!-- Anuhart Gladiator's Breastplate -->
+			<item id="110600870" count="1"/> <!-- Anuhart Templar's Breastplate -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Anuhart's Fabled Shoulders Box (Dark Poeta) -->
+	<decomposable_selectitem item_id="188053280">
+		<items player_class="ALL">
+			<item id="112100823" count="1"/> <!-- Anuhart Sorcerer's Pauldrons -->
+			<item id="112100824" count="1"/> <!-- Anuhart Spiritmaster's Pauldrons -->
+			<item id="112101343" count="1"/> <!-- Anuhart Songweaver's Pauldrons -->
+			<item id="112300817" count="1"/> <!-- Anuhart Assassin's Shoulderguards -->
+			<item id="112300818" count="1"/> <!-- Anuhart Ranger's Shoulderguards -->
+			<item id="112301325" count="1"/> <!-- Anuhart Gunslinger's Shoulderguards -->
+			<item id="112301467" count="1"/> <!-- Anuhart Gunslinger's Magic Shoulderguards -->
+			<item id="112500808" count="1"/> <!-- Anuhart Cleric's Spaulders -->
+			<item id="112500809" count="1"/> <!-- Anuhart Chanter's Spaulders -->
+			<item id="112501510" count="1"/> <!-- Anuhart Aethertech's Magic Spaulders -->
+			<item id="112600819" count="1"/> <!-- Anuhart Gladiator's Shoulderplates -->
+			<item id="112600820" count="1"/> <!-- Anuhart Templar's Shoulderplates -->
+		</items>
+	</decomposable_selectitem>
+    <!-- Anuhart's Pants Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053281">
+        <items player_class="ALL">
+            <item id="113100875" count="1"/> <!-- Anuhart Legionary's Leggings -->
+            <item id="113300892" count="1"/> <!-- Anuhart Legionary's Breeches -->
+            <item id="113500858" count="1"/> <!-- Anuhart Legionary's Chausses -->
+            <item id="113600833" count="1"/> <!-- Anuhart Legionary's Greaves -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Anuhart's Shoes Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053282">
+        <items player_class="ALL">
+            <item id="114100900" count="1"/> <!-- Anuhart Legionary's Shoes -->
+            <item id="114300925" count="1"/> <!-- Anuhart Legionary's Boots -->
+            <item id="114500868" count="1"/> <!-- Anuhart Legionary's Brogans -->
+            <item id="114600827" count="1"/> <!-- Anuhart Legionary's Sabatons -->
+        </items>
+    </decomposable_selectitem>        
+    <!-- Anuhart's Gloves Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053283">
+        <items player_class="ALL">
+            <item id="111100865" count="1"/> <!-- Anuhart Legionary's Gloves -->
+            <item id="111300866" count="1"/> <!-- Anuhart Legionary's Vambrace -->
+            <item id="111500856" count="1"/> <!-- Anuhart Legionary's Handguards -->
+            <item id="111600844" count="1"/> <!-- Anuhart Legionary's Gauntlets -->
+        </items>
+    </decomposable_selectitem>    
+    <!-- Anuhart's Chest Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053284">
+        <items player_class="ALL">
+            <item id="110100971" count="1"/> <!-- Anuhart Legionary's Tunic -->
+            <item id="110300916" count="1"/> <!-- Anuhart Legionary's Jerkin -->
+            <item id="110500884" count="1"/> <!-- Anuhart Legionary's Hauberk -->
+            <item id="110600868" count="1"/> <!-- Anuhart Legionary's Breastplate -->
+        </items>
+    </decomposable_selectitem>    
+    <!-- Anuhart's Shoulders Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053285">
+        <items player_class="ALL">
+            <item id="112100822" count="1"/> <!-- Anuhart Legionary's Pauldrons -->
+            <item id="112300816" count="1"/> <!-- Anuhart Legionary's Shoulderguards -->
+            <item id="112500807" count="1"/> <!-- Anuhart Legionary's Spaulders -->
+            <item id="112600818" count="1"/> <!-- Anuhart Legionary's Shoulderplates -->
+        </items>
+    </decomposable_selectitem>    
+    <!-- Empyrean Plume Chest -->
+    <decomposable_selectitem item_id="188053295">
+        <items player_class="ALL">
+            <item id="187100015" count="1" race="ELYOS"/> <!-- Kaisinel's Plume: Attack -->
+            <item id="187100016" count="1" race="ELYOS"/> <!-- Kaisinel's Plume: Magic Boost -->
+            <item id="187100017" count="1" race="ASMODIANS"/> <!-- Marchutan's Plume: Attack -->
+            <item id="187100018" count="1" race="ASMODIANS"/> <!-- Marchutan's Plume: Magic Boost -->
+        </items>
+    </decomposable_selectitem>
+    <!-- [Event] Empyrean Plume Chest -->
+    <decomposable_selectitem item_id="188053321">
+        <items player_class="ALL">
+            <item id="187100015" count="1" race="ELYOS"/> <!-- Kaisinel's Plume: Attack -->
+            <item id="187100016" count="1" race="ELYOS"/> <!-- Kaisinel's Plume: Magic Boost -->
+            <item id="187100017" count="1" race="ASMODIANS"/> <!-- Marchutan's Plume: Attack -->
+            <item id="187100018" count="1" race="ASMODIANS"/> <!-- Marchutan's Plume: Magic Boost -->
+        </items>
+    </decomposable_selectitem>
+    <!-- [Event] Empyrean Plume Chest -->
+    <decomposable_selectitem item_id="188053656">
+		<items player_class="ALL">
+			<item id="187100015" count="1" race="ELYOS"/> <!-- Kaisinel's Plume: Attack -->
+			<item id="187100016" count="1" race="ELYOS"/> <!-- Kaisinel's Plume: Magic Boost -->
+            <item id="187100017" count="1" race="ASMODIANS"/> <!-- Marchutan's Plume: Attack -->
+            <item id="187100018" count="1" race="ASMODIANS"/> <!-- Marchutan's Plume: Magic Boost -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Empyrean Plume Bundle -->
+    <decomposable_selectitem item_id="188053625">
+		<items player_class="ALL">
+			<item id="187100015" count="1" race="ELYOS"/> <!-- Kaisinel's Plume: Attack -->
+			<item id="187100016" count="1" race="ELYOS"/> <!-- Kaisinel's Plume: Magic Boost -->
+            <item id="187100017" count="1" race="ASMODIANS"/> <!-- Marchutan's Plume: Attack -->
+            <item id="187100018" count="1" race="ASMODIANS"/> <!-- Marchutan's Plume: Magic Boost -->
+        </items>
+    </decomposable_selectitem>
+	<!-- Stamp Noble Potion Bundle -->
+	<decomposable_selectitem item_id="188053631">
+        <items player_class="ALL">
+            <item id="162000158" count="15"/> <!-- Stamp Fine Life Serum -->
+            <item id="162000159" count="15"/> <!-- Stamp Fine Mana Serum -->
+        </items>
+    </decomposable_selectitem>
+	<!-- Stamp Noble Scroll Bundle -->
+	<decomposable_selectitem item_id="188053632">
+        <items player_class="ALL">
+            <item id="164000327" count="5"/> <!-- [Stamp] Greater Courage Scroll -->
+            <item id="164000328" count="5"/> <!-- [Stamp] Greater Running Scroll -->
+			<item id="164000329" count="5"/> <!-- [Stamp] Greater Raging Wind Scroll -->
+			<item id="164000330" count="5"/> <!-- [Stamp] Greater Awakening Scroll -->
+			<item id="164000323" count="5"/> <!-- [Stamp] Fine Fireproof Scroll -->
+			<item id="164000324" count="5"/> <!-- [Stamp] Fine Earthproof Scroll -->
+			<item id="164000325" count="5"/> <!-- [Stamp] Fine Waterproof Scroll -->
+			<item id="164000326" count="5"/> <!-- [Stamp] Fine Windproof Scroll -->
+        </items>
+    </decomposable_selectitem>	
+    <!-- Scroll Bundle (Linkgate Foundry) -->
+    <decomposable_selectitem item_id="188053238">
+        <items>
+            <item id="164000291" count="1"/> <!-- Slumber Trick Scroll -->
+            <item id="164000292" count="1"/> <!-- Research Luminary Cloaking Scroll -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Scroll Bundle (Linkgate Foundry) -->
+    <decomposable_selectitem item_id="188053239">
+        <items>
+            <item id="164000291" count="1"/> <!-- Slumber Trick Scroll -->
+            <item id="164000292" count="1"/> <!-- Research Luminary Cloaking Scroll -->
+        </items>
+    </decomposable_selectitem>
+	<!-- Event Heal Camp -->
+	<decomposable_selectitem item_id="188054198">
+		<items player_class="ALL">
+            <item id="164002116" count="10"/> <!-- [Event] Greater Immortal Running Scroll -->
+            <item id="164002117" count="10"/> <!-- [Event] Greater Immortal Courage Scroll -->
+            <item id="164002118" count="10"/> <!-- [Event] Greater Immortal Awakening Scroll -->
+            <item id="164002119" count="10"/> <!-- [Event] Major Immortal Crit Strike Scroll -->
+            <item id="164002120" count="10"/> <!-- [Event] Powerful Scroll of Magic Crit. Strike Rate -->
+        </items>    
+    </decomposable_selectitem>
+    <!-- Event Brax Cafe Tasty Treats -->
+    <decomposable_selectitem item_id="188051866">
+		<items player_class="ALL">
+            <item id="160002449" count="5"/> <!-- Spicy Sweet Pepento Dragon -->
+            <item id="160002425" count="5"/> <!-- Hot and Spicy Abex -->
+            <item id="160002430" count="5"/> <!-- Boiled Spicy Pepento -->
+            <item id="160002428" count="5"/> <!-- Broiled Spicy Pepento -->
+            <item id="160002426" count="5"/> <!-- Fried Spicy Plucar -->
+            <item id="160002424" count="5"/> <!-- Spicy Abex Omelette -->
+            <item id="160002429" count="5"/> <!-- Spicy Pepento Salad -->            
+        </items>    
+    </decomposable_selectitem>
+    <!-- Marabata's Fabled Ring Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053286">
+        <items>
+            <item id="122001039" count="1"/> <!-- Noah's Tears -->
+            <item id="122001040" count="1"/> <!-- Elder's Tears -->
+        </items>
+    </decomposable_selectitem>    
+    <!-- Dhatra's Fabled Earrings Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053287">
+        <items>
+            <item id="120000902" count="1"/> <!-- Earrings of Ascending -->
+            <item id="120000903" count="1"/> <!-- Atmach's Earrings -->
+        </items>
+    </decomposable_selectitem>    
+    <!-- Anuhart's Fabled Belt Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053288">
+        <items>
+            <item id="123000929" count="1"/> <!-- Brigade General Anuhart's Leather Belt -->
+            <item id="123000930" count="1"/> <!-- Brigade General Anuhart's Sash -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Fabled Dragon Flame Necklace Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053289">
+        <items>
+            <item id="121000820" count="1"/> <!-- Dragon Flame Diamond Necklace -->
+            <item id="121000821" count="1"/> <!-- Dragon Flame Sapphire Necklace -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Marabata's Ring Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053291">
+        <items>
+            <item id="122001059" count="1"/> <!-- Diamond Ring of Telepathy Controller -->
+            <item id="122001060" count="1"/> <!-- Sapphire Ring of Telepathy Controller -->
+        </items>
+    </decomposable_selectitem>    
+    <!-- Dragon Flame Shield Box (Dark Poeta) -->
+    <decomposable_selectitem item_id="188053293">
+        <items>
+            <item id="115000896" count="1"/> <!-- Dragon Flame Shield -->
+            <item id="115000897" count="1"/> <!-- Dragon Flame Scale Shield -->
+        </items>
+    </decomposable_selectitem>    
+    <!-- [Stamp] Anniversary Consumables Box -->
+    <decomposable_selectitem item_id="188053422">
+        <items>
+            <item id="188053414" count="5"/> <!-- [Stamp] Noble Illusion Godstone Box -->
+            <item id="188053416" count="5"/> <!-- [Stamp] Noble Ancient Manastone Box -->
+            <item id="188053418" count="5"/> <!-- [Stamp] Noble Composite Manastone Box -->
+            <item id="188053420" count="20"/> <!-- [Stamp] Noble Composite Manastone Box -->
+            <item id="166030008" count="5"/> <!-- [Stamp] Tempering Solution (7 days) -->
+            <item id="166150026" count="1"/> <!-- [Stamp] Greater Felicitous Socketing (Heroic) -->
+            <item id="166150027" count="1"/> <!-- Stamp] Greater Felicitous Socketing (Mythic) -->
+            <item id="186000242" count="20"/> <!-- Ceramium Medal -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Resurgent Daevanion Weapon Box -->
+    <decomposable_selectitem item_id="188053562">
+        <items player_class="GLADIATOR">
+            <item id="100001773" count="1"/> <!-- Resurgent Daevanion Sword -->
+            <item id="100201536" count="1"/> <!-- Resurgent Daevanion Dagger -->
+            <item id="100101361" count="1"/> <!-- Resurgent Daevanion Mace -->
+            <item id="100901402" count="1"/> <!-- Resurgent Daevanion Greatsword -->
+            <item id="101701393" count="1"/> <!-- Resurgent Daevanion Bow -->
+            <item id="101301293" count="1"/> <!-- Resurgent Daevanion Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="100001773" count="1"/> <!-- Resurgent Daevanion Sword -->
+            <item id="100101361" count="1"/> <!-- Resurgent Daevanion Mace -->
+            <item id="100901402" count="1"/> <!-- Resurgent Daevanion Greatsword -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="100001773" count="1"/> <!-- Resurgent Daevanion Sword -->
+            <item id="100201536" count="1"/> <!-- Resurgent Daevanion Dagger -->
+            <item id="101701393" count="1"/> <!-- Resurgent Daevanion Bow -->
+        </items>
+        <items player_class="RANGER">
+            <item id="100001773" count="1"/> <!-- Resurgent Daevanion Sword -->
+            <item id="100201536" count="1"/> <!-- Resurgent Daevanion Dagger -->
+            <item id="101701393" count="1"/> <!-- Resurgent Daevanion Bow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="100501338" count="1"/> <!-- Resurgent Daevanion Orb -->
+            <item id="100601457" count="1"/> <!-- Resurgent Daevanion Grimoire -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501338" count="1"/> <!-- Resurgent Daevanion Orb -->
+            <item id="100601457" count="1"/> <!-- Resurgent Daevanion Grimoire -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="100101361" count="1"/> <!-- Resurgent Daevanion Mace -->
+            <item id="101501383" count="1"/> <!-- Resurgent Daevanion Staff -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="100101361" count="1"/> <!-- Resurgent Daevanion Mace -->
+            <item id="101501383" count="1"/> <!-- Resurgent Daevanion Staff -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="101801249" count="1"/> <!-- Resurgent Daevanion Pistol -->
+            <item id="101901158" count="1"/> <!-- Resurgent Daevanion Aethercannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="102001276" count="1"/> <!-- Resurgent Daevanion Harp -->
+        </items>
+        <items player_class="RIDER">
+            <item id="101801249" count="1"/> <!-- Resurgent Daevanion Pistol -->
+            <item id="102101093" count="1"/> <!-- Resurgent Daevanion Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- Renewed Daevanion Weapon Box -->
+    <decomposable_selectitem item_id="188053570">
+        <items player_class="GLADIATOR">
+            <item id="100001774" count="1"/> <!-- Renewed Daevanion Sword -->
+            <item id="100201537" count="1"/> <!-- Renewed Daevanion Dagger -->
+            <item id="100101362" count="1"/> <!-- Renewed Daevanion Mace -->
+            <item id="100901403" count="1"/> <!-- Renewed Daevanion Greatsword -->
+            <item id="101701394" count="1"/> <!-- Renewed Daevanion Bow -->
+            <item id="101301294" count="1"/> <!-- Renewed Daevanion Polearm -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="100001774" count="1"/> <!-- Renewed Daevanion Sword -->
+            <item id="100101362" count="1"/> <!-- Renewed Daevanion Mace -->
+            <item id="100901403" count="1"/> <!-- Renewed Daevanion Greatsword -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="100001774" count="1"/> <!-- Renewed Daevanion Sword -->
+            <item id="100201537" count="1"/> <!-- Renewed Daevanion Dagger -->
+            <item id="101701394" count="1"/> <!-- Renewed Daevanion Bow -->
+        </items>
+        <items player_class="RANGER">
+            <item id="100001774" count="1"/> <!-- Renewed Daevanion Sword -->
+            <item id="100201537" count="1"/> <!-- Renewed Daevanion Dagger -->
+            <item id="101701394" count="1"/> <!-- Renewed Daevanion Bow -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="100501339" count="1"/> <!-- Renewed Daevanion Orb -->
+            <item id="100601458" count="1"/> <!-- Renewed Daevanion Grimoire -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="100501339" count="1"/> <!-- Renewed Daevanion Orb -->
+            <item id="100601458" count="1"/> <!-- Renewed Daevanion Grimoire -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="100101362" count="1"/> <!-- Renewed Daevanion Mace -->
+            <item id="101501384" count="1"/> <!-- Renewed Daevanion Staff -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="100101362" count="1"/> <!-- Renewed Daevanion Mace -->
+            <item id="101501384" count="1"/> <!-- Renewed Daevanion Staff -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="101801250" count="1"/> <!-- Renewed Daevanion Pistol -->
+            <item id="101901159" count="1"/> <!-- Renewed Daevanion Aethercannon -->
+        </items>
+        <items player_class="BARD">
+            <item id="102001277" count="1"/> <!-- Renewed Daevanion Harp -->
+        </items>
+        <items player_class="RIDER">
+            <item id="101801250" count="1"/> <!-- Renewed Daevanion Pistol -->
+            <item id="102101094" count="1"/> <!-- Renewed Daevanion Cipher-Blade -->
+        </items>
+    </decomposable_selectitem>
+    <!-- [Event] Rainbow Gift -->
+	<decomposable_selectitem item_id="188053672">
+		<items>
+			<item id="110900490" count="1"/> <!-- Spotted Snake 1 day -->
+			<item id="110900495" count="1"/> <!-- Rainbow Snake 1 day -->
+			<item id="110900500" count="1"/> <!-- Striped Snake 1 day -->
+		</items>
+	</decomposable_selectitem>
+    <!-- Atropos' Accessory Chest -->
+	<decomposable_selectitem item_id="188052781">
+		<items>
+			<item id="122000923" count="1"/> <!-- Atropos' Mithril Ring -->
+			<item id="122000924" count="1"/> <!-- Atropos' Sapphire Ring -->
+		</items>
+	</decomposable_selectitem>
+    <!-- Lesser Supply Manastone Box -->
+	<decomposable_selectitem item_id="188053406">
+		<items>
+			<item id="167000230" count="1"/> <!-- Manastone: Attack +1 -->
+			<item id="167000231" count="1"/> <!-- Manastone: Magic Boost +12 -->
+			<item id="167000226" count="1"/> <!-- Manastone: HP +20 -->
+			<item id="167000227" count="1"/> <!-- Manastone: MP +20 -->			
+		</items>
+	</decomposable_selectitem>	
+    <!-- Normal Manastone Supplies Box -->
+	<decomposable_selectitem item_id="188053407">
+		<items>
+			<item id="167000294" count="1"/> <!-- Manastone: Attack +2 -->
+			<item id="167000295" count="1"/> <!-- Manastone: Magic Boost +16 -->
+			<item id="167000322" count="1"/> <!-- Manastone: HP +50 -->
+			<item id="167000323" count="1"/> <!-- Manastone: MP +50 -->			
+		</items>
+	</decomposable_selectitem>		
+    <!-- Greater Supply Manastone Box -->
+	<decomposable_selectitem item_id="188053408">
+		<items>
+			<item id="167000358" count="1"/> <!-- Manastone: Attack +3 -->
+			<item id="167000359" count="1"/> <!-- Manastone: Magic Boost +20 -->
+			<item id="167000354" count="1"/> <!-- Manastone: HP +60 -->
+			<item id="167000355" count="1"/> <!-- Manastone: MP +60 -->			
+		</items>
+	</decomposable_selectitem>
+    <!-- Nasto's Unique Weapon Box -->
+	<decomposable_selectitem item_id="188053678">
+        <items player_class="GLADIATOR">
+			<item id="100001783" count="1"/> <!-- Nasto's Azure Scale Sword -->
+			<item id="100001781" count="1"/> <!-- Nasto's Sword -->
+			<item id="100001782" count="1"/> <!-- Nasto's Scale Sword -->
+			<item id="100201543" count="1"/> <!-- Nasto's Stiletto -->
+			<item id="100201544" count="1"/> <!-- Nasto's Dirk -->
+			<item id="115001810" count="1"/> <!-- Nasto's Shield -->
+			<item id="100901408" count="1"/> <!-- Nasto's Two-handed Sword -->
+			<item id="101701395" count="1"/> <!-- Nasto's Long Bow -->
+			<item id="101301299" count="1"/> <!-- Nasto's Spear -->
+        </items>
+        <items player_class="TEMPLAR">
+			<item id="100001783" count="1"/> <!-- Nasto's Azure Scale Sword -->
+			<item id="115001810" count="1"/> <!-- Nasto's Shield -->
+			<item id="100901408" count="1"/> <!-- Nasto's Two-handed Sword -->
+        </items>
+        <items player_class="ASSASSIN">
+			<item id="100001781" count="1"/> <!-- Nasto's Sword -->
+			<item id="100001782" count="1"/> <!-- Nasto's Scale Sword -->
+			<item id="100201543" count="1"/> <!-- Nasto's Stiletto -->
+			<item id="100201544" count="1"/> <!-- Nasto's Dirk -->
+			<item id="101701395" count="1"/> <!-- Nasto's Long Bow -->
+        </items>
+        <items player_class="RANGER">
+			<item id="100001781" count="1"/> <!-- Nasto's Sword -->
+			<item id="100001782" count="1"/> <!-- Nasto's Scale Sword -->
+			<item id="100201543" count="1"/> <!-- Nasto's Stiletto -->
+			<item id="100201544" count="1"/> <!-- Nasto's Dirk -->
+			<item id="101701395" count="1"/> <!-- Nasto's Long Bow -->
+        </items>
+        <items player_class="SORCERER">
+			<item id="100501341" count="1"/> <!-- Nasto's Orb -->
+			<item id="100601459" count="1"/> <!-- Nasto's Magic Book -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+			<item id="100501341" count="1"/> <!-- Nasto's Orb -->
+			<item id="100601459" count="1"/> <!-- Nasto's Magic Book -->
+        </items>
+        <items player_class="CHANTER">
+			<item id="100101372" count="1"/> <!-- Nasto's War Hammer -->
+			<item id="115001811" count="1"/> <!-- Nasto's Scale Shield -->
+			<item id="101501386" count="1"/> <!-- Nasto's Cane -->
+        </items>
+        <items player_class="CLERIC">
+			<item id="100101372" count="1"/> <!-- Nasto's War Hammer -->
+			<item id="115001811" count="1"/> <!-- Nasto's Scale Shield -->
+			<item id="101501386" count="1"/> <!-- Nasto's Cane -->
+        </items>
+        <items player_class="GUNNER">
+			<item id="101901160" count="1"/> <!-- Nasto's Aethercannon -->
+			<item id="101801251" count="1"/> <!-- Nasto's Magical Gun -->
+			<item id="101801252" count="1"/> <!-- Nasto's Pistol -->
+        </items>
+        <items player_class="BARD">
+			<item id="102001278" count="1"/> <!-- Nasto's Harp -->
+        </items>
+        <items player_class="RIDER">
+			<item id="102101095" count="1"/> <!-- Nasto's Cipher-Blade -->
+			<item id="101801251" count="1"/> <!-- Nasto's Magical Gun -->
+			<item id="101801252" count="1"/> <!-- Nasto's Pistol -->
+        </items>    
+    </decomposable_selectitem>		
+    <!-- Nasto's Unique Jacket Box -->
+	<decomposable_selectitem item_id="188053679">
+		<items>
+			<item id="110601653" count="1"/> <!-- Nasto Legionnaire's Breastplate -->
+			<item id="110551186" count="1"/> <!-- Nasto Legionnaire's Chain Breastplate -->
+			<item id="110551183" count="1"/> <!-- Nasto Legionnaire's Hauberk -->
+			<item id="110301859" count="1"/> <!-- Nasto Legionnaire's Leather Breastplate -->
+			<item id="110301856" count="1"/> <!-- Nasto Legionnaire's Jerkin -->
+			<item id="110101866" count="1"/> <!-- Nasto Legionnaire's Jacket -->		
+		</items>
+	</decomposable_selectitem>
+    <!-- Nasto's Unique Pants Box -->
+	<decomposable_selectitem item_id="188053680">
+		<items>
+			<item id="113601599" count="1"/> <!-- Nasto Legionnaire's Greaves -->
+			<item id="113501763" count="1"/> <!-- Nasto Legionnaire's Chain Gaiters -->
+			<item id="113501760" count="1"/> <!-- Nasto Legionnaire's Chausses -->
+			<item id="113301828" count="1"/> <!-- Nasto Legionnaire's Leather Gaiters -->
+			<item id="113301825" count="1"/> <!-- Nasto Legionnaire's Legguards -->
+			<item id="113101692" count="1"/> <!-- Nasto Legionnaire's Leggings -->					
+		</items>
+	</decomposable_selectitem>
+    <!-- Nasto's Unique Pauldrons Box -->
+	<decomposable_selectitem item_id="188053681">
+		<items>
+			<item id="112601598" count="1"/> <!-- Nasto Legionnaire's Shoulderplates -->
+			<item id="112501684" count="1"/> <!-- Nasto Legionnaire's Chain Spaulders -->
+			<item id="112501681" count="1"/> <!-- Nasto Legionnaire's Spaulders -->
+			<item id="112301736" count="1"/> <!-- Nasto Legionnaire's Leather Pauldrons -->
+			<item id="112301733" count="1"/> <!-- Legionnaire's Shoulderguards -->
+			<item id="112101630" count="1"/> <!-- Nasto Legionnaire's Cloth Shoulder Guards -->					
+		</items>
+	</decomposable_selectitem>
+    <!-- Nasto's Unique Gloves Box -->
+	<decomposable_selectitem item_id="188053682">
+		<items>
+			<item id="111601616" count="1"/> <!-- Nasto Legionnaire's Gauntlets -->
+			<item id="111501745" count="1"/> <!-- Nasto Legionnaire's Chain Combat Gloves -->
+			<item id="111501742" count="1"/> <!-- Nasto Legionnaire's Handguards -->
+			<item id="111301797" count="1"/> <!-- Nasto Legionnaire's Leather Protective Gloves -->
+			<item id="111301794" count="1"/> <!-- Nasto Legionnaire's Vambraces -->
+			<item id="111101681" count="1"/> <!-- Nasto Legionnaire's Gloves -->					
+		</items>
+	</decomposable_selectitem>
+    <!-- Nasto's Unique Shoes Chest -->
+	<decomposable_selectitem item_id="188053683">
+		<items>
+			<item id="114601606" count="1"/> <!-- Nasto Legionnaire's Plate Boots -->
+			<item id="114501773" count="1"/> <!-- Nasto Legionnaire's Chain Combat Boots -->
+			<item id="114501770" count="1"/> <!-- Nasto Legionnaire's Brogans -->
+			<item id="114301865" count="1"/> <!-- Nasto Legionnaire's Leather Combat Boots -->
+			<item id="114301862" count="1"/> <!-- Nasto Legionnaire's Boots -->
+			<item id="114101726" count="1"/> <!-- Nasto Legionnaire's Shoes -->					
+		</items>
+	</decomposable_selectitem>
+	<!-- Gladiator Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053761">
+		<items player_class="GLADIATOR">
+			<item id="140001103" count="1"/> <!-- Sure Strike -->
+			<item id="140001104" count="1"/> <!-- Spite Strike -->
+			<item id="140001105" count="1"/> <!-- Sharp Strike -->
+			<item id="140001106" count="1"/> <!-- Tendon Slice -->
+			<item id="140001107" count="1"/> <!-- Exhausting Wave -->
+			<item id="140001108" count="1"/> <!-- Severe Precision Cut -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Templar Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053762">
+		<items player_class="TEMPLAR">
+			<item id="140001120" count="1"/> <!-- Prayer of Resilience -->			
+			<item id="140001121" count="1"/> <!-- Magic Smash -->
+			<item id="140001122" count="1"/> <!-- Prayer of Victory -->
+			<item id="140001123" count="1"/> <!-- Divine Justice -->
+			<item id="140001124" count="1"/> <!-- Punishing Wave -->
+			<item id="140001125" count="1"/> <!-- Shield of Faith -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Assassin Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053763">
+		<items player_class="ASSASSIN">
+			<item id="140001136" count="1"/> <!-- Apply Lethal Venom -->			
+			<item id="140001137" count="1"/> <!-- Agony Rune -->
+			<item id="140001138" count="1"/> <!-- Sensory Boost -->
+			<item id="140001139" count="1"/> <!-- Break Away -->
+			<item id="140001140" count="1"/> <!-- Dash and Slash -->
+			<item id="140001141" count="1"/> <!-- Lightning Slash -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Ranger Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053764">
+		<items player_class="RANGER">
+			<item id="140001153" count="1"/> <!-- Lethal Arrow -->			
+			<item id="140001154" count="1"/> <!-- Heart Shot -->
+			<item id="140001155" count="1"/> <!-- Hunter's Might -->
+			<item id="140001156" count="1"/> <!-- Gale Arrow -->
+			<item id="140001157" count="1"/> <!-- Explosive Arrow -->
+			<item id="140001158" count="1"/> <!-- Sharpen Arrows -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Sorcerer Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053765">
+		<items player_class="SORCERER">
+			<item id="140001174" count="1"/> <!-- Sleeping Storm -->			
+			<item id="140001176" count="1"/> <!-- Summon Rock -->
+			<item id="140001177" count="1"/> <!-- Flame Spray -->
+			<item id="140001178" count="1"/> <!-- Illusion Storm -->
+			<item id="140001181" count="1"/> <!-- Wind Cut Down -->
+			<item id="140001184" count="1" race="ELYOS"/> <!-- Summon Whirlwind -->
+			<item id="140001185" count="1" race="ASMODIANS"/><!-- Summon Whirlwind -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Spiritmaster Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053766">
+		<items player_class="SPIRIT_MASTER">
+			<item id="140001193" count="1"/> <!-- Shackle of Vulnerability -->			
+			<item id="140001194" count="1"/> <!-- Magic Implosion -->
+			<item id="140001195" count="1"/> <!-- Infernal Pain -->
+			<item id="140001196" count="1"/> <!-- Spirit Ruinous Offensive -->
+			<item id="140001197" count="1" race="ELYOS"/> <!-- Summon Cyclone Servant -->
+			<item id="140001198" count="1" race="ASMODIANS"/> <!-- Summon Cyclone Servant -->
+			<item id="140001199" count="1"/> <!-- Healing Spirit -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Cleric Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053767">
+		<items player_class="CLERIC">
+			<item id="140001228" count="1"/> <!-- Enfeebling Burst -->			
+			<item id="140001229" count="1"/> <!-- Chain of Suffering -->
+			<item id="140001230" count="1" race="ELYOS"/> <!-- Summon Noble Energy -->
+			<item id="140001231" count="1" race="ASMODIANS"/> <!-- Summon Noble Energy -->
+			<item id="140001232" count="1"/> <!-- Splendor of Rebirth -->
+			<item id="140001233" count="1"/> <!-- Ripple of Purification -->
+			<item id="140001234" count="1" race="ELYOS"/> <!-- Summon Healing Servant -->
+			<item id="140001235" count="1" race="ASMODIANS"/> <!-- Summon Healing Servant -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Chanter Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053768">
+		<items player_class="CHANTER">
+			<item id="140001211" count="1"/> <!-- Blessing of Stone -->			
+			<item id="140001212" count="1"/> <!-- Healing Burst -->
+			<item id="140001213" count="1"/> <!-- Word of Protection -->
+			<item id="140001214" count="1"/> <!-- Blessing of Wind -->
+			<item id="140001215" count="1"/> <!-- Disorienting Blow -->
+			<item id="140001216" count="1"/> <!-- Mountain Crash -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Gunner Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053769">
+		<items player_class="GUNNER">
+			<item id="140001247" count="1"/> <!-- Hemorrhage Shot -->			
+			<item id="140001248" count="1"/> <!-- Pressurized Chamber -->
+			<item id="140001249" count="1"/> <!-- Autoload -->
+			<item id="140001250" count="1"/> <!-- Juggernaut Cannon -->
+			<item id="140001251" count="1"/> <!-- Paralysis Cannon -->
+			<item id="140001252" count="1"/> <!-- Stopping Power -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Rider Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053770">
+		<items player_class="RIDER">
+			<item id="140001264" count="1"/> <!-- Aethercharged Steel -->			
+			<item id="140001265" count="1"/> <!-- Rain of Knuckles -->
+			<item id="140001266" count="1"/> <!-- Debilitating Blade -->
+			<item id="140001267" count="1"/> <!-- Mobility Thrusters -->
+			<item id="140001268" count="1"/> <!-- Trauma Plate Trigger -->
+			<item id="140001269" count="1"/> <!-- Convulsion Beam -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Bard Greater Stigma Bundle -->
+	<decomposable_selectitem item_id="188053771">
+		<items player_class="BARD">
+			<item id="140001281" count="1"/> <!-- Staggered Rest -->			
+			<item id="140001282" count="1"/> <!-- Paean of Pain -->
+			<item id="140001283" count="1"/> <!-- Exultation -->
+			<item id="140001284" count="1"/> <!-- Impassion -->
+			<item id="140001285" count="1"/> <!-- Soothing Hymn -->
+			<item id="140001286" count="1"/> <!-- Joyous Carol -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Gladiator Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053772">
+		<items player_class="GLADIATOR">
+			<item id="140001118" count="1"/> <!-- Righteous Punishment -->			
+			<item id="140001119" count="1"/> <!-- Whirling Strike -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Templar Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053773">
+		<items player_class="TEMPLAR">
+			<item id="140001134" count="1"/> <!-- Empyrean Providence -->			
+			<item id="140001135" count="1"/> <!-- Shieldburst -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Assassin Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053774">
+		<items player_class="ASSASSIN">
+			<item id="140001151" count="1"/> <!-- Quickening Doom -->			
+			<item id="140001152" count="1"/> <!-- Scoundrel's Bond -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Ranger Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053775">
+		<items player_class="RANGER">
+			<item id="140001172" count="1"/> <!-- Agonizing Arrow -->			
+			<item id="140001173" count="1"/> <!-- Lightning Arrow -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Sorcerer Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053776">
+		<items player_class="SORCERER">
+			<item id="140001191" count="1"/> <!-- Wintry Armor -->			
+			<item id="140001192" count="1"/> <!-- Glacial Shard -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Spiritmaster Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053777">
+		<items player_class="SPIRIT_MASTER">
+			<item id="140001209" count="1"/> <!-- Infernal Light -->			
+			<item id="140001210" count="1"/> <!-- Armor Spirit -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Cleric Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053778">
+		<items player_class="CLERIC">
+			<item id="140001245" count="1"/> <!-- Call Lightning -->			
+			<item id="140001246" count="1"/> <!-- Benevolence -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Chanter Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053779">
+		<items player_class="CHANTER">
+			<item id="140001245" count="1"/> <!-- Call Lightning -->			
+			<item id="140001246" count="1"/> <!-- Benevolence -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Gunner Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053780">
+		<items player_class="GUNNER">
+			<item id="140001262" count="1"/> <!-- Dazzling Fire -->			
+			<item id="140001263" count="1"/> <!-- Shellshock -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Rider Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053781">
+		<items player_class="RIDER">
+			<item id="140001279" count="1"/> <!-- Meteor Strike -->			
+			<item id="140001280" count="1"/> <!-- Kinetic Bulwark -->
+		</items>
+	</decomposable_selectitem>
+	<!-- Bard Major Stigma Bundle -->
+	<decomposable_selectitem item_id="188053782">
+		<items player_class="BARD">
+			<item id="140001296" count="1"/> <!-- Treble Cleave -->			
+			<item id="140001297" count="1"/> <!-- Chorus of Blessing -->
+		</items>
+	</decomposable_selectitem>
+    <decomposable_selectitem item_id="188053787">
+        <items player_class="GLADIATOR">
+            <item id="140001312" count="1"/> <!-- Howl (Inert) -->
+            <item id="140001311" count="1"/> <!-- Dauntless Spirit (Inert) -->
+            <item id="140001310" count="1"/> <!-- Lockdown (Inert) -->
+            <item id="140001309" count="1"/> <!-- Siegebreaker (Inert) -->
+            <item id="140001308" count="1"/> <!-- Ankle Snare (Inert) -->
+            <item id="140001307" count="1"/> <!-- Magical Defense (Inert) -->
+            <item id="140001306" count="1"/> <!-- Earthquake Wave (Inert) -->
+            <item id="140001305" count="1"/> <!-- Draining Blow (Inert) -->
+            <item id="140001304" count="1"/> <!-- Crippling Cut (Inert) -->                                    
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="140001328" count="1"/> <!-- Inquisitor's Blow (Inert) -->
+            <item id="140001327" count="1"/> <!-- Aether Armor (Inert) -->
+            <item id="140001326" count="1"/> <!-- Punishment (Inert) -->
+            <item id="140001325" count="1"/> <!-- Punishing Thrust (Inert) -->
+            <item id="140001324" count="1"/> <!-- Holy Shield (Inert) -->
+            <item id="140001323" count="1"/> <!-- Divine Fury (Inert) -->
+            <item id="140001322" count="1"/> <!-- Incite Rage (Inert) -->
+            <item id="140001321" count="1"/> <!-- Barricade of Steel (Inert) -->
+            <item id="140001309" count="1"/> <!-- Siegebreaker (Inert) -->                        
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="140001345" count="1"/> <!-- Searching Strike (Inert) -->
+            <item id="140001344" count="1"/> <!-- Rune Knife (Inert) -->
+            <item id="140001343" count="1"/> <!-- Eye of Wrath (Inert) -->
+            <item id="140001342" count="1"/> <!-- Venomous Strike (Inert) -->
+            <item id="140001341" count="1"/> <!-- Sigil Strike (Inert) -->
+            <item id="140001340" count="1"/> <!-- Shadowfall (Inert) -->
+            <item id="140001339" count="1"/> <!-- Shadow Walk (Inert) -->
+            <item id="140001338" count="1"/> <!-- Oath of Accuracy (Inert) -->
+            <item id="140001337" count="1"/> <!-- Deadly Abandon (Inert) -->
+        </items>
+        <items player_class="RANGER">
+            <item id="140001366" count="1"/> <!-- Arrow Deluge (Inert) -->
+            <item id="140001365" count="1" race="ASMODIANS"/> <!-- Trap of Clairvoyance (Inert) -->
+            <item id="140001364" count="1" race="ELYOS"/> <!-- Trap of Clairvoyance (Inert) -->
+            <item id="140001363" count="1"/> <!-- Bow of Blessing (Inert) -->
+            <item id="140001362" count="1"/> <!-- Nature's Resolve (Inert) -->
+            <item id="140001361" count="1" race="ASMODIANS"/> <!-- Blazing Trap (Inert) -->
+            <item id="140001360" count="1" race="ELYOS"/> <!-- Blazing Trap (Inert) -->
+            <item id="140001359" count="1" race="ASMODIANS"/> <!-- Skybound Trap (Inert) -->
+            <item id="140001358" count="1" race="ELYOS"/> <!-- Skybound Trap (Inert) -->
+            <item id="140001357" count="1"/> <!-- Dilation Arrow (Inert) -->
+            <item id="140001356" count="1" race="ASMODIANS"/> <!-- Trap of Slowing (Inert) -->
+            <item id="140001355" count="1" race="ELYOS"/> <!-- Trap of Slowing (Inert) -->
+            <item id="140001354" count="1"/> <!-- Focused Shots (Inert) -->            
+        </items>
+        <items player_class="SORCERER">
+            <item id="140001385" count="1"/> <!-- Exchange Vitality (Inert) -->
+            <item id="140001384" count="1"/> <!-- Ice Harpoon (Inert) -->
+            <item id="140001383" count="1"/> <!-- Curse of Weakness (Inert) -->
+            <item id="140001382" count="1"/> <!-- Absolute Zero (Inert) -->
+            <item id="140001381" count="1"/> <!-- Boon of Quickness (Inert) -->
+            <item id="140001378" count="1" race="ASMODIANS"/> <!-- Ice Sheet (Inert) -->
+            <item id="140001377" count="1" race="ELYOS"/> <!-- Ice Sheet (Inert) -->
+            <item id="140001375" count="1"/> <!-- Storm Strike (Inert) -->
+            <item id="140001374" count="1"/> <!-- Elemental Ward (Inert) -->
+            <item id="140001370" count="1"/> <!-- Arcane Thunderbolt (Inert) -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="140001403" count="1"/> <!-- Enmity Swap (Inert) -->
+            <item id="140001402" count="1"/> <!-- Cloaking Word (Inert) -->
+            <item id="140001401" count="1"/> <!-- Spirit Wall of Protection (Inert) -->
+            <item id="140001400" count="1"/> <!-- Withering Gloom (Inert) -->
+            <item id="140001399" count="1"/> <!-- Cyclone of Wrath (Inert) -->
+            <item id="140001398" count="1"/> <!-- Spirit Burn-to-Ashes (Inert) -->
+            <item id="140001397" count="1"/> <!-- Stone Scour (Inert) -->
+            <item id="140001396" count="1"/> <!-- Magic's Freedom (Inert) -->
+            <item id="140001395" count="1"/> <!-- Earthen Call (Inert) -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="140001420" count="1"/> <!-- Rise (Inert) -->
+            <item id="140001419" count="1"/> <!-- Mana Filcher (Inert) -->
+            <item id="140001418" count="1"/> <!-- Deadly Strike (Inert) -->
+            <item id="140001417" count="1"/> <!-- Acceleration Cheer (Inert) -->
+            <item id="140001416" count="1"/> <!-- Splash Swing (Inert) -->
+            <item id="140001415" count="1"/> <!-- Soul Lock (Inert) -->
+            <item id="140001414" count="1"/> <!-- Word of Life (Inert) -->
+            <item id="140001413" count="1"/> <!-- Annihilation (Inert) -->
+            <item id="140001412" count="1"/> <!-- Word of Inspiration (Inert) -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="140001439" count="1"/> <!-- Noble Grace (Inert) -->
+            <item id="140001438" count="1"/> <!-- Festering Wound (Inert) -->
+            <item id="140001437" count="1"/> <!-- Reverse Condition (Inert) -->
+            <item id="140001436" count="1"/> <!-- Power Sprint (Inert) -->
+            <item id="140001435" count="1"/> <!-- Retribution Lightning (Inert) -->
+            <item id="140001434" count="1"/> <!-- Blinding Light (Inert) -->
+            <item id="140001433" count="1"/> <!-- Sympathetic Heal (Inert) -->
+            <item id="140001432" count="1"/> <!-- Sacrificial Power (Inert) -->
+            <item id="140001431" count="1"/> <!-- Saving Grace (Inert) -->            
+        </items>
+        <items player_class="GUNNER">
+            <item id="140001456" count="1"/> <!-- Blazing Bombardment (Inert) -->
+            <item id="140001455" count="1"/> <!-- Missile Guide (Inert) -->
+            <item id="140001454" count="1"/> <!-- Shock and Awe (Inert) -->
+            <item id="140001453" count="1"/> <!-- Fiery Blast (Inert) -->
+            <item id="140001452" count="1"/> <!-- Power Grab (Inert) -->
+            <item id="140001451" count="1"/> <!-- Sighting (Inert) -->
+            <item id="140001450" count="1"/> <!-- Frozen Blitz (Inert) -->
+            <item id="140001449" count="1"/> <!-- Nature's Favor (Inert) -->
+            <item id="140001448" count="1"/> <!-- Steady Fire (Inert) -->
+        </items>
+        <items player_class="BARD">
+            <item id="140001490" count="1"/> <!-- Combustible Cacophony (Inert) -->
+            <item id="140001489" count="1"/> <!-- Resonant Hymn (Inert) -->
+            <item id="140001488" count="1"/> <!-- Mvt. 3: Autumn (Inert) -->
+            <item id="140001487" count="1"/> <!-- Inspiration (Inert) -->
+            <item id="140001486" count="1"/> <!-- Half-Stop (Inert) -->
+            <item id="140001485" count="1"/> <!-- Freestyle (Inert) -->
+            <item id="140001484" count="1"/> <!-- Hymn of Rejuvenation (Inert) -->
+            <item id="140001483" count="1"/> <!-- Stinging Note (Inert) -->
+            <item id="140001482" count="1"/> <!-- Mvt. 2: Summer (Inert) -->
+        </items>
+        <items player_class="RIDER">
+            <item id="140001473" count="1"/> <!-- Aether Recharge (Inert) -->
+            <item id="140001472" count="1"/> <!-- Aimbot Assist (Inert) -->
+            <item id="140001471" count="1"/> <!-- Life Support Trigger (Inert) -->
+            <item id="140001470" count="1"/> <!-- Ravager Cannon (Inert) -->
+            <item id="140001469" count="1"/> <!-- Leeching Steel (Inert) -->
+            <item id="140001468" count="1"/> <!-- Steel Storm (Inert) -->
+            <item id="140001467" count="1"/> <!-- Riplash (Inert) -->
+            <item id="140001466" count="1"/> <!-- Drillbore (Inert) -->
+            <item id="140001465" count="1"/> <!-- Particle Whip (Inert) -->
+        </items>        
+    </decomposable_selectitem>	
+    <!-- Greater Stigma Support Bundle -->
+    <decomposable_selectitem item_id="188053788">
+        <items player_class="GLADIATOR">
+            <item id="140001303" count="1"/> <!-- Severe Precision Cut (Inert) -->
+            <item id="140001302" count="1"/> <!-- Exhausting Wave (Inert) -->
+            <item id="140001301" count="1"/> <!-- Tendon Slice (Inert) -->
+            <item id="140001300" count="1"/> <!-- Sharp Strike (Inert) -->
+            <item id="140001299" count="1"/> <!-- Spite Strike (Inert) -->
+            <item id="140001298" count="1"/> <!-- Sure Strike (Inert) -->                        
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="140001320" count="1"/> <!-- Shield of Faith (Inert) -->
+            <item id="140001319" count="1"/> <!-- Punishing Wave (Inert) -->
+            <item id="140001318" count="1"/> <!-- Divine Justice (Inert) -->
+            <item id="140001317" count="1"/> <!-- Prayer of Victory (Inert) -->
+            <item id="140001316" count="1"/> <!-- Magic Smash (Inert) -->
+            <item id="140001315" count="1"/> <!-- Prayer of Resilience (Inert) -->                        
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="140001336" count="1"/> <!-- Lightning Slash (Inert) -->
+            <item id="140001335" count="1"/> <!-- Dash and Slash (Inert) -->
+            <item id="140001334" count="1"/> <!-- Break Away (Inert) -->
+            <item id="140001333" count="1"/> <!-- Sensory Boost (Inert) -->
+            <item id="140001332" count="1"/> <!-- Agony Rune (Inert) -->
+            <item id="140001331" count="1"/> <!-- Apply Lethal Venom (Inert) -->
+        </items>
+        <items player_class="RANGER">
+            <item id="140001353" count="1"/> <!-- Sharpen Arrows (Inert) -->
+            <item id="140001352" count="1"/> <!-- Explosive Arrow (Inert) -->
+            <item id="140001351" count="1"/> <!-- Gale Arrow (Inert) -->
+            <item id="140001350" count="1"/> <!-- Hunter's Might (Inert) -->
+            <item id="140001349" count="1"/> <!-- Heart Shot (Inert) -->
+            <item id="140001348" count="1"/> <!-- Lethal Arrow (Inert) -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="140001380" count="1" race="ASMODIANS"/> <!-- Summon Whirlwind (Inert) -->
+            <item id="140001379" count="1" race="ELYOS"/> <!-- Summon Whirlwind (Inert) -->
+            <item id="140001376" count="1"/> <!-- Wind Cut Down (Inert) -->
+            <item id="140001373" count="1"/> <!-- Illusion Storm (Inert) -->
+            <item id="140001372" count="1"/> <!-- Flame Spray (Inert) -->
+            <item id="140001371" count="1"/> <!-- Summon Rock (Inert) -->
+            <item id="140001369" count="1"/> <!-- Sleeping Storm (Inert) -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="140001394" count="1"/> <!-- Healing Spirit (Inert) -->
+            <item id="140001393" count="1" race="ASMODIANS"/> <!-- Summon Cyclone Servant (Inert) -->
+            <item id="140001392" count="1" race="ELYOS"/> <!-- Summon Cyclone Servant (Inert) -->
+            <item id="140001391" count="1"/> <!-- Spirit Ruinous Offensive (Inert) -->
+            <item id="140001390" count="1"/> <!-- Infernal Pain (Inert) -->
+            <item id="140001389" count="1"/> <!-- Magic Implosion (Inert) -->
+            <item id="140001388" count="1"/> <!-- Shackle of Vulnerability (Inert) -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="140001411" count="1"/> <!-- Mountain Crash (Inert) -->
+            <item id="140001410" count="1"/> <!-- Disorienting Blow (Inert) -->
+            <item id="140001409" count="1"/> <!-- Blessing of Wind (Inert) -->
+            <item id="140001408" count="1"/> <!-- Word of Protection (Inert) -->
+            <item id="140001407" count="1"/> <!-- Healing Burst (Inert) -->
+            <item id="140001406" count="1"/> <!-- Blessing of Stone (Inert) -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="140001430" count="1" race="ASMODIANS"/> <!-- Summon Healing Servant (Inert) -->
+            <item id="140001429" count="1" race="ELYOS"/> <!-- Summon Healing Servant (Inert) -->
+            <item id="140001428" count="1"/> <!-- Ripple of Purification (Inert) -->
+            <item id="140001427" count="1"/> <!-- Splendor of Rebirth (Inert) -->
+            <item id="140001426" count="1" race="ASMODIANS"/> <!-- Summon Noble Energy (Inert) -->
+            <item id="140001425" count="1" race="ELYOS"/> <!-- Summon Noble Energy (Inert) -->
+            <item id="140001424" count="1"/> <!-- Chain of Suffering (Inert) -->
+            <item id="140001423" count="1"/> <!-- Enfeebling Burst (Inert) -->            
+        </items>
+        <items player_class="GUNNER">
+            <item id="140001447" count="1"/> <!-- Stopping Power (Inert) -->
+            <item id="140001446" count="1"/> <!-- Paralysis Cannon (Inert) -->
+            <item id="140001445" count="1"/> <!-- Juggernaut Cannon (Inert) -->
+            <item id="140001444" count="1"/> <!-- Autoload (Inert) -->
+            <item id="140001443" count="1"/> <!-- Pressurized Chamber (Inert) -->
+            <item id="140001442" count="1"/> <!-- Hemorrhage Shot (Inert) -->
+        </items>
+        <items player_class="BARD">
+            <item id="140001481" count="1"/> <!-- Joyous Carol (Inert) -->
+            <item id="140001480" count="1"/> <!-- Soothing Hymn (Inert) -->
+            <item id="140001479" count="1"/> <!-- Impassion (Inert) -->
+            <item id="140001478" count="1"/> <!-- Exultation (Inert) -->
+            <item id="140001477" count="1"/> <!-- Paean of Pain (Inert) -->
+            <item id="140001476" count="1"/> <!-- Staggered Rest (Inert) -->
+        </items>
+        <items player_class="RIDER">
+            <item id="140001464" count="1"/> <!-- Convulsion Beam (Inert) -->
+            <item id="140001463" count="1"/> <!-- Trauma Plate Trigger (Inert) -->
+            <item id="140001462" count="1"/> <!-- Mobility Thrusters (Inert) -->
+            <item id="140001461" count="1"/> <!-- Debilitating Blade (Inert) -->
+            <item id="140001460" count="1"/> <!-- Rain of Knuckles (Inert) -->
+            <item id="140001459" count="1"/> <!-- Aethercharged Steel (Inert) -->
+        </items>                
+    </decomposable_selectitem>
+    <!-- Major Stigma Support Bundle -->
+    <decomposable_selectitem item_id="188053789">
+        <items player_class="GLADIATOR">
+            <item id="140001314" count="1"/> <!-- Whirling Strike (Inert) -->
+            <item id="140001313" count="1"/> <!-- Righteous Punishment (Inert) -->
+        </items>
+        <items player_class="TEMPLAR">
+            <item id="140001330" count="1"/> <!-- Shieldburst (Inert) -->
+            <item id="140001329" count="1"/> <!-- Empyrean Providence (Inert) -->
+        </items>
+        <items player_class="ASSASSIN">
+            <item id="140001347" count="1"/> <!-- Scoundrel's Bond (Inert) -->
+            <item id="140001346" count="1"/> <!-- Quickening Doom (Inert) -->
+        </items>
+        <items player_class="RANGER">
+            <item id="140001368" count="1"/> <!-- Lightning Arrow (Inert) -->
+            <item id="140001367" count="1"/> <!-- Agonizing Arrow (Inert) -->
+        </items>
+        <items player_class="SORCERER">
+            <item id="140001387" count="1"/> <!-- Glacial Shard (Inert) -->
+            <item id="140001386" count="1"/> <!-- Wintry Armor (Inert) -->
+        </items>
+        <items player_class="SPIRIT_MASTER">
+            <item id="140001405" count="1"/> <!-- Armor Spirit (Inert) -->
+            <item id="140001404" count="1"/> <!-- Infernal Blight (Inert) -->
+        </items>
+        <items player_class="CHANTER">
+            <item id="140001422" count="1"/> <!-- Numbing Blow (Inert) -->
+            <item id="140001421" count="1"/> <!-- Elemental Screen (Inert) -->
+        </items>
+        <items player_class="CLERIC">
+            <item id="140001441" count="1"/> <!-- Benevolence (Inert) -->
+            <item id="140001440" count="1"/> <!-- Call Lightning (Inert) -->
+        </items>
+        <items player_class="GUNNER">
+            <item id="140001458" count="1"/> <!-- Shellshock (Inert) -->
+            <item id="140001457" count="1"/> <!-- Dazzling Fire (Inert) -->
+        </items>
+        <items player_class="BARD">
+            <item id="140001492" count="1"/> <!-- Chorus of Blessing (Inert) -->
+            <item id="140001491" count="1"/> <!-- Treble Cleave (Inert) -->
+        </items>
+        <items player_class="RIDER">
+            <item id="140001475" count="1"/> <!-- Kinetic Bulwark (Inert) -->
+            <item id="140001474" count="1"/> <!-- Meteor Strike (Inert) -->
+        </items>
+    </decomposable_selectitem>		  	    	    
+</decomposable_selectitems>

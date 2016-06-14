@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<strings generated_time="2015/12/02 14:47:58">
+  <string>
+    <id>1750001</id>
+    <name>STR_F2P_SHOP_LINK</name>
+    <body>[%web:http://store.aiononline.com;Marketplace]</body>
+  </string>
+  <string>
+    <id>1750002</id>
+    <name>STR_F2P_SHOP_LINK001</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1750003</id>
+    <name>STR_F2P_SHOP_LINK002</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1750004</id>
+    <name>STR_F2P_SHOP_LINK003</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1750005</id>
+    <name>STR_F2P_SHOP_LINK004</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1750006</id>
+    <name>STR_F2P_SHOP_LINK005</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1750007</id>
+    <name>STR_F2P_SHOP_LINK006</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1750008</id>
+    <name>STR_F2P_SHOP_LINK007</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1750009</id>
+    <name>STR_F2P_SHOP_LINK008</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1750010</id>
+    <name>STR_F2P_SHOP_LINK009</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1750011</id>
+    <name>STR_F2P_SHOP_LINK010</name>
+    <body>[%shoplink]</body>
+  </string>
+  <string>
+    <id>1751001</id>
+    <name>STR_F2P_ACCOUNT_INFO_ACCOUNT_TYPE_TITLE</name>
+    <body>&lt;p&gt;&lt;font color="BC9900"&gt;Account&lt;/font&gt;&lt;/p&gt;</body>
+  </string>
+  <string>
+    <id>1751002</id>
+    <name>STR_F2P_ACCOUNT_INFO_ACCOUNT_TYPE_DESC</name>
+    <body>&lt;p&gt;See below for active boosts.&lt;/p&gt;</body>
+  </string>
+  <string>
+    <id>1751003</id>
+    <name>STR_F2P_ACCOUNT_INFO_PACK_INFO_TITLE</name>
+    <body>&lt;p&gt;&lt;font color="BC9900"&gt;Current Active Boosts&lt;/font&gt;&lt;/p&gt;</body>
+  </string>
+  <string>
+    <id>1751004</id>
+    <name>STR_F2P_ACCOUNT_INFO_PACK_INFO_EMPTY_DESC</name>
+    <body>&lt;p&gt;No boosts are active.&lt;/p&gt;</body>
+  </string>
+  <string>
+    <id>1751005</id>
+    <name>STR_F2P_ACCOUNT_INFO_PACK_INFO_DESC</name>
+    <body>&lt;p&gt;%0 [%1]&lt;/p&gt;</body>
+  </string>
+  <string>
+    <id>1751006</id>
+    <name>STR_F2P_ACCOUNT_INFO_PACK_INFO_UNLIMITED</name>
+    <body>No time limit</body>
+  </string>
+  <string>
+    <id>1751007</id>
+    <name>STR_F2P_ACCOUNT_INFO_PAYMENT_INFO_DESC</name>
+    <body>&lt;p&gt;See your full purchase history online.&lt;/p&gt;</body>
+  </string>
+  <string>
+    <id>1751008</id>
+    <name>STR_F2P_ACCOUNT_INFO_PAYMENT_INFO_BUTTON</name>
+    <body>Purchases</body>
+  </string>
+  <string>
+    <id>1751009</id>
+    <name>STR_F2P_ACCOUNT_INFO_PAYMENT_INFO_HREF</name>
+    <body>https://shop.ncsoft.com/myshop/transaction/ncoinSpent?serviceCode=27</body>
+  </string>
+  <string>
+    <id>1751010</id>
+    <name>STR_F2P_ACCOUNT_INFO_PACKAGE_INFO_DESC</name>
+    <body>&lt;p&gt;Buy custom item bundles.&lt;/p&gt;</body>
+  </string>
+  <string>
+    <id>1751011</id>
+    <name>STR_F2P_ACCOUNT_INFO_PACKAGE_INFO_BUTTON</name>
+    <body>C.U.B.E.</body>
+  </string>
+  <string>
+    <id>1751012</id>
+    <name>STR_F2P_ACCOUNT_INFO_PACKAGE_INFO_HREF</name>
+    <body>http://store.aiononline.com/cube</body>
+  </string>
+  <string>
+    <id>1752001</id>
+    <name>STR_F2P_PACK_PACK_1</name>
+    <body>[Convenience] Housing Plan Pack</body>
+  </string>
+  <string>
+    <id>1752002</id>
+    <name>STR_F2P_PACK_PACK_2</name>
+    <body>[Convenience] Top Condition Pack</body>
+  </string>
+  <string>
+    <id>1752003</id>
+    <name>STR_F2P_PACK_PACK_3</name>
+    <body>[Convenience] Item Limitation Removal Pack</body>
+  </string>
+  <string>
+    <id>1752004</id>
+    <name>STR_F2P_PACK_PACK_4</name>
+    <body>[Convenience] Top Condition Pack</body>
+  </string>
+  <string>
+    <id>1752005</id>
+    <name>STR_F2P_PACK_PACK_5</name>
+    <body>AP Boost Pack</body>
+  </string>
+  <string>
+    <id>1752006</id>
+    <name>STR_F2P_PACK_PACK_6</name>
+    <body>Strong Energy of Repose Boost Pack</body>
+  </string>
+  <string>
+    <id>1752007</id>
+    <name>STR_F2P_PACK_PACK_7</name>
+    <body>Empyrean Crucible Boost Pack</body>
+  </string>
+  <string>
+    <id>1752008</id>
+    <name>STR_F2P_PACK_PACK_8</name>
+    <body>Crucible Challenge Boost Pack</body>
+  </string>
+  <string>
+    <id>1752009</id>
+    <name>STR_F2P_PACK_PACK_9</name>
+    <body>Crucible Coliseum Boost Pack</body>
+  </string>
+  <string>
+    <id>1752010</id>
+    <name>STR_F2P_PACK_PACK_10</name>
+    <body>Instance Entry Boost Pack</body>
+  </string>
+  <string>
+    <id>1752011</id>
+    <name>STR_F2P_PACK_PACK_11</name>
+    <body>Value Boost Pack</body>
+  </string>
+  <string>
+    <id>1752012</id>
+    <name>STR_F2P_PACK_CHAR_SLOT_8</name>
+    <body>Character Slot Expansion Card</body>
+  </string>
+  <string>
+    <id>1752013</id>
+    <name>STR_F2P_PACK_PACK_1_DESC</name>
+    <body>It enables you to arrange more fixtures in the townhouse.</body>
+  </string>
+  <string>
+    <id>1752014</id>
+    <name>STR_F2P_PACK_PACK_2_DESC</name>
+    <body>It is a TRADE pack.</body>
+  </string>
+  <string>
+    <id>1752015</id>
+    <name>STR_F2P_PACK_PACK_3_DESC</name>
+    <body>It is a HFULL pack.</body>
+  </string>
+  <string>
+    <id>1752016</id>
+    <name>STR_F2P_PACK_PACK_4_DESC</name>
+    <body>It is a FULL pack that removes all limits.</body>
+  </string>
+  <string>
+    <id>1752017</id>
+    <name>STR_F2P_PACK_PACK_5_DESC</name>
+    <body>Boosts AP gains by 30%%.</body>
+  </string>
+  <string>
+    <id>1752018</id>
+    <name>STR_F2P_PACK_PACK_6_DESC</name>
+    <body>Increases Energy of Repose charge rate and XP benefits.</body>
+  </string>
+  <string>
+    <id>1752019</id>
+    <name>STR_F2P_PACK_PACK_7_DESC</name>
+    <body>Gain 30%% more Crucible Insignias from the Empyrean Crucible.</body>
+  </string>
+  <string>
+    <id>1752020</id>
+    <name>STR_F2P_PACK_PACK_8_DESC</name>
+    <body>Gain 30%% more Crucible Insignias from the Crucible Challenge.</body>
+  </string>
+  <string>
+    <id>1752021</id>
+    <name>STR_F2P_PACK_PACK_9_DESC</name>
+    <body>Gain 30%% more Crucible and Courage Insignias from the Crucible Coliseum.</body>
+  </string>
+  <string>
+    <id>1752022</id>
+    <name>STR_F2P_PACK_PACK_10_DESC</name>
+    <body>Boosts entry count for end-game instances.</body>
+  </string>
+  <string>
+    <id>1752023</id>
+    <name>STR_F2P_PACK_PACK_11_DESC</name>
+    <body>Boosts AP gains by 30%%, Energy of Repose charge rate and XP benefits, and Crucible rewards by 30%%.</body>
+  </string>
+  <string>
+    <id>1752024</id>
+    <name>STR_F2P_PACK_CHAR_SLOT_8_DESC</name>
+    <body>It is a Character Slot Limit Removal pack.</body>
+  </string>
+  <string>
+    <id>1752025</id>
+    <name>STR_F2P_PACK_PACK_12</name>
+    <body>[Black Star] Silver Member Benefits</body>
+  </string>
+  <string>
+    <id>1752026</id>
+    <name>STR_F2P_PACK_PACK_12_DESC</name>
+    <body>You can get special benefits as a Black Star member.</body>
+  </string>
+  <string>
+    <id>1752027</id>
+    <name>STR_F2P_PACK_PACK_13</name>
+    <body>[Black Star] Gold Member Benefits</body>
+  </string>
+  <string>
+    <id>1752028</id>
+    <name>STR_F2P_PACK_PACK_13_DESC</name>
+    <body>You can get special benefits as a Black Star member.</body>
+  </string>
+  <string>
+    <id>1752029</id>
+    <name>STR_F2P_PACK_PACK_RU_10</name>
+    <body>[Convenience] Silver Premium Pack</body>
+  </string>
+  <string>
+    <id>1752030</id>
+    <name>STR_F2P_PACK_PACK_RU_10_DESC</name>
+    <body>A pack that removes almost all limits.\nRemoves equipment equipping restrictions up to a specific level.</body>
+  </string>
+  <string>
+    <id>1752031</id>
+    <name>STR_F2P_PACK_PACK_RU_4</name>
+    <body>[Convenience] Golden Premium Pack</body>
+  </string>
+  <string>
+    <id>1752032</id>
+    <name>STR_F2P_PACK_PACK_RU_4_DESC</name>
+    <body>A FULL pack that removes all limits.\nRemoves equipment equipping restrictions up to mythic level.</body>
+  </string>
+  <string>
+    <id>1752033</id>
+    <name>STR_F2P_PACK_PACK_RU_5</name>
+    <body>[Convenience] Growth Specialized Pack</body>
+  </string>
+  <string>
+    <id>1752034</id>
+    <name>STR_F2P_PACK_PACK_RU_5_DESC</name>
+    <body>Percentage of Item drop and EXP increases by 20%, and Return Cooldown time decreases by 50%.   </body>
+  </string>
+  <string>
+    <id>1752035</id>
+    <name>STR_F2P_PACK_PACK_RU_6</name>
+    <body>[Convenience] Enchantment Specialized Pack</body>
+  </string>
+  <string>
+    <id>1752036</id>
+    <name>STR_F2P_PACK_PACK_RU_6_DESC</name>
+    <body>Enchantment, Manastone socketing, and Ascension's success rate increases by 3%.</body>
+  </string>
+  <string>
+    <id>1752037</id>
+    <name>STR_F2P_PACK_PACK_RU_7</name>
+    <body>[Convenience] Combat Enchantment Pack</body>
+  </string>
+  <string>
+    <id>1752038</id>
+    <name>STR_F2P_PACK_PACK_RU_7_DESC</name>
+    <body>Abyss point loss decreases by 50%, and Fortress Battle reward increases by 30%. \nAbyss points earned from hunting or PvP increases by 20%.</body>
+  </string>
+  <string>
+    <id>1752039</id>
+    <name>STR_F2P_PACK_PACK_GF_5</name>
+    <body>[Convenience] Growth Specialized Pack</body>
+  </string>
+  <string>
+    <id>1752040</id>
+    <name>STR_F2P_PACK_PACK_GF_5_DESC</name>
+    <body>Percentage of Item drop and EXP increases by 20%%, and Return Cooldown time decreases by 50%%. Abyss points earned from hunting or PvP increases by 20%%.</body>
+  </string>
+  <string>
+    <id>1752041</id>
+    <name>STR_F2P_PACK_PACK_GF_6</name>
+    <body>[Convenience] Enchantment Specialized Pack</body>
+  </string>
+  <string>
+    <id>1752042</id>
+    <name>STR_F2P_PACK_PACK_GF_6_DESC</name>
+    <body>Enchantment and Manastone's success rate increases by 2%%, and Ascension's success rate increases by 3%%.</body>
+  </string>
+  <string>
+    <id>1752043</id>
+    <name>STR_F2P_PACK_PACK_GF_7</name>
+    <body>[Convenience] Battle Enchantment Pack</body>
+  </string>
+  <string>
+    <id>1752044</id>
+    <name>STR_F2P_PACK_PACK_GF_7_DESC</name>
+    <body>Abyss point loss decreases by 50%%, and Fortress Battle reward increases by 30%%.</body>
+  </string>
+  <string>
+    <id>1752045</id>
+    <name>STR_F2P_PACK_PACK_NCW_4</name>
+    <body>Prestige Society Benefits</body>
+  </string>
+  <string>
+    <id>1752046</id>
+    <name>STR_F2P_PACK_PACK_NCW_4_DESC</name>
+    <body>Enables Prestige Society benefits</body>
+  </string>
+  <string>
+    <id>1753001</id>
+    <name>STR_F2P_ACCOUNT_FULLSUBSCRIPTION</name>
+    <body>Truly Free</body>
+  </string>
+  <string>
+    <id>1753002</id>
+    <name>STR_F2P_ACCOUNT_TRIAL</name>
+    <body>Truly Free</body>
+  </string>
+  <string>
+    <id>1753003</id>
+    <name>STR_F2P_ACCOUNT_FREE</name>
+    <body>Truly Free</body>
+  </string>
+  <string>
+    <id>1753004</id>
+    <name>STR_F2P_ACCOUNT_BRONZE</name>
+    <body>Truly Free</body>
+  </string>
+  <string>
+    <id>1753005</id>
+    <name>STR_F2P_ACCOUNT_SILVER</name>
+    <body>Truly Free</body>
+  </string>
+  <string>
+    <id>1760001</id>
+    <name>STR_UNRESTRICT_DESC_ITEM_EQUIP1</name>
+    <body>Release Equip Item Level 1</body>
+  </string>
+  <string>
+    <id>1760002</id>
+    <name>STR_UNRESTRICT_DESC_INSTANCE_COOLTIME1</name>
+    <body>Remove Instance Dungeon Entry Level 1 Restriction</body>
+  </string>
+  <string>
+    <id>1760003</id>
+    <name>STR_UNRESTRICT_DESC_FORTRESS_SIEGE_REWARD</name>
+    <body>Siege Reward Boost</body>
+  </string>
+  <string>
+    <id>1760004</id>
+    <name>STR_UNRESTRICT_DESC_COMBINE_SKILLPOINT</name>
+    <body>Remove Crafting Restriction</body>
+  </string>
+  <string>
+    <id>1760005</id>
+    <name>STR_UNRESTRICT_DESC_QUEST_ACCQUIRE</name>
+    <body>Remove Quest Acquisition Restriction</body>
+  </string>
+  <string>
+    <id>1760006</id>
+    <name>STR_UNRESTRICT_DESC_ITEM_DECOMPOSE_DAY</name>
+    <body>Remove Daily Item Extraction Restriction</body>
+  </string>
+  <string>
+    <id>1760007</id>
+    <name>STR_UNRESTRICT_DESC_GATHER_DAY</name>
+    <body>Remove Max Essencetapping Level Restriction</body>
+  </string>
+  <string>
+    <id>1760008</id>
+    <name>STR_UNRESTRICT_DESC_GATHER_SKILLPOINT</name>
+    <body>Remove Daily Essencetapping Restriction</body>
+  </string>
+  <string>
+    <id>1760009</id>
+    <name>STR_UNRESTRICT_DESC_EXTRACT_GATHER_DAY</name>
+    <body>Remove Daily Aethertapping Restriction</body>
+  </string>
+  <string>
+    <id>1760010</id>
+    <name>STR_UNRESTRICT_DESC_EXTRACT_GATHER_SKILLPOINT</name>
+    <body>Remove Max Aethertapping Level Restriction</body>
+  </string>
+  <string>
+    <id>1760011</id>
+    <name>STR_UNRESTRICT_DESC_SELLGOLD_DAY</name>
+    <body>Remove Sale Amount Restriction in Shop Restriction</body>
+  </string>
+  <string>
+    <id>1760012</id>
+    <name>STR_UNRESTRICT_DESC_VENDOR_SELL</name>
+    <body>Remove Registration Restriction in Auction House</body>
+  </string>
+  <string>
+    <id>1760013</id>
+    <name>STR_UNRESTRICT_DESC_VENDOR_BUY</name>
+    <body>Remove Purchase Restriction in Auction House</body>
+  </string>
+  <string>
+    <id>1760014</id>
+    <name>STR_UNRESTRICT_DESC_VENDOR_BUY_EXCEPT_TRIAL_PERMITTED</name>
+    <body>Remove Purchase Restriction in Auction House (excluding certain items\)</body>
+  </string>
+  <string>
+    <id>1760015</id>
+    <name>STR_UNRESTRICT_DESC_LEVEL_UP</name>
+    <body>Remove Max Character Level Restriction</body>
+  </string>
+  <string>
+    <id>1760016</id>
+    <name>STR_UNRESTRICT_DESC_GUILD_CREATE</name>
+    <body>Remove Legion Creation Restriction</body>
+  </string>
+  <string>
+    <id>1760017</id>
+    <name>STR_UNRESTRICT_DESC_GUILD_WAREHOUSE_USE</name>
+    <body>Remove Legion Storage Usage Restriction</body>
+  </string>
+  <string>
+    <id>1760018</id>
+    <name>STR_UNRESTRICT_DESC_EXCHANGE</name>
+    <body>Remove Individual Trade Restriction</body>
+  </string>
+  <string>
+    <id>1760019</id>
+    <name>STR_UNRESTRICT_DESC_EXCHANGE_KINA</name>
+    <body>Remove Individual Kinah Trade Amount Restriction</body>
+  </string>
+  <string>
+    <id>1760020</id>
+    <name>STR_UNRESTRICT_DESC_EXCHANGE_ITEM</name>
+    <body>Remove Individual Item Trade Restriction</body>
+  </string>
+  <string>
+    <id>1760021</id>
+    <name>STR_UNRESTRICT_DESC_PERSONAL_SHOP_OPEN</name>
+    <body>Remove Private Shop Creation Restriction</body>
+  </string>
+  <string>
+    <id>1760022</id>
+    <name>STR_UNRESTRICT_DESC_PERSONAL_SHOP_BUY</name>
+    <body>Remove Private Shop Purchases Restriction</body>
+  </string>
+  <string>
+    <id>1760023</id>
+    <name>STR_UNRESTRICT_DESC_MAIL_WRITE</name>
+    <body>Remove Send Mail Function Restriction</body>
+  </string>
+  <string>
+    <id>1760024</id>
+    <name>STR_UNRESTRICT_DESC_MAIL_WRITE_WITH_ITEM</name>
+    <body>Remove Send Mail (Attach Items) Function Restriction</body>
+  </string>
+  <string>
+    <id>1760025</id>
+    <name>STR_UNRESTRICT_DESC_CHAT</name>
+    <body>Remove Regular Chat Restriction</body>
+  </string>
+  <string>
+    <id>1760026</id>
+    <name>STR_UNRESTRICT_DESC_SHOUT</name>
+    <body>Remove Shout Restriction</body>
+  </string>
+  <string>
+    <id>1760027</id>
+    <name>STR_UNRESTRICT_DESC_WHISPER</name>
+    <body>Remove Whisper Restriction</body>
+  </string>
+  <string>
+    <id>1760028</id>
+    <name>STR_UNRESTRICT_DESC_CHANNEL_CHAT</name>
+    <body>Remove Channel Chat Restriction</body>
+  </string>
+  <string>
+    <id>1760029</id>
+    <name>STR_UNRESTRICT_DESC_CHANNEL_CHAT_WRITE</name>
+    <body>Remove Channcel Chat writing Restriction</body>
+  </string>
+  <string>
+    <id>1760030</id>
+    <name>STR_UNRESTRICT_DESC_VENDOR_USE</name>
+    <body>Remove Auction House Usage Restriction</body>
+  </string>
+  <string>
+    <id>1760031</id>
+    <name>STR_UNRESTRICT_DESC_WAREHOUSE_USE</name>
+    <body>Remove Private Storage Usage Restriction</body>
+  </string>
+  <string>
+    <id>1760032</id>
+    <name>STR_UNRESTRICT_DESC_CHAR_SLOT1</name>
+    <body>Possible to create more than 1 character</body>
+  </string>
+  <string>
+    <id>1760033</id>
+    <name>STR_UNRESTRICT_DESC_GATHER_LEVEL_UP</name>
+    <body>Remove Essencetapping/Aethertapping Promotion Restriction</body>
+  </string>
+  <string>
+    <id>1760034</id>
+    <name>STR_UNRESTRICT_DESC_COMBINE_LEVEL_UP</name>
+    <body>Remove Crafting Promotion Restriction</body>
+  </string>
+  <string>
+    <id>1760035</id>
+    <name>STR_UNRESTRICT_DESC_TRADEGOLD_DAY</name>
+    <body>Remove Daily Kinah Trade Restriction</body>
+  </string>
+  <string>
+    <id>1760036</id>
+    <name>STR_UNRESTRICT_DESC_PARTY_MATCH_USE</name>
+    <body>Prestige Society Quest Access</body>
+  </string>
+  <string>
+    <id>1760037</id>
+    <name>STR_UNRESTRICT_DESC_HOUSING_MAINTENANCE</name>
+    <body>Remove Housing Bid Usage Restriction</body>
+  </string>
+  <string>
+    <id>1760038</id>
+    <name>STR_UNRESTRICT_DESC_HOUSING_OBJECT_PLACE</name>
+    <body>Remove Housing Installations Restriction</body>
+  </string>
+  <string>
+    <id>1760039</id>
+    <name>STR_UNRESTRICT_DESC_MENUISIER_COMBINE_SKILL_POINT</name>
+    <body>Remove Furniture Crafting Restriction</body>
+  </string>
+  <string>
+    <id>1760040</id>
+    <name>STR_UNRESTRICT_DESC_MAIL_WRITE_TEXT_ONLY_TO_FRIENDS</name>
+    <body>Apply: Only send mail to friends</body>
+  </string>
+  <string>
+    <id>1760041</id>
+    <name>STR_UNRESTRICT_DESC_WHISPER_EXCEPT_FRIENDS</name>
+    <body>Apply: Only whisper to friends</body>
+  </string>
+  <string>
+    <id>1760042</id>
+    <name>STR_BONUS_DESC_BM_APBOOST</name>
+    <body>Hunting/PvP Abyss Points + %0%%</body>
+  </string>
+  <string>
+    <id>1760043</id>
+    <name>STR_BONUS_DESC_BM_VITALPOINT_BOOST</name>
+    <body>Apply Special Energy of Repose</body>
+  </string>
+  <string>
+    <id>1760044</id>
+    <name>STR_BONUS_DESC_BM_EC_1_REWARD_BOOST</name>
+    <body>Empyrean Crucible Reward + %0%%</body>
+  </string>
+  <string>
+    <id>1760045</id>
+    <name>STR_BONUS_DESC_BM_EC_2_REWARD_BOOST</name>
+    <body>Crucible Reward + %0%%</body>
+  </string>
+  <string>
+    <id>1760046</id>
+    <name>STR_BONUS_DESC_BM_EC_3_REWARD_BOOST</name>
+    <body>Crucible Coliseum Reward + %0%%%</body>
+  </string>
+  <string>
+    <id>1760047</id>
+    <name>STR_UNRESTRICT_DESC_ITEM_EQUIP2</name>
+    <body>Release Equip Item Level 2</body>
+  </string>
+  <string>
+    <id>1760048</id>
+    <name>STR_UNRESTRICT_DESC_ITEM_EQUIP3</name>
+    <body>Release Equip Item Level 3</body>
+  </string>
+  <string>
+    <id>1760049</id>
+    <name>STR_UNRESTRICT_DESC_ITEM_EQUIP4</name>
+    <body>Release Equip Item Level 4</body>
+  </string>
+  <string>
+    <id>1760050</id>
+    <name>STR_UNRESTRICT_DESC_ITEM_EQUIP5</name>
+    <body>Release Equip Item Level 5</body>
+  </string>
+  <string>
+    <id>1760051</id>
+    <name>STR_UNRESTRICT_DESC_ITEM_EQUIP6</name>
+    <body>Release Equip Item Level 6</body>
+  </string>
+  <string>
+    <id>1760052</id>
+    <name>STR_UNRESTRICT_DESC_ITEM_EQUIP7</name>
+    <body>Release Equip Item Level 7</body>
+  </string>
+  <string>
+    <id>1760053</id>
+    <name>STR_UNRESTRICT_DESC_ITEM_EQUIP8</name>
+    <body>Release Equip Item Level 8</body>
+  </string>
+  <string>
+    <id>1760054</id>
+    <name>STR_UNRESTRICT_DESC_INSTANCE_COOLTIME2</name>
+    <body>Instance Entry Boost</body>
+  </string>
+  <string>
+    <id>1760055</id>
+    <name>STR_UNRESTRICT_DESC_INSTANCE_COOLTIME3</name>
+    <body>Remove Instance Dungeon Entry Level 3 Restriction</body>
+  </string>
+  <string>
+    <id>1760056</id>
+    <name>STR_UNRESTRICT_DESC_INSTANCE_COOLTIME4</name>
+    <body>Remove Instance Dungeon Entry Level 4 Restriction</body>
+  </string>
+  <string>
+    <id>1760057</id>
+    <name>STR_UNRESTRICT_DESC_INSTANCE_COOLTIME5</name>
+    <body>Remove Instance Dungeon Entry Level 5 Restriction</body>
+  </string>
+  <string>
+    <id>1760058</id>
+    <name>STR_UNRESTRICT_DESC_INSTANCE_COOLTIME6</name>
+    <body>Remove Instance Dungeon Entry Level 6 Restriction</body>
+  </string>
+  <string>
+    <id>1760059</id>
+    <name>STR_UNRESTRICT_DESC_INSTANCE_COOLTIME7</name>
+    <body>Remove Instance Dungeon Entry Level 7 Restriction</body>
+  </string>
+  <string>
+    <id>1760060</id>
+    <name>STR_UNRESTRICT_DESC_INSTANCE_COOLTIME8</name>
+    <body>Remove Instance Dungeon Entry Level 8 Restriction</body>
+  </string>
+  <string>
+    <id>1760061</id>
+    <name>STR_UNRESTRICT_DESC_CHAR_SLOT2</name>
+    <body>Possible to create more than 2 characters</body>
+  </string>
+  <string>
+    <id>1760062</id>
+    <name>STR_UNRESTRICT_DESC_CHAR_SLOT3</name>
+    <body>Possible to create more than 3 characters</body>
+  </string>
+  <string>
+    <id>1760063</id>
+    <name>STR_UNRESTRICT_DESC_CHAR_SLOT4</name>
+    <body>Possible to create more than 4 characters</body>
+  </string>
+  <string>
+    <id>1760064</id>
+    <name>STR_UNRESTRICT_DESC_CHAR_SLOT5</name>
+    <body>Possible to create more than 5 characters</body>
+  </string>
+  <string>
+    <id>1760065</id>
+    <name>STR_UNRESTRICT_DESC_CHAR_SLOT6</name>
+    <body>Possible to create more than 6 characters</body>
+  </string>
+  <string>
+    <id>1760066</id>
+    <name>STR_UNRESTRICT_DESC_CHAR_SLOT7</name>
+    <body>Possible to create more than 7 characters</body>
+  </string>
+  <string>
+    <id>1760067</id>
+    <name>STR_UNRESTRICT_DESC_CHAR_SLOT8</name>
+    <body>Possible to create more than 8 characters</body>
+  </string>
+  <string>
+    <id>1760068</id>
+    <name>STR_BONUS_DESC_BM_DROP_BONUS</name>
+    <body>Increases Item Drop Rate by %0%%.</body>
+  </string>
+  <string>
+    <id>1760069</id>
+    <name>STR_BONUS_DESC_BM_EXP_BONUS</name>
+    <body>Increases EXP gain by %0%%.</body>
+  </string>
+  <string>
+    <id>1760070</id>
+    <name>STR_BONUS_DESC_BM_RETURNHOME_COOLTIME</name>
+    <body>Decreases Return Cool-time by %0%%.</body>
+  </string>
+  <string>
+    <id>1760071</id>
+    <name>STR_BONUS_DESC_BM_ENCHANT_BONUS</name>
+    <body>Increases Enchant Success Rate by %0%%.</body>
+  </string>
+  <string>
+    <id>1760072</id>
+    <name>STR_BONUS_DESC_BM_AUTHORIZE_BONUS</name>
+    <body>Increases Ascension Success Rate by %0%%.</body>
+  </string>
+  <string>
+    <id>1760073</id>
+    <name>STR_BONUS_DESC_BM_ENCHANT_OPTION_BONUS</name>
+    <body>Increases Manastone Socketing Success Rate by %0%%.</body>
+  </string>
+  <string>
+    <id>1760074</id>
+    <name>STR_BONUS_DESC_BM_AP_PENALTY_REDUCE</name>
+    <body>Decreases PvP Abyss Point Loss Reduction by %0%%.</body>
+  </string>
+</strings>

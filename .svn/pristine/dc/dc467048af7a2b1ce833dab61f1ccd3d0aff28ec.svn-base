@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_drops.xsd">
+    <!-- Drudgelord Kakiti -->
+	<npc_drop npc_id="216897">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="150" max_amount="1875" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="NAMED_RARE_WEAPON" use_category="true" race="PC_ALL">
+			<drop item_id="100900811" chance="68.97" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="NAMED_RARE_ACCESSORY" use_category="true" race="PC_ALL">
+			<drop item_id="121001029" chance="13.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="121001030" chance="6.9" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011022" chance="3.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="6.9" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000094" chance="6.9" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Dukaki Peon -->
+	<npc_drop npc_id="216898">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="WEAPON_RARE" use_category="true" race="PC_ALL">
+			<drop item_id="100100069" chance="1.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="101500837" chance="1.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="ACCESSORY_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="123000380" chance="1.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="2.04" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="2.04" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011041" chance="1.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011042" chance="1.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000058" chance="4.08" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000094" chance="1.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="1.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000088" chance="1.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="9.18" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003745" chance="2.04" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="182003746" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="186000011" chance="1.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Dukaki Seeker -->
+	<npc_drop npc_id="216899">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="1.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="1.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011042" chance="5.36" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000094" chance="3.57" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000088" chance="1.79" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="8.93" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003746" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Dukaki Watchman -->
+	<npc_drop npc_id="216901">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="3.61" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="2.41" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+            <drop item_id="152011042" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Accessory Flux" />
+		</drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000058" chance="2.41" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000094" chance="3.61" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="2.41" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000088" chance="1.21" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000259" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000258" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000263" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000261" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000260" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000267" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000265" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000264" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000528" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000527" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.81" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="7.23" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003746" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Dukaki Protector -->
+	<npc_drop npc_id="216902">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="5.14" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="1.47" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+            <drop item_id="152011042" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Accessory Flux" />
+		</drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000058" chance="2.94" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000088" chance="1.21" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="162000094" chance="3.61" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="2.21" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="2.21" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003746" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="182003776" chance="3.68" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Dukaki Weakarm -->
+	<npc_drop npc_id="216903">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="2.08" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="2.08" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000058" chance="2.08" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000008" chance="2.08" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000003" chance="4.17" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+        <drop_group name="OTHER_RARE_LVL20" use_category="true" race="PC_ALL">
+            <drop item_id="162000094" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Panacea of Mana" />
+        </drop_group>
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000259" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000258" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000263" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000261" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000260" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000267" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000265" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000264" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000528" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000527" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.81" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="4.17" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003746" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Dukaki Digger -->
+	<npc_drop npc_id="216904">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152000201" chance="2.674" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011002" chance="0.535" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="0.535" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011042" chance="0.535" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000008" chance="1.07" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="162000093" chance="1.07" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="162000094" chance="0.535" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000057" chance="1.07" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000052" chance="1.604" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="162000053" chance="0.535" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000087" chance="0.535" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="162000088" chance="1.07" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000003" chance="4.813" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="169000004" chance="3.743" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003744" chance="3.743" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="182003746" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Dukaki Lifter -->
+	<npc_drop npc_id="216905">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011022" chance="3.846" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011042" chance="3.846" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000058" chance="3.846" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="7.692" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="15.385" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003746" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- MuMu Carrier -->
+	<npc_drop npc_id="216906">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="4.545" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="4.545" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011042" chance="4.545" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="4.545" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="4.545" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003746" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="182003776" chance="50" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- MuMu Ham the Grey -->
+	<npc_drop npc_id="216907">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="150" max_amount="1875" no_reduce="false" eachmember="false"/>
+		</drop_group>
+        <drop_group name="WEAPON_RARE_LVL20" use_category="true" race="PC_ALL">
+            <drop item_id="100001071" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="MuMu Ham's Odella Flower Sword" />
+        </drop_group>
+		<drop_group name="NAMED_RARE_ACCCESSORY" use_category="true" race="PC_ALL">
+			<drop item_id="122001264" chance="18.519" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="122001265" chance="18.519" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="3.704" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="3.704" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="3.704" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+        <drop_group name="OTHER_JUNK_LVL20" use_category="true" race="PC_ALL">
+            <drop item_id="182003776" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Worn Herb Sack" />
+        </drop_group>
+    </npc_drop>
+    <!-- MuMu Assistant -->
+	<npc_drop npc_id="216908">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011022" chance="2.50" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011042" chance="5.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000058" chance="2.50" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="2.50" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="5.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003776" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- MuMu Fighter -->
+	<npc_drop npc_id="216909">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="1.163" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="1.163" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011042" chance="2.326" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000058" chance="1.163" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000008" chance="1.744" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="162000094" chance="0.581" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="2.33" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+            <drop item_id="162000058" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Mana Elixir" />
+		</drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000003" chance="2.907" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="162000088" chance="0.581" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000259" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000258" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000263" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000261" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000260" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000267" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000265" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000264" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000528" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000527" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.81" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="5.814" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003776" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- MuMu Lookout -->
+	<npc_drop npc_id="216910">
+        <drop_group name="KINAH" use_category="true" race="PC_ALL">
+            <drop item_id="182400001" chance="10.00" min_amount="1" max_amount="196" no_reduce="false" eachmember="false" name="Kinah" />
+        </drop_group>
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000259" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000258" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000263" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000261" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000260" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000267" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000265" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000264" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000528" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000527" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.81" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003776" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- MuMu Farmer -->
+	<npc_drop npc_id="216911">
+        <drop_group name="KINAH" use_category="true" race="PC_ALL">
+            <drop item_id="182400001" chance="10.00" min_amount="1" max_amount="141" no_reduce="false" eachmember="false" name="Kinah" />
+        </drop_group>
+        <drop_group name="FLUX_COMMON_LVL10" use_category="true" race="PC_ALL">
+            <drop item_id="152011022" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Armor Flux" />
+        </drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000058" chance="2.778" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000094" chance="1.389" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="3.056" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000088" chance="1.389" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="6.389" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003775" chance="4.167" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="182003776" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- MuMu Porter -->
+	<npc_drop npc_id="216912">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="2.564" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000088" chance="1.282" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000058" chance="1.282" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+        <drop_group name="OTHER_RARE_LVL20" use_category="true" race="PC_ALL">
+            <drop item_id="162000094" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Panacea of Mana" />
+        </drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="7.692" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003776" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Captured Tursin Guard -->
+	<npc_drop npc_id="216913">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+        <drop_group name="FLUX_COMMON_LVL10" use_category="true" race="PC_ALL">
+            <drop item_id="152011022" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Armor Flux" />
+        </drop_group>
+        <drop_group name="FLUX_COMMON_LVL20" use_category="true" race="PC_ALL">
+            <drop item_id="152011002" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Weapon Flux" />
+        </drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000088" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="4" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003756" chance="50" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Captured Black Claw Informer -->
+	<npc_drop npc_id="216914">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+        <drop_group name="FLUX_COMMON_LVL10" use_category="true" race="PC_ALL">
+            <drop item_id="152011042" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Accessory Flux" />
+        </drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="12" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+        <drop_group name="OTHER_JUNK_LVL20" use_category="true" race="PC_ALL">
+			<drop item_id="182003756" chance="50" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+            <drop item_id="182003766" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Old Mau Armor" />
+		</drop_group>
+    </npc_drop>
+    <!-- Bossman Nukiti -->
+	<npc_drop npc_id="216915">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="150" max_amount="1875" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="NAMED_RARE_WEAPON" use_category="true" race="PC_ALL">
+			<drop item_id="100100811" chance="70.968" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="NAMED_RARE_ACCESSORY" use_category="true" race="PC_ALL">
+			<drop item_id="123001094" chance="16.129" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="123001095" chance="38.71" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011022" chance="3.226" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000094" chance="6.452" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003746" chance="9.677" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Dukaki Screamer -->
+	<npc_drop npc_id="216916">
+        <drop_group name="KINAH" use_category="true" race="PC_ALL">
+            <drop item_id="182400001" chance="10.00" min_amount="1" max_amount="118" no_reduce="false" eachmember="false" name="Kinah" />
+        </drop_group>
+        <drop_group name="OTHER_COMMON_LVL20" use_category="true" race="PC_ALL">
+            <drop item_id="162000053" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Life Elixir" />
+        </drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003746" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+	</npc_drop>
+    <!-- Dukaki Jailer -->
+	<npc_drop npc_id="216919">
+        <drop_group name="KINAH" use_category="true" race="PC_ALL">
+            <drop item_id="182400001" chance="10.00" min_amount="1" max_amount="252" no_reduce="false" eachmember="false" name="Kinah" />
+        </drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="2.632" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+			<drop item_id="152011022" chance="2.632" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="LIFE_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000088" chance="5.263" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003746" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Treasure Box -->
+	<npc_drop npc_id="216925">
+		<drop_group use_category="true" name="KINAH_LOW_MAPS" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="300" max_amount="600" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000003" chance="75" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+            <drop item_id="162000004" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Life Potion" />
+			<drop item_id="162000008" chance="75" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+            <drop item_id="162000009" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Mana Potion" />
+		</drop_group>
+    </npc_drop>
+    <!-- Keymaster MuMu Dang -->
+	<npc_drop npc_id="217025">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="75" max_amount="280" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152011002" chance="3.571" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+            <drop item_id="152011022" chance="10.00" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Lesser Armor Flux" />
+			<drop item_id="152011042" chance="3.571" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="MANA_POTION" use_category="true" race="PC_ALL">
+			<drop item_id="162000094" chance="7.143" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group use_category="true" name="MANASTONE_COMMON" race="PC_ALL">
+			<drop item_id="167000259" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000258" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000263" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000261" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000260" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000267" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000265" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000264" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000528" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000527" chance="12.45" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000230" chance="5.81" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003776" chance="32.143" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- MuMu Mechanic -->
+	<npc_drop npc_id="217108">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+            <drop item_id="182400001" chance="10.00" min_amount="1" max_amount="334" no_reduce="false" eachmember="false" name="Kinah" />
+		</drop_group>
+		<drop_group name="LIFE_ELIXIR" use_category="true" race="PC_ALL">
+			<drop item_id="162000053" chance="5.952" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="POWER_SHARDS" use_category="true" race="PC_ALL">
+			<drop item_id="169000004" chance="3.571" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="182003776" chance="90" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+    </npc_drop>
+    <!-- Antique Treasure Chest -->
+	<npc_drop npc_id="700829">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="250" max_amount="999" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152000901" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="169300003" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="_NAMED_CHEST" use_category="true" race="PC_ALL">
+			<drop item_id="188052574" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+    </npc_drop>
+    <!-- Antique Treasure Chest (% imagine) -->
+	<npc_drop npc_id="700830">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="250" max_amount="999" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152000901" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="169300003" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="_NAMED_CHEST" use_category="true" race="PC_ALL">
+			<drop item_id="188052574" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+    </npc_drop>
+    <!-- Antique Treasure Chest (% imagine) -->
+	<npc_drop npc_id="700831">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="250" max_amount="999" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152000901" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="169300003" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="_NAMED_CHEST" use_category="true" race="PC_ALL">
+			<drop item_id="188052574" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+    </npc_drop>
+    <!-- Antique Treasure Chest (% imagine) -->
+	<npc_drop npc_id="700832">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="250" max_amount="999" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="FLUX_COMMON" use_category="true" race="PC_ALL">
+			<drop item_id="152000901" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false"/>
+		</drop_group>
+		<drop_group name="" use_category="false" race="PC_ALL">
+			<drop item_id="169300003" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="_NAMED_CHEST" use_category="true" race="PC_ALL">
+			<drop item_id="188052574" chance="100" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+    </npc_drop>
+    <!-- Severely Rusted Box (% imagine) -->
+	<npc_drop npc_id="700853">
+		<drop_group name="KINAH_LOW_MAPS" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="100" min_amount="250" max_amount="999" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="ENCHANTMENT_STONE" use_category="true" race="PC_ALL">
+			<drop item_id="166000191" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+		<drop_group name="MANASTONE_RARE" use_category="true" race="PC_ALL">
+			<drop item_id="167000418" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000419" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000420" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000421" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000422" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000423" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000424" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000425" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+			<drop item_id="167000427" chance="70" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" />
+		</drop_group>
+    </npc_drop>
+</npc_drops>	<!--
+	     for following NPCs are no drops defined
+	-->
+    <!-- 210595  Rooty -->
+    <!-- 216920  Brainwashed Dukaki Weakarm -->
+    <!-- 216921  Brainwashed Dukaki Peon -->
+    <!-- 216922  Hamerun the Bleeder -->
+    <!-- 217067  Brainwashed MuMu Worker -->
+    <!-- 700833  Fine Odium         -->
+    <!-- 700834  Odella             -->
+    <!-- 700950  Aether Cart        -->
+    <!-- 700855  Prison Door        -->
+    <!-- 700951  Raw Odium          -->
+    <!-- 700852  Opened Dimensional Gate -->
+    <!-- 700953  Processed Odella   -->
+    <!-- 700954  Well-Dried Ginseng -->
+    <!-- 730320  Haramel Exit       -->
+    <!-- 730321  Tower Lift         -->
+    <!-- 730359  Huge Cauldron      -->
+    <!-- 799522  Moorilerk          -->
+    <!-- 799523  Moofrenerk         -->
+    <!-- 799524  Gestanerk          -->

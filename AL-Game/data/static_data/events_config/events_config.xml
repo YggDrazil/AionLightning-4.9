@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<events_config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="events_config.xsd">
+    <active>World Blessers;Ruhnadium Bonus;Upgrade Arcade Inventory;Novice Event Inventory;Novice Event Inventory1;Novice Event;Mega Kinah Event;Upgrade Arcade;Return To The Shugo Tomb;Code Red: Atreia;Alchemist's Gift Drop;Alchemist's Gift;Sweet Fruits Inventory;Sweet Fruits Drop;Sweet Fruits;The Heroine Weeks;Violet Revolution Drop;Violet Revolution;The Lost Words Drop;The Lost Words;Divine Bonfire Inventory;Divine Bonfire;Daeva Day New Inventory;Daeva Day New;Legendary Symphony Event;Live Party Concert Hall;Shugo Emperor's Vault;Rainbow Snake Festival Inventory;Rainbow Snake Festival Inventory 1;Rainbow Snake Festival Inventory 2;Rainbow Snake Festival;Snowy Freezy;Shop Event;Transidium Annex</active>
+    <events>
+        <event name="World Blessers" start="2015-01-01T00:00:00+00:00" end="2016-12-31T00:00:00+00:00">
+            <quests>
+                <maintainable>80212;80213;80214;80215;80216;80217;80218;80219;80220;80221;80222;80223;80224;80225;80226;80227;80228;80229;80487;80488;80489;80490;80491;80492;80493;80494;80495;80496;80497;80498;80499;80500;80501;80502;80503;80504;80505;80506;80507;80508;80509;80510;80511;80512;80513;80514;80515;80516;80517;80518;80519;80520;80521;80522;80523;80524;80525;80526;80527;80528;80529;80530;80531;80532;80533;80534;80535;80536;80537;80538</maintainable>
+            </quests>
+            <spawns>
+                <!-- Sanctum -->
+                <spawn_map map_id="110010000">
+                    <!-- Riel -->
+                    <spawn npc_id="831025" respawn_time="295">
+                        <spot h="65" x="1458.0" y="1533.0" z="573.07196"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>
+                <!-- Pandaemonium -->
+                <spawn_map map_id="120010000">
+                    <!-- Rikanellie -->
+                    <spawn npc_id="831026" respawn_time="295">
+                        <spot h="9" x="1300.0" y="1406.0" z="208.125"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map> 
+                <!-- Poeta -->
+                <spawn_map map_id="210010000">
+                    <!-- Nebrith -->
+                    <spawn npc_id="831031" respawn_time="295">
+                        <spot h="89" x="832.0" y="1248.0" z="118.875"/> <!-- 4.8 -->
+                        <spot h="46" x="440.0" y="1746.0" z="119.75"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>
+                <!-- Ishalgen -->
+                <spawn_map map_id="220010000">
+                    <!-- Edandos -->
+                    <spawn npc_id="831029" respawn_time="295">
+                        <spot x="576" y="2433" z="278" h="26"/> <!-- 4.8 -->
+                        <spot x="937" y="1699" z="259" h="34"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map> 
+                <!-- Verteron -->
+                <spawn_map map_id="210030000">
+                    <!-- Nebrith -->
+                    <spawn npc_id="831031" respawn_time="295">
+                        <spot h="48" x="1665.0" y="1491.0" z="119.1875"/> <!-- 4.8 -->
+                        <spot h="0" x="1286.0" y="2210.0" z="142.25"/> <!-- 4.8 -->
+                        <spot h="84" x="2059.0" y="2421.0" z="274.125"/> <!-- 4.8 -->
+                        <spot h="21" x="2332.0" y="1808.0" z="194.04407"/> <!-- 4.8 -->
+                        <spot h="59" x="2371.0" y="825.0" z="101.535614"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>
+                <!-- Altgard -->
+                <spawn_map map_id="220030000">
+                    <!-- Edandos -->
+                    <spawn npc_id="831029" respawn_time="295">
+                        <spot x="1646" y="1825" z="254" h="17"/> <!-- 4.8 -->
+                        <spot x="1477" y="2562" z="298" h="87"/> <!-- 4.8 -->
+                        <spot x="1897" y="692" z="260" h="38"/> <!-- 4.8 -->
+                        <spot x="2651" y="1656" z="325" h="38"/> <!-- 4.8 -->
+                        <spot x="2689" y="1026" z="312" h="42"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map> 
+                <!-- Eltnen -->
+                <spawn_map map_id="210020000">
+                    <!-- Netalion -->
+                    <spawn npc_id="831030" respawn_time="295">
+                        <spot h="103" x="333.0" y="2733.0" z="182.375"/> <!-- 4.8 -->
+                        <spot h="17" x="932.0" y="2210.0" z="253.625"/> <!-- 4.8 -->
+                        <spot h="90" x="1933.0" y="2045.0" z="361.625"/> <!-- 4.8 -->
+                        <spot h="44" x="2407.0" y="2720.0" z="361.5625"/> <!-- 4.8 -->
+                        <spot h="32" x="675.0" y="420.0" z="331.875"/> <!-- 4.8 -->
+                        <spot h="17" x="1756.0" y="881.0" z="421.5625"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>
+                <!-- Morheim -->
+                <spawn_map map_id="220020000">
+                    <!-- Erdat -->
+                    <spawn npc_id="831028" respawn_time="295">
+                        <spot h="67" x="288.0" y="2345.0" z="443.31723"/> <!-- 4.8 -->
+                        <spot h="85" x="1082.0" y="2497.0" z="239.25"/> <!-- 4.8 -->
+                        <spot h="17" x="638.0" y="898.0" z="360.75"/> <!-- 4.8 -->
+                        <spot h="0" x="1771.0" y="1667.0" z="197.5625"/> <!-- 4.8 -->
+                        <spot h="0" x="2391.0" y="1737.0" z="101.875"/> <!-- 4.8 -->
+                        <spot h="68" x="2778.0" y="1110.0" z="169.875"/> <!-- 4.8 -->
+                        <spot h="0" x="2344.0" y="2229.0" z="127.125"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map> 
+                <!-- Theobomos -->
+                <spawn_map map_id="210060000">
+                    <!-- Nebrith -->
+                    <spawn npc_id="831031" respawn_time="295">
+                        <spot h="87" x="899.0" y="2785.0" z="61.21875"/> <!-- 4.8 -->
+                        <spot h="8" x="2215.0" y="2243.0" z="46.15625"/> <!-- 4.8 -->
+                        <spot x="2676.0" y="829.0" z="137.625"/> <!-- 4.8 -->
+                        <spot x="441.0" y="1248.0" z="126.4375"/> <!-- 4.8 -->
+                        <spot h="94" x="1405.0" y="1562.0" z="30.875"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>
+                <!-- Brusthonin -->
+                <spawn_map map_id="220050000">
+                    <!-- Edandos -->
+                    <spawn npc_id="831029" respawn_time="295">
+                        <spot h="85" x="2925.7" y="2435.3" z="16.668747"/> <!-- 4.8 -->
+                        <spot h="0" x="1387.0" y="2011.0" z="51.46875"/> <!-- 4.8 -->
+                        <spot h="20" x="821.0" y="2012.0" z="307.0"/> <!-- 4.8 -->
+                        <spot h="8" x="448.0" y="859.0" z="75.5"/> <!-- 4.8 -->
+                        <spot h="17" x="1519.0" y="378.0" z="231.1875"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map> 
+                <!-- Heiron -->
+                <spawn_map map_id="210040000">
+                    <!-- Yoenia -->
+                    <spawn npc_id="831024" respawn_time="295">
+                        <spot h="60" x="172.0" y="1654.0" z="120.5"/> <!-- 4.8 -->
+                        <spot h="0" x="899.0" y="2259.0" z="157.65625"/> <!-- 4.8 -->
+                        <spot h="0" x="1629.0" y="2705.0" z="115.375"/> <!-- 4.8 -->
+                        <spot h="78" x="2018.0" y="1403.0" z="118.4375"/> <!-- 4.8 -->
+                        <spot h="118" x="2466.0" y="361.5" z="410.75"/> <!-- 4.8 -->
+                        <spot h="25" x="1434.0" y="1327.0" z="174.625"/> <!-- 4.8 -->
+                        <spot h="44" x="982.0" y="686.0" z="135.125"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>
+                <!-- Beluslan -->
+                <spawn_map map_id="220040000">
+                    <!-- Karzanke -->
+                    <spawn npc_id="831027" respawn_time="295">
+                        <spot h="77" x="394.0" y="418.0" z="222.11166"/> <!-- 4.8 -->
+                        <spot h="23" x="532.0" y="1881.0" z="261.375"/> <!-- 4.8 -->
+                        <spot h="79" x="2433.0" y="2073.0" z="579.125"/> <!-- 4.8 -->
+                        <spot h="10" x="1924.7" y="492.4" z="412.125"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>
+                <!-- Inggison -->
+                <spawn_map map_id="210050000">
+                    <!-- Nebrith -->
+                    <spawn npc_id="831031" respawn_time="295">
+                        <spot h="4" x="1330.3" y="279.5" z="589.3655"/> <!-- 4.8 -->
+                    </spawn> 
+                </spawn_map>
+                <!-- Gelkmaros -->
+                <spawn_map map_id="220070000">
+                    <!-- Edandos -->
+                    <spawn npc_id="831029" respawn_time="295">
+                        <spot h="47" x="1886.7" y="2888.2" z="554.9788"/> <!-- 4.8 -->
+                    </spawn> 
+                </spawn_map>                 
+            </spawns>
+        </event>
+        <event name="Ruhnadium Bonus" start="2015-01-01T00:00:00+00:00" end="2015-12-31T00:00:00+00:00">
+            <quests>
+                <maintainable>80587;80588;80589;80592;80593;80594</maintainable>
+            </quests>            
+            <spawns>
+                <!-- Kaldor -->
+                <spawn_map map_id="600090000">
+                    <spawn npc_id="832272" respawn_time="295"><!-- Lucky Danuar Reliquary Gatekeeper -->
+                        <spot x="772.6" y="1026.4" z="112.674995" h="18"/>
+                    </spawn>
+                    <spawn npc_id="832268" respawn_time="295"><!-- Lucky Lunarinerk -->
+                        <spot x="1312.5" y="1318.5" z="199.75026" h="58"/>
+                        <spot x="397.6" y="1357.4" z="164.14252" h="24"/>
+                    </spawn>                                       
+                </spawn_map>
+            </spawns>
+        </event>        
+		<!--  Novice Event Inventory lvl 1-30 (Novice's Crystal)-->
+        <event name="Novice Event Inventory" start="2015-01-01T00:00:00+00:00" end="2016-01-01T00:00:00+00:00">
+            <inventory_drop startlevel="1" interval="20" endlevel="30" maxCountOfDay="12" cleanTime="9">186000253</inventory_drop>
+        </event> 
+        <!--  Novice Event Inventory1 lvl 30-45 ([Event] Internet Cafe Token)-->
+        <event name="Novice Event Inventory1" start="2015-01-01T00:00:00+00:00" end="2016-01-01T00:00:00+00:00">
+            <inventory_drop startlevel="30" interval="30" endlevel="45" maxCountOfDay="20" cleanTime="9">186000253</inventory_drop>
+        </event> 
+		<event name="Novice Event" start="2015-01-01T00:00:00+00:00" end="2016-01-01T00:00:00+00:00">
+			<spawns>
+		    <spawn_map map_id="110010000">
+				<spawn npc_id="831340" respawn_time="295">
+            		<spot x="1464.0153" y="1589.9034" z="572.8729" h="104"/>
+        		</spawn>
+			</spawn_map>
+			<spawn_map map_id="210010000">
+				<spawn npc_id="831340" respawn_time="295">
+            		<spot x="849.4894" y="1240.7933" z="119.36341" h="95"/>
+        		</spawn>
+			</spawn_map>
+			<spawn_map map_id="120010000">
+				<spawn npc_id="831341" respawn_time="295">
+            		<spot x="1352.7385" y="1362.8286" z="208.125" h="60"/>
+        		</spawn>
+			</spawn_map>
+			<spawn_map map_id="220010000">
+				<spawn npc_id="831341" respawn_time="295">
+            		<spot x="566.87695" y="2452.0857" z="277.9198" h="2"/>
+        		</spawn>
+			</spawn_map>
+		  </spawns>
+		</event>
+        <event name="Mega Kinah Event" start="2015-07-21T00:00:00+00:00" end="2015-08-19T00:00:00+00:00">
+            <quests>
+                <maintainable>80345;80346;80347;80348;80349;80457;80458;80459;80460;80461;80462;80463;80464;80465;80466</maintainable>
+            </quests>
+            <spawns>  
+                <spawn_map map_id="110010000"> <!-- Sanctum -->              
+                    <spawn npc_id="831791"> <!-- Fortunerk -->
+                        <spot x="1543.9742" y="1511.7592" z="565.90967" h="60"/>
+                    </spawn>           
+                    <spawn npc_id="831789"> <!-- Mega Kinah Vending Machine 300 -->
+                        <spot x="1549.6123" y="1511.5219" z="565.92303" h="60"/>
+                    </spawn>               
+                    <spawn npc_id="831793"> <!-- Mega Kinah Vending Machine 100 -->
+                        <spot x="1548.388" y="1502.3196" z="565.92725" h="49"/>
+                    </spawn>                
+                    <spawn npc_id="831855"> <!-- Mega Kinah Vending Machine 5 -->
+                        <spot x="1548.4875" y="1520.9193" z="565.92645" h="70"/>
+                    </spawn>
+                </spawn_map> 
+                <spawn_map map_id="120010000"> <!-- Pandaemonium -->
+                    <spawn npc_id="831791"> <!-- Fortunerk -->
+                        <spot x="1236.499" y="1402.4237" z="208.125" h="41"/>
+                    </spawn>
+                    <spawn npc_id="831790"> <!-- Mega Kinah Vending Machine 300 -->
+                        <spot x="1238.7789" y="1398.5853" z="208.125" h="41"/>
+                    </spawn>            
+                    <spawn npc_id="831794"> <!-- Mega Kinah Vending Machine 100 -->
+                        <spot x="1232.5177" y="1393.1501" z="208.125" h="45"/>
+                    </spawn>
+                    <spawn npc_id="831856"> <!-- Mega Kinah Vending Machine 5 -->
+                        <spot x="1246.4927" y="1402.7814" z="208.125" h="37"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>		        
+		<event name="Upgrade Arcade Inventory" start="2015-04-01T00:00:00+00:00" end="2015-04-15T00:00:00+00:00">
+			<inventory_drop startlevel="50" endlevel="65" interval="10" maxCountOfDay="1" cleanTime="9">182215581</inventory_drop>
+		</event>    
+		<event name="Upgrade Arcade" start="2015-04-01T00:00:00+00:00" end="2015-04-15T00:00:00+00:00">
+			<quests>
+                <maintainable>80615;80616</maintainable>
+            </quests>
+			<spawns>
+			<spawn_map map_id="110010000"><!-- Sanctum -->
+				<spawn npc_id="832866" respawn_time="295"><!-- Dagonerk -->
+					<spot x="1438.0" y="1490.0" z="573.0719" h="109"/>
+				</spawn>
+				<spawn npc_id="832894" respawn_time="295"><!-- Dagonerks Freund -->
+					<spot x="1434.0" y="1490.0" z="573.0719" h="11"/>
+				</spawn>
+				<spawn npc_id="832894" respawn_time="295"><!-- Dagonerks Freund -->
+					<spot x="1439.0" y="1486.0" z="573.0719" h="17"/>
+				</spawn>
+				<spawn npc_id="832894" respawn_time="295"><!-- Dagonerks Freund -->
+					<spot x="1436.2" y="1487.7" z="573.0719" h="18"/>
+				</spawn>
+			</spawn_map>
+			<spawn_map map_id="120010000"><!-- Pandaemonium -->
+				<spawn npc_id="832866" respawn_time="295"><!-- Dagonerk -->
+					<spot x="1610.1" y="1417.9" z="193.12793" h="111"/>
+				</spawn>
+				<spawn npc_id="832894" respawn_time="295"><!-- Dagonerks Freund -->
+					<spot x="1605.0" y="1419.5" z="193.12814" h="111"/>
+				</spawn>
+				<spawn npc_id="832894" respawn_time="295"><!-- Dagonerks Freund -->
+					<spot x="1604.6" y="1416.3" z="193.1283" h="111"/>
+				</spawn>
+				<spawn npc_id="832894" respawn_time="295"><!-- Dagonerks Freund -->
+					<spot x="1606.0" y="1422.5" z="193.12798" h="111"/>
+				</spawn>
+			</spawn_map>
+		  </spawns>
+		</event>
+        <event name="Return To The Shugo Tomb" start="2015-05-06T00:00:00+00:00" end="2015-06-03T00:00:00+00:00">
+            <quests>
+                <maintainable>80275;80276;80277;80278;80279;80280;80281;80282</maintainable>
+            </quests>
+            <spawns>
+                <spawn_map map_id="110010000"><!-- Sanctum -->                   
+                    <spawn npc_id="831117" respawn_time="295"><!-- Indianerk -->
+                        <spot x="1457.0" y="1503.0" z="573.0719" h="60"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831119" respawn_time="295"><!-- Marayinerk -->
+                        <spot x="1459.0" y="1505.0" z="573.0719" h="60"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>             
+                <spawn_map map_id="120010000"><!-- Pandaemonium -->
+                    <spawn npc_id="831117" respawn_time="295"><!-- Indianerk -->
+                        <spot x="1602.0" y="1406.0" z="193.12856" h="0"/> <!-- 4.7 -->
+                    </spawn>                   
+                    <spawn npc_id="831119" respawn_time="295"><!-- Marayinerk -->
+                        <spot x="1604.0" y="1408.0" z="193.1287" h="0"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="210050000"><!-- Inggison --> 
+                    <spawn npc_id="831117" respawn_time="295"><!-- Indianerk -->
+                        <spot x="1344.0" y="290.0" z="589.36676" h="17"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831119" respawn_time="295"><!-- Marayinerk -->
+                        <spot x="1344.0" y="293.0" z="589.1316" h="17"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="220070000"><!-- Gelkmaros -->                
+                    <spawn npc_id="831117" respawn_time="295"><!-- Indianerk -->
+                        <spot x="1815.0" y="2897.0" z="547.93036" h="99"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831119" respawn_time="295"><!-- Marayinerk -->
+                        <spot x="1813.0" y="2902.0" z="548.52545" h="99"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>				
+            </spawns>
+        </event>
+        <event name="Code Red: Atreia" start="2015-05-13T00:00:00+00:00" end="2015-05-27T00:00:00+00:00">
+            <quests>
+                <maintainable>80324;80325;80326;80327</maintainable>
+            </quests>
+            <spawns>
+                <spawn_map map_id="110010000"><!-- Sanctum -->
+                    <spawn npc_id="831433" respawn_time="295"><!-- Casre -->
+                        <spot x="1438.7" y="1494.5" z="573.0719" h="21"/> <!-- 4.7 -->
+                    </spawn>                   
+                    <spawn npc_id="831434" respawn_time="295"><!-- Rella -->
+                        <spot x="1440.2" y="1493.8" z="573.0719" h="20"/> <!-- 4.7 -->
+                    </spawn>                   
+                    <spawn npc_id="831435" respawn_time="295"><!-- Jorpine (MON-THU) -->
+                        <spot x="1438.3" y="1496.2" z="573.0719" h="23"/> <!-- 4.7 -->
+                    </spawn>                   
+                    <spawn npc_id="831436" respawn_time="295"><!-- Yennu (MON-THU) -->
+                        <spot x="1441.8" y="1494.5" z="573.07184" h="21"/> <!-- 4.7 -->
+                    </spawn>                   
+                    <spawn npc_id="831437" respawn_time="295"><!-- Dalloren (FRI-SAT) -->
+                        <spot x="1438.3" y="1496.2" z="573.0719" h="23"/> <!-- 4.7 -->
+                    </spawn>                   
+                    <spawn npc_id="831518" respawn_time="295"><!-- Dalliea (FRI-SAT) -->
+                        <spot x="1441.8" y="1494.5" z="573.07184" h="21"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831445" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="1437.7" y="1490.5" z="573.0719" h="21"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831447" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="1434.8" y="1495.4" z="573.0719" h="81"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>  
+                <spawn_map map_id="210030000"><!-- Verteron -->                   
+                    <spawn npc_id="831433" respawn_time="295"><!-- Casre -->
+                        <spot x="1641.3" y="1473.0" z="119.625" h="18"/> <!-- 4.7 -->
+                    </spawn>                 
+                    <spawn npc_id="831434" respawn_time="295"><!-- Rella -->
+                        <spot x="1642.2" y="1471.3" z="119.625" h="15"/> <!-- 4.7 -->
+                    </spawn>                
+                    <spawn npc_id="831435" respawn_time="295"><!-- Jorpine (MON-THU) -->
+                        <spot x="1644.3" y="1472.4" z="119.585" h="19"/> <!-- 4.7 -->
+                    </spawn>                   
+                    <spawn npc_id="831436" respawn_time="295"><!-- Yennu (MON-THU) -->
+                        <spot x="1642.0" y="1474.8" z="119.575" h="13"/> <!-- 4.7 -->
+                    </spawn>                  
+                    <spawn npc_id="831437" respawn_time="295"><!-- Dalloren (FRI-SAT) -->
+                        <spot x="1644.3" y="1472.4" z="119.585" h="19"/> <!-- 4.7 -->
+                    </spawn>                 
+                    <spawn npc_id="831518" respawn_time="295"><!-- Dalliea (FRI-SAT) -->
+                        <spot x="1642.0" y="1474.8" z="119.575" h="13"/> <!-- 4.7 -->
+                    </spawn>                
+                    <spawn npc_id="831445" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="1638.9" y="1469.7" z="119.625" h="13"/> <!-- 4.7 -->
+                    </spawn>       
+                    <spawn npc_id="831447" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="1642.2" y="1477.9" z="119.71276" h="5"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map> 
+                <spawn_map map_id="210020000"><!-- Eltnen -->                  
+                    <spawn npc_id="831433" respawn_time="295"><!-- Casre -->
+                        <spot x="329.1" y="2715.2" z="181.75624" h="111"/> <!-- 4.7 -->
+                    </spawn>                   
+                    <spawn npc_id="831434" respawn_time="295"><!-- Rella -->
+                        <spot x="328.5" y="2713.5" z="181.67188" h="113"/> <!-- 4.7 -->
+                    </spawn>                  
+                    <spawn npc_id="831435" respawn_time="295"><!-- Jorpine (MON-THU) -->
+                        <spot x="328.8" y="2711.7" z="181.53125" h="110"/> <!-- 4.7 -->
+                    </spawn>                  
+                    <spawn npc_id="831436" respawn_time="295"><!-- Yennu (MON-THU) -->
+                        <spot x="331.0" y="2715.3" z="181.60312" h="109"/> <!-- 4.7 -->
+                    </spawn>                    
+                    <spawn npc_id="831437" respawn_time="295"><!-- Dalloren (FRI-SAT) -->
+                        <spot x="328.8" y="2711.7" z="181.53125" h="110"/> <!-- 4.7 -->
+                    </spawn>                  
+                    <spawn npc_id="831518" respawn_time="295"><!-- Dalliea (FRI-SAT) -->
+                        <spot x="331.0" y="2715.3" z="181.60312" h="109"/> <!-- 4.7 -->
+                    </spawn>                  
+                    <spawn npc_id="831445" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="325.4" y="2716.3" z="181.82437" h="111"/> <!-- 4.7 -->
+                    </spawn>                
+                    <spawn npc_id="831447" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="333.8" y="2720.9" z="181.70624" h="111"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="210040000"><!-- Heiron -->     
+                    <spawn npc_id="831433" respawn_time="295"><!-- Casre -->
+                        <spot x="2449.7" y="301.8" z="415.1175" h="24"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831434" respawn_time="295"><!-- Rella -->
+                        <spot x="2451.6" y="301.1" z="415.10382" h="21"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831435" respawn_time="295"><!-- Jorpine (MON-THU) -->
+                        <spot x="2453.5" y="302.2" z="415.11798" h="23"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831436" respawn_time="295"><!-- Yennu (MON-THU) -->
+                        <spot x="2450.0" y="303.8" z="415.11243" h="24"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831437" respawn_time="295"><!-- Dalloren (FRI-SAT) -->
+                        <spot x="2453.5" y="302.2" z="415.11798" h="23"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831518" respawn_time="295"><!-- Dalliea (FRI-SAT) -->
+                        <spot x="2450.0" y="303.8" z="415.11243" h="24"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831445" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="2449.4" y="298.9" z="415.1976" h="22"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831447" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="2456.5" y="299.0" z="415.13815" h="85"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="210050000"><!-- Inggison -->  
+                    <spawn npc_id="831433" respawn_time="295"><!-- Casre -->
+                        <spot x="1360.2" y="239.8" z="589.7872" h="36"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831434" respawn_time="295"><!-- Rella -->
+                        <spot x="1361.8" y="240.1" z="589.7871" h="34"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831435" respawn_time="295"><!-- Jorpine (MON-THU) -->
+                        <spot x="1362.7" y="243.7" z="589.787" h="34"/> <!-- 4.7 -->
+                    </spawn> 
+                    <spawn npc_id="831436" respawn_time="295"><!-- Yennu (MON-THU) -->
+                        <spot x="1357.2" y="241.8" z="589.7878" h="34"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831437" respawn_time="295"><!-- Dalloren (FRI-SAT) -->
+                        <spot x="1362.7" y="243.7" z="589.787" h="34"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831518" respawn_time="295"><!-- Dalliea (FRI-SAT) -->
+                        <spot x="1357.2" y="241.8" z="589.7878" h="34"/> <!-- 4.7 -->
+                    </spawn>   
+                    <spawn npc_id="831445" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="1362.0" y="236.3" z="589.78705" h="34"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831447" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="1365.0" y="241.1" z="589.7872" h="34"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>              
+                <spawn_map map_id="210060000"><!-- Theobomos -->                  
+                    <spawn npc_id="831433" respawn_time="295"><!-- Casre -->
+                        <spot x="1462.4" y="1515.6" z="32.055004" h="43"/> <!-- 4.7 -->
+                    </spawn>                  
+                    <spawn npc_id="831434" respawn_time="295"><!-- Rella -->
+                        <spot x="1463.7" y="1516.7" z="32.018753" h="41"/> <!-- 4.7 -->
+                    </spawn>                 
+                    <spawn npc_id="831435" respawn_time="295"><!-- Jorpine (MON-THU) -->
+                        <spot x="1463.6" y="1518.5" z="31.787498" h="41"/> <!-- 4.7 -->
+                    </spawn>               
+                    <spawn npc_id="831436" respawn_time="295"><!-- Yennu (MON-THU) -->
+                        <spot x="1460.0" y="1516.1" z="31.862503" h="41"/> <!-- 4.7 -->
+                    </spawn>                  
+                    <spawn npc_id="831437" respawn_time="295"><!-- Dalloren (FRI-SAT) -->
+                        <spot x="1463.6" y="1518.5" z="31.787498" h="41"/> <!-- 4.7 -->
+                    </spawn>                 
+                    <spawn npc_id="831518" respawn_time="295"><!-- Dalliea (FRI-SAT) -->
+                        <spot x="1460.0" y="1516.1" z="31.862503" h="41"/> <!-- 4.7 -->
+                    </spawn>                   
+                    <spawn npc_id="831445" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="1464.7" y="1514.1" z="32.36469" h="43"/> <!-- 4.7 -->
+                    </spawn>         
+                    <spawn npc_id="831447" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="1467.5" y="1521.6" z="31.718752" h="43"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="120010000"><!-- Pandaemonium -->                  
+                    <spawn npc_id="831439" respawn_time="295"><!-- Largos -->
+                        <spot x="1340.2" y="1415.7" z="208.01062" h="60"/> <!-- 4.7 -->
+                    </spawn>                    
+                    <spawn npc_id="831440" respawn_time="295"><!-- Yukita -->
+                        <spot x="1340.3" y="1417.0" z="208.07187" h="65"/> <!-- 4.7 -->
+                    </spawn>                    
+                    <spawn npc_id="831441" respawn_time="295"><!-- Hylian (MON-THU) -->
+                        <spot x="1338.3" y="1418.3" z="208.125" h="58"/> <!-- 4.7 -->
+                    </spawn>                    
+                    <spawn npc_id="831442" respawn_time="295"><!-- Rordah (MON-THU) -->
+                        <spot x="1338.1" y="1415.2" z="208.0" h="61"/> <!-- 4.7 -->
+                    </spawn>                    
+                    <spawn npc_id="831443" respawn_time="295"><!-- Mazka (FRI-SAT) -->
+                        <spot x="1338.3" y="1418.3" z="208.125" h="58"/> <!-- 4.7 -->
+                    </spawn>                    
+                    <spawn npc_id="831524" respawn_time="295"><!-- Deshna (FRI-SAT) -->
+                        <spot x="1338.1" y="1415.2" z="208.0" h="61"/> <!-- 4.7 -->
+                    </spawn>                    
+                    <spawn npc_id="831446" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="1343.1" y="1416.2" z="208.125" h="58"/> <!-- 4.7 -->
+                    </spawn>                    
+                    <spawn npc_id="831448" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="1341.8" y="1420.8" z="208.125" h="79"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map> 
+                <spawn_map map_id="220030000"><!-- Altgard -->
+                    <spawn npc_id="831439" respawn_time="295"><!-- Largos -->
+                        <spot x="1679.0" y="1800.6" z="252.15001" h="114"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831440" respawn_time="295"><!-- Yukita -->
+                        <spot x="1679.5" y="1798.9" z="252.03593" h="114"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831441" respawn_time="295"><!-- Hylian (MON-THU) -->
+                        <spot x="1680.4" y="1802.1" z="251.94" h="5"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831442" respawn_time="295"><!-- Rordah (MON-THU) -->
+                        <spot x="1681.2" y="1797.5" z="251.8" h="4"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831443" respawn_time="295"><!-- Mazka (FRI-SAT) -->
+                        <spot x="1680.4" y="1802.1" z="251.94" h="5"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831524" respawn_time="295"><!-- Deshna (FRI-SAT) -->
+                        <spot x="1681.2" y="1797.5" z="251.8" h="4"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831446" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="1676.0" y="1799.0" z="252.375" h="4"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831448" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="1678.9" y="1803.8" z="251.84375" h="117"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="220020000"><!-- Morheim -->
+                    <spawn npc_id="831439" respawn_time="295"><!-- Largos -->
+                        <spot x="283.2" y="2265.4" z="447.5251" h="6"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831440" respawn_time="295"><!-- Yukita -->
+                        <spot x="284.3" y="2263.1" z="447.56857" h="23"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831441" respawn_time="295"><!-- Hylian (MON-THU) -->
+                        <spot x="286.6" y="2263.5" z="447.6158" h="5"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831442" respawn_time="295"><!-- Rordah (MON-THU) -->
+                        <spot x="283.9" y="2267.1" z="447.5408" h="115"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831443" respawn_time="295"><!-- Mazka (FRI-SAT) -->
+                        <spot x="286.6" y="2263.5" z="447.6158" h="5"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831524" respawn_time="295"><!-- Deshna (FRI-SAT) -->
+                        <spot x="283.9" y="2267.1" z="447.5408" h="115"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831446" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="280.8" y="2261.9" z="447.56244" h="11"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831448" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="280.0" y="2269.8" z="447.295" h="93"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="220040000"><!-- Beluslan -->
+                    <spawn npc_id="831439" respawn_time="295"><!-- Largos -->
+                        <spot x="354.1" y="320.9" z="229.18388" h="27"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831440" respawn_time="295"><!-- Yukita -->
+                        <spot x="355.7" y="320.8" z="229.18318" h="25"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831441" respawn_time="295"><!-- Hylian (MON-THU) -->
+                        <spot x="357.3" y="322.7" z="229.18285" h="28"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831442" respawn_time="295"><!-- Rordah (MON-THU) -->
+                        <spot x="353.2" y="323.1" z="229.18446" h="26"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831443" respawn_time="295"><!-- Mazka (FRI-SAT) -->
+                        <spot x="357.3" y="322.7" z="229.18285" h="28"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831524" respawn_time="295"><!-- Deshna (FRI-SAT) -->
+                        <spot x="353.2" y="323.1" z="229.18446" h="26"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831446" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="354.5" y="317.7" z="229.18379" h="27"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831448" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="349.6" y="321.7" z="229.1858" h="30"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map> 
+                <spawn_map map_id="220050000"><!-- Brusthonin -->
+                    <spawn npc_id="831439" respawn_time="295"><!-- Largos -->
+                        <spot x="2900.6" y="2442.8" z="17.03749" h="12"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831440" respawn_time="295"><!-- Yukita -->
+                        <spot x="2901.4" y="2441.5" z="17.068756" h="12"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831441" respawn_time="295"><!-- Hylian (MON-THU) -->
+                        <spot x="2903.0" y="2441.6" z="16.8125" h="13"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831442" respawn_time="295"><!-- Rordah (MON-THU) -->
+                        <spot x="2900.7" y="2444.4" z="16.956253" h="17"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831443" respawn_time="295"><!-- Mazka (FRI-SAT) -->
+                        <spot x="2903.0" y="2441.6" z="16.8125" h="13"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831524" respawn_time="295"><!-- Deshna (FRI-SAT) -->
+                        <spot x="2900.7" y="2444.4" z="16.956253" h="17"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831446" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="2898.5" y="2440.1" z="17.248436" h="13"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831448" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="2904.7" y="2440.7" z="16.456253" h="34"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>            
+                <spawn_map map_id="220070000"><!-- Gelkmaros -->                  
+                    <spawn npc_id="831439" respawn_time="295"><!-- Largos -->
+                        <spot x="1839.7" y="2843.6" z="536.10455" h="38"/> <!-- 4.7 -->
+                    </spawn>                  
+                    <spawn npc_id="831440" respawn_time="295"><!-- Yukita -->
+                        <spot x="1841.2" y="2844.2" z="536.10455" h="37"/> <!-- 4.7 -->
+                    </spawn>                
+                    <spawn npc_id="831441" respawn_time="295"><!-- Hylian (MON-THU) -->
+                        <spot x="1841.9" y="2846.6" z="536.10455" h="39"/> <!-- 4.7 -->
+                    </spawn>                  
+                    <spawn npc_id="831442" respawn_time="295"><!-- Rordah (MON-THU) -->
+                        <spot x="1837.4" y="2845.4" z="536.1046" h="39"/> <!-- 4.7 -->
+                    </spawn>                 
+                    <spawn npc_id="831443" respawn_time="295"><!-- Mazka (FRI-SAT) -->
+                        <spot x="1841.9" y="2846.6" z="536.10455" h="39"/> <!-- 4.7 -->
+                    </spawn>               
+                    <spawn npc_id="831524" respawn_time="295"><!-- Deshna (FRI-SAT) -->
+                        <spot x="1837.4" y="2845.4" z="536.1046" h="39"/> <!-- 4.7 -->
+                    </spawn>                
+                    <spawn npc_id="831446" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="1841.5" y="2841.2" z="536.10443" h="37"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831448" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="1836.2" y="2840.2" z="536.1043" h="33"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="400010000"><!-- Reshanta -->
+                    <spawn npc_id="831433" respawn_time="295"><!-- Casre -->
+                        <spot x="2974.1" y="935.6" z="1539.0886" h="95"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831434" respawn_time="295"><!-- Rella -->
+                        <spot x="2972.7" y="935.6" z="1539.0886" h="96"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831435" respawn_time="295"><!-- Jorpine (MON-THU) -->
+                        <spot x="2972.0" y="934.7" z="1539.0242" h="99"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831436" respawn_time="295"><!-- Yennu (MON-THU) -->
+                        <spot x="2975.0" y="934.9" z="1539.0886" h="101"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831437" respawn_time="295"><!-- Dalloren (FRI-SAT) -->
+                        <spot x="2972.0" y="934.7" z="1539.0242" h="99"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831518" respawn_time="295"><!-- Dalliea (FRI-SAT) -->
+                        <spot x="2975.0" y="934.9" z="1539.0886" h="101"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831439" respawn_time="295"><!-- Largos -->
+                        <spot x="940.7" y="2970.0" z="1646.3983" h="44"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831440" respawn_time="295"><!-- Yukita -->
+                        <spot x="941.9" y="2971.3" z="1646.3983" h="44"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831441" respawn_time="295"><!-- Hylian (MON-THU) -->
+                        <spot x="941.6" y="2973.3" z="1646.3983" h="44"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831442" respawn_time="295"><!-- Rordah (MON-THU) -->
+                        <spot x="938.8" y="2970.5" z="1646.3983" h="42"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831443" respawn_time="295"><!-- Mazka (FRI-SAT) -->
+                        <spot x="941.6" y="2973.3" z="1646.3983" h="44"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831524" respawn_time="295"><!-- Deshna (FRI-SAT) -->
+                        <spot x="938.8" y="2970.5" z="1646.3983" h="42"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831445" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="2972.9" y="938.9" z="1539.0886" h="95"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831446" respawn_time="295"><!-- Medical Tent -->
+                        <spot x="943.1" y="2968.8" z="1646.3983" h="44"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831447" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="2965.9" y="936.8" z="1538.9124" h="95"/> <!-- 4.7 -->
+                    </spawn>
+                    <spawn npc_id="831448" respawn_time="295"><!-- Medical Supplies -->
+                        <spot x="937.3" y="2966.2" z="1646.3983" h="32"/> <!-- 4.7 -->
+                    </spawn>
+                </spawn_map>              
+            </spawns>
+        </event>
+        <event name="Alchemist's Gift Drop" start="2015-06-20T00:00:00+00:00" end="2015-07-20T00:00:00+00:00">
+            <event_drops>
+                <event_drop item_id="188100127" count="1" chance="2" minDiff="30" maxDiff="65"/> <!-- [Event] Lead Fragment -->
+                <event_drop item_id="188100126" count="1" chance="2" minDiff="30" maxDiff="65"/> <!-- [Event] Alchemic Essence -->
+            </event_drops>
+        </event>        
+        <event name="Alchemist's Gift" start="2015-06-20T00:00:00+00:00" end="2015-07-20T00:00:00+00:00">
+            <quests>
+                <maintainable>80344</maintainable>
+            </quests>
+            <spawns>    
+                <spawn_map map_id="110010000"><!-- Sanctum -->          
+                    <spawn npc_id="831787" respawn_time="295"> <!-- Suspicious Alchemist -->  
+                        <spot x="1519.0247" y="1522.927" z="565.9245" h="56"/>
+                    </spawn>                
+                    <spawn npc_id="831788" respawn_time="295"> <!-- Suspicious Alchemist -->  
+                        <spot x="1517.8187" y="1520.5858" z="565.92267" h="61"/>
+                    </spawn>                                
+                    <spawn npc_id="831785" respawn_time="295"> <!-- Premium Treasure Chest -->  
+                        <spot x="1512.5641" y="1527.5615" z="565.8794" h="107"/>
+						<spot x="1509.8092" y="1522.9714" z="565.8796" h="111"/>
+						<spot x="1515.6952" y="1531.0807" z="565.8792" h="105"/>
+                    </spawn>                
+                    <spawn npc_id="831786" respawn_time="295"> <!-- Common Treasure Box -->
+                        <spot x="1512.2118" y="1535.4083" z="565.8795" h="103"/>
+						<spot x="1509.6417" y="1533.153" z="565.8797" h="106"/>
+						<spot x="1507.3201" y="1530.3733" z="565.8799" h="109"/>
+						<spot x="1505.543" y="1527.4904" z="565.88007" h="111"/>
+						<spot x="1503.8751" y="1524.1074" z="565.8801" h="112"/>
+                    </spawn>                
+                </spawn_map>
+                <spawn_map map_id="120010000"><!-- Pandaemonium -->            
+                    <spawn npc_id="831787" respawn_time="295"> <!-- Suspicious Alchemist -->   
+                        <spot x="1282.2535" y="1404.4054" z="208.125" h="25"/>
+                    </spawn>            
+                    <spawn npc_id="831788" respawn_time="295"> <!-- Suspicious Alchemist -->        
+                        <spot x="1278.6229" y="1404.5398" z="208.125" h="25"/>                    
+                    </spawn>                
+                    <spawn npc_id="831785" respawn_time="295"> <!-- Premium Treasure Chest -->
+                        <spot x="1287.4314" y="1409.2018" z="208.125" h="30"/>
+						<spot x="1279.4314" y="1409.2018" z="208.125" h="30"/>
+						<spot x="1271.4314" y="1409.2018" z="208.125" h="30"/>
+                    </spawn>                
+                    <spawn npc_id="831786" respawn_time="295"> <!-- Common Treasure Box -->
+                        <spot x="1290.6384" y="1411.5886" z="208.125" h="30"/>
+						<spot x="1284.6384" y="1411.5886" z="208.125" h="30"/>
+						<spot x="1278.6384" y="1411.5886" z="208.125" h="30"/>
+						<spot x="1272.6384" y="1411.5886" z="208.125" h="30"/>
+						<spot x="1266.6384" y="1411.5886" z="208.125" h="30"/>
+                    </spawn>
+                </spawn_map>    
+                <spawn_map map_id="210070000"><!-- Cygnea -->            
+                    <spawn npc_id="831787" respawn_time="295"> <!-- Suspicious Alchemist -->   
+                        <spot x="2913.0" y="835.0" z="569.25" h="0"/>
+                    </spawn>            
+                    <spawn npc_id="831788" respawn_time="295"> <!-- Suspicious Alchemist -->        
+                        <spot x="2913.0" y="830.0" z="569.25" h="0" />                    
+                    </spawn>                
+                    <spawn npc_id="831785" respawn_time="295"> <!-- Premium Treasure Chest -->
+                        <spot x="2919.0" y="830.0" z="569.25" h="0"/>
+                        <spot x="2919.0" y="835.0" z="569.375" h="0"/>
+                        <spot x="2919.0" y="840.0" z="569.5" h="0"/>
+                    </spawn>                
+                    <spawn npc_id="831786" respawn_time="295"> <!-- Common Treasure Box -->
+                        <spot x="2927.0" y="824.0" z="569.375" h="0"/>
+                        <spot x="2927.0" y="830.0" z="569.5" h="0"/>
+                        <spot x="2927.0" y="827.0" z="569.40625" h="0"/>
+                        <spot x="2927.0" y="833.0" z="569.5625" h="0"/>
+                        <spot x="2927.0" y="837.0" z="569.65625" h="0"/>
+                        <spot x="2926.0" y="841.0" z="569.625" h="0"/>
+                    </spawn>                                                    
+                </spawn_map>
+                <spawn_map map_id="210070000"><!-- Enshar -->            
+                    <spawn npc_id="831787" respawn_time="295"> <!-- Suspicious Alchemist -->   
+                        <spot x="416.0" y="2342.0" z="215.95665" h="0"/>
+                    </spawn>            
+                    <spawn npc_id="831788" respawn_time="295"> <!-- Suspicious Alchemist -->        
+                        <spot x="418.0" y="2345.0" z="215.95665" h="0" />                    
+                    </spawn>                
+                    <spawn npc_id="831785" respawn_time="295"> <!-- Premium Treasure Chest -->
+                        <spot x="418.0" y="2336.0" z="215.95665" h="0"/>
+                        <spot x="420.0" y="2339.0" z="215.95665" h="0"/>
+                        <spot x="423.0" y="2342.0" z="215.95665" h="0"/>
+                    </spawn>                
+                    <spawn npc_id="831786" respawn_time="295"> <!-- Common Treasure Box -->
+                        <spot x="425.0" y="2347.0" z="215.95662" h="0"/>
+                        <spot x="423.0" y="2345.0" z="215.95667" h="0"/>
+                        <spot x="432.0" y="2351.0" z="215.95662" h="0"/>
+                        <spot x="432.0" y="2347.0" z="215.95662" h="0"/>
+                        <spot x="427.0" y="2352.0" z="215.95662" h="0"/>
+                        <spot x="427.0" y="2349.0" z="215.95662" h="0"/>
+                    </spawn>                                                    
+                </spawn_map>                
+            </spawns>
+        </event>
+		<event name="Sweet Fruits Inventory" start="2015-06-17T00:00:00+00:00" end="2015-07-17T00:00:00+00:00">
+			<inventory_drop startlevel="30" endlevel="65" interval="30" maxCountOfDay="1" cleanTime="9">188053541</inventory_drop>
+		</event>
+        <event name="Sweet Fruits Drop" start="2015-06-17T00:00:00+00:00" end="2015-07-17T00:00:00+00:00">
+            <event_drops>
+                <event_drop item_id="188100248" count="1" chance="2" minDiff="30" maxDiff="65"/> <!-- [Event] Vinna -->
+                <event_drop item_id="188100249" count="1" chance="2" minDiff="30" maxDiff="65"/> <!-- [Event] Pineapple -->
+                <event_drop item_id="188100250" count="1" chance="2" minDiff="30" maxDiff="65"/> <!-- [Event] Orange -->
+                <event_drop item_id="188100251" count="1" chance="2" minDiff="30" maxDiff="65"/> <!-- [Event] Fig -->
+            </event_drops>                 
+        </event>  		           
+        <event name="Sweet Fruits" start="2015-06-17T00:00:00+00:00" end="2015-07-17T00:00:00+00:00">
+            <quests>
+                <maintainable>80635;80636;80637;80638;80639;80640;80641;80642</maintainable>
+            </quests>      
+            <spawns>    
+                <spawn_map map_id="110010000"><!-- Sanctum -->          
+                    <spawn npc_id="832893" respawn_time="295"> <!-- Hurunerk -->  
+                        <spot x="1478.0" y="1445.0" z="572.87366" h="68"/>
+                    </spawn> 
+                    <spawn npc_id="701965" respawn_time="295"> <!-- Deco -->  
+                        <spot x="1478.0" y="1446.0" z="572.87384" h="68"/>
+                    </spawn>                                   
+                    <spawn npc_id="832892" respawn_time="295"> <!-- Frurinerk -->  
+                        <spot x="1478.0" y="1447.0" z="572.8741" h="68"/>
+                    </spawn>                                             
+                </spawn_map>
+                <spawn_map map_id="120010000"><!-- Pandaemonium -->            
+                    <spawn npc_id="832893" respawn_time="295">  
+                        <spot x="1313.0" y="1420.0" z="209.09084" h="95"/>
+                    </spawn> 
+                    <spawn npc_id="701965" respawn_time="295"> <!-- Deco -->  
+                        <spot x="1314.0" y="1420.0" z="209.09084" h="92"/>
+                    </spawn>                                   
+                    <spawn npc_id="832892" respawn_time="295"> <!-- Frurinerk -->  
+                        <spot x="1315.0" y="1420.0" z="209.09084" h="99"/>
+                    </spawn>                                             
+                </spawn_map>
+            </spawns>
+        </event>    
+		<event name="The Heroine Weeks" start="2015-06-08T00:00:00+00:00" end="2015-07-08T00:00:00+00:00">
+			<spawns>
+				<spawn_map map_id="110010000"> <!-- Sanctum -->
+					<spawn npc_id="832008" respawn_time="295"> <!-- Flower Rack -->
+						<spot h="59" z="565.92645" y="1511.5986" x="1515.4138"/>
+					</spawn>
+					<spawn npc_id="831999" respawn_time="295"> <!-- Florarinerk -->
+						<spot h="55" z="565.9218" y="1514.4386" x="1516.2908"/>
+					</spawn>
+                </spawn_map>
+				<spawn_map map_id="120010000"> <!-- Pandaemonium -->
+					<spawn npc_id="832008" respawn_time="295"> <!-- Flower Rack -->
+						<spot h="89" z="209.09084" y="1432.169" x="1297.0289"/>
+					</spawn>
+					<spawn npc_id="831999" respawn_time="295"> <!-- Florarinerk -->
+						<spot h="87" z="209.09084" y="1432.6614" x="1294.4376"/>
+					</spawn>
+                </spawn_map>
+			</spawns>
+		</event>
+        <event name="Violet Revolution Drop" start="2015-06-01T00:00:00+00:00" end="2015-06-30T00:00:00+00:00">
+			<event_drops>
+				<event_drop item_id="186000386" count="1" chance="2" minDiff="30" maxDiff="65"/> <!-- Violet Banner -->
+				<!-- [Event] Violet Bundle - Boss Drop-->
+				<event_drop item_id="188053214" count="1" chance="1.5" minDiff="1" maxDiff="10" npc_id="231305"/> <!-- Enraged Queen Modor -->
+				<event_drop item_id="188053214" count="1" chance="1.5" minDiff="1" maxDiff="10" npc_id="231073"/> <!-- Hyperion -->
+				<event_drop item_id="188053214" count="1" chance="1.5" minDiff="1" maxDiff="10" npc_id="217647"/> <!-- Raksha Boilheart -->
+			</event_drops>                
+        </event>  			
+		<event name="Violet Revolution" start="2015-06-01T00:00:00+00:00" end="2015-06-30T00:00:00+00:00">
+			<spawns>
+				<spawn_map map_id="110010000"> <!-- Sanctum -->
+                    <spawn npc_id="832747" respawn_time="295"> <!-- Revoruna -->
+                       <spot x="1475.0" y="1451.0" z="572.8747" h="62"/>
+                    </spawn>
+                </spawn_map>
+				<spawn_map map_id="120010000"> <!-- Pandaemonium -->
+                    <spawn npc_id="832748" respawn_time="295"> <!-- Revorua -->
+                        <spot x="1303.0" y="1438.0" z="209.69817" h="98"/>
+                    </spawn>
+                </spawn_map>
+			</spawns>
+		</event>
+		<event name="The Lost Words Drop" start="2015-06-03T00:00:00+00:00" end="2015-07-20T00:00:00+00:00">
+			<event_drops>
+				<event_drop item_id="182007132" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card A -->
+				<event_drop item_id="182007135" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card B -->
+				<event_drop item_id="182007137" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card D -->
+				<event_drop item_id="182007138" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card E -->
+				<event_drop item_id="182007133" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card I -->
+				<event_drop item_id="182007139" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card N -->
+				<event_drop item_id="182007134" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card O -->
+				<event_drop item_id="182007136" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card S -->
+				<event_drop item_id="182007141" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card V -->
+				<event_drop item_id="182007140" count="1" chance="2" minDiff="5" maxDiff="60"/> <!-- The Stolen Letter Card Y -->
+			</event_drops>
+		</event> 
+		<event name="The Lost Words" start="2015-06-03T00:00:00+00:00" end="2015-07-20T00:00:00+00:00">		 
+            <quests>
+                <maintainable>80567;80568;80569;80570;80571;80572;80573;80574</maintainable>
+            </quests> 					
+			<spawns>
+				<spawn_map map_id="110010000"> <!-- Sanctum -->
+                    <spawn npc_id="832016" respawn_time="295">
+                        <spot x="1456.4198" y="1485.8472" z="573.0719" h="51"/>
+					</spawn>					
+					<spawn npc_id="832017" respawn_time="295">
+                        <spot x="1459.0651" y="1489.7823" z="573.0719" h="49"/>
+					</spawn>
+				</spawn_map>	
+				<spawn_map map_id="120010000"> <!-- Pandaemonium -->
+                    <spawn npc_id="832016" respawn_time="295">
+                        <spot x="1312.3" y="1398.0" z="208.125" h="20"/>
+					</spawn>					
+					<spawn npc_id="832017" respawn_time="295">
+                        <spot x="1307.3" y="1401.2" z="208.125" h="22"/>
+					</spawn>
+                </spawn_map>
+			</spawns>
+		</event>
+		<event name="Divine Bonfire Inventory" start="2015-07-01T00:00:00+00:00" end="2015-08-01T00:00:00+00:00">
+			<inventory_drop startlevel="10" interval="30" endlevel="65" maxCountOfDay="10" cleanTime="9">164000280</inventory_drop>
+		</event>
+		<event name="Divine Bonfire" start="2015-07-01T00:00:00+00:00" end="2015-08-01T00:00:00+00:00">
+            <quests>
+                <maintainable>80476;80477</maintainable>
+            </quests>		
+            <spawns>
+                <spawn_map map_id="110010000"><!-- Sanctum -->
+                    <spawn npc_id="831871" respawn_time="295"><!-- Katarina -->
+                        <spot x="1435.8748" y="1536.3816" z="573.0719" h="108"/>
+                    </spawn>
+                    <spawn npc_id="831872" respawn_time="295"><!-- Adeline -->
+                        <spot x="1435.9187" y="1527.6982" z="573.0719" h="108"/>
+                    </spawn>
+                    <spawn npc_id="831795" respawn_time="295"><!-- Divine Bonfire -->
+                        <spot x="1436.7759" y="1531.6986" z="573.0719"/>
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="120010000"><!-- Pandaemonium -->
+                    <spawn npc_id="831873" respawn_time="295"><!-- Rowena -->
+                        <spot x="1311.2567" y="1401.2125" z="208.125" h="28"/>
+                    </spawn>
+                    <spawn npc_id="831874" respawn_time="295"><!-- Amira -->
+                        <spot x="1306.2745" y="1403.5876" z="208.125" h="20"/>
+                    </spawn>
+                    <spawn npc_id="831795" respawn_time="295"><!-- Divine Bonfire -->
+                        <spot x="1309.413" y="1403.6926" z="208.125"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+		</event>
+        <event name="Daeva Day New Inventory" start="2015-08-01T00:00:00+00:00" end="2015-09-01T00:00:00+00:00">
+            <inventory_drop startlevel="30" interval="60" endlevel="65" maxCountOfDay="10" cleanTime="9">188052676</inventory_drop>
+        </event>
+        <event name="Daeva Day New" start="2015-07-01T00:00:00+00:00" end="2015-08-01T00:00:00+00:00">
+            <quests>
+                <maintainable>80467;80468;80469;80470</maintainable>
+            </quests>
+            <spawns>
+                <spawn_map map_id="120010000"><!-- Pandaemonium -->
+                    <spawn npc_id="831922" respawn_time="295"><!-- <Daeva's Day 3-Tier Cake> -->
+                        <spot x="1275.5396" y="1327.2456" z="204.42003" h="90"/>
+                    </spawn>
+                    <spawn npc_id="831868" respawn_time="295"><!-- Ratabyr -->
+                        <spot x="1278.1201" y="1321.8687" z="204.42003" h="90"/>
+                    </spawn>
+                    <spawn npc_id="831862" respawn_time="295"><!-- Brand -->
+                        <spot x="1273.1687" y="1332.4641" z="204.41998" h="30"/>
+                    </spawn>
+                    <spawn npc_id="831866" respawn_time="295"><!-- Dargnyr -->
+                        <spot x="1277.4999" y="1332.9155" z="204.42003" h="30"/>
+                    </spawn>
+                    <!-- need new Spawns -->
+                    <spawn npc_id="701952" respawn_time="1800"><!-- Rata's Cake -->
+                        <spot x="916.4875" y="1452.9801" z="212.7276" h="113"/>
+                        <spot x="867.5086" y="1399.9886" z="218.05367" h="38"/>
+                        <spot x="919.77405" y="1567.8542" z="231.1195" h="46"/>
+                        <spot x="966.849" y="1614.0581" z="231.1195" h="44"/>
+                        <spot x="1216.2467" y="1188.4897" z="207.97894" h="115"/>
+                        <spot x="1278.572" y="1111.7823" z="213.71239" h="52"/>
+                        <spot x="1339.6326" y="1147.384" z="213.67839" h="84"/>
+                    </spawn>
+                    <spawn npc_id="701983" respawn_time="1800"><!-- Rata's Large Cake -->
+                        <spot x="865.798" y="1459.1652" z="213.18848" h="64"/>
+                        <spot x="1041.1201" y="1061.355" z="201.52081" h="65"/>
+                        <spot x="967.1635" y="1210.65" z="201.50096" h="19"/>
+                        <spot x="1177.1105" y="1440.6268" z="209.09074" h="19"/>
+                    </spawn>
+                    <spawn npc_id="701983" respawn_time="1800"><!-- Rata's Large Cake -->
+                        <spot x="916.4875" y="1452.9801" z="212.7276" h="113"/>
+                        <spot x="867.5086" y="1399.9886" z="218.05367" h="38"/>
+                        <spot x="919.77405" y="1567.8542" z="231.1195" h="46"/>
+                        <spot x="966.849" y="1614.0581" z="231.1195" h="44"/>
+                        <spot x="1216.2467" y="1188.4897" z="207.97894" h="115"/>
+                        <spot x="1278.572" y="1111.7823" z="213.71239" h="52"/>
+                        <spot x="1339.6326" y="1147.384" z="213.67839" h="84"/>
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="110010000"><!-- Sanctum -->
+                    <spawn npc_id="831921" respawn_time="295"><!-- <Daeva's Day 3-Tier Cake> -->
+                        <spot x="1530.1" y="1518.56" z="565.91" h="60"/>
+                    </spawn>
+                    <spawn npc_id="831867" respawn_time="295"><!-- Ratabui -->
+                        <spot x="1523.7136" y="1511.2263" z="565.9046" h="60"/>
+                    </spawn>
+                    <spawn npc_id="831861" respawn_time="295"><!-- Amrotus -->
+                        <spot x="1538.0896" y="1513.7946" z="565.8967" h="0"/>
+                    </spawn>
+                    <spawn npc_id="831865" respawn_time="295"><!-- Demaine -->
+                        <spot x="1539.6975" y="1508.7958" z="565.901" h="0"/>
+                    </spawn>
+                    <!-- need new Spawns -->
+                    <spawn npc_id="701952" respawn_time="1800"><!-- Rata's Cake -->
+                        <spot x="1482.8683" y="1451.2317" z="573.0394" h="47"/>
+                        <spot x="1603.231" y="1381.0026" z="563.5009" h="108"/>
+                        <spot x="1664.4438" y="1358.0969" z="557.2329" h="18"/>
+                        <spot x="1443.6439" y="1235.9988" z="570.88104" h="64"/>
+                        <spot x="1405.3057" y="1254.1425" z="570.88104" h="89"/>
+                        <spot x="1807.0106" y="1499.6753" z="573.2793" h="108"/>
+                        <spot x="1827.2164" y="1594.6051" z="579.0614" h="19"/>
+                    </spawn>
+                    <spawn npc_id="701983" respawn_time="1800"><!-- Rata's Large Cake -->
+                        <spot x="1850.0884" y="1667.923" z="576.8255" h="11"/>
+                        <spot x="2001.6871" y="1789.361" z="576.7586" h="97"/>
+                        <spot x="1734.2205" y="2188.508" z="524.3187" h="39"/>
+                        <spot x="1911.7812" y="2141.409" z="524.3187" h="83"/>
+                    </spawn>
+                    <spawn npc_id="701983" respawn_time="1800"><!-- Rata's Large Cake -->
+                        <spot x="1482.8683" y="1451.2317" z="573.0394" h="47"/>
+                        <spot x="1603.231" y="1381.0026" z="563.5009" h="108"/>
+                        <spot x="1664.4438" y="1358.0969" z="557.2329" h="18"/>
+                        <spot x="1443.6439" y="1235.9988" z="570.88104" h="64"/>
+                        <spot x="1405.3057" y="1254.1425" z="570.88104" h="89"/>
+                        <spot x="1807.0106" y="1499.6753" z="573.2793" h="108"/>
+                        <spot x="1827.2164" y="1594.6051" z="579.0614" h="19"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+		<event name="Legendary Symphony Event" start="2015-07-22T00:00:00+00:00" end="2015-08-05T00:00:00+00:00">
+            <quests>
+                <maintainable>80677;80682;80697;80698;80699;80700;80701;80702;80703;80704</maintainable>
+            </quests>
+			<event_drops>
+				<event_drop item_id="188100252" count="1" chance="100" minDiff="30" maxDiff="65" npc_id="233740"/> <!-- Prototyp Dainatum -->
+				<event_drop item_id="188100252" count="1" chance="100" minDiff="30" maxDiff="65" npc_id="230857"/> <!-- Guard Captain Ahuradim -->
+				<event_drop item_id="188100252" count="1" chance="100" minDiff="30" maxDiff="65" npc_id="231073"/> <!-- Hyperion -->
+			</event_drops>             		
+            <spawns>              
+                <spawn_map map_id="110010000"><!-- Sanctum --> 
+                    <spawn npc_id="832968" respawn_time="295"><!-- Andante -->
+                        <spot x="1464.6" y="1467.5" z="572.87604" h="79"/>
+                    </spawn>                    
+                    <spawn npc_id="832969" respawn_time="295"><!-- Allegro -->
+                        <spot x="1466.1" y="1467.4" z="572.8758" h="91"/>
+                    </spawn>                   
+                    <spawn npc_id="832967" respawn_time="295"><!-- Sonatine -->
+                        <spot x="1467.3" y="1467.4" z="572.8757" h="82"/>
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="120010000"><!-- Pandaemonium --> 
+                    <spawn npc_id="832971" respawn_time="295"><!-- Andante -->
+                        <spot x="1295.3" y="1436.5" z="209.09082" h="87"/>
+                    </spawn>                    
+                    <spawn npc_id="832972" respawn_time="295"><!-- Allegro -->
+                        <spot x="1294.0" y="1436.4" z="209.09082" h="90"/>
+                    </spawn>                   
+                    <spawn npc_id="832970" respawn_time="295"><!-- Sonatine -->
+                        <spot x="1292.5" y="1436.0" z="209.09082" h="99"/>
+                    </spawn>
+                </spawn_map>                
+            </spawns>
+        </event>
+        <event name="Live Party Concert Hall" start="2014-01-01T00:00:00+00:00" end="2014-12-31T00:00:00+00:00">
+            <spawns>
+                <spawn_map map_id="110010000"><!-- Sanctum -->
+                    <spawn npc_id="831592" respawn_time="295"><!-- live party concert hall entrance -->
+                        <spot x="1449.88" y="1511.21" z="573.0719" h="0"/>
+                    </spawn>
+                </spawn_map>
+                <spawn_map map_id="120010000"><!-- Pandaemonium -->
+                    <spawn npc_id="831594" respawn_time="295"><!-- live party concert hall entrance -->
+                        <spot x="1274.78" y="1400.204" z="208.543" h="0"/>
+                    </spawn>
+                </spawn_map>
+            </spawns>
+        </event>
+        <event name="Shugo Emperor's Vault" start="2015-08-05T00:00:00+00:00" end="2015-08-26T00:00:00+00:00">
+            <quests>
+                <maintainable>80689;80690;80691;80692;80693;80694;80695;80696</maintainable>
+            </quests>            
+            <spawns>
+                <spawn_map map_id="110010000"><!-- Sanctum -->
+                    <spawn npc_id="832921" respawn_time="295"><!-- Indinerk Jonakak -->
+                        <spot x="1456.3" y="1500.0" z="573.0719" h="64"/>
+                    </spawn>
+                    <spawn npc_id="832920" respawn_time="295"><!-- Indinerk Jonakak's Secret Passage -->
+                        <spot x="1458.2" y="1504.5" z="573.0719" h="60"/>
+                    </spawn>                    
+                    <spawn npc_id="832923" respawn_time="295"><!-- Guardrunerk -->
+                        <spot x="1456.1" y="1508.9" z="573.0719" h="70"/>
+                    </spawn>                    
+                </spawn_map>
+                <spawn_map map_id="120010000"><!-- Pandaemonium -->
+                    <spawn npc_id="832921" respawn_time="295"><!-- Indinerk Jonakak -->
+                        <spot x="1614.2" y="1424.3" z="193.12749" h="90"/>
+                    </spawn>
+                    <spawn npc_id="832920" respawn_time="295"><!-- Indinerk Jonakak's Secret Passage -->
+                        <spot x="1609.5" y="1423.9" z="193.1277" h="100"/>
+                    </spawn>                      
+                    <spawn npc_id="832923" respawn_time="295"><!-- Guardrunerk -->
+                        <spot x="1606.8" y="1420.4" z="193.12802" h="110"/>
+                    </spawn>                      
+                </spawn_map>
+            </spawns>
+        </event>
+		<event name="Rainbow Snake Festival Inventory" start="2015-08-26T00:00:00+00:00" end="2015-09-09T00:00:00+00:00">
+			<inventory_drop interval="60" startlevel="30" endlevel="65" maxCountOfDay="1" cleanTime="9">188100257</inventory_drop><!-- [Event] Blue Scale after 60min -->
+        </event>
+		<event name="Rainbow Snake Festival Inventory 1" start="2015-08-26T00:00:00+00:00" end="2015-09-09T00:00:00+00:00">			
+			<inventory_drop interval="120" startlevel="30" endlevel="65" maxCountOfDay="1" cleanTime="9">188100258</inventory_drop><!-- [Event] Yellow Scale after 120min -->
+        </event>
+		<event name="Rainbow Snake Festival Inventory 2" start="2015-08-26T00:00:00+00:00" end="2015-09-09T00:00:00+00:00">			
+			<inventory_drop interval="180" startlevel="30" endlevel="65" maxCountOfDay="1" cleanTime="9">188100259</inventory_drop><!-- [Event] Red Scale after 180min -->
+		</event>    
+        <event name="Rainbow Snake Festival" start="2015-08-26T00:00:00+00:00" end="2015-09-09T00:00:00+00:00">
+            <quests>
+                <maintainable>80683;80685;80686;80688</maintainable>
+            </quests>            
+            <spawns>
+				<spawn_map map_id="110010000"><!-- Sanctum --> 
+					<spawn npc_id="832965" respawn_time="295"><!-- Salazara -->  
+						<spot x="1454.0" y="1491.0" z="573.0719" h="60"/>
+					</spawn> 
+					<spawn npc_id="832973" respawn_time="295"><!-- Narzissa -->  
+						<spot x="1454.0" y="1489.0" z="573.0719" h="60"/>
+					</spawn> 
+					<spawn npc_id="832963" respawn_time="295"><!-- Dolores Buff NPC -->
+						<spot x="1454.0" y="1493.0" z="573.0719" h="60"/>
+					</spawn>
+					<spawn npc_id="832964" respawn_time="295"><!-- Lucius Buff NPC -->
+						<spot x="1454.0" y="1493.0" z="573.0719" h="60"/>
+					</spawn> 					 
+				</spawn_map>
+				<spawn_map map_id="120010000"><!-- Pandaemonium -->
+					<spawn npc_id="832976" respawn_time="295"><!-- Salazara -->       
+						<spot x="1306.0" y="1404.0" z="208.125" h="18"/> 
+					</spawn> 
+					<spawn npc_id="832978" respawn_time="295"><!-- Narzissa --> 
+						<spot x="1304.0" y="1405.0" z="208.125" h="27"/>
+					</spawn> 
+					<spawn npc_id="832974" respawn_time="295"><!-- Dolores Buff NPC -->
+						<spot x="1308.0" y="1402.0" z="208.125" h="21"/>
+					</spawn> 
+					<spawn npc_id="832975" respawn_time="295"><!-- Lucius Buff NPC -->
+						<spot x="1308.0" y="1402.0" z="208.125" h="21"/>
+					</spawn> 
+				</spawn_map>
+            </spawns>
+        </event>
+        <event name="Snowy Freezy" start="2015-12-15T00:00:00+00:00" end="2016-01-02T00:00:00+00:00"> <!-- Retail EU 4.8 -->
+            <quests>
+                <maintainable>80576;80579;80575;80578</maintainable>
+            </quests>
+            <event_drops>
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="40" npc_id="214767"/> <!-- Treasurer Manonasa lvl:45 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="40" npc_id="214787"/> <!-- Protector Kael lvl:45 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="40" npc_id="215134"/> <!-- Ebonlord Arknamium lvl:45 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="40" npc_id="215220"/> <!-- Ebonlord Vershinak lvl:45 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="40" npc_id="215177"/> <!-- Ebonlord Nukuam lvl:45 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="50" npc_id="214904"/> <!-- Brigade General Anuhart lvl:50 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="50" npc_id="217206"/> <!-- Warden Surama lvl:55 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="50" npc_id="215488"/> <!-- Celestius lvl:53 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="50" npc_id="216264"/> <!-- Stormwing lvl:55 -->                              
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="60" npc_id="218614"/> <!-- Brigade General Vasharti lvl:60 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="60" npc_id="236306"/> <!-- Reviver Nasto lvl:60 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="65" npc_id="284376"/> <!-- Enraged Queen Modor lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="65" npc_id="234691"/> <!-- Crazed Modor lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="65" npc_id="231073"/> <!-- Hyperion lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="65" npc_id="233740"/> <!-- Test Weapon Dynatoum lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="65" npc_id="234686"/> <!-- Remodeled Dynatoum lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="65" npc_id="230854"/> <!-- Sly Uterunerk lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="65" npc_id="230856"/> <!-- Inquisitor Jardaraka lvl:65 -->                
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="60" npc_id="230855"/> <!-- Medical Officer Surkihan lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="60" npc_id="230857"/> <!-- Guard Captain Ahuradim lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="60" npc_id="230858"/> <!-- Brigade General Sheba lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="60" npc_id="234991"/> <!-- Furious Belsagos lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="60" npc_id="233898"/> <!-- Volatile Belsagos lvl:65 -->
+                <event_drop item_id="188052986" count="1" chance="15" minDiff="1" maxDiff="10" minLvl="60" npc_id="234990"/> <!-- Wounded Belsagos lvl:65 -->
+            </event_drops>                    
+            <spawns>
+                <!-- Sanctum -->
+                <spawn_map map_id="110010000">
+                    <!-- Decoy Winter -->
+                    <spawn npc_id="832039">
+                        <spot x="1534.0" y="1514.0" z="565.88916" h="68"/> <!-- 4.8 -->
+                    </spawn>
+                    <!-- Frosterinerk -->
+                    <spawn npc_id="832041">
+                        <spot x="1520.5" y="1507.4" z="565.913" h="67"/> <!-- 4.8 -->
+                    </spawn>
+                    <!-- Frostirunerk -->
+                    <spawn npc_id="832042">
+                        <spot x="1518.4" y="1512.2" z="565.9181" h="69"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>
+                <!-- Pandaemonium -->
+                <spawn_map map_id="120010000">
+                    <!-- Decoy Winter -->
+                    <spawn npc_id="832039">
+                        <spot x="1199.0" y="1394.0" z="208.125" h="18"/> <!-- 4.8 -->
+                    </spawn>
+                    <!-- Frosterinerk -->
+                    <spawn npc_id="832041">
+                        <spot x="1210.0" y="1404.0" z="208.125" h="18"/> <!-- 4.8 -->
+                    </spawn>
+                    <!-- Frostirunerk -->
+                    <spawn npc_id="832042">
+                        <spot x="1213.0" y="1400.0" z="208.125" h="15"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>               
+                <!-- Cygnea -->
+                <spawn_map map_id="210070000">
+                    <!-- Frosterinerk -->
+                    <spawn npc_id="832041">
+                        <spot x="2902.0" y="789.0" z="569.5694" h="62"/> <!-- 4.8 -->
+                    </spawn>
+                    <!-- Frostirunerk -->
+                    <spawn npc_id="832042">
+                        <spot x="2904.0" y="789.0" z="569.59406" h="67"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>
+                <!-- Enshar -->
+                <spawn_map map_id="220080000">
+                    <!-- Frosterinerk -->
+                    <spawn npc_id="832041">
+                        <spot x="441.4" y="2260.0" z="219.96588" h="18"/> <!-- 4.8 -->
+                    </spawn>
+                    <!-- Frostirunerk -->
+                    <spawn npc_id="832042">
+                        <spot x="439.4" y="2257.6" z="219.96588" h="24"/> <!-- 4.8 -->
+                    </spawn>
+                </spawn_map>                
+            </spawns>
+        </event>
+        <event name="Shop Event" start="2016-01-01T00:00:00+00:00" end="2016-12-31T00:00:00+00:00">
+            <quests>
+                <maintainable>80643;80644;80618;80620;80617;80619</maintainable>
+            </quests>            
+            <spawns>
+				<spawn_map map_id="110010000"><!-- Sanctum -->
+                    <spawn npc_id="832888" respawn_time="295"><!-- Neltise -->
+                        <spot x="1433.0" y="1517.0" z="573.30756"/>
+                    </spawn>
+                    <spawn npc_id="832895" respawn_time="295"><!-- Landrian -->
+                        <spot x="1458.0" y="1526.0" z="573.0719"/>
+                    </spawn>                    
+				</spawn_map>
+				<spawn_map map_id="120010000"><!-- Pandaemonium -->
+                    <spawn npc_id="832896" respawn_time="295"><!-- Madareke -->
+                        <spot x="1605.0" y="1386.0" z="193.12839"/>
+                    </spawn>
+                    <spawn npc_id="832889" respawn_time="295"><!-- Hinjel -->
+                        <spot x="1635.0" y="1391.0" z="193.12703"/>
+                    </spawn>                    
+				</spawn_map>
+				<spawn_map map_id="210010000"><!-- Poeta -->
+                    <spawn npc_id="832886" respawn_time="295"><!-- Lanne -->
+                        <spot x="833.0" y="1218.0" z="118.8125"/>
+                    </spawn>
+				</spawn_map>
+				<spawn_map map_id="220010000"><!-- Ishalgen -->
+                    <spawn npc_id="832887" respawn_time="295"><!-- Jelta -->
+                        <spot x="556.0" y="2449.0" z="278.0"/>
+                    </spawn>
+				</spawn_map>								
+            </spawns>
+        </event>
+        <event name="Transidium Annex" start="2016-01-01T00:00:00+00:00" end="2016-12-31T00:00:00+00:00">           
+            <spawns>
+				<spawn_map map_id="110010000"><!-- Sanctum -->
+                    <spawn npc_id="730949" respawn_time="295">
+                        <spot x="1547.9" y="1511.5" z="565.9" h="60"/>
+                    </spawn>
+                </spawn_map>    
+				<spawn_map map_id="120010000"><!-- Pandaemonium -->
+                    <spawn npc_id="730953" respawn_time="295">
+                        <spot x="1226.02" y="1373.9" z="208.1" h="56"/>
+                    </spawn>                  
+				</spawn_map>							
+            </spawns>
+        </event>                                                	        		 						                     		        								        
+    </events>
+</events_config>

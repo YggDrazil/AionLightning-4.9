@@ -1,0 +1,25 @@
+   <!-- npcid= 256674 -->
+   <npc_drops npcid="256674" objectId="-2131732451">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="11002" />
+         <drop count="2" item_id="188054202" item_quantity="1" />
+         <drop count="3" item_id="152014002" item_quantity="1" />
+         <drop count="4" item_id="186000032" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 253613 -->
+   <npc_drops npcid="253613" objectId="-2134807002">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="7623" />
+         <drop count="2" item_id="152014001" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 256653 -->
+   <npc_drops npcid="256653" objectId="-2136781295">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="4551" />
+         <drop count="2" item_id="152014008" item_quantity="1" />
+         <drop count="3" item_id="101500246" item_quantity="1" />
+         <drop count="4" item_id="122000655" item_quantity="1" />
+		</drop_group>
+	</npc_drops>

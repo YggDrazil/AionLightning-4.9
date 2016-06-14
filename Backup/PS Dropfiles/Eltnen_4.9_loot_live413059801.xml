@@ -1,0 +1,1344 @@
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2144254742">
+      <drop_group>
+         <drop count="1" item_id="182004098" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210804 -->
+   <npc_drops npcid="210804" objectId="-2144550214">
+      <drop_group>
+         <drop count="1" item_id="182004448" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210804 -->
+   <npc_drops npcid="210804" objectId="-2145739314">
+      <drop_group>
+         <drop count="1" item_id="182004448" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210804 -->
+   <npc_drops npcid="210804" objectId="-2145738289">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="111300293" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210814 -->
+   <npc_drops npcid="210814" objectId="-2145734125">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+         <drop count="2" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2144250522">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210814 -->
+   <npc_drops npcid="210814" objectId="-2145430007">
+      <drop_group>
+         <drop count="1" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210815 -->
+   <npc_drops npcid="210815" objectId="-2144732867">
+      <drop_group>
+         <drop count="1" item_id="152012006" item_quantity="1" />
+         <drop count="2" item_id="160003553" item_quantity="1" />
+         <drop count="3" item_id="100500147" item_quantity="1" />
+         <drop count="4" item_id="121000416" item_quantity="1" />
+         <drop count="5" item_id="182004448" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210814 -->
+   <npc_drops npcid="210814" objectId="-2147424235">
+      <drop_group>
+         <drop count="1" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210814 -->
+   <npc_drops npcid="210814" objectId="-2147390824">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="101500300" item_quantity="1" />
+         <drop count="3" item_id="182004448" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2147440188">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2147395389">
+      <drop_group>
+         <drop count="1" item_id="152011004" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2147371894">
+      <drop_group>
+         <drop count="1" item_id="182004098" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2145696685">
+      <drop_group>
+         <drop count="1" item_id="182004098" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 232131 -->
+   <npc_drops npcid="232131" objectId="-2144203829">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1076" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211826 -->
+   <npc_drops npcid="211826" objectId="-2144516255">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="622" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211826 -->
+   <npc_drops npcid="211826" objectId="-2144551442">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1116" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210834 -->
+   <npc_drops npcid="210834" objectId="-2146192235">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="364" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235481 -->
+   <npc_drops npcid="235481" objectId="-2144536597">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="4764" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2147410550">
+      <drop_group>
+         <drop count="1" item_id="160003559" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2147447105">
+      <drop_group>
+         <drop count="1" item_id="182004098" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2147421866">
+      <drop_group>
+         <drop count="1" item_id="152011004" item_quantity="1" />
+         <drop count="2" item_id="182004098" item_quantity="1" />
+         <drop count="3" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2147379997">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210806 -->
+   <npc_drops npcid="210806" objectId="-2147444950">
+      <drop_group>
+         <drop count="1" item_id="182004428" item_quantity="1" />
+         <drop count="2" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211692 -->
+   <npc_drops npcid="211692" objectId="-2147373126">
+      <drop_group>
+         <drop count="1" item_id="112300569" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211692 -->
+   <npc_drops npcid="211692" objectId="-2147397409">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210832 -->
+   <npc_drops npcid="210832" objectId="-2146280584">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210851 -->
+   <npc_drops npcid="210851" objectId="-2146256186">
+      <drop_group>
+         <drop count="1" item_id="182004118" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211675 -->
+   <npc_drops npcid="211675" objectId="-2147020467">
+      <drop_group>
+         <drop count="1" item_id="115000396" item_quantity="1" />
+         <drop count="2" item_id="122000509" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210851 -->
+   <npc_drops npcid="210851" objectId="-2146255467">
+      <drop_group>
+         <drop count="1" item_id="182004118" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210853 -->
+   <npc_drops npcid="210853" objectId="-2146288399">
+      <drop_group>
+         <drop count="1" item_id="182004108" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210853 -->
+   <npc_drops npcid="210853" objectId="-2146285145">
+      <drop_group>
+         <drop count="1" item_id="182004108" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210832 -->
+   <npc_drops npcid="210832" objectId="-2146284582">
+      <drop_group>
+         <drop count="1" item_id="152011024" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210853 -->
+   <npc_drops npcid="210853" objectId="-2145607598">
+      <drop_group>
+         <drop count="1" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210851 -->
+   <npc_drops npcid="210851" objectId="-2146259209">
+      <drop_group>
+         <drop count="1" item_id="182004118" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210851 -->
+   <npc_drops npcid="210851" objectId="-2146259210">
+      <drop_group>
+         <drop count="1" item_id="182004118" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210851 -->
+   <npc_drops npcid="210851" objectId="-2146260591">
+      <drop_group>
+         <drop count="1" item_id="182004118" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210851 -->
+   <npc_drops npcid="210851" objectId="-2146260506">
+      <drop_group>
+         <drop count="1" item_id="182004118" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210889 -->
+   <npc_drops npcid="210889" objectId="-2146655428">
+      <drop_group>
+         <drop count="1" item_id="152011004" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210833 -->
+   <npc_drops npcid="210833" objectId="-2146261837">
+      <drop_group>
+         <drop count="1" item_id="182004118" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210851 -->
+   <npc_drops npcid="210851" objectId="-2146261835">
+      <drop_group>
+         <drop count="1" item_id="182004118" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210853 -->
+   <npc_drops npcid="210853" objectId="-2146257334">
+      <drop_group>
+         <drop count="1" item_id="182004108" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210851 -->
+   <npc_drops npcid="210851" objectId="-2146257333">
+      <drop_group>
+         <drop count="1" item_id="182004118" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210889 -->
+   <npc_drops npcid="210889" objectId="-2146267345">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210853 -->
+   <npc_drops npcid="210853" objectId="-2147334898">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210853 -->
+   <npc_drops npcid="210853" objectId="-2147363192">
+      <drop_group>
+         <drop count="1" item_id="182004108" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210889 -->
+   <npc_drops npcid="210889" objectId="-2146275339">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210855 -->
+   <npc_drops npcid="210855" objectId="-2147354903">
+      <drop_group>
+         <drop count="1" item_id="182004098" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210855 -->
+   <npc_drops npcid="210855" objectId="-2146444649">
+      <drop_group>
+         <drop count="1" item_id="182004098" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210854 -->
+   <npc_drops npcid="210854" objectId="-2146273026">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210888 -->
+   <npc_drops npcid="210888" objectId="-2146275228">
+      <drop_group>
+         <drop count="1" item_id="120000359" item_quantity="1" />
+         <drop count="2" item_id="152011044" item_quantity="1" />
+         <drop count="3" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210854 -->
+   <npc_drops npcid="210854" objectId="-2146449662">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="182004368" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210855 -->
+   <npc_drops npcid="210855" objectId="-2147446025">
+      <drop_group>
+         <drop count="1" item_id="182004098" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210843 -->
+   <npc_drops npcid="210843" objectId="-2146306553">
+      <drop_group>
+         <drop count="1" item_id="182004018" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210843 -->
+   <npc_drops npcid="210843" objectId="-2146295131">
+      <drop_group>
+         <drop count="1" item_id="182004018" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210825 -->
+   <npc_drops npcid="210825" objectId="-2146275505">
+      <drop_group>
+         <drop count="1" item_id="152011024" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210829 -->
+   <npc_drops npcid="210829" objectId="-2146316758">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="510" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210828 -->
+   <npc_drops npcid="210828" objectId="-2146316284">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="493" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+         <drop count="3" item_id="182003738" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210829 -->
+   <npc_drops npcid="210829" objectId="-2147381083">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="437" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210828 -->
+   <npc_drops npcid="210828" objectId="-2147395881">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1178" />
+         <drop count="2" item_id="102100392" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210857 -->
+   <npc_drops npcid="210857" objectId="-2146251788">
+      <drop_group>
+         <drop count="1" item_id="114600338" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210857 -->
+   <npc_drops npcid="210857" objectId="-2144796284">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+         <drop count="2" item_id="152011004" item_quantity="1" />
+         <drop count="3" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210857 -->
+   <npc_drops npcid="210857" objectId="-2144796573">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210857 -->
+   <npc_drops npcid="210857" objectId="-2147462778">
+      <drop_group>
+         <drop count="1" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210827 -->
+   <npc_drops npcid="210827" objectId="-2145854859">
+      <drop_group>
+         <drop count="1" item_id="101800344" item_quantity="1" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210827 -->
+   <npc_drops npcid="210827" objectId="-2146249656">
+      <drop_group>
+         <drop count="1" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211708 -->
+   <npc_drops npcid="211708" objectId="-2147408545">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="832" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211709 -->
+   <npc_drops npcid="211709" objectId="-2147349304">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="843" />
+         <drop count="2" item_id="152011024" item_quantity="1" />
+         <drop count="3" item_id="182003738" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211709 -->
+   <npc_drops npcid="211709" objectId="-2147444610">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="579" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211708 -->
+   <npc_drops npcid="211708" objectId="-2147364069">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1073" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211708 -->
+   <npc_drops npcid="211708" objectId="-2144797188">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="916" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211707 -->
+   <npc_drops npcid="211707" objectId="-2145421623">
+      <drop_group>
+         <drop count="1" item_id="160003559" item_quantity="1" />
+         <drop count="2" item_id="152015003" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211709 -->
+   <npc_drops npcid="211709" objectId="-2147389026">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="457" />
+         <drop count="2" item_id="182003738" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210826 -->
+   <npc_drops npcid="210826" objectId="-2147337934">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210826 -->
+   <npc_drops npcid="210826" objectId="-2147391109">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="182003998" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210859 -->
+   <npc_drops npcid="210859" objectId="-2147423693">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1120" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210856 -->
+   <npc_drops npcid="210856" objectId="-2147459882">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210859 -->
+   <npc_drops npcid="210859" objectId="-2147392907">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1292" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210859 -->
+   <npc_drops npcid="210859" objectId="-2147406413">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="947" />
+         <drop count="2" item_id="169000005" item_quantity="1" />
+         <drop count="3" item_id="152011004" item_quantity="1" />
+         <drop count="4" item_id="182003738" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210856 -->
+   <npc_drops npcid="210856" objectId="-2144795165">
+      <drop_group>
+         <drop count="1" item_id="182003998" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210856 -->
+   <npc_drops npcid="210856" objectId="-2144795438">
+      <drop_group>
+         <drop count="1" item_id="182003998" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210856 -->
+   <npc_drops npcid="210856" objectId="-2144795971">
+      <drop_group>
+         <drop count="1" item_id="114100316" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210856 -->
+   <npc_drops npcid="210856" objectId="-2147442794">
+      <drop_group>
+         <drop count="1" item_id="152011044" item_quantity="1" />
+         <drop count="2" item_id="182003998" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210856 -->
+   <npc_drops npcid="210856" objectId="-2144795233">
+      <drop_group>
+         <drop count="1" item_id="182003998" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210871 -->
+   <npc_drops npcid="210871" objectId="-2147408975">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+         <drop count="2" item_id="152015003" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210871 -->
+   <npc_drops npcid="210871" objectId="-2147022223">
+      <drop_group>
+         <drop count="1" item_id="182004018" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210871 -->
+   <npc_drops npcid="210871" objectId="-2147023892">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+         <drop count="2" item_id="152015003" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210887 -->
+   <npc_drops npcid="210887" objectId="-2147021823">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+         <drop count="2" item_id="152015004" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210843 -->
+   <npc_drops npcid="210843" objectId="-2147391333">
+      <drop_group>
+         <drop count="1" item_id="182004018" item_quantity="1" />
+         <drop count="2" item_id="152015003" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210843 -->
+   <npc_drops npcid="210843" objectId="-2146289977">
+      <drop_group>
+         <drop count="1" item_id="182004018" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210843 -->
+   <npc_drops npcid="210843" objectId="-2146314556">
+      <drop_group>
+         <drop count="1" item_id="182004018" item_quantity="1" />
+         <drop count="2" item_id="152015003" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210843 -->
+   <npc_drops npcid="210843" objectId="-2147406202">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+         <drop count="2" item_id="152015003" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210829 -->
+   <npc_drops npcid="210829" objectId="-2147350805">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="678" />
+         <drop count="2" item_id="169000005" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210829 -->
+   <npc_drops npcid="210829" objectId="-2147424994">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="939" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210827 -->
+   <npc_drops npcid="210827" objectId="-2143910289">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210827 -->
+   <npc_drops npcid="210827" objectId="-2143906418">
+      <drop_group>
+         <drop count="1" item_id="182004178" item_quantity="1" />
+         <drop count="2" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210827 -->
+   <npc_drops npcid="210827" objectId="-2143906315">
+      <drop_group>
+         <drop count="1" item_id="182004178" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210812 -->
+   <npc_drops npcid="210812" objectId="-2147426122">
+      <drop_group>
+         <drop count="1" item_id="125000671" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211707 -->
+   <npc_drops npcid="211707" objectId="-2147400422">
+      <drop_group>
+         <drop count="1" item_id="122000386" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210812 -->
+   <npc_drops npcid="210812" objectId="-2146270601">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210819 -->
+   <npc_drops npcid="210819" objectId="-2147420851">
+      <drop_group>
+         <drop count="1" item_id="152015003" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210825 -->
+   <npc_drops npcid="210825" objectId="-2147418129">
+      <drop_group>
+         <drop count="1" item_id="182003838" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210819 -->
+   <npc_drops npcid="210819" objectId="-2147440409">
+      <drop_group>
+         <drop count="1" item_id="182004018" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210854 -->
+   <npc_drops npcid="210854" objectId="-2143920484">
+      <drop_group>
+         <drop count="1" item_id="182004368" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210854 -->
+   <npc_drops npcid="210854" objectId="-2146452746">
+      <drop_group>
+         <drop count="1" item_id="182004368" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210854 -->
+   <npc_drops npcid="210854" objectId="-2146452635">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="182004368" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210855 -->
+   <npc_drops npcid="210855" objectId="-2147404448">
+      <drop_group>
+         <drop count="1" item_id="182004098" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210855 -->
+   <npc_drops npcid="210855" objectId="-2147452632">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210855 -->
+   <npc_drops npcid="210855" objectId="-2143927349">
+      <drop_group>
+         <drop count="1" item_id="182004098" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211692 -->
+   <npc_drops npcid="211692" objectId="-2143947244">
+      <drop_group>
+         <drop count="1" item_id="182004368" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2143949701">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210806 -->
+   <npc_drops npcid="210806" objectId="-2143951480">
+      <drop_group>
+         <drop count="1" item_id="182004428" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210813 -->
+   <npc_drops npcid="210813" objectId="-2143951498">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 232131 -->
+   <npc_drops npcid="232131" objectId="-2143941836">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1318" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235479 -->
+   <npc_drops npcid="235479" objectId="-2144268509">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="4936" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211826 -->
+   <npc_drops npcid="211826" objectId="-2144299611">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1095" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210834 -->
+   <npc_drops npcid="210834" objectId="-2145498096">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="317" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210834 -->
+   <npc_drops npcid="210834" objectId="-2145497663">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="808" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235482 -->
+   <npc_drops npcid="235482" objectId="-2144280947">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="2363" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210837 -->
+   <npc_drops npcid="210837" objectId="-2146224440">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="613" />
+         <drop count="2" item_id="182003748" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211826 -->
+   <npc_drops npcid="211826" objectId="-2144286205">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="520" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235481 -->
+   <npc_drops npcid="235481" objectId="-2144283642">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="3002" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210834 -->
+   <npc_drops npcid="210834" objectId="-2146215794">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="344" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211821 -->
+   <npc_drops npcid="211821" objectId="-2146217936">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="726" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210834 -->
+   <npc_drops npcid="210834" objectId="-2146434585">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="611" />
+         <drop count="2" item_id="169000005" item_quantity="1" />
+         <drop count="3" item_id="102100317" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210835 -->
+   <npc_drops npcid="210835" objectId="-2146431730">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="483" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 212062 -->
+   <npc_drops npcid="212062" objectId="-2146207860">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="2896" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211821 -->
+   <npc_drops npcid="211821" objectId="-2146217222">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1365" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235478 -->
+   <npc_drops npcid="235478" objectId="-2144289659">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="4420" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210838 -->
+   <npc_drops npcid="210838" objectId="-2144260728">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="3071" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 212062 -->
+   <npc_drops npcid="212062" objectId="-2144260532">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="5314" />
+         <drop count="2" item_id="114600338" item_quantity="1" />
+         <drop count="3" item_id="182003758" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211824 -->
+   <npc_drops npcid="211824" objectId="-2144269471">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1121" />
+         <drop count="2" item_id="101500292" item_quantity="1" />
+         <drop count="3" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235481 -->
+   <npc_drops npcid="235481" objectId="-2144294735">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="3407" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235479 -->
+   <npc_drops npcid="235479" objectId="-2144285440">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="5120" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235470 -->
+   <npc_drops npcid="235470" objectId="-2144286618">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="2923" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235463 -->
+   <npc_drops npcid="235463" objectId="-2144508772">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="5011" />
+         <drop count="2" item_id="169000005" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235464 -->
+   <npc_drops npcid="235464" objectId="-2144525334">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="5183" />
+         <drop count="2" item_id="110600367" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235476 -->
+   <npc_drops npcid="235476" objectId="-2146194744">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="3791" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235464 -->
+   <npc_drops npcid="235464" objectId="-2144529114">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="3288" />
+         <drop count="2" item_id="112600569" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235474 -->
+   <npc_drops npcid="235474" objectId="-2146193206">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="2089" />
+         <drop count="2" item_id="100600344" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235474 -->
+   <npc_drops npcid="235474" objectId="-2146195898">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="5550" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235479 -->
+   <npc_drops npcid="235479" objectId="-2144524799">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="5088" />
+         <drop count="2" item_id="182003758" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235482 -->
+   <npc_drops npcid="235482" objectId="-2144526803">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="5360" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211825 -->
+   <npc_drops npcid="211825" objectId="-2145482222">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="602" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211696 -->
+   <npc_drops npcid="211696" objectId="-2145451566">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="3620" />
+         <drop count="2" item_id="121000417" item_quantity="1" />
+         <drop count="3" item_id="110600413" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235459 -->
+   <npc_drops npcid="235459" objectId="-2144277554">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="2653" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211827 -->
+   <npc_drops npcid="211827" objectId="-2144280938">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="684" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210865 -->
+   <npc_drops npcid="210865" objectId="-2145486384">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="653" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235461 -->
+   <npc_drops npcid="235461" objectId="-2144507861">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="5006" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235463 -->
+   <npc_drops npcid="235463" objectId="-2144276018">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="3410" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211827 -->
+   <npc_drops npcid="211827" objectId="-2144278934">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1125" />
+         <drop count="2" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235479 -->
+   <npc_drops npcid="235479" objectId="-2144275132">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="2489" />
+         <drop count="2" item_id="182003758" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210865 -->
+   <npc_drops npcid="210865" objectId="-2146303292">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="936" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 235482 -->
+   <npc_drops npcid="235482" objectId="-2145455982">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="4528" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210934 -->
+   <npc_drops npcid="210934" objectId="-2143917337">
+      <drop_group>
+         <drop count="1" item_id="182004639" item_quantity="1" />
+         <drop count="2" item_id="152010312" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210934 -->
+   <npc_drops npcid="210934" objectId="-2143917143">
+      <drop_group>
+         <drop count="1" item_id="152010312" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210790 -->
+   <npc_drops npcid="210790" objectId="-2144586829">
+      <drop_group>
+         <drop count="1" item_id="188054201" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210795 -->
+   <npc_drops npcid="210795" objectId="-2145443569">
+      <drop_group>
+         <drop count="1" item_id="182004427" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210788 -->
+   <npc_drops npcid="210788" objectId="-2144939854">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="928" />
+         <drop count="2" item_id="152011024" item_quantity="1" />
+         <drop count="3" item_id="182003737" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210788 -->
+   <npc_drops npcid="210788" objectId="-2144045932">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="768" />
+         <drop count="2" item_id="125000672" item_quantity="1" />
+         <drop count="3" item_id="152011024" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210796 -->
+   <npc_drops npcid="210796" objectId="-2145447659">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="635" />
+         <drop count="2" item_id="152011004" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210797 -->
+   <npc_drops npcid="210797" objectId="-2144047661">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="377" />
+         <drop count="2" item_id="182003738" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210789 -->
+   <npc_drops npcid="210789" objectId="-2144047268">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="395" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210806 -->
+   <npc_drops npcid="210806" objectId="-2145291298">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+         <drop count="2" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210794 -->
+   <npc_drops npcid="210794" objectId="-2146032960">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210790 -->
+   <npc_drops npcid="210790" objectId="-2145295384">
+      <drop_group>
+         <drop count="1" item_id="188054201" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+         <drop count="3" item_id="152015003" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210796 -->
+   <npc_drops npcid="210796" objectId="-2147357630">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="825" />
+         <drop count="2" item_id="182003738" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210796 -->
+   <npc_drops npcid="210796" objectId="-2147370250">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="601" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210797 -->
+   <npc_drops npcid="210797" objectId="-2147343167">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="440" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210797 -->
+   <npc_drops npcid="210797" objectId="-2147439469">
+      <drop_group>
+         <drop count="1" item_id="182400001" item_quantity="1062" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211648 -->
+   <npc_drops npcid="211648" objectId="-2146910288">
+      <drop_group>
+         <drop count="1" item_id="182004038" item_quantity="1" />
+         <drop count="2" item_id="152015002" item_quantity="2" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210801 -->
+   <npc_drops npcid="210801" objectId="-2144225583">
+      <drop_group>
+         <drop count="1" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210801 -->
+   <npc_drops npcid="210801" objectId="-2144223130">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+         <drop count="2" item_id="182004708" item_quantity="1" />
+         <drop count="3" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210801 -->
+   <npc_drops npcid="210801" objectId="-2144222764">
+      <drop_group>
+         <drop count="1" item_id="111600558" item_quantity="1" />
+         <drop count="2" item_id="160003559" item_quantity="1" />
+         <drop count="3" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210800 -->
+   <npc_drops npcid="210800" objectId="-2147356275">
+      <drop_group>
+         <drop count="1" item_id="115000565" item_quantity="1" />
+         <drop count="2" item_id="182003858" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210801 -->
+   <npc_drops npcid="210801" objectId="-2144225823">
+      <drop_group>
+         <drop count="1" item_id="182004708" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210809 -->
+   <npc_drops npcid="210809" objectId="-2147443117">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210844 -->
+   <npc_drops npcid="210844" objectId="-2144401754">
+      <drop_group>
+         <drop count="1" item_id="182003858" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210810 -->
+   <npc_drops npcid="210810" objectId="-2144227657">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210846 -->
+   <npc_drops npcid="210846" objectId="-2147442515">
+      <drop_group>
+         <drop count="1" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210822 -->
+   <npc_drops npcid="210822" objectId="-2144344667">
+      <drop_group>
+         <drop count="1" item_id="182004738" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210846 -->
+   <npc_drops npcid="210846" objectId="-2147456799">
+      <drop_group>
+         <drop count="1" item_id="152011024" item_quantity="1" />
+         <drop count="2" item_id="182004728" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210844 -->
+   <npc_drops npcid="210844" objectId="-2147385651">
+      <drop_group>
+         <drop count="1" item_id="100500288" item_quantity="1" />
+         <drop count="2" item_id="152011044" item_quantity="1" />
+         <drop count="3" item_id="182003858" item_quantity="1" />
+         <drop count="4" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211754 -->
+   <npc_drops npcid="211754" objectId="-2147437927">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210845 -->
+   <npc_drops npcid="210845" objectId="-2144402456">
+      <drop_group>
+         <drop count="1" item_id="188054201" item_quantity="1" />
+         <drop count="2" item_id="182004708" item_quantity="1" />
+         <drop count="3" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210878 -->
+   <npc_drops npcid="210878" objectId="-2144405736">
+      <drop_group>
+         <drop count="1" item_id="182004728" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210878 -->
+   <npc_drops npcid="210878" objectId="-2147445104">
+      <drop_group>
+         <drop count="1" item_id="182004728" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210844 -->
+   <npc_drops npcid="210844" objectId="-2147389615">
+      <drop_group>
+         <drop count="1" item_id="152011004" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210920 -->
+   <npc_drops npcid="210920" objectId="-2144337216">
+      <drop_group>
+         <drop count="1" item_id="182003929" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210878 -->
+   <npc_drops npcid="210878" objectId="-2143785723">
+      <drop_group>
+         <drop count="1" item_id="152011024" item_quantity="1" />
+         <drop count="2" item_id="152010311" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210844 -->
+   <npc_drops npcid="210844" objectId="-2143778432">
+      <drop_group>
+         <drop count="1" item_id="121000604" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211754 -->
+   <npc_drops npcid="211754" objectId="-2147367525">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="182005068" item_quantity="1" />
+         <drop count="3" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210845 -->
+   <npc_drops npcid="210845" objectId="-2147462971">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="182004708" item_quantity="1" />
+         <drop count="3" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 211754 -->
+   <npc_drops npcid="211754" objectId="-2147378369">
+      <drop_group>
+         <drop count="1" item_id="182005068" item_quantity="1" />
+         <drop count="2" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210821 -->
+   <npc_drops npcid="210821" objectId="-2147408077">
+      <drop_group>
+         <drop count="1" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210880 -->
+   <npc_drops npcid="210880" objectId="-2144218694">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="152011024" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210880 -->
+   <npc_drops npcid="210880" objectId="-2144346405">
+      <drop_group>
+         <drop count="1" item_id="160003559" item_quantity="1" />
+         <drop count="2" item_id="182004748" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210880 -->
+   <npc_drops npcid="210880" objectId="-2144411913">
+      <drop_group>
+         <drop count="1" item_id="100200239" item_quantity="1" />
+         <drop count="2" item_id="182004748" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210901 -->
+   <npc_drops npcid="210901" objectId="-2147333740">
+      <drop_group>
+         <drop count="1" item_id="169000007" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210880 -->
+   <npc_drops npcid="210880" objectId="-2147451899">
+      <drop_group>
+         <drop count="1" item_id="169000005" item_quantity="1" />
+         <drop count="2" item_id="182004748" item_quantity="1" />
+         <drop count="3" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210880 -->
+   <npc_drops npcid="210880" objectId="-2147436337">
+      <drop_group>
+         <drop count="1" item_id="182004748" item_quantity="1" />
+         <drop count="2" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210880 -->
+   <npc_drops npcid="210880" objectId="-2147384243">
+      <drop_group>
+         <drop count="1" item_id="160003553" item_quantity="1" />
+         <drop count="2" item_id="152011044" item_quantity="1" />
+         <drop count="3" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210821 -->
+   <npc_drops npcid="210821" objectId="-2145704996">
+      <drop_group>
+         <drop count="1" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210845 -->
+   <npc_drops npcid="210845" objectId="-2144412461">
+      <drop_group>
+         <drop count="1" item_id="182004708" item_quantity="1" />
+		</drop_group>
+	</npc_drops>
+   <!-- npcid= 210845 -->
+   <npc_drops npcid="210845" objectId="-2144375486">
+      <drop_group>
+         <drop count="1" item_id="152010315" item_quantity="1" />
+		</drop_group>
+	</npc_drops>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+  [BEGIN] SUMMARY
+        80333 [TODO] [Event] Request from Pucas
+        80334 [TODO] [Event] Ringmaster Rukibuki's Conspiracy Continues 
+        80337 [TODO] [Event] IU Rescue Operation
+        80341 [TODO] [Event] Request from Pucas
+        80342 [TODO] [Event] Ringmaster Rukibuki's Conspiracy Continues 
+        80343 [TODO] [Event] Ariatte Rescue Operation
+            [END] SUMMARY
+    -->
+    <!-- REPORTING QUESTS -->
+    <!-- COLLECTING QUESTS -->
+    <item_collecting start_npc_ids="799763" id="80333"/>
+    <item_collecting start_npc_ids="799763" id="80334"/>
+    <item_collecting start_npc_ids="799763" id="80337"/>
+    <item_collecting start_npc_ids="799763" id="80341"/>
+    <item_collecting start_npc_ids="799763" id="80342"/>
+    <item_collecting start_npc_ids="799763" id="80343"/>
+    <!-- HUNTING QUESTS -->
+</quest_scripts>

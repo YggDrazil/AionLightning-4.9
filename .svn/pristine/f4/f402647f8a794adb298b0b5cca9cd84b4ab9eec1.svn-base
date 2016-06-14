@@ -1,0 +1,52 @@
+Prioritäten für die Generierung (gem. Falke):
+=============================================
+Stand: 18.03.2016 - ca. 01:55 Uhr
+=============================================
+- SVN
+  - 4.8   - wurde für Commit gesperrt, alles geht nun über 4.9
+  - Tools - werden auf 4.9 angepasst (keine Rücksicht auf 4.8 erforderlich)  
+            
+- Spawns
+  - OFFEN - ermitteln der static_id evtl. verfeinern
+  
+==================
+ERLEDIGT
+==================
+  
+- Commit 
+  - OK    - Hinweis auf neuen Eintrag in config-Datei nicht vergessen!
+  - OK    - Hinweis zum Löschen neuer Auto-Includes nicht vergessen! 
+  
+- Includes
+  - OK    - in der inc_worldmaps.php einige neue Einträge für 4.9 ergänzen
+  - OK    - neues Auto-Include auto_inc_npc_infos.php löst dann altes inc_npc_infos.php ab
+            - OK    - genGather.php 
+            - OK    - genItem.php
+            - OK    - parseNpcs.php
+  
+- Spawns
+  - OK    - NPCs
+
+- Gather   
+  - OK    - Gather 
+  
+- Reshanta
+  - die benannten Probleme haben sich erledigt !!!
+  
+- npc_templates
+  - OK    - überprüfen fehlender IDs für die Titel (830567,730889)
+  - OK    - überprüfen fehlender IDs für die Namen
+  - OK    - erzeugen npc_teleporter.xml
+  
+- Items
+  - OK    - erzeugen item_templates.xml überarbeiten (z.Teil schon in DEV angepasst)
+  - OK    - Item_sets.xml erzeugen                   (z.Teil schon in DEV realisiert)
+       
+- Namen
+  - OK    - alle Namensermittlungen, die derzeit noch über die alten SVN-Dateien erfolgen,
+            überprüfen und ggfs. auf die PS-Client-Strings umstellen! 
+            ERLEDIGT : für NPCs, Items
+            VERWORFEN: für WorldMaps (z.Z. weiterhin manuell pflegen wg. abweichender WorldNames)      
+  
+- Quests
+  - OK    - generieren der Quest-Xml-Dateien  

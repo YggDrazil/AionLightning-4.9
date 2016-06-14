@@ -1,0 +1,47 @@
+body 	{
+			background-color:#000055;
+			color:silver;
+			font-size:13px;
+			line-height:14px;
+		}
+tr,td,th,table {
+			background-color:#000055;
+			color:silver;
+			font-size:13px;
+			line-height:14px;
+		} 
+.head {
+			margin:0px;
+			font-size:14px;
+			line-height:16x;
+			color:orange;
+			text-align:center;
+		}
+hr {		
+			font-size:5px;
+			line-height:6px;
+			color:cyan;
+			}
+.hinweis {
+            width:calc(100% - 10px);
+			color:cyan;
+			text-align:center;
+			font-size:13px;
+			line-height:14px;
+			background-color:#000088;
+			border:1px solid cyan;
+			padding:20px 5px;
+		}
+.aktion {
+            width:calc(100% - 10px);
+			color:cyan;
+			font-size:22px;
+			line-height:26px;
+			text-align:center;
+			font-style:italic;
+			font-weight:bold;
+			padding:20px 5px;
+		}
+A:link         {color: cyan } 
+A:visited    {color: magenta } 
+a:hover        {color: red } 

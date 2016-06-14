@@ -1,0 +1,975 @@
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1772.033" y="2109.76" z="321.7063" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1806.4381" y="2101.5151" z="332.82428" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1749.0428" y="2121.0325" z="332.83734" heading="65" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1756.6764" y="2128.4844" z="319.89658" heading="5" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1784.1957" y="2124.0625" z="318.86935" heading="44" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1761.4554" y="2130.104" z="319.89713" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1772.692" y="2127.6204" z="332.83633" heading="5" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257233" level="65" name="Teleportation Tower" name_id="322236" height="3.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1804.6239" y="2141.1628" z="318.8694" heading="96" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1807.142" y="2119.429" z="330.94135" heading="43" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1819.4558" y="2137.548" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1720.8638" y="2151.0945" z="322.03668" heading="24" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832191" level="65" name="Testor" name_id="464686" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="1710.4929" y="2170.4465" z="324.2325" heading="36" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="832187" level="65" name="Calcus" name_id="464682" height="2.5" title_id="463213" title="&lt;Legion Field Material Merchant&gt;" ai="NON_ATTACKABLE" x="1723.4683" y="2174.177" z="324.2325" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832188" level="65" name="Lante" name_id="464683" height="2.5" title_id="463211" title="&lt;Legion Special Crafting Material Contributor&gt;" ai="NON_ATTACKABLE" x="1720.2323" y="2173.2454" z="324.2325" heading="36" front="0.4375">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1718.2308" y="2156.0117" z="333.66882" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832190" level="65" name="Euleila" name_id="464685" height="2.2" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="1713.7556" y="2171.4023" z="324.2325" heading="36" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1756.3522" y="2156.1003" z="322.1594" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257072" level="65" name="Fortress Warrior" name_id="319389" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1747.9027" y="2153.2288" z="322.18954" heading="96" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1768.1683" y="2169.8057" z="333.6398" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799023" level="57" name="Thalia" name_id="354523" height="2.4" title_id="370218" title="&lt;Sanctum Expedition Centurion&gt;" ai="NON_ATTACKABLE" x="1772.9648" y="2160.9463" z="322.15933" heading="66" front="0.42000002">
+	<stats maxHp="3060481" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1794.2535" y="2148.0488" z="318.8694" heading="14" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1816.3307" y="2148.3357" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1817.827" y="2169.1484" z="321.21323" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1824.7332" y="2145.0889" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1711.2435" y="2190.4814" z="324.2325" heading="80" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1749.2723" y="2192.0159" z="324.23245" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1734.0328" y="2187.4255" z="324.34973" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832185" level="65" name="Atreus" name_id="464680" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="1772.8723" y="2188.6318" z="324.23245" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1788.0918" y="2200.353" z="324.32953" heading="108" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832186" level="65" name="Joynerk" name_id="464681" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="1769.4463" y="2187.584" z="324.23245" heading="36" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1767.5328" y="2206.1736" z="324.23248" heading="110" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832183" level="65" name="Elleny" name_id="464678" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1779.6106" y="2190.5696" z="324.2322" heading="36" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832184" level="65" name="Akamas" name_id="464679" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1776.2761" y="2189.6028" z="324.23245" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="799002" level="55" name="Issonie" name_id="354502" height="2.4" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.6803" y="2196.8694" z="325.58777" heading="36" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799584" level="55" name="Lanuaga" name_id="354389" height="1.98" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1812.515" y="2206.1677" z="325.59085" heading="66" front="0.385">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="799016" level="56" name="Chekius" name_id="354516" height="1.8" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1807.3912" y="2195.3242" z="325.5878" heading="36" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1794.9321" y="2177.9482" z="333.53534" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257225" level="55" name="Jennathea" name_id="321825" height="2.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1805.8656" y="2201.0" z="325.59048" heading="66" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1778.0562" y="2232.372" z="324.9248" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257201" level="1" name="(E): Chaos Rage" name_id="319953" height="2.0" ai="NON_ATTACKABLE" x="1787.9956" y="2234.5798" z="324.93695" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="832172" level="65" name="Pasicles" name_id="464494" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1803.0088" y="2210.9495" z="325.5875" heading="96" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="1812.1438" y="2209.2192" z="325.5895" heading="66" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1796.6562" y="2237.8428" z="324.9035" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="799059" level="55" name="Scopas" name_id="354559" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1807.8549" y="2212.4836" z="325.58743" heading="96" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1772.033" y="2109.76" z="321.7063" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1749.0428" y="2121.0325" z="332.83734" heading="65" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832191" level="65" name="Testor" name_id="464686" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="1710.4929" y="2170.4465" z="324.2325" heading="36" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1806.4381" y="2101.5151" z="332.82428" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1704.284" y="2171.2134" z="324.35736" heading="0" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257084" level="65" name="Fortress Medic" name_id="319401" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1759.2559" y="2105.7698" z="321.70633" heading="5" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1740.294" y="2115.9177" z="318.86942" heading="104" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799001" level="55" name="Ardusia" name_id="354501" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1688.0214" y="2175.5015" z="325.046" heading="6" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799000" level="55" name="Gorgias" name_id="354500" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1690.4448" y="2166.3013" z="325.048" heading="6" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="799015" level="56" name="Siaqua" name_id="354515" height="1.8" title_id="370210" title="&lt;Wisplight Legionary&gt;" ai="NON_ATTACKABLE" x="1691.6473" y="2162.0654" z="325.00665" heading="6" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1699.568" y="2150.76" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799003" level="55" name="Palorc" name_id="354503" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1687.0989" y="2179.7397" z="325.0463" heading="6" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1710.0363" y="2127.7913" z="330.68207" heading="106" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1697.2612" y="2145.1548" z="322.03235" heading="63" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1680.9037" y="2184.7744" z="325.00058" heading="15" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1717.2859" y="2117.5886" z="318.86942" heading="54" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1772.033" y="2109.76" z="321.7063" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799003" level="55" name="Palorc" name_id="354503" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1687.0989" y="2179.7397" z="325.0463" heading="6" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799001" level="55" name="Ardusia" name_id="354501" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1688.0214" y="2175.5015" z="325.046" heading="6" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799000" level="55" name="Gorgias" name_id="354500" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1690.4448" y="2166.3013" z="325.048" heading="6" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1680.9037" y="2184.7744" z="325.00058" heading="15" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1756.6764" y="2128.4844" z="319.89658" heading="5" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1772.692" y="2127.6204" z="332.83633" heading="5" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799015" level="56" name="Siaqua" name_id="354515" height="1.8" title_id="370210" title="&lt;Wisplight Legionary&gt;" ai="NON_ATTACKABLE" x="1691.6473" y="2162.0654" z="325.00665" heading="6" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1699.568" y="2150.76" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1696.3225" y="2144.9033" z="322.03235" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1749.0428" y="2121.0325" z="332.83734" heading="65" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1739.8977" y="2123.4792" z="318.86942" heading="35" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1749.0428" y="2121.0325" z="332.83734" heading="65" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1710.0363" y="2127.7913" z="330.68207" heading="106" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1816.3307" y="2148.3357" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1673.7681" y="2143.3323" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1716.9934" y="2116.6885" z="318.86942" heading="84" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1784.0476" y="2124.9973" z="318.86935" heading="33" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1679.9519" y="2129.6182" z="321.07538" heading="106" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1707.4529" y="2118.739" z="319.05954" heading="5" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1707.9403" y="2107.756" z="318.9667" heading="5" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257084" level="65" name="Fortress Medic" name_id="319401" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1759.2559" y="2105.7698" z="321.70633" heading="5" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257233" level="65" name="Teleportation Tower" name_id="322236" height="3.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1667.1022" y="2134.4302" z="320.89392" heading="20" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1772.033" y="2109.76" z="321.7063" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1718.4928" y="2097.0344" z="330.87576" heading="23" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257084" level="65" name="Fortress Medic" name_id="319401" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1672.241" y="2102.4749" z="320.83636" heading="5" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="832183" level="65" name="Elleny" name_id="464678" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1779.6106" y="2190.5696" z="324.2322" heading="36" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832184" level="65" name="Akamas" name_id="464679" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1776.2761" y="2189.6028" z="324.23245" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257084" level="65" name="Fortress Medic" name_id="319401" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1759.2559" y="2105.7698" z="321.70633" heading="5" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1735.8894" y="2081.1448" z="332.85538" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1772.692" y="2127.6204" z="332.83633" heading="5" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1772.033" y="2109.76" z="321.7063" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1786.8687" y="2198.8428" z="324.31805" heading="77" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1724.8447" y="2069.4504" z="332.92004" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1750.065" y="2081.9067" z="332.88324" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1784.3868" y="2125.8809" z="318.86935" heading="23" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1793.497" y="2140.1714" z="318.8694" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1794.9321" y="2177.9482" z="333.53534" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1778.0562" y="2232.372" z="324.9248" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257233" level="65" name="Teleportation Tower" name_id="322236" height="3.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1804.6239" y="2141.1628" z="318.8694" heading="96" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="799016" level="56" name="Chekius" name_id="354516" height="1.8" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1807.3912" y="2195.3242" z="325.5878" heading="36" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257225" level="55" name="Jennathea" name_id="321825" height="2.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1805.8656" y="2201.0" z="325.59048" heading="66" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1807.142" y="2119.429" z="330.94135" heading="43" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1816.3307" y="2148.3357" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1817.827" y="2169.1484" z="321.21323" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799002" level="55" name="Issonie" name_id="354502" height="2.4" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.6803" y="2196.8694" z="325.58777" heading="36" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257201" level="1" name="(E): Chaos Rage" name_id="319953" height="2.0" ai="NON_ATTACKABLE" x="1787.9956" y="2234.5798" z="324.93695" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="832172" level="65" name="Pasicles" name_id="464494" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1803.0088" y="2210.9495" z="325.5875" heading="96" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1792.1763" y="2094.0073" z="332.87885" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1819.4558" y="2137.548" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799584" level="55" name="Lanuaga" name_id="354389" height="1.98" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1812.515" y="2206.1677" z="325.59085" heading="66" front="0.385">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="1812.1438" y="2209.2192" z="325.5895" heading="66" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="799059" level="55" name="Scopas" name_id="354559" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1807.8549" y="2212.4836" z="325.58743" heading="96" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="256749" level="65" name="Fortress Gun" name_id="348670" height="4.0" ai="NON_ATTACKABLE" x="1766.387" y="2076.2002" z="333.16904" heading="96" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1824.7332" y="2145.0889" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1796.6562" y="2237.8428" z="324.9035" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1724.8447" y="2069.4504" z="332.92004" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="256749" level="65" name="Fortress Gun" name_id="348670" height="4.0" ai="NON_ATTACKABLE" x="1781.5906" y="2080.63" z="333.11554" heading="96" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1806.4381" y="2101.5151" z="332.82428" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1780.3801" y="2077.255" z="318.375" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1770.3276" y="2072.1943" z="318.375" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="256749" level="65" name="Fortress Gun" name_id="348670" height="4.0" ai="NON_ATTACKABLE" x="1766.387" y="2076.2002" z="333.16904" heading="96" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1786.5204" y="2197.9355" z="324.33145" heading="83" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1794.9321" y="2177.9482" z="333.53534" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257233" level="65" name="Teleportation Tower" name_id="322236" height="3.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1804.6239" y="2141.1628" z="318.8694" heading="96" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="256749" level="65" name="Fortress Gun" name_id="348670" height="4.0" ai="NON_ATTACKABLE" x="1781.5906" y="2080.63" z="333.11554" heading="96" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1792.1763" y="2094.0073" z="332.87885" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1807.142" y="2119.429" z="330.94135" heading="43" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1816.3307" y="2148.3357" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1817.827" y="2169.1484" z="321.21323" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799016" level="56" name="Chekius" name_id="354516" height="1.8" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1807.3912" y="2195.3242" z="325.5878" heading="36" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257225" level="55" name="Jennathea" name_id="321825" height="2.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1805.8656" y="2201.0" z="325.59048" heading="66" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1778.0562" y="2232.372" z="324.9248" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832172" level="65" name="Pasicles" name_id="464494" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1803.0088" y="2210.9495" z="325.5875" heading="96" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1770.3276" y="2072.1943" z="318.375" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1806.4381" y="2101.5151" z="332.82428" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1819.4558" y="2137.548" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799002" level="55" name="Issonie" name_id="354502" height="2.4" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.6803" y="2196.8694" z="325.58777" heading="36" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799584" level="55" name="Lanuaga" name_id="354389" height="1.98" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1812.515" y="2206.1677" z="325.59085" heading="66" front="0.385">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257201" level="1" name="(E): Chaos Rage" name_id="319953" height="2.0" ai="NON_ATTACKABLE" x="1787.9956" y="2234.5798" z="324.93695" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="799059" level="55" name="Scopas" name_id="354559" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1807.8549" y="2212.4836" z="325.58743" heading="96" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1780.3801" y="2077.255" z="318.375" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1824.7332" y="2145.0889" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="1812.1438" y="2209.2192" z="325.5895" heading="66" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1796.6562" y="2237.8428" z="324.9035" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1780.3801" y="2077.255" z="318.375" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1820.4653" y="2096.9873" z="332.82428" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1803.7299" y="2080.6843" z="317.9572" heading="118" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="256749" level="65" name="Fortress Gun" name_id="348670" height="4.0" ai="NON_ATTACKABLE" x="1766.387" y="2076.2002" z="333.16904" heading="96" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1770.3276" y="2072.1943" z="318.375" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1718.4928" y="2097.0344" z="330.87576" heading="23" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1707.9403" y="2107.756" z="318.9667" heading="5" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1735.8894" y="2081.1448" z="332.85538" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1747.4452" y="2061.0022" z="318.24973" heading="112" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1724.8447" y="2069.4504" z="332.92004" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1680.8356" y="2129.9573" z="321.2343" heading="7" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1673.7681" y="2143.3323" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1681.2073" y="2186.6917" z="324.9958" heading="26" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1774.5544" y="2045.6241" z="318.58167" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1789.5946" y="2049.998" z="318.25" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1786.0792" y="2197.0696" z="324.34488" heading="81" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799002" level="55" name="Issonie" name_id="354502" height="2.4" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.6803" y="2196.8694" z="325.58777" heading="36" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799016" level="56" name="Chekius" name_id="354516" height="1.8" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1807.3912" y="2195.3242" z="325.5878" heading="36" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1718.9067" y="2151.8162" z="322.03622" heading="64" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1718.2308" y="2156.0117" z="333.66882" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832187" level="65" name="Calcus" name_id="464682" height="2.5" title_id="463213" title="&lt;Legion Field Material Merchant&gt;" ai="NON_ATTACKABLE" x="1723.4683" y="2174.177" z="324.2325" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1786.0792" y="2197.0696" z="324.34488" heading="81" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799016" level="56" name="Chekius" name_id="354516" height="1.8" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1807.3912" y="2195.3242" z="325.5878" heading="36" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="832188" level="65" name="Lante" name_id="464683" height="2.5" title_id="463211" title="&lt;Legion Special Crafting Material Contributor&gt;" ai="NON_ATTACKABLE" x="1720.2323" y="2173.2454" z="324.2325" heading="36" front="0.4375">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1699.568" y="2150.76" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1749.2723" y="2192.0159" z="324.23245" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1694.5089" y="2142.6648" z="322.03235" heading="81" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832191" level="65" name="Testor" name_id="464686" height="2.2" title_id="462143" title="&lt;Augmenting Officer&gt;" ai="NON_ATTACKABLE" x="1710.4929" y="2170.4465" z="324.2325" heading="36" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="832190" level="65" name="Euleila" name_id="464685" height="2.2" title_id="370401" title="&lt;Conditioning Officer&gt;" ai="NON_ATTACKABLE" x="1713.7556" y="2171.4023" z="324.2325" heading="36" front="0.385">
+	<stats maxHp="334868" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1734.0328" y="2187.4255" z="324.34973" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="799002" level="55" name="Issonie" name_id="354502" height="2.4" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.6803" y="2196.8694" z="325.58777" heading="36" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1706.0592" y="2172.1394" z="324.34943" heading="19" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1767.5328" y="2206.1736" z="324.23248" heading="110" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257225" level="55" name="Jennathea" name_id="321825" height="2.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1805.8656" y="2201.0" z="325.59048" heading="66" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1681.6553" y="2130.4304" z="321.38907" heading="10" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="799000" level="55" name="Gorgias" name_id="354500" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1690.4448" y="2166.3013" z="325.048" heading="6" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="799015" level="56" name="Siaqua" name_id="354515" height="1.8" title_id="370210" title="&lt;Wisplight Legionary&gt;" ai="NON_ATTACKABLE" x="1691.6473" y="2162.0654" z="325.00665" heading="6" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1711.2435" y="2190.4814" z="324.2325" heading="80" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799584" level="55" name="Lanuaga" name_id="354389" height="1.98" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1812.515" y="2206.1677" z="325.59085" heading="66" front="0.385">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="832172" level="65" name="Pasicles" name_id="464494" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1803.0088" y="2210.9495" z="325.5875" heading="96" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257084" level="65" name="Fortress Medic" name_id="319401" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1672.241" y="2102.4749" z="320.83636" heading="5" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1673.7681" y="2143.3323" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799001" level="55" name="Ardusia" name_id="354501" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1688.0214" y="2175.5015" z="325.046" heading="6" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257233" level="65" name="Teleportation Tower" name_id="322236" height="3.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1667.1022" y="2134.4302" z="320.89392" heading="20" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="799003" level="55" name="Palorc" name_id="354503" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1687.0989" y="2179.7397" z="325.0463" heading="6" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799000" level="55" name="Gorgias" name_id="354500" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1690.4448" y="2166.3013" z="325.048" heading="6" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="215729" level="55" name="Fierce Serrator" name_id="319751" height="2.25" ai="AGGRESSIVE" x="1678.7977" y="2004.9016" z="313.1083" heading="119" front="3.0">
+	<stats maxHp="13950" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1819.4558" y="2137.548" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1816.3307" y="2148.3357" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1824.7332" y="2145.0889" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="832186" level="65" name="Joynerk" name_id="464681" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="1769.4463" y="2187.584" z="324.23245" heading="36" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1794.9321" y="2177.9482" z="333.53534" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799000" level="55" name="Gorgias" name_id="354500" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1690.4448" y="2166.3013" z="325.048" heading="6" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1697.8325" y="2174.3447" z="324.22342" heading="58" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1749.2723" y="2192.0159" z="324.23245" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1734.0328" y="2187.4255" z="324.34973" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832185" level="65" name="Atreus" name_id="464680" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="1772.8723" y="2188.6318" z="324.23245" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832184" level="65" name="Akamas" name_id="464679" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1776.2761" y="2189.6028" z="324.23245" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1817.827" y="2169.1484" z="321.21323" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832183" level="65" name="Elleny" name_id="464678" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1779.6106" y="2190.5696" z="324.2322" heading="36" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="799001" level="55" name="Ardusia" name_id="354501" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1688.0214" y="2175.5015" z="325.046" heading="6" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799003" level="55" name="Palorc" name_id="354503" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1687.0989" y="2179.7397" z="325.0463" heading="6" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1711.2435" y="2190.4814" z="324.2325" heading="80" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="215729" level="55" name="Fierce Serrator" name_id="319751" height="2.25" ai="AGGRESSIVE" x="1679.8518" y="2005.0686" z="313.3429" heading="3" front="3.0">
+	<stats maxHp="13950" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1680.7574" y="2188.5654" z="324.98624" heading="32" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799023" level="57" name="Thalia" name_id="354523" height="2.4" title_id="370218" title="&lt;Sanctum Expedition Centurion&gt;" ai="NON_ATTACKABLE" x="1772.9648" y="2160.9463" z="322.15933" heading="66" front="0.42000002">
+	<stats maxHp="3060481" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1768.1683" y="2169.8057" z="333.6398" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1749.2723" y="2192.0159" z="324.23245" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832186" level="65" name="Joynerk" name_id="464681" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="1769.4463" y="2187.584" z="324.23245" heading="36" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1792.9805" y="2147.9192" z="318.8694" heading="58" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832185" level="65" name="Atreus" name_id="464680" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="1772.8723" y="2188.6318" z="324.23245" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1780.3801" y="2077.255" z="318.375" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1792.1763" y="2094.0073" z="332.87885" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1767.5328" y="2206.1736" z="324.23248" heading="110" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832183" level="65" name="Elleny" name_id="464678" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1779.6106" y="2190.5696" z="324.2322" heading="36" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="832184" level="65" name="Akamas" name_id="464679" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1776.2761" y="2189.6028" z="324.23245" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257233" level="65" name="Teleportation Tower" name_id="322236" height="3.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1804.6239" y="2141.1628" z="318.8694" heading="96" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1785.3749" y="2195.4875" z="324.3465" heading="73" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1794.9321" y="2177.9482" z="333.53534" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1807.142" y="2119.429" z="330.94135" heading="43" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1806.4381" y="2101.5151" z="332.82428" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1816.3307" y="2148.3357" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1819.4558" y="2137.548" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1817.827" y="2169.1484" z="321.21323" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799016" level="56" name="Chekius" name_id="354516" height="1.8" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1807.3912" y="2195.3242" z="325.5878" heading="36" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="257225" level="55" name="Jennathea" name_id="321825" height="2.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1805.8656" y="2201.0" z="325.59048" heading="66" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1824.7332" y="2145.0889" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="799002" level="55" name="Issonie" name_id="354502" height="2.4" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.6803" y="2196.8694" z="325.58777" heading="36" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1778.0562" y="2232.372" z="324.9248" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="832172" level="65" name="Pasicles" name_id="464494" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1803.0088" y="2210.9495" z="325.5875" heading="96" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1820.4653" y="2096.9873" z="332.82428" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1805.5752" y="2080.9272" z="317.94205" heading="6" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="799584" level="55" name="Lanuaga" name_id="354389" height="1.98" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1812.515" y="2206.1677" z="325.59085" heading="66" front="0.385">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="1812.1438" y="2209.2192" z="325.5895" heading="66" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="799059" level="55" name="Scopas" name_id="354559" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1807.8549" y="2212.4836" z="325.58743" heading="96" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="256749" level="65" name="Fortress Gun" name_id="348670" height="4.0" ai="NON_ATTACKABLE" x="1766.387" y="2076.2002" z="333.16904" heading="96" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1770.3276" y="2072.1943" z="318.375" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1780.3801" y="2077.255" z="318.375" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="256749" level="65" name="Fortress Gun" name_id="348670" height="4.0" ai="NON_ATTACKABLE" x="1781.5906" y="2080.63" z="333.11554" heading="96" front="3.0">
+	<stats maxHp="2406988" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1785.6157" y="2127.3198" z="318.86935" heading="16" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1768.1683" y="2169.8057" z="333.6398" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799023" level="57" name="Thalia" name_id="354523" height="2.4" title_id="370218" title="&lt;Sanctum Expedition Centurion&gt;" ai="NON_ATTACKABLE" x="1772.9648" y="2160.9463" z="322.15933" heading="66" front="0.42000002">
+	<stats maxHp="3060481" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1792.1763" y="2094.0073" z="332.87885" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1749.2723" y="2192.0159" z="324.23245" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1774.5544" y="2045.6241" z="318.58167" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1792.0803" y="2147.6267" z="318.8694" heading="66" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="832185" level="65" name="Atreus" name_id="464680" height="2.5" title_id="463628" title="&lt;Legion Relics Supervisor&gt;" ai="NON_ATTACKABLE" x="1772.8723" y="2188.6318" z="324.23245" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832186" level="65" name="Joynerk" name_id="464681" height="1.375" title_id="463209" title="&lt;Legion Abyss Equipment Merchant&gt;" ai="NON_ATTACKABLE" x="1769.4463" y="2187.584" z="324.23245" heading="36" front="0.7">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1789.5946" y="2049.998" z="318.25" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1805.5752" y="2080.9272" z="317.94205" heading="6" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1806.4381" y="2101.5151" z="332.82428" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257233" level="65" name="Teleportation Tower" name_id="322236" height="3.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1804.6239" y="2141.1628" z="318.8694" heading="96" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1807.142" y="2119.429" z="330.94135" heading="43" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="832184" level="65" name="Akamas" name_id="464679" height="2.5" title_id="463214" title="&lt;Legion Cannonball Quartermaster&gt;" ai="NON_ATTACKABLE" x="1776.2761" y="2189.6028" z="324.23245" heading="36" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="832183" level="65" name="Elleny" name_id="464678" height="2.0" title_id="463208" title="&lt;Legion Consumable Item Distributor&gt;" ai="NON_ATTACKABLE" x="1779.6106" y="2190.5696" z="324.2322" heading="36" front="0.35">
+	<stats maxHp="403456" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1820.4653" y="2096.9873" z="332.82428" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1819.4558" y="2137.548" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1816.3307" y="2148.3357" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1794.9321" y="2177.9482" z="333.53534" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1824.7332" y="2145.0889" z="321.01718" heading="65" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1780.5084" y="2201.5447" z="324.22888" heading="40" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1767.5328" y="2206.1736" z="324.23248" heading="110" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1817.827" y="2169.1484" z="321.21323" heading="65" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799016" level="56" name="Chekius" name_id="354516" height="1.8" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1807.3912" y="2195.3242" z="325.5878" heading="36" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="799002" level="55" name="Issonie" name_id="354502" height="2.4" title_id="350409" title="&lt;Legion Warehouse&gt;" ai="NON_ATTACKABLE" x="1812.6803" y="2196.8694" z="325.58777" heading="36" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257225" level="55" name="Jennathea" name_id="321825" height="2.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1805.8656" y="2201.0" z="325.59048" heading="66" front="0.35">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="799584" level="55" name="Lanuaga" name_id="354389" height="1.98" title_id="370217" title="&lt;Sanctum Expeditionary Force&gt;" ai="NON_ATTACKABLE" x="1812.515" y="2206.1677" z="325.59085" heading="66" front="0.385">
+	<stats maxHp="18756" />
+</npc_template>
+<npc_template npc_id="832172" level="65" name="Pasicles" name_id="464494" height="2.5" title_id="464750" title="&lt;Balaurea Teleporter&gt;" ai="NON_ATTACKABLE" x="1803.0088" y="2210.9495" z="325.5875" heading="96" front="0.4375">
+	<stats maxHp="351007" />
+</npc_template>
+<npc_template npc_id="730409" level="1" name="Dimensional Rift" name_id="371833" height="10.0" ai="NON_ATTACKABLE" x="1812.1438" y="2209.2192" z="325.5895" heading="66" front="5.0">
+	<stats maxHp="172" />
+</npc_template>
+<npc_template npc_id="799059" level="55" name="Scopas" name_id="354559" height="1.8" title_id="370280" title="&lt;Special Ordnance Quartermaster&gt;" ai="NON_ATTACKABLE" x="1807.8549" y="2212.4836" z="325.58743" heading="96" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1778.0562" y="2232.372" z="324.9248" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257201" level="1" name="(E): Chaos Rage" name_id="319953" height="2.0" ai="NON_ATTACKABLE" x="1787.9956" y="2234.5798" z="324.93695" heading="0" front="0.35">
+	<stats maxHp="158" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1796.6562" y="2237.8428" z="324.9035" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1711.2435" y="2190.4814" z="324.2325" heading="80" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1699.568" y="2150.76" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1696.0803" y="2140.7856" z="322.03235" heading="117" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1707.4529" y="2118.739" z="319.05954" heading="5" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1718.4928" y="2097.0344" z="330.87576" heading="23" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1707.9403" y="2107.756" z="318.9667" heading="5" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1735.8894" y="2081.1448" z="332.85538" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799001" level="55" name="Ardusia" name_id="354501" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1688.0214" y="2175.5015" z="325.046" heading="6" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="799000" level="55" name="Gorgias" name_id="354500" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1690.4448" y="2166.3013" z="325.048" heading="6" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="799015" level="56" name="Siaqua" name_id="354515" height="1.8" title_id="370210" title="&lt;Wisplight Legionary&gt;" ai="NON_ATTACKABLE" x="1691.6473" y="2162.0654" z="325.00665" heading="6" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="799003" level="55" name="Palorc" name_id="354503" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1687.0989" y="2179.7397" z="325.0463" heading="6" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1742.5804" y="2066.9998" z="317.9375" heading="77" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1673.7681" y="2143.3323" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1679.4131" y="2189.9097" z="324.97482" heading="41" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1724.8447" y="2069.4504" z="332.92004" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1672.8882" y="2132.4016" z="320.8364" heading="52" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257233" level="65" name="Teleportation Tower" name_id="322236" height="3.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1667.1022" y="2134.4302" z="320.89392" heading="20" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1718.4928" y="2097.0344" z="330.87576" heading="23" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1735.8894" y="2081.1448" z="332.85538" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257081" level="65" name="Fortress High Magus" name_id="319398" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1707.4529" y="2118.739" z="319.05954" heading="5" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1742.065" y="2066.206" z="317.88788" heading="79" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257099" level="65" name="Fortress Priest" name_id="319416" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1789.5946" y="2049.998" z="318.25" heading="96" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1707.9403" y="2107.756" z="318.9667" heading="5" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1698.7499" y="2171.1316" z="324.24472" heading="62" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1699.568" y="2150.76" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1696.8666" y="2140.2144" z="322.03235" heading="108" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1774.5544" y="2045.6241" z="318.58167" heading="96" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1724.8447" y="2069.4504" z="332.92004" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="799015" level="56" name="Siaqua" name_id="354515" height="1.8" title_id="370210" title="&lt;Wisplight Legionary&gt;" ai="NON_ATTACKABLE" x="1691.6473" y="2162.0654" z="325.00665" heading="6" front="0.35">
+	<stats maxHp="145120" />
+</npc_template>
+<npc_template npc_id="799000" level="55" name="Gorgias" name_id="354500" height="1.8" title_id="350412" title="&lt;Soul Healer&gt;" ai="NON_ATTACKABLE" x="1690.4448" y="2166.3013" z="325.048" heading="6" front="0.35">
+	<stats maxHp="189845" />
+</npc_template>
+<npc_template npc_id="799001" level="55" name="Ardusia" name_id="354501" height="2.4" title_id="370208" title="&lt;Fortress Quartermaster&gt;" ai="NON_ATTACKABLE" x="1688.0214" y="2175.5015" z="325.046" heading="6" front="0.42000002">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257084" level="65" name="Fortress Medic" name_id="319401" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1672.241" y="2102.4749" z="320.83636" heading="5" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1673.7681" y="2143.3323" z="333.6688" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1680.8407" y="2135.4543" z="321.50458" heading="33" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="799003" level="55" name="Palorc" name_id="354503" height="1.8" title_id="350417" title="&lt;Warehouse Manager&gt;" ai="NON_ATTACKABLE" x="1687.0989" y="2179.7397" z="325.0463" heading="6" front="0.35">
+	<stats maxHp="182726" />
+</npc_template>
+<npc_template npc_id="257233" level="65" name="Teleportation Tower" name_id="322236" height="3.0" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1667.1022" y="2134.4302" z="320.89392" heading="20" front="0.525">
+	<stats maxHp="186331" />
+</npc_template>
+<npc_template npc_id="257087" level="65" name="Fortress Gallowglass" name_id="319404" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1680.8407" y="2135.4543" z="321.50458" heading="2" front="0.4725">
+	<stats maxHp="24781" />
+</npc_template>
+<npc_template npc_id="215735" level="55" name="Sandstorm Obscura" name_id="319757" height="3.426" ai="AGGRESSIVE" x="1734.8706" y="1981.0669" z="307.5711" heading="115" front="1.47">
+	<stats maxHp="13286" />
+</npc_template>
+<npc_template npc_id="257084" level="65" name="Fortress Medic" name_id="319401" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1672.241" y="2102.4749" z="320.83636" heading="5" front="0.4725">
+	<stats maxHp="22528" />
+</npc_template>
+<npc_template npc_id="257096" level="65" name="Fortress Mage" name_id="319413" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1696.8666" y="2140.2144" z="322.03235" heading="108" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1718.2308" y="2156.0117" z="333.66882" heading="96" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="216481" level="55" name="Flash Serrator" name_id="321612" height="2.25" ai="AGGRESSIVE" x="1762.4518" y="1962.4548" z="304.00565" heading="56" front="3.0">
+	<stats maxHp="13950" />
+</npc_template>
+<npc_template npc_id="257093" level="65" name="Fortress Sniper" name_id="319410" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1710.0363" y="2127.7913" z="330.68207" heading="106" front="0.4725">
+	<stats maxHp="19599" />
+</npc_template>
+<npc_template npc_id="257075" level="65" name="Fortress Trigger" name_id="319392" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1756.3522" y="2156.1003" z="322.1594" heading="96" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="257072" level="65" name="Fortress Warrior" name_id="319389" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1747.9027" y="2153.2288" z="322.18954" heading="96" front="0.4725">
+	<stats maxHp="123278" />
+</npc_template>
+<npc_template npc_id="257090" level="65" name="Fortress Assassin" name_id="319407" height="2.7" title_id="314389" title="&lt;Temple Garrison&gt;" ai="NON_ATTACKABLE" x="1722.7726" y="2144.925" z="322.0363" heading="108" front="0.4725">
+	<stats maxHp="18698" />
+</npc_template>
+<npc_template npc_id="799023" level="57" name="Thalia" name_id="354523" height="2.4" title_id="370218" title="&lt;Sanctum Expedition Centurion&gt;" ai="NON_ATTACKABLE" x="1772.9648" y="2160.9463" z="322.15933" heading="66" front="0.42000002">
+	<stats maxHp="3060481" />
+</npc_template>

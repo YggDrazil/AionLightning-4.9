@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+    <!--
+            [BEGIN] SUMMARY
+                    18737 [XML] Where did Abiso Go?
+                    18738 [TODO] Test Bomb, Test Bomb
+                    18739 [TODO] Urgent Deed: Get the Seed
+                    18740 [TODO] It's Alive?
+                    18741 [TODO] A Versed Order
+                    18742 [TODO] [Daily/Coin] Import the Report
+                    18743 [TODO] Not So Fast, Nasto
+                    18744 [TODO] Info from Abiso
+                    19649 [TODO] To Raksang Ruins
+                    28737 [XML] Suspicious Minds
+                    28738 [TODO] Bombs for Everyone!
+                    28739 [TODO] Important Research
+                    28740 [TODO] It's a Dirty Job
+                    28741 [TODO] Securing the Route
+                    28742 [TODO] [Daily/Coin] A Flurry of Activity
+                    28743 [TODO] Take out the Mastermind
+                    28744 [TODO] Proqura's Information
+                    29649 [TODO] Raksang Ruins Roundup
+            [END] SUMMARY
+    -->
+    <!-- REPORTING QUESTS -->
+    <report_to id="18737" start_npc_ids="804707" end_npc_ids="804716"/>
+    <report_to id="28737" start_npc_ids="804732" end_npc_ids="804717"/>
+    <!-- COLLECTING QUESTS -->
+    <!-- HUNTING QUESTS -->
+</quest_scripts>

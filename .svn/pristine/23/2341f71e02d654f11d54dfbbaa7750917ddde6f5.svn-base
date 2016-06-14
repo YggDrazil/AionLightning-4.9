@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_drops xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_drops.xsd">
+<!-- File created by Falke_34 for Aion 4.8 10/2015 -->
+    <npc_drop npc_id="236005">
+        <drop_group name="BAL_MAT" use_category="true" race="PC_ALL">
+            <drop item_id="152014021" chance="9.02" min_amount="1" max_amount="1"/>
+            <drop item_id="152014022" chance="9.02" min_amount="1" max_amount="1"/>
+            <drop item_id="152014023" chance="9.02" min_amount="1" max_amount="1"/>
+            <drop item_id="152014024" chance="9.02" min_amount="1" max_amount="1"/>
+            <drop item_id="152014025" chance="9.02" min_amount="1" max_amount="1"/>
+            <drop item_id="186000235" chance="9.02" min_amount="1" max_amount="1"/>
+        </drop_group>
+        <drop_group name="KINAH" use_category="true" race="PC_ALL">
+            <drop item_id="182400001" chance="100" min_amount="2626" max_amount="2626"/>
+        </drop_group>
+    </npc_drop>
+    <npc_drop npc_id="236006">
+        <drop_group name="KINAH" use_category="true" race="PC_ALL">
+            <drop item_id="182400001" chance="10.00" min_amount="5350" max_amount="5350" no_reduce="false" eachmember="false" name="Kinah" />
+        </drop_group>
+    </npc_drop>    
+    <npc_drop npc_id="236007">
+        <drop_group name="KINAH" use_category="true" race="PC_ALL">
+            <drop item_id="182400001" chance="10.00" min_amount="7290" max_amount="7290" no_reduce="false" eachmember="false" name="Kinah" />
+        </drop_group>
+        <drop_group name="POWER_SHARD_COMMON_LVL60" use_category="true" race="PC_ALL">
+            <drop item_id="169000010" chance="10.00" min_amount="93" max_amount="93" no_reduce="false" eachmember="false" name="Superior Power Shard" />
+        </drop_group>        
+    </npc_drop>
+    <npc_drop npc_id="236008">
+        <drop_group name="BALAUR_MATS" use_category="true" race="PC_ALL">
+            <drop item_id="152014021" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Horn" />
+            <drop item_id="152014022" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Scale" />
+            <drop item_id="152014023" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Skin" />
+            <drop item_id="152014024" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Blood" />
+            <drop item_id="152014025" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Meat" />
+            <drop item_id="186000235" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Divine Balaur Heart" />
+        </drop_group>
+        <drop_group name="KINAH" use_category="true" race="PC_ALL">
+            <drop item_id="182400001" chance="10.00" min_amount="5219" max_amount="5219" no_reduce="false" eachmember="false" name="Kinah" />
+        </drop_group>
+    </npc_drop>
+    <npc_drop npc_id="236084">
+        <drop_group name="BALAUR_MATS" use_category="true" race="PC_ALL">
+            <drop item_id="152014021" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Horn" />
+            <drop item_id="152014022" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Scale" />
+            <drop item_id="152014023" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Skin" />
+            <drop item_id="152014024" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Blood" />
+            <drop item_id="152014025" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Gleaming Balaur Meat" />
+            <drop item_id="186000235" chance="9.02" min_amount="1" max_amount="1" no_reduce="false" eachmember="false" name="Divine Balaur Heart" />
+        </drop_group>
+    </npc_drop>      
+    <npc_drop npc_id="236303"> <!-- Drill Instructor Diplito -->
+		<drop_group name="KINAH" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="51.55" min_amount="4238" max_amount="45000"/>
+		</drop_group>
+		<drop_group name="COINS" use_category="true" race="PC_ALL">
+			<drop item_id="186000237" chance="46.52" min_amount="1" max_amount="20"/>
+		</drop_group>
+		<drop_group name="IDIAN" use_category="true" race="PC_ALL">
+			<drop item_id="166050013" chance="26.33" min_amount="1" max_amount="2"/>
+			<drop item_id="166050014" chance="26.33" min_amount="1" max_amount="2"/>
+			<drop item_id="166050015" chance="26.33" min_amount="1" max_amount="2"/>
+			<drop item_id="166050016" chance="26.33" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="FABLED CHESTS" use_category="true" race="PC_ALL">
+			<drop item_id="188053679" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053680" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053681" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053682" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053683" chance="6.0" min_amount="1" max_amount="1"/>
+		</drop_group>
+		<drop_group name="BALAUR MATS" use_category="true" race="PC_ALL">
+			<drop item_id="152014021" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Horn"/>
+			<drop item_id="152014022" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Scale"/>
+			<drop item_id="152014023" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Skin"/>
+			<drop item_id="152014024" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Blood"/>
+			<drop item_id="152014025" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Meat"/>
+			<drop item_id="186000235" chance="9.02" min_amount="1" max_amount="1" name="Divine Balaur Heart"/>
+		</drop_group>								
+    </npc_drop>
+    <npc_drop npc_id="236304"> <!-- Drill Instructor Pratica -->
+		<drop_group name="KINAH" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="51.55" min_amount="4238" max_amount="45000"/>
+		</drop_group>
+		<drop_group name="COINS" use_category="true" race="PC_ALL">
+			<drop item_id="186000237" chance="46.52" min_amount="1" max_amount="20"/>
+		</drop_group>
+		<drop_group name="IDIAN" use_category="true" race="PC_ALL">
+			<drop item_id="166050013" chance="26.33" min_amount="1" max_amount="2"/>
+			<drop item_id="166050014" chance="26.33" min_amount="1" max_amount="2"/>
+			<drop item_id="166050015" chance="26.33" min_amount="1" max_amount="2"/>
+			<drop item_id="166050016" chance="26.33" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="FABLED CHESTS" use_category="true" race="PC_ALL">
+			<drop item_id="188053679" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053680" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053681" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053682" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053683" chance="6.0" min_amount="1" max_amount="1"/>
+		</drop_group>
+		<drop_group name="BALAUR MATS" use_category="true" race="PC_ALL">
+			<drop item_id="152014021" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Horn"/>
+			<drop item_id="152014022" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Scale"/>
+			<drop item_id="152014023" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Skin"/>
+			<drop item_id="152014024" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Blood"/>
+			<drop item_id="152014025" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Meat"/>
+			<drop item_id="186000235" chance="9.02" min_amount="1" max_amount="1" name="Divine Balaur Heart"/>
+		</drop_group>								
+    </npc_drop>
+    <npc_drop npc_id="236305"> <!-- Drill Instructor Exico -->
+		<drop_group name="KINAH" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="51.55" min_amount="4238" max_amount="45000"/>
+		</drop_group>
+		<drop_group name="COINS" use_category="true" race="PC_ALL">
+			<drop item_id="186000237" chance="46.52" min_amount="1" max_amount="20"/>
+		</drop_group>
+		<drop_group name="IDIAN" use_category="true" race="PC_ALL">
+			<drop item_id="166050013" chance="26.33" min_amount="1" max_amount="2"/>
+			<drop item_id="166050014" chance="26.33" min_amount="1" max_amount="2"/>
+			<drop item_id="166050015" chance="26.33" min_amount="1" max_amount="2"/>
+			<drop item_id="166050016" chance="26.33" min_amount="1" max_amount="2"/>
+		</drop_group>
+		<drop_group name="FABLED CHESTS" use_category="true" race="PC_ALL">
+			<drop item_id="188053679" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053680" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053681" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053682" chance="6.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053683" chance="6.0" min_amount="1" max_amount="1"/>
+		</drop_group>
+		<drop_group name="BALAUR MATS" use_category="true" race="PC_ALL">
+			<drop item_id="152014021" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Horn"/>
+			<drop item_id="152014022" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Scale"/>
+			<drop item_id="152014023" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Skin"/>
+			<drop item_id="152014024" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Blood"/>
+			<drop item_id="152014025" chance="9.02" min_amount="1" max_amount="1" name="Gleaming Balaur Meat"/>
+			<drop item_id="186000235" chance="9.02" min_amount="1" max_amount="1" name="Divine Balaur Heart"/>
+		</drop_group>								
+    </npc_drop>
+    <npc_drop npc_id="236306"> <!-- Reviver Nasto -->
+		<drop_group name="KINAH" use_category="true" race="PC_ALL">
+			<drop item_id="182400001" chance="51.55" min_amount="4238" max_amount="50000"/>
+		</drop_group>    
+		<drop_group name="ETERNAL CHESTS" use_category="true" race="PC_ALL">
+			<drop item_id="188053684" chance="3.0" min_amount="1" max_amount="1"/>
+		</drop_group>    
+		<drop_group name="FABLED CHESTS" use_category="true" race="PC_ALL">
+			<drop item_id="188053678" chance="9.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053679" chance="9.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053680" chance="9.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053681" chance="9.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053682" chance="9.0" min_amount="1" max_amount="1"/>
+			<drop item_id="188053683" chance="9.0" min_amount="1" max_amount="1"/>
+		</drop_group>
+		<drop_group name="FABLED HAT" use_category="true" race="PC_ALL">
+			<drop item_id="125004215" chance="5.0" min_amount="1" max_amount="1"/>
+			<drop item_id="125004216" chance="5.0" min_amount="1" max_amount="1"/>
+			<drop item_id="125004217" chance="5.0" min_amount="1" max_amount="1"/>
+			<drop item_id="125004218" chance="5.0" min_amount="1" max_amount="1"/>
+			<drop item_id="125004219" chance="5.0" min_amount="1" max_amount="1"/>
+			<drop item_id="125004220" chance="5.0" min_amount="1" max_amount="1"/>
+		</drop_group>		
+    </npc_drop>        
+</npc_drops>    

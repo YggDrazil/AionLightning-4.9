@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_walker.xsd">
+	<!-- 279010 -->
+	<walker_template route_id="0077726A40AC4A5CB4B038C9A1AEC64678B0D517" pool="1">
+		<routestep step="1" x="3384.6902" y="2439.6665" z="2766.721" rest_time="0"/>
+		<routestep step="2" x="3376.6982" y="2434.814" z="2766.7605" rest_time="0"/>
+		<routestep step="3" x="3368.7334" y="2435.676" z="2766.8066" rest_time="0"/>
+		<routestep step="4" x="3352.8062" y="2438.142" z="2765.0588" rest_time="0"/>
+		<routestep step="5" x="3352.7905" y="2437.451" z="2765.0588" rest_time="0"/>
+		<routestep step="6" x="3368.537" y="2435.4524" z="2766.8086" rest_time="0"/>
+		<routestep step="7" x="3376.7822" y="2434.5344" z="2766.7595" rest_time="0"/>
+		<routestep step="8" x="3384.7302" y="2439.1895" z="2766.7207" rest_time="0"/>
+		<routestep step="9" x="3392.117" y="2440.2703" z="2766.6814" rest_time="0"/>
+		<routestep step="10" x="3395.7515" y="2446.7234" z="2766.667" rest_time="0"/>
+		<routestep step="11" x="3418.6414" y="2444.6572" z="2766.5425" rest_time="0"/>
+		<routestep step="12" x="3418.6675" y="2445.3345" z="2766.543" rest_time="0"/>
+		<routestep step="13" x="3395.6177" y="2447.3572" z="2766.668" rest_time="0"/>
+		<routestep step="14" x="3391.8508" y="2440.6284" z="2766.6833" rest_time="0"/>
+		<routestep step="15" x="3384.6902" y="2439.6665" z="2766.721" rest_time="0"/>
+		<routestep step="16" x="3376.6982" y="2434.814" z="2766.7605" rest_time="0"/>
+		<routestep step="17" x="3368.7334" y="2435.676" z="2766.8066" rest_time="0"/>
+		<routestep step="18" x="3371.9797" y="2435.0396" z="2766.7861" rest_time="0"/>
+		<routestep step="19" x="3373.3972" y="2434.5886" z="2766.7783" rest_time="0"/>
+	</walker_template>
+</npc_walker>	

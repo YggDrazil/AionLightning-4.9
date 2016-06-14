@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<serial_guards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="serial_guard.xsd">
+  <guard_rank_restriction id="1" title_name="Elyos Watchman" race="ELYOS" rank_num="0" />
+  <guard_rank_restriction id="2" title_name="Protector" race="ELYOS" rank_num="1">
+    <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="20" />
+  </guard_rank_restriction>
+  <guard_rank_restriction id="3" title_name="Indomitable Protector" race="ELYOS" rank_num="2">
+    <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="40" />
+  </guard_rank_restriction>
+  <guard_rank_restriction id="4" title_name="Valiant Protector" race="ELYOS" rank_num="3">
+    <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60" />
+  </guard_rank_restriction>
+  <guard_rank_restriction id="5" title_name="Level 0 Asmodian Watchman" race="ASMODIANS" rank_num="0" />
+  <guard_rank_restriction id="6" title_name="Protector" race="ASMODIANS" rank_num="1">
+    <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="20" />
+  </guard_rank_restriction>
+  <guard_rank_restriction id="7" title_name="Indomitable Protector" race="ASMODIANS" rank_num="2">
+    <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="40" />
+  </guard_rank_restriction>
+  <guard_rank_restriction id="8" title_name="Valiant Protector" race="ASMODIANS" rank_num="3">
+    <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60" />
+  </guard_rank_restriction>
+  <guard_rank_restriction id="9" title_name="Siege Protector" race="ELYOS">
+    <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60" />
+  </guard_rank_restriction>
+  <guard_rank_restriction id="10" title_name="Siege Protector" race="ASMODIANS">
+    <guard_penalty_attr stat="PVP_DEFEND_RATIO" func="ADD" value="60" />
+  </guard_rank_restriction>
+</serial_guards>
