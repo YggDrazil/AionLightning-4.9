@@ -1,26 +1,25 @@
-Liste aller XML-Dateien im aktuellen SVN-Verzeichnis vom 04.04.2016 12:35
 =========================================================================================================
 
-SVN-Pfad: M:\AionGerEmu49\AionGerEmuSvn\trunk\AL-Game\data\static_data
-Pfade   : 73
-Dateien : 136 ( teilweise abgek�rzte Ausgabe mit '*** world_zones.xml ***', daher reduziert )
+SVN path: M: \ trunk \ AL-Game \ data \ static data
+Paths: 73
+Files: 136 (partially abridged edition with '*** world_zones.xml ***', thus reducing)
 
 =========================================================================================================
-Status  : offen         = noch nicht analysiert / gepr�ft
-          entf�llt      = in dieser Version nicht mehr relevant
-          in Arbeit     = bereits analysiert bzw. in Realisierung
+Status: open = not analyzed / tested
+           deleted = no longer in this version relevant
+           in work = already analyzed or in realization
+          
+           - DONE_SVN - = already implemented and in SVN
+           be MANUAL = must MANUAL adjusted (no client data available)
+           EMUSYSTEM = part of the EMU system, no generation of the client
+           NO_CDATA = no client data found (No Data client found)
+           Uncomplete not = all data in client available / found
           
-          - DONE_SVN -  = bereits realisiert und im SVN
-          MANUELL       = muss MANUELL angepasst werden (keine Client-Daten vorhanden)
-          EMUSYSTEM     = geh�rt zum EMU-System, keine Generierung aus dem Client
-          NO_CDATA      = keine Client-Daten gefunden (No Client Data found)
-          UNCOMPLETE    = nicht alle Daten im Client vorhanden/gefunden
-          
-Die Zeile "***  stop check *** ..." zeigt nur an, bis zu welcher Datei ich aktuell die Pr�fung / Analyse
-durchgef�hrt habe. Hinweis: aktuell gehe ich in der Liste der Reihe nach alle noch mit Status "offen"
-markierten Eintr�ge durch (nach dieser Zeile sind aber durchaus schon Generierungen/Analysen erledigt).
+The line "*** *** stop check ..." only shows up to which file I currently testing / analysis
+have performed. Note: currently I'm on the list sequentially all still with status "open"
+selected entries by (but after this line are quite already generations / analyzes done).
 =========================================================================================================================================================
-Dateiname                                          | Status         | SVN-Unterverzeichnis           | Hinweise
+Filename                                           | status         | SVN subdirectory               | Notes
 ---------------------------------------------------+----------------+--------------------------------+---------------------------------------------------
 arcadelist.xml                                     | NO_CDATA       | ...                            |
 flypath_template.xml                               | - DONE_SVN -   | ...                            |
@@ -57,7 +56,7 @@ chest_templates.xml                                | UNCOMPLETE     | ...\chests
 ---------------------------------------------------+----------------+--------------------------------+---------------------------------------------------
 cosmetic_items.xml                                 | - DONE_SVN -   | ...\cosmetic_items             | ...type_preset_type -> preset_type !
 ---------------------------------------------------+----------------+--------------------------------+---------------------------------------------------
-cube_expander.xml                                  | ? entf�llt ?   | ...\cube_expander              | ab 4.9 neues Cube-System
+cube_expander.xml                                  | ? entfällt ?   | ...\cube_expander              | ab 4.9 neues Cube-System
 ---------------------------------------------------+----------------+--------------------------------+---------------------------------------------------
 curing_objects.xml                                 | NO_CDATA       | ...\curing_objects             |
 ---------------------------------------------------+----------------+--------------------------------+---------------------------------------------------
