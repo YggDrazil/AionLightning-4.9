@@ -10,13 +10,25 @@
  *  but WITHOUT ANY WARRANTY; without even the implied warranty of
  *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  *  GNU General Public License for more details. *
+ *
  *  You should have received a copy of the GNU General Public License
  *  along with Aion-Lightning.
  *  If not, see <http://www.gnu.org/licenses/>.
+ *
+ *
+ * Credits goes to all Open Source Core Developer Groups listed below
+ * Please do not change here something, ragarding the developer credits, except the "developed by XXXX".
+ * Even if you edit a lot of files in this source, you still have no rights to call it as "your Core".
+ * Everybody knows that this Emulator Core was developed by Aion Lightning 
+
+ * @-Aion-Lightning
+ * @Goong_ADM
  */
+
 package com.aionemu.gameserver.network.aion.serverpackets;
 
 import com.aionemu.gameserver.model.gameobjects.player.AbyssRank;
+import com.aionemu.gameserver.network.PacketLoggerService;
 import com.aionemu.gameserver.network.aion.AionConnection;
 import com.aionemu.gameserver.network.aion.AionServerPacket;
 import com.aionemu.gameserver.utils.stats.AbyssRankEnum;
@@ -36,7 +48,8 @@ public class SM_ABYSS_RANK extends AionServerPacket {
 
     @Override
     protected void writeImpl(AionConnection con) {
-    	writeQ(rank.getAp()); // curAP
+    	PacketLoggerService.getInstance().logPacketSM(this.getPacketName());
+        writeQ(rank.getAp()); // curAP
         writeD(rank.getGp()); // curGP
         writeD(currentRankId); // curRank
         writeD(rank.getTopRanking()); // curRating
@@ -64,6 +77,6 @@ public class SM_ABYSS_RANK extends AionServerPacket {
         writeQ(rank.getLastAP()); // laterAP
         writeD(rank.getLastGP()); // laterGP
 
-        writeC(0); //unk
+        writeC(0x00); // unk
     }
 }

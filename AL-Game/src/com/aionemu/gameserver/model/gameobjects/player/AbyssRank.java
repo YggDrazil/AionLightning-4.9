@@ -16,11 +16,11 @@
  */
 package com.aionemu.gameserver.model.gameobjects.player;
 
+import java.util.Calendar;
+
 import com.aionemu.gameserver.configs.main.CustomConfig;
 import com.aionemu.gameserver.model.gameobjects.PersistentState;
 import com.aionemu.gameserver.utils.stats.AbyssRankEnum;
-
-import java.util.Calendar;
 
 /**
  * @author ATracer, Divinity
