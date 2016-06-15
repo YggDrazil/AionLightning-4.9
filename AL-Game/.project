@@ -22,6 +22,11 @@
 	</natures>
 	<linkedResources>
 		<link>
+			<name>classes</name>
+			<type>2</type>
+			<location>F:/AE Project/trunk/AL-Game/build/classes</location>
+		</link>
+		<link>
 			<name>database</name>
 			<type>2</type>
 			<locationURI>PROJECT_LOC/data/scripts/system/database</locationURI>
@@ -62,4 +67,3 @@
 		</filter>
 	</filteredResources>
 </projectDescription>
-
