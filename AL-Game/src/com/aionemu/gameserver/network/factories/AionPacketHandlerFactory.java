@@ -158,7 +158,7 @@ public class AionPacketHandlerFactory {
 		// ******************(SUMMON)******************
 		addPacket(new CM_SUMMON_EMOTION(0x184, State.IN_GAME)); // 4.9
 		addPacket(new CM_SUMMON_ATTACK(0x185, State.IN_GAME)); // 4.9
-		addPacket(new CM_SUMMON_CASTSPELL(0x190, State.IN_GAME)); // 4.9
+		addPacket(new CM_SUMMON_CASTSPELL(0x018B, State.IN_GAME)); // 4.9
 		addPacket(new CM_SUMMON_COMMAND(0x137, State.IN_GAME)); // 4.9
 		addPacket(new CM_SUMMON_MOVE(0x187, State.IN_GAME)); // 4.9
 		
