@@ -14,6 +14,13 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>classes</name>
+			<type>2</type>
+			<location>F:/AE Project/trunk/AL-Login/build/classes</location>
+		</link>
+	</linkedResources>
 	<filteredResources>
 		<filter>
 			<id>1423182103995</id>
