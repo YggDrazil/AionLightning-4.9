@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawns>
+    <spawn_map map_id="110020000">
+        <spawn npc_id="206352" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="206353" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="798509" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="798510" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="206331" respawn_time="295" difficult_id="0" custom="true"/>
+        <spawn npc_id="798601" respawn_time="295" difficult_id="0" custom="true"/>
+    </spawn_map>
+</spawns>

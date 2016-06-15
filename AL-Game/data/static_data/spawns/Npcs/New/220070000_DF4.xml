@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<spawns>
+    <spawn_map map_id="220070000">
+        <spawn custom="true" respawn_time="295" npc_id="801327" difficult_id="0"/>
+        <spawn custom="true" respawn_time="295" npc_id="219488" difficult_id="0"/>
+        <spawn custom="true" respawn_time="295" npc_id="206312" difficult_id="0"/>
+    </spawn_map>
+</spawns>
