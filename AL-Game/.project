@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>Aion-German-Emulator</name>
+	<name>Aion-Lightning-Emulator 4.9</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -62,3 +62,4 @@
 		</filter>
 	</filteredResources>
 </projectDescription>
+
