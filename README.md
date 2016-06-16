@@ -1,4 +1,4 @@
-# Aion Lightning 4.9 Full Source NO LICENSE SYSTEM / Tools + Utils
+# Aion Lightning 4.9 Full and Free Source / Tools + Utils
 
 ![alt tag] (http://mmo-warzone.bplaced.net/images/github/al49.png)
 
