@@ -150,6 +150,6 @@ public class LoginServer {
         AEInfos.printAllInfos();
 
         PremiumController.getController();
-        log.info("AL Login Server started in " + (System.currentTimeMillis() - start) / 1000 + " seconds.");
+        log.info("AionReborn Authserver gestartet in " + (System.currentTimeMillis() - start) / 1000 + " Sekunden.");
     }
 }
