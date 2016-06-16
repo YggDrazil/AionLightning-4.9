@@ -1,13 +1,14 @@
 @echo off
-TITLE Aion Lightning - Game Server Console
-REM SET PATH="Type here your path to java jdk/jre (including bin folder)."
+TITLE AionReborn - WorldServer Monitor
+Color 9f
+SET PATH="..\..\Java\bin"
 REM NOTE: Remove tag REM from previous line.
 :START
 CLS
 
 echo.
 
-echo Starting Aion Lightning Version 4.9 Game Server.
+echo Starte den Aion WorldServer fuer Client 4.9.
 
 echo.
 
