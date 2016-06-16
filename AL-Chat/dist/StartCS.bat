@@ -1,5 +1,6 @@
 @ECHO off
 TITLE AionReborn - CommunityServer Monitor
+Color 9f
 :START
 CLS
 IF "%MODE%" == "" (
