@@ -6,7 +6,7 @@
 ?>
 <div class="footer border-bottom center">
 	<div>
-		<center>ServerAion Web 1.3 &copy; 2014 - 2016 <a href="" target="_blank"> </a></center>
+		<center>MMO WarZone &copy; 2005 - 2016 <a href="http://mmo-warzone.de" target="_blank"> </a></center>
 	</div>
 </div>
 
