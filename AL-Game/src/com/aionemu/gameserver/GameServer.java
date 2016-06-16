@@ -169,23 +169,23 @@ public class GameServer {
 		DataManager.SKILL_TREE_DATA.setStigmaTree();
 		StigmaService.reparseHiddenStigmas();
 		Util.printSection("===========================");
-		Util.printSection("=========IDFactory=========");
+		Util.printSection("=========IDFabrik=========");
         IDFactory.getInstance();
         Util.printSection("===========================");
-        Util.printSection("===========World===========");
+        Util.printSection("===========Welt===========");
         ZoneService.getInstance().load(null);
         GeoService.getInstance().initializeGeo();
         System.gc();
         World.getInstance();
-        DropRegistrationService.getInstance();
+        DropRegistrationService.getInstanzen();
         Util.printSection("===========================");
-        Util.printSection("==========Cleaning=========");
+        Util.printSection("==========Reinigung=========");
         GameServer gs = new GameServer();
         DAOManager.getDAO(PlayerDAO.class).setPlayersOffline(false);
         DatabaseCleaningService.getInstance();
         BannedMacManager.getInstance();
         Util.printSection("===========================");
-        Util.printSection("==========Engines==========");
+        Util.printSection("==========Motoren==========");
         for (int i = 0; i < parallelEngines.length; i++) {
             final int index = i;
             ThreadPoolManager.getInstance().execute(new Runnable() {
@@ -204,7 +204,7 @@ public class GameServer {
         Util.printSection("===========================");
         // This is loading only siege location data
         // No Siege schedule or spawns
-		Util.printSection("====Siege Location Data====");
+		Util.printSection("====Belagerungs Gebiete====");
         BaseService.getInstance().initBaseLocations();
         BeritraService.getInstance().initBeritraLocations();
         SiegeService.getInstance().initSiegeLocations();
@@ -227,7 +227,7 @@ public class GameServer {
             ShieldService.getInstance().spawnAll();
         }
         Util.printSection("===========================");
-        Util.printSection("==========Sieges===========");
+        Util.printSection("==========Belagerungen===========");
         // Init Sieges... It's separated due to spawn engine.
         // It should not spawn siege NPCs
         SiegeService.getInstance().initSieges();
@@ -343,7 +343,7 @@ public class GameServer {
      * Starts servers for connection with aion client and login\chat server.
      */
     private void startServers() {
-		Util.printSection("=====Starting Network======");
+		Util.printSection("=====Starte Netzwerk======");
         NioServer nioServer = new NioServer(NetworkConfig.NIO_READ_WRITE_THREADS, new ServerCfg(NetworkConfig.GAME_BIND_ADDRESS, NetworkConfig.GAME_PORT, "Game Connections", new GameConnectionFactoryImpl()));
 
         LoginServer ls = LoginServer.getInstance();
@@ -391,7 +391,7 @@ public class GameServer {
         DateTimeUtil.init();
         // Second should be database factory
         Util.printSection("===========================");
-		Util.printSection("=========DataBase==========");
+		Util.printSection("=========Datenbank==========");
         DatabaseFactory.init();
         // Initialize DAOs
         DAOManager.init();
