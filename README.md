@@ -1,7 +1,10 @@
 # Aion Lightning 4.9 Full Source NO LICENSE SYSTEM / Tools + Utils
-Open Source For Everyone ! dont wait for Aion-core/Encom/Falke and all other closed sources just join!
-We Searching For More Help With Bugs/Fixes You Want to Join or Team? contact michelgorter@outlook.com 
-or add thesnakes on skype
-with more devs we can do more work!
+
+![alt image] (http://mmo-warzone.bplaced.net/images/github/al49.png)
+
+
+Open Source Reborn! Ihr braucht nicht warten bis Euch Leute in ihr Team lassen, die aus einem öffentlichen Source Code ein Staatsgeheimnis machen. Aion Lightning ist und war Open Source und wird es nun auch wieder sein. Sollte diese Projektseite nicht mehr verfügbar sein, der Code ist auf sehr vielen Plattformen hinterlegt.
+
+Wenn Du lust hast an der Entwicklung des Servers, dessen Code und Datenbank mitzuwirken, dann melde Dich im Forum von http://mmo-warzone.de und werde ein Teil unseres Teams.
 
 # TODO
