@@ -177,7 +177,7 @@ public class GameServer {
         GeoService.getInstance().initializeGeo();
         System.gc();
         World.getInstance();
-        DropRegistrationService.getInstanzen();
+        DropRegistrationService.getInstance();
         Util.printSection("===========================");
         Util.printSection("==========Reinigung=========");
         GameServer gs = new GameServer();
@@ -318,7 +318,7 @@ public class GameServer {
         AEInfos.printAllInfos();
 
         Util.printSection("GameServerLog");
-        log.info("AL GameServer started in " + (System.currentTimeMillis() - start) / 1000 + " seconds.");
+        log.info("Worldserver gestartet in " + (System.currentTimeMillis() - start) / 1000 + " Sekunden.");
         try {
             ZCXInfo.getInfo();
         } catch (IOException e) {
